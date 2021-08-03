@@ -17,22 +17,31 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let body: String = fs::read_to_string("test/example1.html")?.parse()?;
 
     let document = Document::from(body.as_str());
-    document
+    let _event_dates = document
         .find(Name("h3"))
-        .for_each(|x| println!("{:?}", x.text()));
-    for node in document.find(Class("brent_newEvent")) {
+        .map(|x| x.text())
+        .collect::<Vec<String>>();
+
+    println!("evt dates {:?}", _event_dates);
+
+    for (_i, node) in document.find(Class("brent_newEvent")).enumerate() {
         let _event_header = node
             .find(Class("card-header"))
-            .for_each(|x| println!("{:?}", x.text()));
+            .map(|x| x.text())
+            .collect::<String>();
         let _event_card_details = node
             .find(Class("brent_newEventDetails"))
-            .for_each(|x| println!("{:?}", x.text()));
-        let _new_event_mini_details = node.find(Class("col-lg-9")).for_each(|x| {
-            println!(
-                "{:?}",
-                x.children().for_each(|y| println!("{:?}", y.text()))
-            )
-        });
+            .map(|x| x.text())
+            .collect::<String>();
+        let _new_event_mini_details = node
+            .find(Class("col-lg-9"))
+            .map(|x| x.children().skip(1).map(|y| y.text()).collect::<String>())
+            .collect::<String>();
+
+        println!("evt {} card header: {}", _i, _event_header);
+        println!("evt {} card details: {}", _i, _event_card_details);
+        println!("evt {} mini details: {}", _i, _new_event_mini_details);
     }
+
     Ok(())
 }
