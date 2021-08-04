@@ -3,6 +3,7 @@ extern crate select;
 
 use select::document::Document;
 use select::predicate::{Class, Name};
+use std::collections::BTreeMap;
 use std::error::Error;
 use std::fs;
 
@@ -24,24 +25,57 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     println!("evt dates {:?}", _event_dates);
 
-    for (_i, node) in document.find(Class("brent_newEvent")).enumerate() {
-        let _event_header = node
+    let mut events: BTreeMap<usize, WembleyEvent> = BTreeMap::new(); // TODO: use BTreeSet?
+
+    for (i, node) in document.find(Class("brent_newEvent")).enumerate() {
+        let event_title = node
             .find(Class("card-header"))
             .map(|x| x.text())
             .collect::<String>();
-        let _event_card_details = node
+        let event_time_and_place = node
             .find(Class("brent_newEventDetails"))
             .map(|x| x.text())
             .collect::<String>();
-        let _new_event_mini_details = node
+        let event_description = node
             .find(Class("col-lg-9"))
             .map(|x| x.children().skip(1).map(|y| y.text()).collect::<String>())
             .collect::<String>();
 
-        println!("evt {} card header: {}", _i, _event_header);
-        println!("evt {} card details: {}", _i, _event_card_details);
-        println!("evt {} mini details: {}", _i, _new_event_mini_details);
+        let event = WembleyEvent::new(
+            "".to_string(),
+            event_time_and_place,
+            event_title,
+            event_description,
+        );
+
+        events.insert(i, event);
     }
 
+    println!("{:#?}", events);
+
     Ok(())
+}
+
+#[derive(Debug)]
+struct WembleyEvent {
+    date: String,
+    time_and_place: String,
+    title: String,
+    description: String,
+}
+
+impl WembleyEvent {
+    fn new(
+        date: String,
+        time_and_place: String,
+        title: String,
+        description: String,
+    ) -> WembleyEvent {
+        WembleyEvent {
+            date,
+            time_and_place,
+            title,
+            description,
+        }
+    }
 }
