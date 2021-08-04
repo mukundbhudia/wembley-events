@@ -18,16 +18,15 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let body: String = fs::read_to_string("test/example1.html")?.parse()?;
 
     let document = Document::from(body.as_str());
-    let _event_dates = document
-        .find(Name("h3"))
-        .map(|x| x.text())
-        .collect::<Vec<String>>();
-
-    println!("evt dates {:?}", _event_dates);
+    let event_dates_iter = document.find(Name("h3")).map(|x| x.text());
 
     let mut events: BTreeMap<usize, WembleyEvent> = BTreeMap::new(); // TODO: use BTreeSet?
 
-    for (i, node) in document.find(Class("brent_newEvent")).enumerate() {
+    for ((i, node), event_date) in document
+        .find(Class("brent_newEvent"))
+        .enumerate()
+        .zip(event_dates_iter)
+    {
         let event_title = node
             .find(Class("card-header"))
             .map(|x| x.text())
@@ -42,7 +41,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
             .collect::<String>();
 
         let event = WembleyEvent::new(
-            "".to_string(),
+            event_date,
             event_time_and_place,
             event_title,
             event_description,
