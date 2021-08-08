@@ -1,0 +1,9 @@
+version: 2
+updates:
+
+  - package-ecosystem: "cargo"
+    # Look for `cargo.toml` and `cargo.lock` files in the `root` directory
+    directory: "/"
+    # Check the crates registry for updates every day (weekdays)
+    schedule:
+      interval: "daily"
