@@ -1,7 +1,5 @@
 use std::collections::BTreeMap;
 
-extern crate select;
-
 use select::document::Document;
 use select::predicate::{Class, Name};
 
@@ -91,7 +89,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn use_html() {
+    fn build_calendar_from_file() {
         use std::fs;
 
         let body: String = fs::read_to_string("test/example1.html")
