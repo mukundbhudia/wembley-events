@@ -1,5 +1,7 @@
 use std::collections::BTreeMap;
 
+use chrono::*;
+use icalendar::*;
 use select::document::Document;
 use select::predicate::{Class, Name};
 
@@ -16,7 +18,7 @@ impl WembleyEvents {
     pub fn get_events(&self) -> &BTreeMap<usize, WembleyEvent> {
         &self.events
     }
-    pub fn build_calendar_from_html(mut self, html: String) -> WembleyEvents {
+    pub fn build_events_from_html(mut self, html: String) -> WembleyEvents {
         let document = Document::from(html.as_str());
         let event_dates_iter = document.find(Name("h3")).map(|x| x.text());
 
@@ -52,12 +54,35 @@ impl WembleyEvents {
             events: self.events,
         }
     }
+    pub fn build_calendar_from_events(self) -> Calendar {
+        let mut calendar = Calendar::new();
+
+        for (_, event) in self.events {
+            let ymd = event.date_to_ymd();
+            let wembley_event = Event::new()
+                .all_day(Utc.ymd(ymd.year, ymd.month, ymd.day))
+                .summary(&event.title)
+                .description(&event.description)
+                .done();
+
+            calendar.push(wembley_event);
+        }
+
+        calendar
+    }
 }
 
 impl Default for WembleyEvents {
     fn default() -> Self {
         Self::new()
     }
+}
+
+#[derive(Debug)]
+struct Ymd {
+    year: i32,
+    month: u32,
+    day: u32,
 }
 
 #[derive(Debug)]
@@ -82,6 +107,31 @@ impl WembleyEvent {
             description,
         }
     }
+    fn date_to_ymd(&self) -> Ymd {
+        let date_str = self.date.split_whitespace().collect::<Vec<&str>>();
+        let month_str = date_str[1];
+        let month = match month_str {
+            "January" => 1,
+            "February" => 2,
+            "March" => 3,
+            "April" => 4,
+            "May" => 5,
+            "June" => 6,
+            "July" => 7,
+            "August" => 8,
+            "September" => 9,
+            "October" => 10,
+            "November" => 11,
+            "December" => 12,
+            _ => panic!("Unknown month: {}", month_str),
+        };
+
+        Ymd {
+            year: date_str[2].parse::<i32>().unwrap(),
+            month,
+            day: date_str[0].parse::<u32>().unwrap(),
+        }
+    }
 }
 
 #[cfg(test)]
@@ -89,15 +139,30 @@ mod tests {
     use super::*;
 
     #[test]
-    fn build_calendar_from_file() {
+    fn build_events_from_html() {
         use std::fs;
 
         let body: String = fs::read_to_string("test/example1.html")
             .expect("unable to read file")
             .parse()
             .expect("enable to parse file as string");
-        let wembley_events = WembleyEvents::new().build_calendar_from_html(body);
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         assert_eq!(wembley_events.get_events().len(), 7);
+    }
+
+    #[test]
+    fn build_calendar_from_events() {
+        use std::fs;
+
+        let body: String = fs::read_to_string("test/example1.html")
+            .expect("unable to read file")
+            .parse()
+            .expect("enable to parse file as string");
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+
+        let calendar = wembley_events.build_calendar_from_events();
+
+        assert_eq!(calendar.len(), 7);
     }
 }
