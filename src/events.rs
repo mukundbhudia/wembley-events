@@ -136,16 +136,13 @@ impl WembleyEvent {
 
 #[cfg(test)]
 mod tests {
+    use crate::test_file_1;
+
     use super::*;
 
     #[test]
     fn build_events_from_html() {
-        use std::fs;
-
-        let body: String = fs::read_to_string("test/example1.html")
-            .expect("unable to read file")
-            .parse()
-            .expect("enable to parse file as string");
+        let body = test_file_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         assert_eq!(wembley_events.get_events().len(), 7);
@@ -153,12 +150,7 @@ mod tests {
 
     #[test]
     fn build_calendar_from_events() {
-        use std::fs;
-
-        let body: String = fs::read_to_string("test/example1.html")
-            .expect("unable to read file")
-            .parse()
-            .expect("enable to parse file as string");
+        let body = test_file_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let calendar = wembley_events.build_calendar_from_events();
