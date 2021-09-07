@@ -5,6 +5,7 @@ use icalendar::*;
 use select::document::Document;
 use select::predicate::{Class, Name};
 
+#[derive(Clone)]
 pub struct WembleyEvents {
     events: BTreeMap<usize, WembleyEvent>,
 }
@@ -85,7 +86,7 @@ struct Ymd {
     day: u32,
 }
 
-#[derive(Debug)]
+#[derive(Debug, Clone)]
 pub struct WembleyEvent {
     date: String,
     time_and_place: String,
@@ -156,5 +157,66 @@ mod tests {
         let calendar = wembley_events.build_calendar_from_events();
 
         assert_eq!(calendar.len(), 7);
+    }
+
+    #[test]
+    #[ignore]
+    fn check_events_match_calendar() {
+        let body = test_file_1();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+        let wembley_events_to_test = wembley_events.clone();
+        let calendar = wembley_events.build_calendar_from_events();
+
+        let expected_events = vec![
+            WembleyEvent {
+                date: "26 June 2021".to_string(),
+                time_and_place: "26 June 2021, 8pm to 12am, Wembley Stadium, Wembley, London HA9 0WS".to_string(),
+                title: "Wembley Stadium event - Round of 16: Italy v Austria".to_string(),
+                description: "Round of 16: 1A v 2C takes place on Saturday 26 June 2021. Kick off is at 8pm and parking restrictions will be in place until midnight.".to_string(),
+            },
+            WembleyEvent {
+                date: "29 June 2021".to_string(),
+                time_and_place: "29 June 2021, Kick off: 5pm, Wembley Stadium, Wembley, London HA9 0WS".to_string(),
+                title: "Wembley Stadium event - Round of 16: England v Germany".to_string(),
+                description: "Round of 16: 1D v 2F takes place on Tuesday 29 June 2021. Kick off is at 5pm and parking restrictions will be in place until midnight.".to_string(),
+            },
+            WembleyEvent {
+                date: "06 July 2021".to_string(),
+                time_and_place: "6 July 2021, 8pm to 12am, Wembley Stadium, Wembley, London HA9 0WS".to_string(),
+                title: "Wembley Stadium event - UEFA Euro 2020: Italy v Spain".to_string(),
+                description: "The first semi-final between Italy and Spain takes place on Tuesday 6 July 2021. Kick off is 8pm and parking restrictions will be in place until midnight.".to_string(),
+            },
+            WembleyEvent {
+                date: "07 July 2021".to_string(),
+                time_and_place: "7 July 2021, 8pm to 12am, Wembley Stadium, Wembley, London HA9 0WS".to_string(),
+                title: "Wembley Stadium event - UEFA Euro 2020: England v Denmark".to_string(),
+                description: "The second semi-final between England and Denmark takes place on Wednesday 7 July 2021. Kick off is 8pm and parking restrictions will be in place until midnight.".to_string(),
+            },
+            WembleyEvent {
+                date: "17 July 2021".to_string(),
+                time_and_place: "17 July 2021, Kick off: 12pm, Wembley Stadium, Wembley, London HA9 0WS".to_string(),
+                title: "Wembley Stadium event - The Betfred Challenge Cup Final between Castleford Tigers and St Helens".to_string(),
+                description: "The Betfred Challenge Cup Final between Castleford Tigers and St Helens will take place on Saturday 17 July 2021 at Wembley Stadium. Event day parking restrictions will be in place until midnight.".to_string(),
+            },
+            WembleyEvent {
+                date: "07 August 2021".to_string(),
+                time_and_place: "7 August 2021, 5pm to 12am".to_string(),
+                title: "The FA community shield supported by McDonald's".to_string(),
+                description: "The FA community shield supported by McDonald's: Manchester City v Leicester City".to_string(),
+            },
+            WembleyEvent {
+                date: "05 December 2021".to_string(),
+                time_and_place: "5 December 2021, TBC, Wembley Stadium, Wembley, London HA9 0WS".to_string(),
+                title: "Wembley Stadium event - The women's FA cup final".to_string(),
+                description: "The women's FA cup final takes place on Sunday 5 December 2021. Event day parking restrictions will be in place until midnight.".to_string(),
+            },
+        ];
+
+        for (i, wembley_event) in wembley_events_to_test.events.into_iter() {
+            // TODO more comparisons
+            assert_eq!(wembley_event.title, expected_events[i].title);
+        }
+
+        assert_eq!(calendar.len(), 6);
     }
 }
