@@ -160,12 +160,11 @@ mod tests {
     }
 
     #[test]
-    #[ignore]
     fn check_events_match_calendar() {
         let body = test_file_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
         let wembley_events_to_test = wembley_events.clone();
-        let calendar = wembley_events.build_calendar_from_events();
+        let calendar_built_from_events = wembley_events.build_calendar_from_events();
 
         let expected_events = vec![
             WembleyEvent {
@@ -213,10 +212,15 @@ mod tests {
         ];
 
         for (i, wembley_event) in wembley_events_to_test.events.into_iter() {
-            // TODO more comparisons
+            assert_eq!(wembley_event.date, expected_events[i].date);
+            assert_eq!(
+                wembley_event.time_and_place,
+                expected_events[i].time_and_place
+            );
             assert_eq!(wembley_event.title, expected_events[i].title);
+            assert_eq!(wembley_event.description, expected_events[i].description);
         }
 
-        assert_eq!(calendar.len(), 6);
+        assert_eq!(calendar_built_from_events.len(), expected_events.len());
     }
 }
