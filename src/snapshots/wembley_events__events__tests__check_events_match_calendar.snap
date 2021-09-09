@@ -1,0 +1,283 @@
+---
+source: src/events.rs
+expression: calendar_built_from_events
+
+---
+Calendar {
+    properties: [],
+    components: [
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            value: "Round of 16: 1A v 2C takes place on Saturday 26 June 2021. Kick off is at 8pm and parking restrictions will be in place until midnight.",
+                            parameters: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            value: "20210626",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            value: "20210626",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            value: "Wembley Stadium event - Round of 16: Italy v Austria",
+                            parameters: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            value: "Round of 16: 1D v 2F takes place on Tuesday 29 June 2021. Kick off is at 5pm and parking restrictions will be in place until midnight.",
+                            parameters: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            value: "20210629",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            value: "20210629",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            value: "Wembley Stadium event - Round of 16: England v Germany",
+                            parameters: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            value: "The first semi-final between Italy and Spain takes place on Tuesday 6 July 2021. Kick off is 8pm and parking restrictions will be in place until midnight.",
+                            parameters: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            value: "20210706",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            value: "20210706",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            value: "Wembley Stadium event - UEFA Euro 2020: Italy v Spain",
+                            parameters: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            value: "The second semi-final between England and Denmark takes place on Wednesday 7 July 2021. Kick off is 8pm and parking restrictions will be in place until midnight.",
+                            parameters: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            value: "20210707",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            value: "20210707",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            value: "Wembley Stadium event - UEFA Euro 2020: England v Denmark",
+                            parameters: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            value: "The Betfred Challenge Cup Final between Castleford Tigers and St Helens will take place on Saturday 17 July 2021 at Wembley Stadium. Event day parking restrictions will be in place until midnight.",
+                            parameters: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            value: "20210717",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            value: "20210717",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            value: "Wembley Stadium event - The Betfred Challenge Cup Final between Castleford Tigers and St Helens",
+                            parameters: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            value: "The FA community shield supported by McDonald's: Manchester City v Leicester City",
+                            parameters: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            value: "20210807",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            value: "20210807",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            value: "The FA community shield supported by McDonald's",
+                            parameters: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            value: "The women's FA cup final takes place on Sunday 5 December 2021. Event day parking restrictions will be in place until midnight.",
+                            parameters: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            value: "20211205",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            value: "20211205",
+                            parameters: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    value: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            value: "Wembley Stadium event - The women's FA cup final",
+                            parameters: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+    ],
+}
