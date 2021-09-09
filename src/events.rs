@@ -137,7 +137,7 @@ impl WembleyEvent {
 
 #[cfg(test)]
 mod tests {
-    use crate::test_file_1;
+    use crate::{test_file_1, test_file_2};
 
     use super::*;
 
@@ -162,6 +162,24 @@ mod tests {
     #[test]
     fn check_events_match_calendar() {
         let body = test_file_1();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+        let calendar_built_from_events = wembley_events.build_calendar_from_events();
+
+        insta::assert_debug_snapshot!(calendar_built_from_events);
+    }
+
+    #[test]
+    fn check_events_match_calendar_with_blank_html() {
+        let body = test_file_2();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+        let calendar_built_from_events = wembley_events.build_calendar_from_events();
+
+        insta::assert_debug_snapshot!(calendar_built_from_events);
+    }
+
+    #[test]
+    fn check_events_match_calendar_with_blank_string() {
+        let body = String::new();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
         let calendar_built_from_events = wembley_events.build_calendar_from_events();
 

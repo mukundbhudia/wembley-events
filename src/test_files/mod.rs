@@ -514,3 +514,38 @@ pub fn test_file_1() -> String {
     </html>
     "##.to_string()
 }
+
+pub fn test_file_2() -> String {
+    r##"
+    <!doctype html>
+    <html xmlns:umbraco="http://umbraco.org" lang="en">
+    <head>
+
+        <meta charset="utf-8">
+                            
+            <title>Brent Council - Events and what&#39;s on in Brent calendar</title>
+        <meta name="PageID" content="21918" />
+            <meta name="description" content="Find out what’s going on across Brent - from library activities to Wembley Stadium events. There are also events at the Brent Civic Centre all year round. " />
+
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <meta name="google-site-verification" content="AJgIcld8NIvayJip02DIHl4ZkN9jvy9-WSzGOCNo77g" />
+        
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        
+        <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700">
+        <link type="text/css" rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+
+        <link type="text/css" rel="stylesheet" media="all" href="/css/Brent2018.css?v=12">
+    </head>
+    <body id="page-top" class="_s21918">
+
+    </body>
+    </html>
+    "##.to_string()
+}
