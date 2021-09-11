@@ -1,0 +1,91 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+    outputs:
+      upload_url: ${{ steps.create_release.outputs.upload_url }}
+    steps:
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+
+  build:
+    needs: create_release
+    name: Build ${{ matrix.config.target }} release assets
+    runs-on: ${{ matrix.config.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        config:
+          # Linux
+          - { os: ubuntu-latest, toolchain: stable, target: x86_64-unknown-linux-gnu, cross: false }
+          - { os: ubuntu-latest, toolchain: stable, target: aarch64-unknown-linux-gnu, cross: true }
+          # - { os: ubuntu-latest, toolchain: stable, target: x86_64-unknown-linux-musl, cross: true }
+          # - { os: ubuntu-latest, toolchain: stable, target: arm-unknown-linux-gnueabi, cross: true }
+          # - { os: ubuntu-latest, toolchain: stable, target: armv7-unknown-linux-gnueabihf, cross: true }
+
+          # Macos
+          # - { os: macos-11.0, toolchain: stable, target: x86_64-apple-darwin, cross: false }
+          - { os: macos-10.15, toolchain: stable, target: x86_64-apple-darwin, cross: false }
+
+          # Windows
+          # - { os: windows-2019, toolchain: stable-x86_64-pc-windows-gnu, target: x86_64-pc-windows-gnu, cross: false }
+          # - { os: windows-2019, toolchain: stable-x86_64-pc-windows-msvc, target: x86_64-pc-windows-msvc, cross: false }
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - uses: actions-rs/toolchain@v1
+        id: rust-toolchain
+        with:
+          toolchain: ${{ matrix.config.toolchain }}
+          target: ${{ matrix.config.target }}
+          profile: minimal
+          override: true
+          default: true
+
+      # - name: Install cross (for cross-compilation support)
+      #   uses: actions-rs/cargo@v1
+      #   if: ${{ matrix.config.cross }}
+      #   with:
+      #     command: install
+      #     args: --version 0.1.16 cross  # using a downgraded version of cross (for OpenSSL support)
+
+      - name: Build binary
+        uses: actions-rs/cargo@v1
+        with:
+          command: build
+          args: --release --target ${{ matrix.config.target }}
+          use-cross: ${{ matrix.config.cross }}
+
+      - name: Optimize and package binary
+        run: |
+          chmod +x target/${{ matrix.config.target }}/release/wembley_events
+          zip -j ./wembley_events_${{ matrix.config.target }} target/${{ matrix.config.target }}/release/wembley_events
+
+      - name: Upload binary asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          asset_name: wembley_events_${{ matrix.config.target }}.zip
+          asset_path: ./wembley_events_${{ matrix.config.target }}.zip
+          upload_url: ${{ needs.create_release.outputs.upload_url }}
+          asset_content_type: application/zip
