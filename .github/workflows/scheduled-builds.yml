@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install Ubuntu packages
-        run: apt-get update && apt-get install -y wget && apt-get install -y zip
+        run: sudo apt-get update && sudo apt-get install -y wget && sudo apt-get install -y zip
 
       - name: Get latest release binary
         run: wget -q -O tmp.zip https://github.com/mukundbhudia/wembley-events/releases/latest/download/wembley-events_x86_64-unknown-linux-gnu.zip && unzip -o tmp.zip && rm tmp.zip && strip wembley-events
