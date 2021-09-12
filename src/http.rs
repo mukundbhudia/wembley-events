@@ -37,4 +37,31 @@ mod tests {
             .unwrap();
         assert_eq!(200, http_response.status);
     }
+
+    #[tokio::test]
+    async fn http_client_bad_endpoint() {
+        let http_response = HttpClient::new("https://httpbin.org/ge")
+            .get_text_from_url()
+            .await
+            .unwrap();
+        assert_eq!(404, http_response.status);
+    }
+
+    #[tokio::test]
+    #[should_panic(expected = "cannot_be_a_base")]
+    async fn http_client_bad_protocol() {
+        let _http_response = HttpClient::new("htt://httpbin.org/get")
+            .get_text_from_url()
+            .await
+            .unwrap();
+    }
+
+    #[tokio::test]
+    #[should_panic(expected = "RelativeUrlWithoutBase")]
+    async fn http_client_malformed_url() {
+        let _http_response = HttpClient::new("$^45fd456g*")
+            .get_text_from_url()
+            .await
+            .unwrap();
+    }
 }
