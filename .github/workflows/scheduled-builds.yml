@@ -1,0 +1,40 @@
+name: Trigger calendar generation on a CRON Schedule
+
+on:
+  schedule:
+    # Runs "At 03:01" every day (see https://crontab.guru)
+    # - cron: '1 3 * * *'
+    # Runs “At minute 30” every 30 mins
+    - cron: '30 * * * *'
+jobs:
+  build:
+    name: Trigger calendar generation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Ubuntu packages
+      - id: install-ubuntu-packages
+        run: apt-get update && apt-get install -y wget && apt-get install -y zip
+
+      - name: Get latest release binary
+      - id: get-latest-release-binary
+        run: wget -q -O tmp.zip https://github.com/mukundbhudia/wembley-events/releases/latest/download/wembley-events_x86_64-unknown-linux-gnu.zip && unzip -o tmp.zip && rm tmp.zip && strip wembley-events
+
+      - name: Generate Calendar
+      - id: generate-calendar
+        run: |
+          echo pwd
+          mkdir build
+          ./wembley-events > build/wembley-events.cal
+
+      # - name: Upload calendar
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: upload-calendar
+      #     path: build/wembley-events.cal
+
+      - name: Deploy to GitHub pages
+      - id: deploy-to-gh-pages
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: build # The folder the action should deploy.
