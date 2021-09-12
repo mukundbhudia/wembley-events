@@ -1,9 +1,0 @@
----
-source: src/events.rs
-expression: calendar_built_from_events
-
----
-Calendar {
-    properties: [],
-    components: [],
-}
