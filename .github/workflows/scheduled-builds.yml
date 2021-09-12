@@ -12,15 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install Ubuntu packages
-      - id: install-ubuntu-packages
         run: apt-get update && apt-get install -y wget && apt-get install -y zip
 
       - name: Get latest release binary
-      - id: get-latest-release-binary
         run: wget -q -O tmp.zip https://github.com/mukundbhudia/wembley-events/releases/latest/download/wembley-events_x86_64-unknown-linux-gnu.zip && unzip -o tmp.zip && rm tmp.zip && strip wembley-events
 
       - name: Generate Calendar
-      - id: generate-calendar
         run: |
           echo pwd
           mkdir build
@@ -33,7 +30,6 @@ jobs:
       #     path: build/wembley-events.cal
 
       - name: Deploy to GitHub pages
-      - id: deploy-to-gh-pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
           branch: gh-pages # The branch the action should deploy to.
