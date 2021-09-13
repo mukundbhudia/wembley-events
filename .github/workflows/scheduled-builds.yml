@@ -1,4 +1,4 @@
-name: Trigger calendar generation on a CRON Schedule
+name: Scheduled calendar build
 
 on:
   schedule:
@@ -8,12 +8,9 @@ on:
     - cron: '30 * * * *'
 jobs:
   build:
-    name: Trigger calendar generation
+    name: Scheduled calendar generation and deploy to gh-pages
     runs-on: ubuntu-latest
     steps:
-      - name: Install Ubuntu packages
-        run: sudo apt-get update && sudo apt-get install -y wget && sudo apt-get install -y zip
-
       - name: Checkout
         uses: actions/checkout@v2.3.1
 
@@ -22,15 +19,8 @@ jobs:
 
       - name: Generate Calendar
         run: |
-          echo $(pwd)
           mkdir build
-          ./wembley-events > build/wembley-events.cal
-
-      # - name: Upload calendar
-      #   uses: actions/upload-artifact@v2
-      #   with:
-      #     name: upload-calendar
-      #     path: build/wembley-events.cal
+          ./wembley-events > build/wembley-events.ics
 
       - name: Deploy to GitHub pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
