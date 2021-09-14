@@ -1,5 +1,5 @@
 ---
-source: src/events.rs
+source: src/event_store.rs
 expression: calendar_built_from_events
 
 ---
