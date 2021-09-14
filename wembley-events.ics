@@ -3,45 +3,45 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20210914T024444Z
+DTSTAMP:20210914T033924Z
 DESCRIPTION:Round of 16: 1A v 2C takes place on Saturday 26 June 2021. Kick
   off is at 8pm and parking restrictions will be in place until midnight.
 DTEND;VALUE=DATE:20210626
 DTSTART;VALUE=DATE:20210626
 SUMMARY:Wembley Stadium event - Round of 16: Italy v Austria
-UID:16da94ee-2275-4cc4-82c0-79472aa2eeeb
+UID:04246eeb-04d9-4ab1-9709-490df344fcbf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20210914T024444Z
+DTSTAMP:20210914T033924Z
 DESCRIPTION:Round of 16: 1D v 2F takes place on Tuesday 29 June 2021. Kick 
  off is at 5pm and parking restrictions will be in place until midnight.
 DTEND;VALUE=DATE:20210629
 DTSTART;VALUE=DATE:20210629
 SUMMARY:Wembley Stadium event - Round of 16: England v Germany
-UID:3e5252da-a4e5-4cb5-9c51-d1cf64a12073
+UID:e331cf4c-4eb0-4ce3-a4da-b902826d567b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20210914T024444Z
+DTSTAMP:20210914T033924Z
 DESCRIPTION:The first semi-final between Italy and Spain takes place on Tue
  sday 6 July 2021. Kick off is 8pm and parking restrictions will be in place
   until midnight.
 DTEND;VALUE=DATE:20210706
 DTSTART;VALUE=DATE:20210706
 SUMMARY:Wembley Stadium event - UEFA Euro 2020: Italy v Spain
-UID:c6ec8bed-d191-49b5-8c53-3fdd1ad94505
+UID:a58740f7-7e9c-4444-bc4f-197f6cc17f8d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20210914T024444Z
+DTSTAMP:20210914T033924Z
 DESCRIPTION:The second semi-final between England and Denmark takes place o
  n Wednesday 7 July 2021. Kick off is 8pm and parking restrictions will be i
  n place until midnight.
 DTEND;VALUE=DATE:20210707
 DTSTART;VALUE=DATE:20210707
 SUMMARY:Wembley Stadium event - UEFA Euro 2020: England v Denmark
-UID:c5ef6768-4fb0-482a-8ae8-a3aba0686880
+UID:ab4cd8e1-a8ea-4051-9843-da2a8b42522c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20210914T024444Z
+DTSTAMP:20210914T033924Z
 DESCRIPTION:The Betfred Challenge Cup Final between Castleford Tigers and S
  t Helens will take place on Saturday 17 July 2021 at Wembley Stadium. Event
   day parking restrictions will be in place until midnight.
@@ -49,16 +49,16 @@ DTEND;VALUE=DATE:20210717
 DTSTART;VALUE=DATE:20210717
 SUMMARY:Wembley Stadium event - The Betfred Challenge Cup Final between Cas
  tleford Tigers and St Helens
-UID:cbfb91a4-9b06-4e13-bccc-cef02728b41e
+UID:092c4bfa-ba1b-460b-a64d-af3da0ff31b3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20210914T024444Z
+DTSTAMP:20210914T033924Z
 DESCRIPTION:The women's FA cup final takes place on Sunday 5 December 2021.
   Event day parking restrictions will be in place until midnight.
 DTEND;VALUE=DATE:20211205
 DTSTART;VALUE=DATE:20211205
 SUMMARY:Wembley Stadium event - The women's FA cup final
-UID:d215db61-aa25-47c2-a4fd-f451bdca3e4f
+UID:5882667e-d767-484b-bbbb-98071b3f243a
 END:VEVENT
 END:VCALENDAR
 
