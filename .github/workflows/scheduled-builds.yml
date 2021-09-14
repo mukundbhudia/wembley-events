@@ -4,8 +4,8 @@ on:
   schedule:
     # Runs "At 03:11" every day (see https://crontab.guru)
     # - cron: '11 3 * * *'
-    # Runs “At minute 30” every 30 mins
-    - cron: '30 * * * *'
+    # Runs “At minute 60” every 60 mins
+    - cron: '60 * * * *'
 jobs:
   build:
     name: Scheduled calendar generation and deploy to gh-pages
@@ -19,11 +19,11 @@ jobs:
 
       - name: Generate Calendar
         run: |
-          mkdir build
-          ./wembley-events > build/wembley-events.ics
+          mkdir output
+          ./wembley-events
 
       - name: Deploy to GitHub pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
           branch: gh-pages # The branch the action should deploy to.
-          folder: build # The folder the action should deploy.
+          folder: output # The folder the action should deploy.
