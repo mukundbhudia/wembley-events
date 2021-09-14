@@ -1,6 +1,6 @@
 use std::error::Error;
 
-use wembley_events::{HttpClient, WembleyEvents};
+use wembley_events::{CalendarWriter, HttpClient, WembleyEvents};
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
@@ -11,10 +11,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let wembley_events_calendar = WembleyEvents::new()
         .build_events_from_html(body)
         .build_calendar_from_events();
-    // TODO: this would be better to output as a string for more options of output
-    wembley_events_calendar
-        .print()
-        .expect("Could not print calendar to stdout");
+
+    CalendarWriter::new(wembley_events_calendar)
+        .write_calendar_to_file("output/wembley-events.ics")?;
 
     Ok(())
 }
