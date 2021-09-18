@@ -41,6 +41,8 @@ mod tests {
     #[test]
     fn test_calendar_writer_empty_calendar_to_write() {
         let calendar = Calendar::new();
+
+        fs::create_dir_all("output/").expect("Unable to create output directory for testing");
         let writer = CalendarWriter::new(calendar).write_calendar_to_file("output/test_fail.ics");
 
         assert_eq!(writer, Err(CalendarWriterError::EmptyCalendar));
@@ -52,6 +54,8 @@ mod tests {
         let wembley_events = WembleyEvents::new()
             .build_events_from_html(body)
             .build_calendar_from_events();
+
+        fs::create_dir_all("output/").expect("Unable to create output directory for testing");
 
         let writer =
             CalendarWriter::new(wembley_events).write_calendar_to_file("/output/test_fail.ics");
@@ -66,6 +70,8 @@ mod tests {
             .build_events_from_html(body)
             .build_calendar_from_events();
 
+        fs::create_dir_all("output/").expect("Unable to create output directory for testing");
+
         let writer =
             CalendarWriter::new(wembley_events).write_calendar_to_file("/output/test_fail.ics");
 
@@ -78,6 +84,8 @@ mod tests {
         let wembley_events = WembleyEvents::new()
             .build_events_from_html(body)
             .build_calendar_from_events();
+
+        fs::create_dir_all("output/").expect("Unable to create output directory for testing");
 
         let writer =
             CalendarWriter::new(wembley_events).write_calendar_to_file("output/test_run.ics");
