@@ -19,7 +19,7 @@ Calendar available here: https://mukundbhudia.github.io/wembley-events/wembley-e
 ## Development
 
 - Within the repo directory run `cargo r`.
-- To generate a calendar to file run `cargo r > output/test.cal` for example.
+    - This will generate a calendar file in `output/wembley-events.ics`.
 
 ## Production
 

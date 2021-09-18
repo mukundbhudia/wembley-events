@@ -64,14 +64,15 @@ impl WembleyEvents {
         let mut calendar = Calendar::new();
 
         for (_, event) in self.events {
-            let ymd = event.date_to_ymd();
-            let wembley_event = Event::new()
-                .all_day(Utc.ymd(ymd.year, ymd.month, ymd.day))
-                .summary(&event.title)
-                .description(&event.description)
-                .done();
+            if let Some(ymd) = event.date_to_ymd() {
+                let wembley_event = Event::new()
+                    .all_day(Utc.ymd(ymd.year, ymd.month, ymd.day))
+                    .summary(&event.title)
+                    .description(&event.description)
+                    .done();
 
-            calendar.push(wembley_event);
+                calendar.push(wembley_event);
+            };
         }
 
         calendar

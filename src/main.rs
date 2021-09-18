@@ -12,8 +12,12 @@ async fn main() -> Result<(), Box<dyn Error>> {
         .build_events_from_html(body)
         .build_calendar_from_events();
 
-    CalendarWriter::new(wembley_events_calendar)
-        .write_calendar_to_file("output/wembley-events.ics")?;
+    if CalendarWriter::new(wembley_events_calendar)
+        .write_calendar_to_file("output/wembley-events.ics")
+        .is_err()
+    {
+        process::exit(1);
+    }
 
     Ok(())
 }
