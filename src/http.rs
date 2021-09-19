@@ -1,6 +1,4 @@
-use std::error::Error;
-
-#[derive(Debug)]
+#[derive(Debug, PartialEq)]
 pub struct HttpResponse {
     pub status: u16,
     pub body: String,
@@ -19,10 +17,31 @@ impl HttpClient {
     pub fn new(url: &str) -> Self {
         HttpClient { url: url.into() }
     }
-    pub async fn get_text_from_url(&self) -> Result<HttpResponse, Box<dyn Error>> {
-        let res = reqwest::get(&self.url).await?;
-        Ok(HttpResponse::new(res.status().as_u16(), res.text().await?))
+
+    pub async fn get_text_from_url(&self) -> Result<HttpResponse, HttpClientError> {
+        match reqwest::get(&self.url).await {
+            Ok(res) => {
+                let res_status = res.status().as_u16();
+                match res.text().await {
+                    Ok(res_body) => Ok(HttpResponse::new(res_status, res_body)),
+                    Err(e) => {
+                        println!("HTTP response body error: {:#?}", e);
+                        Err(HttpClientError::ResponseBodyError)
+                    }
+                }
+            }
+            Err(e) => {
+                println!("HTTP request error: {:#?}", e);
+                Err(HttpClientError::RequestError)
+            }
+        }
     }
+}
+
+#[derive(PartialEq, Debug)]
+pub enum HttpClientError {
+    RequestError,
+    ResponseBodyError,
 }
 
 #[cfg(test)]
@@ -35,6 +54,7 @@ mod tests {
             .get_text_from_url()
             .await
             .unwrap();
+
         assert_eq!(200, http_response.status);
     }
 
@@ -44,24 +64,23 @@ mod tests {
             .get_text_from_url()
             .await
             .unwrap();
+
         assert_eq!(404, http_response.status);
     }
 
     #[tokio::test]
-    #[should_panic(expected = "cannot_be_a_base")]
     async fn http_client_bad_protocol() {
-        let _http_response = HttpClient::new("htt://httpbin.org/get")
+        let http_response = HttpClient::new("htt://httpbin.org/get")
             .get_text_from_url()
-            .await
-            .unwrap();
+            .await;
+
+        assert_eq!(http_response, Err(HttpClientError::RequestError));
     }
 
     #[tokio::test]
-    #[should_panic(expected = "RelativeUrlWithoutBase")]
     async fn http_client_malformed_url() {
-        let _http_response = HttpClient::new("$^45fd456g*")
-            .get_text_from_url()
-            .await
-            .unwrap();
+        let http_response = HttpClient::new("$^45fd456g*").get_text_from_url().await;
+
+        assert_eq!(http_response, Err(HttpClientError::RequestError));
     }
 }
