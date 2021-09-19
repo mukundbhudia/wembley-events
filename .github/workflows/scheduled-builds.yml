@@ -2,10 +2,9 @@ name: Scheduled calendar build
 
 on:
   schedule:
-    # Runs "At 03:11" every day (see https://crontab.guru)
-    # - cron: '11 3 * * *'
-    # Runs “At minute 59” every 59 mins
-    - cron: '59 * * * *'
+    # Runs "At minute 15 past every 12th hour." (see https://crontab.guru)
+    - cron: '15 */12 * * *'
+
 jobs:
   build:
     name: Scheduled calendar generation and deploy to gh-pages
