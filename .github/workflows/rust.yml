@@ -2,9 +2,9 @@ name: Rust
 
 on:
   push:
+    tags-ignore:
+      - 'v*'
     branches: [main]
-    tags:
-      - "!v*"
   pull_request:
     branches: [main]
 
