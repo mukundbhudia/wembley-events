@@ -33,7 +33,7 @@ impl Config {
 
 impl Default for Config {
     fn default() -> Self {
-        Self { 
+        Self {
             calendar_url: "https://www.brent.gov.uk/events-and-whats-on-calendar/?eventCat=Wembley+Stadium+events".into(),
             calendar_save_path: "output/wembley-events.ics".into() 
         }
@@ -48,7 +48,10 @@ mod tests {
     fn test_config_default() {
         let config = Config::new();
         assert_eq!(config.calendar_url, Config::default().calendar_url);
-        assert_eq!(config.calendar_save_path, Config::default().calendar_save_path);
+        assert_eq!(
+            config.calendar_save_path,
+            Config::default().calendar_save_path
+        );
     }
 
     #[test]
