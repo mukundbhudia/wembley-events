@@ -1388,7 +1388,7 @@ dependencies = [
 
 [[package]]
 name = "wembley-events"
-version = "1.0.3"
+version = "1.0.4"
 dependencies = [
  "chrono",
  "dotenv",
