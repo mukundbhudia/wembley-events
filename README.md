@@ -10,13 +10,13 @@ This project generates a calendar file on all the upcoming events at Wembley Sta
  - Don't struggle with parking.
  - Don't waste precious time.
 
-Calendar always available here: **https://mukundbhudia.github.io/wembley-events/wembley-events.ics**.
+The calendar is updated regularly and is always available to subscribe to/download here: **https://mukundbhudia.github.io/wembley-events/wembley-events.ics**.
+
+GitHub Actions runs this project and uploads the calendar file to GitHub pages on a twice daily basis.
 
 Feel free to subscribe to the calendar using your favourite calendar app. The file output conforms to the [iCalendar](https://tools.ietf.org/html/rfc5545) specification.
 
 ## Pre-requisites
-
-### Rust
 
 - [Install Rust here](https://www.rust-lang.org/tools/install).
 - Minimum Supported Rust Version (MSRV) is any 2018 edition.
@@ -31,12 +31,12 @@ Feel free to subscribe to the calendar using your favourite calendar app. The fi
 
 - Copy the `.env.example` file to `.env` and edit the values to suit.
 - To make a production build, within the repo directory run `cargo b --release`.
-- To run the release build, within the project directory run `target/release/wembley-events` with the same arguments as in development.
+- To run the release build, within the project directory run `target/release/wembley-events` just as in development.
 
 ## Testing
 
 - To run **all** your tests, within the repo directory run `cargo t`. This will run all tests in the `/tests` directory.
-- To run test a **specific** test such as `/tests/my_test.rs`, within the repo directory run `cargo t --test my_test`.
+- To run **ignored** tests, within the repo directory run `cargo t -- --ignored`.
 
 ## Resources & Thanks
 
