@@ -1,3 +1,5 @@
+use serde::{Deserialize, Serialize};
+
 #[derive(Debug, PartialEq, Eq)]
 pub struct Ymd {
     pub year: i32,
@@ -5,7 +7,7 @@ pub struct Ymd {
     pub day: u32,
 }
 
-#[derive(Debug, Clone)]
+#[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct WembleyEvent {
     date: String,
     time_and_place: String,

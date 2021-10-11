@@ -1,3 +1,4 @@
+use serde::{Deserialize, Serialize};
 use std::collections::BTreeMap;
 
 use chrono::*;
@@ -7,7 +8,7 @@ use select::predicate::{Class, Name};
 
 use crate::WembleyEvent;
 
-#[derive(Clone)]
+#[derive(Clone, Serialize, Deserialize)]
 pub struct WembleyEvents {
     events: BTreeMap<usize, WembleyEvent>,
 }
@@ -77,6 +78,10 @@ impl WembleyEvents {
 
         calendar
     }
+
+    pub fn build_json_from_events(self) -> String {
+        serde_json::to_string(&self.events.values().collect::<Vec<_>>()).unwrap()
+    }
 }
 
 impl Default for WembleyEvents {
@@ -134,5 +139,17 @@ mod tests {
         let calendar_built_from_events = wembley_events.build_calendar_from_events();
 
         insta::assert_debug_snapshot!(calendar_built_from_events);
+    }
+
+    #[test]
+    fn check_events_match_calendar_json() {
+        let body = test_file_1();
+        let wembley_events_as_json = WembleyEvents::new()
+            .build_events_from_html(body)
+            .build_json_from_events();
+
+        println!("{}", wembley_events_as_json);
+
+        insta::assert_json_snapshot!(wembley_events_as_json);
     }
 }
