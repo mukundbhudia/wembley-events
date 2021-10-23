@@ -5,6 +5,7 @@ use std::env;
 pub struct Config {
     pub calendar_url: String,
     pub calendar_save_path: String,
+    pub calendar_json_save_path: Option<String>,
 }
 
 impl Config {
@@ -27,6 +28,8 @@ impl Config {
             eprintln!("Missing CALENDAR_SAVE_PATH environment variable. Using default.");
         }
 
+        self.calendar_json_save_path = env::var("CALENDAR_JSON_SAVE_PATH").ok();
+
         self
     }
 }
@@ -35,7 +38,8 @@ impl Default for Config {
     fn default() -> Self {
         Self {
             calendar_url: "https://www.brent.gov.uk/events-and-whats-on-calendar/?eventCat=Wembley+Stadium+events".into(),
-            calendar_save_path: "output/wembley-events.ics".into() 
+            calendar_save_path: "output/wembley-events.ics".into(),
+            calendar_json_save_path: None,
         }
     }
 }
