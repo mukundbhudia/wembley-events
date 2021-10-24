@@ -56,13 +56,15 @@ mod tests {
             config.calendar_save_path,
             Config::default().calendar_save_path
         );
+        assert!(config.calendar_json_save_path.is_none());
     }
 
     #[test]
-    #[ignore = "needs .env file"]
+    #[ignore = "needs a local `.env` file to run"]
     fn test_config_should_never_be_empty() {
         let config = Config::new().load_from_dotenv();
         assert!(!config.calendar_url.is_empty());
         assert!(!config.calendar_save_path.is_empty());
+        assert!(config.calendar_json_save_path.is_some());
     }
 }

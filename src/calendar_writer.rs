@@ -133,4 +133,39 @@ mod tests {
 
         assert_eq!(writer, Ok(()));
     }
+
+    #[test]
+    fn test_calendar_writer_with_json() {
+        let body = test_file_1();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+
+        let writer = CalendarWriter::new(wembley_events)
+            .write_calendar_to_file("output/test_run.ics", &Some("output/test_run.json".into()));
+
+        assert_eq!(writer, Ok(()));
+    }
+
+    #[test]
+    fn test_calendar_writer_with_json_bad_json_path() {
+        let body = test_file_1();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+
+        let writer = CalendarWriter::new(wembley_events)
+            .write_calendar_to_file("output/test_run.ics", &Some("/output/test_run.json".into()));
+
+        assert_eq!(writer, Err(CalendarWriterError::CannotCreateDirectory));
+    }
+
+    #[test]
+    fn test_calendar_writer_empty_html_and_json_calendar_to_write() {
+        let body = test_file_2();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+
+        let writer = CalendarWriter::new(wembley_events).write_calendar_to_file(
+            "output/test_fail.ics",
+            &Some("output/test_fail.json".into()),
+        );
+
+        assert_eq!(writer, Err(CalendarWriterError::EmptyCalendar));
+    }
 }
