@@ -12,6 +12,8 @@ This project generates a calendar file on all the upcoming events at Wembley Sta
 
 The calendar is updated regularly and is always available to subscribe to/download here: **https://mukundbhudia.github.io/wembley-events/wembley-events.ics**.
 
+In addition to the calendar, this project can also generate a JSON file containing the events available to download here: https://mukundbhudia.github.io/wembley-events/wembley-events.json.
+
 GitHub Actions runs this project and uploads the calendar file to GitHub pages on a twice daily basis.
 
 Feel free to subscribe to the calendar using your favourite calendar app. The file output conforms to the [iCalendar](https://tools.ietf.org/html/rfc5545) specification.
@@ -26,6 +28,7 @@ Feel free to subscribe to the calendar using your favourite calendar app. The fi
 - Copy the `.env.example` file to `.env` and edit the values to suit.
 - Within the repo directory run `cargo r`.
     - This will generate a calendar file to the path defined in `CALENDAR_SAVE_PATH`.
+    - Setting a path for `CALENDAR_JSON_SAVE_PATH` will create a JSON file of events with the same name.
 
 ## Production
 

@@ -1,33 +1,66 @@
 use icalendar::Calendar;
 use std::fs;
 
+use crate::WembleyEvents;
+
 pub struct CalendarWriter {
     calendar: Calendar,
+    events: WembleyEvents,
 }
 
 impl CalendarWriter {
-    pub fn new(calendar: Calendar) -> Self {
-        CalendarWriter { calendar }
+    pub fn new(events: WembleyEvents) -> Self {
+        CalendarWriter {
+            calendar: events.clone().build_calendar_from_events(),
+            events,
+        }
     }
 
-    pub fn write_calendar_to_file(self, path: &str) -> Result<(), CalendarWriterError> {
+    pub fn write_calendar_to_file(
+        self,
+        calendar_path: &str,
+        json_calendar_path: &Option<String>,
+    ) -> Result<(), CalendarWriterError> {
+        use super::*;
+
+        if self.calendar.is_empty() {
+            eprintln!("Unable to write calendar to file. Calendar has no events. Check if the HTML structure has changed.");
+            Err(CalendarWriterError::EmptyCalendar)
+        } else {
+            CalendarWriter::write_string_to_file(self.calendar.to_string(), calendar_path)?;
+            if let Some(json_path) = json_calendar_path {
+                CalendarWriter::write_string_to_file(
+                    self.events.build_json_from_events(),
+                    json_path,
+                )
+            } else {
+                println!("No JSON calendar path found in config. Skipping creating JSON file.");
+                Ok(())
+            }
+        }
+    }
+
+    pub fn write_string_to_file(
+        file_as_string: String,
+        path: &str,
+    ) -> Result<(), CalendarWriterError> {
         let path = std::path::Path::new(path);
 
         if let Some(prefix) = path.parent() {
-            if self.calendar.is_empty() {
-                eprintln!("Unable to write calendar to file. Calendar has no events. Check if the HTML structure has changed.");
+            if file_as_string.is_empty() {
+                eprintln!("Unable to write JSON to file. JSON has no events. Check if the HTML structure has changed.");
                 Err(CalendarWriterError::EmptyCalendar)
             } else if let Err(e) = fs::create_dir_all(prefix) {
                 eprintln!("Unable to directory for calendar. {:#?}", e);
                 Err(CalendarWriterError::CannotCreateDirectory)
-            } else if let Err(e) = fs::write(path, self.calendar.to_string()) {
-                eprintln!("Unable to write calendar to file. {:#?}", e);
+            } else if let Err(e) = fs::write(path, file_as_string) {
+                eprintln!("Unable to write JSON to file. {:#?}", e);
                 Err(CalendarWriterError::CannotWriteToFile)
             } else {
                 Ok(())
             }
         } else {
-            eprintln!("Unable to write calendar to file. Bad path given.");
+            eprintln!("Unable to write JSON to file. Bad path given.");
             Err(CalendarWriterError::BadFilePath)
         }
     }
@@ -49,9 +82,10 @@ mod tests {
 
     #[test]
     fn test_calendar_writer_empty_calendar_to_write() {
-        let calendar = Calendar::new();
+        let events = WembleyEvents::new();
 
-        let writer = CalendarWriter::new(calendar).write_calendar_to_file("output/test_fail.ics");
+        let writer =
+            CalendarWriter::new(events).write_calendar_to_file("output/test_fail.ics", &None);
 
         assert_eq!(writer, Err(CalendarWriterError::EmptyCalendar));
     }
@@ -59,12 +93,10 @@ mod tests {
     #[test]
     fn test_calendar_writer_bad_path_to_write() {
         let body = test_file_1();
-        let wembley_events = WembleyEvents::new()
-            .build_events_from_html(body)
-            .build_calendar_from_events();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
-        let writer =
-            CalendarWriter::new(wembley_events).write_calendar_to_file("/output/test_fail.ics");
+        let writer = CalendarWriter::new(wembley_events)
+            .write_calendar_to_file("/output/test_fail.ics", &None);
 
         assert_eq!(writer, Err(CalendarWriterError::CannotCreateDirectory));
     }
@@ -72,12 +104,10 @@ mod tests {
     #[test]
     fn test_calendar_writer_empty_html_calendar_to_write() {
         let body = test_file_2();
-        let wembley_events = WembleyEvents::new()
-            .build_events_from_html(body)
-            .build_calendar_from_events();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
-        let writer =
-            CalendarWriter::new(wembley_events).write_calendar_to_file("/output/test_fail.ics");
+        let writer = CalendarWriter::new(wembley_events)
+            .write_calendar_to_file("output/test_fail.ics", &None);
 
         assert_eq!(writer, Err(CalendarWriterError::EmptyCalendar));
     }
@@ -85,12 +115,10 @@ mod tests {
     #[test]
     fn test_calendar_writer() {
         let body = test_file_1();
-        let wembley_events = WembleyEvents::new()
-            .build_events_from_html(body)
-            .build_calendar_from_events();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
-        let writer =
-            CalendarWriter::new(wembley_events).write_calendar_to_file("output/test_run.ics");
+        let writer = CalendarWriter::new(wembley_events)
+            .write_calendar_to_file("output/test_run.ics", &None);
 
         assert_eq!(writer, Ok(()));
     }
@@ -98,13 +126,46 @@ mod tests {
     #[test]
     fn test_calendar_writer_nested_directory() {
         let body = test_file_1();
-        let wembley_events = WembleyEvents::new()
-            .build_events_from_html(body)
-            .build_calendar_from_events();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let writer = CalendarWriter::new(wembley_events)
-            .write_calendar_to_file("output/test1/test2/test_run.ics");
+            .write_calendar_to_file("output/test1/test2/test_run.ics", &None);
 
         assert_eq!(writer, Ok(()));
+    }
+
+    #[test]
+    fn test_calendar_writer_with_json() {
+        let body = test_file_1();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+
+        let writer = CalendarWriter::new(wembley_events)
+            .write_calendar_to_file("output/test_run.ics", &Some("output/test_run.json".into()));
+
+        assert_eq!(writer, Ok(()));
+    }
+
+    #[test]
+    fn test_calendar_writer_with_json_bad_json_path() {
+        let body = test_file_1();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+
+        let writer = CalendarWriter::new(wembley_events)
+            .write_calendar_to_file("output/test_run.ics", &Some("/output/test_run.json".into()));
+
+        assert_eq!(writer, Err(CalendarWriterError::CannotCreateDirectory));
+    }
+
+    #[test]
+    fn test_calendar_writer_empty_html_and_json_calendar_to_write() {
+        let body = test_file_2();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+
+        let writer = CalendarWriter::new(wembley_events).write_calendar_to_file(
+            "output/test_fail.ics",
+            &Some("output/test_fail.json".into()),
+        );
+
+        assert_eq!(writer, Err(CalendarWriterError::EmptyCalendar));
     }
 }

@@ -1395,6 +1395,8 @@ dependencies = [
  "insta",
  "reqwest",
  "select",
+ "serde",
+ "serde_json",
  "tokio",
 ]
 

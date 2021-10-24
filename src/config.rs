@@ -5,6 +5,7 @@ use std::env;
 pub struct Config {
     pub calendar_url: String,
     pub calendar_save_path: String,
+    pub calendar_json_save_path: Option<String>,
 }
 
 impl Config {
@@ -27,6 +28,8 @@ impl Config {
             eprintln!("Missing CALENDAR_SAVE_PATH environment variable. Using default.");
         }
 
+        self.calendar_json_save_path = env::var("CALENDAR_JSON_SAVE_PATH").ok();
+
         self
     }
 }
@@ -35,7 +38,8 @@ impl Default for Config {
     fn default() -> Self {
         Self {
             calendar_url: "https://www.brent.gov.uk/events-and-whats-on-calendar/?eventCat=Wembley+Stadium+events".into(),
-            calendar_save_path: "output/wembley-events.ics".into() 
+            calendar_save_path: "output/wembley-events.ics".into(),
+            calendar_json_save_path: None,
         }
     }
 }
@@ -52,13 +56,15 @@ mod tests {
             config.calendar_save_path,
             Config::default().calendar_save_path
         );
+        assert!(config.calendar_json_save_path.is_none());
     }
 
     #[test]
-    #[ignore = "needs .env file"]
+    #[ignore = "needs a local `.env` file to run"]
     fn test_config_should_never_be_empty() {
         let config = Config::new().load_from_dotenv();
         assert!(!config.calendar_url.is_empty());
         assert!(!config.calendar_save_path.is_empty());
+        assert!(config.calendar_json_save_path.is_some());
     }
 }

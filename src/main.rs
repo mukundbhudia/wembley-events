@@ -10,12 +10,11 @@ async fn main() {
         .get_text_from_url()
         .await
     {
-        let wembley_events_calendar = WembleyEvents::new()
-            .build_events_from_html(res.body)
-            .build_calendar_from_events();
+        let wembley_events = WembleyEvents::new().build_events_from_html(res.body);
+        let calendar_writer = CalendarWriter::new(wembley_events);
 
-        if CalendarWriter::new(wembley_events_calendar)
-            .write_calendar_to_file(&config.calendar_save_path)
+        if calendar_writer
+            .write_calendar_to_file(&config.calendar_save_path, &config.calendar_json_save_path)
             .is_err()
         {
             process::exit(1);
