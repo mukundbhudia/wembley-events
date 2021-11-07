@@ -3,45 +3,45 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20211106T124531Z
+DTSTAMP:20211107T013100Z
 DESCRIPTION:Round of 16: 1A v 2C takes place on Saturday 26 June 2021. Kick
   off is at 8pm and parking restrictions will be in place until midnight.
 DTEND;VALUE=DATE:20210626
 DTSTART;VALUE=DATE:20210626
 SUMMARY:Wembley Stadium event - Round of 16: Italy v Austria
-UID:481276a7-e7ff-4232-b1bd-b1cadb65bc24
+UID:633e5e84-7f33-4216-8156-352f002b2fc9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211106T124531Z
+DTSTAMP:20211107T013100Z
 DESCRIPTION:Round of 16: 1D v 2F takes place on Tuesday 29 June 2021. Kick 
  off is at 5pm and parking restrictions will be in place until midnight.
 DTEND;VALUE=DATE:20210629
 DTSTART;VALUE=DATE:20210629
 SUMMARY:Wembley Stadium event - Round of 16: England v Germany
-UID:9a007d41-18a4-4c3d-b311-3558ff8bf8c6
+UID:eb59302d-8495-4a36-ade8-94c746a2d9bf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211106T124531Z
+DTSTAMP:20211107T013100Z
 DESCRIPTION:The first semi-final between Italy and Spain takes place on Tue
  sday 6 July 2021. Kick off is 8pm and parking restrictions will be in place
   until midnight.
 DTEND;VALUE=DATE:20210706
 DTSTART;VALUE=DATE:20210706
 SUMMARY:Wembley Stadium event - UEFA Euro 2020: Italy v Spain
-UID:e2d8a8d0-5c8d-4415-aeb6-830b69c14008
+UID:fdc92325-0c17-42f4-9a72-8cf98fca6b8a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211106T124531Z
+DTSTAMP:20211107T013100Z
 DESCRIPTION:The second semi-final between England and Denmark takes place o
  n Wednesday 7 July 2021. Kick off is 8pm and parking restrictions will be i
  n place until midnight.
 DTEND;VALUE=DATE:20210707
 DTSTART;VALUE=DATE:20210707
 SUMMARY:Wembley Stadium event - UEFA Euro 2020: England v Denmark
-UID:95c39d7c-8cf1-4ade-935c-ee915d666d37
+UID:21c35608-2c66-4cbd-addc-9fd37e28c6ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211106T124531Z
+DTSTAMP:20211107T013100Z
 DESCRIPTION:The Betfred Challenge Cup Final between Castleford Tigers and S
  t Helens will take place on Saturday 17 July 2021 at Wembley Stadium. Event
   day parking restrictions will be in place until midnight.
@@ -49,44 +49,44 @@ DTEND;VALUE=DATE:20210717
 DTSTART;VALUE=DATE:20210717
 SUMMARY:Wembley Stadium event - The Betfred Challenge Cup Final between Cas
  tleford Tigers and St Helens
-UID:c2db8ad7-ae1e-4646-ad73-44cce1af2f43
+UID:26654e49-158f-468f-8419-bb7814cb6612
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211106T124531Z
+DTSTAMP:20211107T013100Z
 DESCRIPTION:Qatar 2022 World Cup Qualifier takes place on Tuesday, 12 Octob
  er 2021. Event day parking restrictions will be in place until midnight.
 DTEND;VALUE=DATE:20211012
 DTSTART;VALUE=DATE:20211012
 SUMMARY:Wembley Stadium event - England v Hungary
-UID:d716fdef-01f7-4ab2-87da-dba7bf5fc058
+UID:1ae85313-e523-4be4-8856-26667b29ecdb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211106T124531Z
+DTSTAMP:20211107T013100Z
 DESCRIPTION:FIFA Women’s World Cup 2023 Qualifier takes place on Saturday
   23 October 2021 at 5:15pm. Event day parking restrictions will be in place
   until midnight.
 DTEND;VALUE=DATE:20211023
 DTSTART;VALUE=DATE:20211023
 SUMMARY:Wembley Stadium event - England Women v Northern Ireland
-UID:6bdbb6ec-b4d1-492c-91ee-d996de212d34
+UID:9093ce05-c132-4548-a60b-1e1a1d978c2d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211106T124531Z
+DTSTAMP:20211107T013100Z
 DESCRIPTION:England will face Albania in Qatar 2022 World Cup Qualifier at 
  Wembley on Friday 12 November 2021 at 7:45pm. Event day parking restriction
  s will be in place until midnight.
 DTEND;VALUE=DATE:20211112
 DTSTART;VALUE=DATE:20211112
 SUMMARY:Qatar 2022 World Cup Qualifier: England v Albania
-UID:bb516828-e1b8-4255-bcdb-359cb8553b70
+UID:d868076e-ba3c-415a-ba74-8afd8a1bac75
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20211106T124531Z
+DTSTAMP:20211107T013100Z
 DESCRIPTION:The women's FA cup final takes place on Sunday 5 December 2021.
   Event day parking restrictions will be in place until midnight.
 DTEND;VALUE=DATE:20211205
 DTSTART;VALUE=DATE:20211205
 SUMMARY:Wembley Stadium event - The women's FA cup final
-UID:4d95692f-f9ba-4fe3-9025-5b0b70381eb0
+UID:5258a716-7820-43bb-b87e-55c0fa747839
 END:VEVENT
 END:VCALENDAR
