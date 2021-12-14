@@ -14,6 +14,8 @@ The calendar is updated regularly and is always available to subscribe to/downlo
 
 In addition to the calendar, this project can also generate a JSON file containing the events available to download here: https://mukundbhudia.github.io/wembley-events/wembley-events.json.
 
+The [wembley-events-web](https://github.com/mukundbhudia/wembley-events-web) project uses the events generated using this project to provide useful a frontend for the calendar.
+
 GitHub Actions runs this project and uploads the calendar file to GitHub pages on a twice daily basis.
 
 Feel free to subscribe to the calendar using your favourite calendar app. The file output conforms to the [iCalendar](https://tools.ietf.org/html/rfc5545) specification.
