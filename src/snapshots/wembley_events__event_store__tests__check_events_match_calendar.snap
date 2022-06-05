@@ -1,6 +1,6 @@
 ---
 source: src/event_store.rs
-assertion_line: 123
+assertion_line: 105
 expression: calendar_built_from_events
 
 ---
@@ -13,12 +13,12 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "Round of 16: 1A v 2C takes place on Saturday 26 June 2021. Kick off is at 8pm and parking restrictions will be in place until midnight.",
+                            val: "Multi-platinum recording artist Harry Styles announces the rescheduled dates for his world tour, in addition to new shows added across the globe. Styles will kick off his colossal 32-city outing...",
                             params: {},
                         },
                         "DTEND": Property {
                             key: "DTEND",
-                            val: "20210626",
+                            val: "20220619",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -28,7 +28,7 @@ Calendar {
                         },
                         "DTSTART": Property {
                             key: "DTSTART",
-                            val: "20210626",
+                            val: "20220619",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -38,7 +38,7 @@ Calendar {
                         },
                         "SUMMARY": Property {
                             key: "SUMMARY",
-                            val: "Wembley Stadium event - Round of 16: Italy v Austria",
+                            val: "Harry Styles",
                             params: {},
                         },
                     },
@@ -52,12 +52,12 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "Round of 16: 1D v 2F takes place on Tuesday 29 June 2021. Kick off is at 5pm and parking restrictions will be in place until midnight.",
+                            val: "Capital's Summertime Ball",
                             params: {},
                         },
                         "DTEND": Property {
                             key: "DTEND",
-                            val: "20210629",
+                            val: "20220612",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -67,7 +67,7 @@ Calendar {
                         },
                         "DTSTART": Property {
                             key: "DTSTART",
-                            val: "20210629",
+                            val: "20220612",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -77,7 +77,7 @@ Calendar {
                         },
                         "SUMMARY": Property {
                             key: "SUMMARY",
-                            val: "Wembley Stadium event - Round of 16: England v Germany",
+                            val: "David Guetta @ Wembley Stadium",
                             params: {},
                         },
                     },
@@ -91,12 +91,12 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "The first semi-final between Italy and Spain takes place on Tuesday 6 July 2021. Kick off is 8pm and parking restrictions will be in place until midnight.",
+                            val: "Join BOXPARK Wembley and their resident DJ's for all things soulful",
                             params: {},
                         },
                         "DTEND": Property {
                             key: "DTEND",
-                            val: "20210706",
+                            val: "20220605",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -106,7 +106,7 @@ Calendar {
                         },
                         "DTSTART": Property {
                             key: "DTSTART",
-                            val: "20210706",
+                            val: "20220605",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -116,7 +116,7 @@ Calendar {
                         },
                         "SUMMARY": Property {
                             key: "SUMMARY",
-                            val: "Wembley Stadium event - UEFA Euro 2020: Italy v Spain",
+                            val: "Soulful Sundays",
                             params: {},
                         },
                     },
@@ -130,12 +130,12 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "The second semi-final between England and Denmark takes place on Wednesday 7 July 2021. Kick off is 8pm and parking restrictions will be in place until midnight.",
+                            val: "span Ed Sheeran has announced the first leg of his ‘+ - = ÷ x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadiums throughout 2022. Kicking off in April next year, the tour will...",
                             params: {},
                         },
                         "DTEND": Property {
                             key: "DTEND",
-                            val: "20210707",
+                            val: "20220629",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -145,7 +145,7 @@ Calendar {
                         },
                         "DTSTART": Property {
                             key: "DTSTART",
-                            val: "20210707",
+                            val: "20220629",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -155,7 +155,7 @@ Calendar {
                         },
                         "SUMMARY": Property {
                             key: "SUMMARY",
-                            val: "Wembley Stadium event - UEFA Euro 2020: England v Denmark",
+                            val: "Ed Sheeran @ Wembley Stadium",
                             params: {},
                         },
                     },
@@ -169,12 +169,12 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "The Betfred Challenge Cup Final between Castleford Tigers and St Helens will take place on Saturday 17 July 2021 at Wembley Stadium. Event day parking restrictions will be in place until midnight.",
+                            val: "span Ed Sheeran has announced the first leg of his ‘+ - = ÷ x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadiums throughout 2022. Kicking off in April next year, the tour will...",
                             params: {},
                         },
                         "DTEND": Property {
                             key: "DTEND",
-                            val: "20210717",
+                            val: "20220625",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -184,7 +184,7 @@ Calendar {
                         },
                         "DTSTART": Property {
                             key: "DTSTART",
-                            val: "20210717",
+                            val: "20220625",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -194,7 +194,7 @@ Calendar {
                         },
                         "SUMMARY": Property {
                             key: "SUMMARY",
-                            val: "Wembley Stadium event - The Betfred Challenge Cup Final between Castleford Tigers and St Helens",
+                            val: "Dylan @ Wembley Stadium",
                             params: {},
                         },
                     },
@@ -208,12 +208,12 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "The FA community shield supported by McDonald's: Manchester City v Leicester City",
+                            val: "Global super pop rock band Coldplay will be hitting the road on tour in 2022 and will be performing live on stage in their Music of the Spheres World Tour ! This particular live concert is...",
                             params: {},
                         },
                         "DTEND": Property {
                             key: "DTEND",
-                            val: "20210807",
+                            val: "20220816",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -223,7 +223,7 @@ Calendar {
                         },
                         "DTSTART": Property {
                             key: "DTSTART",
-                            val: "20210807",
+                            val: "20220816",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -233,7 +233,7 @@ Calendar {
                         },
                         "SUMMARY": Property {
                             key: "SUMMARY",
-                            val: "The FA community shield supported by McDonald's",
+                            val: "Coldplay @ Wembley Stadium",
                             params: {},
                         },
                     },
@@ -247,12 +247,12 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "The women's FA cup final takes place on Sunday 5 December 2021. Event day parking restrictions will be in place until midnight.",
+                            val: "Ed Sheeran Seated Ticket & Hotel Experience This Experience Includes: • Reserved Seated Ticket (Block 104 or 141) Tickets seated together • One night hotel stay including complimentary breakfast •...",
                             params: {},
                         },
                         "DTEND": Property {
                             key: "DTEND",
-                            val: "20211205",
+                            val: "20220624",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -262,7 +262,7 @@ Calendar {
                         },
                         "DTSTART": Property {
                             key: "DTSTART",
-                            val: "20211205",
+                            val: "20220624",
                             params: {
                                 "VALUE": Parameter {
                                     key: "VALUE",
@@ -272,7 +272,124 @@ Calendar {
                         },
                         "SUMMARY": Property {
                             key: "SUMMARY",
-                            val: "Wembley Stadium event - The women's FA cup final",
+                            val: "Ed Sheeran + - = ÷ x Tour",
+                            params: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            val: "Global super pop rock band Coldplay will be hitting the road on tour in 2022 and will be performing live on stage in their Music of the Spheres World Tour ! This particular live concert is...",
+                            params: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            val: "20220820",
+                            params: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    val: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            val: "20220820",
+                            params: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    val: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            val: "Coldplay: Music of the Spheres World Tour",
+                            params: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            val: "Jubin Nautiyal at OVO Arena Wembley in Wembley Park",
+                            params: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            val: "20220626",
+                            params: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    val: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            val: "20220626",
+                            params: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    val: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            val: "Jubin Nautiyal - RESCHEDULED",
+                            params: {},
+                        },
+                    },
+                    multi_properties: [],
+                },
+            },
+        ),
+        Event(
+            Event {
+                inner: InnerComponent {
+                    properties: {
+                        "DESCRIPTION": Property {
+                            key: "DESCRIPTION",
+                            val: "SJM Concerts 50 CENT FRI, 10 JUN 2022 at 07:30PM BST Doors Open: 06:00PM OnSale: Fri, 28 Jan 2022 at 09:30AM GMT Announcement: Wed, 26 Jan 2022 at 10:00AM GMT Hip Hop heavyweight 50 Cent, has...",
+                            params: {},
+                        },
+                        "DTEND": Property {
+                            key: "DTEND",
+                            val: "20220610",
+                            params: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    val: "DATE",
+                                },
+                            },
+                        },
+                        "DTSTART": Property {
+                            key: "DTSTART",
+                            val: "20220610",
+                            params: {
+                                "VALUE": Parameter {
+                                    key: "VALUE",
+                                    val: "DATE",
+                                },
+                            },
+                        },
+                        "SUMMARY": Property {
+                            key: "SUMMARY",
+                            val: "50 Cent",
                             params: {},
                         },
                     },

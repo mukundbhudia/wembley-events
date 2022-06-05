@@ -76,7 +76,7 @@ pub enum CalendarWriterError {
 
 #[cfg(test)]
 mod tests {
-    use crate::{test_file_1, test_file_2, WembleyEvents};
+    use crate::{serpapi_test_output_json_1, serpapi_test_output_json_2, WembleyEvents};
 
     use super::*;
 
@@ -92,7 +92,7 @@ mod tests {
 
     #[test]
     fn test_calendar_writer_bad_path_to_write() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let writer = CalendarWriter::new(wembley_events)
@@ -103,7 +103,7 @@ mod tests {
 
     #[test]
     fn test_calendar_writer_empty_html_calendar_to_write() {
-        let body = test_file_2();
+        let body = serpapi_test_output_json_2();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let writer = CalendarWriter::new(wembley_events)
@@ -114,7 +114,7 @@ mod tests {
 
     #[test]
     fn test_calendar_writer() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let writer = CalendarWriter::new(wembley_events)
@@ -125,7 +125,7 @@ mod tests {
 
     #[test]
     fn test_calendar_writer_nested_directory() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let writer = CalendarWriter::new(wembley_events)
@@ -136,7 +136,7 @@ mod tests {
 
     #[test]
     fn test_calendar_writer_with_json() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let writer = CalendarWriter::new(wembley_events)
@@ -147,7 +147,7 @@ mod tests {
 
     #[test]
     fn test_calendar_writer_with_json_bad_json_path() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let writer = CalendarWriter::new(wembley_events)
@@ -158,7 +158,7 @@ mod tests {
 
     #[test]
     fn test_calendar_writer_empty_html_and_json_calendar_to_write() {
-        let body = test_file_2();
+        let body = serpapi_test_output_json_2();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let writer = CalendarWriter::new(wembley_events).write_calendar_to_file(

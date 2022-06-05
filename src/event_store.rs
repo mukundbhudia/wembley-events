@@ -74,31 +74,31 @@ impl Default for WembleyEvents {
 
 #[cfg(test)]
 mod tests {
-    use crate::{test_file_1, test_file_2};
+    use crate::{serpapi_test_output_json_1, serpapi_test_output_json_2};
 
     use super::*;
 
     #[test]
     fn build_events_from_html() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
-        assert_eq!(wembley_events.get_events().len(), 7);
+        assert_eq!(wembley_events.get_events().len(), 10);
     }
 
     #[test]
     fn build_calendar_from_events() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let calendar = wembley_events.build_calendar_from_events();
 
-        assert_eq!(calendar.len(), 7);
+        assert_eq!(calendar.len(), 10);
     }
 
     #[test]
     fn check_events_match_calendar() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
         let calendar_built_from_events = wembley_events.build_calendar_from_events();
 
@@ -107,7 +107,7 @@ mod tests {
 
     #[test]
     fn check_events_match_calendar_with_blank_html() {
-        let body = test_file_2();
+        let body = serpapi_test_output_json_2();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
         let calendar_built_from_events = wembley_events.build_calendar_from_events();
 
@@ -125,7 +125,7 @@ mod tests {
 
     #[test]
     fn check_events_match_calendar_json() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events_as_json = WembleyEvents::new()
             .build_events_from_html(body)
             .build_json_from_events();
