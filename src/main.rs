@@ -1,7 +1,8 @@
 use std::process;
 
-
-use wembley_events::{CalendarWriter, Config, HttpClient, WembleyEvents, serpapi_test_output_json_1, SerpapiEvents};
+use wembley_events::{
+    serpapi_test_output_json_1, CalendarWriter, Config, HttpClient, SerpapiEvents, WembleyEvents,
+};
 
 #[tokio::main]
 async fn main() {
@@ -12,12 +13,12 @@ async fn main() {
     let test_body = serpapi_test_output_json_1();
     // println!("test_body: {:?}", test_body);
 
-    if let Ok(res) = HttpClient::new(&full_url)
-        .get_text_from_url()
-        .await
-    {
+    if let Ok(res) = HttpClient::new(&full_url).get_text_from_url().await {
         println!("res.body: {:?}", res.body);
-        println!("serde: {:?}", serde_json::from_str::<SerpapiEvents>(&test_body));
+        println!(
+            "serde: {:?}",
+            serde_json::from_str::<SerpapiEvents>(&test_body)
+        );
         // assert_eq!(test_body, res.body);
         let wembley_events = WembleyEvents::new().build_events_from_html(res.body);
         let calendar_writer = CalendarWriter::new(wembley_events);

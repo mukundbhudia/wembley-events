@@ -509,7 +509,6 @@ pub fn serpapi_test_output_json_1() -> String {
   ]
 }
     "##.to_string()
-    
 }
 
 pub fn test_file_1() -> String {
