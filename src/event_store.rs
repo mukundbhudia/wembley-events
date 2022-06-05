@@ -3,14 +3,25 @@ use std::collections::BTreeMap;
 
 use chrono::*;
 use icalendar::*;
-use select::document::Document;
-use select::predicate::{Class, Name};
 
-use crate::WembleyEvent;
+use crate::{SerpapiEvents, WembleyEvent};
 
-#[derive(Clone, Serialize, Deserialize)]
+#[derive(Clone, Serialize, Deserialize, Debug)]
 pub struct WembleyEvents {
-    events: BTreeMap<usize, WembleyEvent>,
+    pub events: BTreeMap<usize, WembleyEvent>,
+}
+
+impl From<SerpapiEvents> for WembleyEvents {
+    fn from(serp_events: SerpapiEvents) -> Self {
+        Self {
+            events: serp_events
+                .events_results
+                .into_iter()
+                .map(|e| e.into())
+                .enumerate()
+                .collect::<BTreeMap<usize, WembleyEvent>>(),
+        }
+    }
 }
 
 impl WembleyEvents {
@@ -25,36 +36,15 @@ impl WembleyEvents {
     }
 
     pub fn build_events_from_html(mut self, html: String) -> WembleyEvents {
-        let document = Document::from(html.as_str());
-        let event_dates_iter = document.find(Name("h3")).map(|x| x.text());
-
-        for ((i, node), event_date) in document
-            .find(Class("brent_newEvent"))
-            .enumerate()
-            .zip(event_dates_iter)
-        {
-            let event_title = node
-                .find(Class("card-header"))
-                .map(|x| x.text())
-                .collect::<String>();
-            let event_time_and_place = node
-                .find(Class("brent_newEventDetails"))
-                .map(|x| x.text())
-                .collect::<String>();
-            let event_description = node
-                .find(Class("col-lg-9"))
-                .map(|x| x.children().skip(1).map(|y| y.text()).collect::<String>())
-                .collect::<String>();
-
-            let event = WembleyEvent::new(
-                event_date,
-                event_time_and_place,
-                event_title,
-                event_description,
-            );
-
-            self.events.insert(i, event);
-        }
+        match serde_json::from_str::<SerpapiEvents>(&html) {
+            Ok(serp_api_events) => {
+                let wembley_events: WembleyEvents = serp_api_events.into();
+                self.events = wembley_events.events;
+            }
+            Err(e) => {
+                println!("An error deserializing SerpAPI events occurred: {}", e)
+            }
+        };
 
         Self {
             events: self.events,

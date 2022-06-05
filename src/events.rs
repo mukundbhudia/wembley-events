@@ -1,5 +1,7 @@
 use serde::{Deserialize, Serialize};
 
+use crate::SerpapiEvent;
+
 #[derive(Debug, PartialEq, Eq)]
 pub struct Ymd {
     pub year: i32,
@@ -9,10 +11,21 @@ pub struct Ymd {
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct WembleyEvent {
-    date: String,
-    time_and_place: String,
+    pub date: String,
+    pub time_and_place: String,
     pub title: String,
     pub description: String,
+}
+
+impl From<SerpapiEvent> for WembleyEvent {
+    fn from(serp_event: SerpapiEvent) -> Self {
+        Self {
+            date: serp_event.date.start_date,
+            time_and_place: "TODO".to_string(), // TODO: need to update place
+            title: serp_event.title,
+            description: serp_event.description,
+        }
+    }
 }
 
 impl WembleyEvent {
@@ -32,26 +45,26 @@ impl WembleyEvent {
 
     pub fn date_to_ymd(&self) -> Option<Ymd> {
         let date_str = self.date.split_whitespace().collect::<Vec<&str>>();
-        if date_str.len() == 3 {
-            let month_str = date_str[1];
+        if date_str.len() == 2 {
+            let month_str = date_str[0];
             let month = match month_str {
-                "January" => 1,
-                "February" => 2,
-                "March" => 3,
-                "April" => 4,
+                "Jan" => 1,
+                "Feb" => 2,
+                "Mar" => 3,
+                "Apr" => 4,
                 "May" => 5,
-                "June" => 6,
-                "July" => 7,
-                "August" => 8,
-                "September" => 9,
-                "October" => 10,
-                "November" => 11,
-                "December" => 12,
+                "Jun" => 6,
+                "Jul" => 7,
+                "Aug" => 8,
+                "Sep" => 9,
+                "Oct" => 10,
+                "Nov" => 11,
+                "Dec" => 12,
                 _ => 0,
             };
 
-            let year = date_str[2].parse::<i32>().unwrap();
-            let day = date_str[0].parse::<u32>().unwrap();
+            let year = 2022; // TODO: get from source
+            let day = date_str[1].parse::<u32>().unwrap();
 
             if month != 0 && (day > 0 && day <= 31) && (year > 1900 && year < 3000) {
                 Some(Ymd { year, month, day })
