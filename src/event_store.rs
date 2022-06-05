@@ -11,19 +11,6 @@ pub struct WembleyEvents {
     pub events: BTreeMap<usize, WembleyEvent>,
 }
 
-impl From<SerpapiEvents> for WembleyEvents {
-    fn from(serp_events: SerpapiEvents) -> Self {
-        Self {
-            events: serp_events
-                .events_results
-                .into_iter()
-                .map(|e| e.into())
-                .enumerate()
-                .collect::<BTreeMap<usize, WembleyEvent>>(),
-        }
-    }
-}
-
 impl WembleyEvents {
     pub fn new() -> Self {
         WembleyEvents {
@@ -36,15 +23,20 @@ impl WembleyEvents {
     }
 
     pub fn build_events_from_html(mut self, html: String) -> WembleyEvents {
-        match serde_json::from_str::<SerpapiEvents>(&html) {
-            Ok(serp_api_events) => {
-                let wembley_events: WembleyEvents = serp_api_events.into();
-                self.events = wembley_events.events;
-            }
-            Err(e) => {
-                println!("An error deserializing SerpAPI events occurred: {}", e)
-            }
-        };
+        let serp_api_events = serde_json::from_str::<SerpapiEvents>(&html).unwrap_or_default();
+
+        let mut year = serp_api_events.search_metadata.created_at;
+        year.truncate(4);
+
+        self.events = serp_api_events
+            .events_results
+            .into_iter()
+            .map(|mut e| {
+                e.date.start_date.push_str(&format!(" {year}"));
+                e.into()
+            })
+            .enumerate()
+            .collect::<BTreeMap<usize, WembleyEvent>>();
 
         Self {
             events: self.events,

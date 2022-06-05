@@ -45,7 +45,7 @@ impl WembleyEvent {
 
     pub fn date_to_ymd(&self) -> Option<Ymd> {
         let date_str = self.date.split_whitespace().collect::<Vec<&str>>();
-        if date_str.len() == 2 {
+        if date_str.len() == 3 {
             let month_str = date_str[0];
             let month = match month_str {
                 "Jan" => 1,
@@ -63,7 +63,7 @@ impl WembleyEvent {
                 _ => 0,
             };
 
-            let year = 2022; // TODO: get from source
+            let year = date_str[2].parse::<i32>().unwrap();
             let day = date_str[1].parse::<u32>().unwrap();
 
             if month != 0 && (day > 0 && day <= 31) && (year > 1900 && year < 3000) {
