@@ -32,7 +32,11 @@ impl WembleyEvents {
             .events_results
             .into_iter()
             .map(|mut e| {
-                e.date.start_date.push_str(&format!(" {year}"));
+                let mut swapped_date = e.date.start_date.split_whitespace().collect::<Vec<&str>>();
+                swapped_date.push(&year);
+                swapped_date.swap(0, 1); // swap [month, day] to [day, month]
+
+                e.date.start_date = swapped_date.join(" ");
                 e.into()
             })
             .enumerate()
