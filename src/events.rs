@@ -12,7 +12,8 @@ pub struct Ymd {
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct WembleyEvent {
     pub date: String,
-    pub time_and_place: String,
+    pub time: String,
+    pub place: String,
     pub title: String,
     pub description: String,
 }
@@ -21,7 +22,8 @@ impl From<SerpapiEvent> for WembleyEvent {
     fn from(serp_event: SerpapiEvent) -> Self {
         Self {
             date: serp_event.date.start_date,
-            time_and_place: "TODO".to_string(), // TODO: need to update place
+            time: serp_event.date.when,
+            place: serp_event.venue.name,
             title: serp_event.title,
             description: serp_event.description,
         }
@@ -31,13 +33,15 @@ impl From<SerpapiEvent> for WembleyEvent {
 impl WembleyEvent {
     pub fn new(
         date: String,
-        time_and_place: String,
+        time: String,
+        place: String,
         title: String,
         description: String,
     ) -> WembleyEvent {
         WembleyEvent {
             date,
-            time_and_place,
+            time,
+            place,
             title,
             description,
         }
@@ -85,6 +89,7 @@ mod tests {
     fn test_make_event() {
         let wembley_event = WembleyEvent::new(
             "5 Jun 2021".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
@@ -103,6 +108,7 @@ mod tests {
     fn test_make_event_bad_month() {
         let wembley_event = WembleyEvent::new(
             "5 Test 2021".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
@@ -114,6 +120,7 @@ mod tests {
     fn test_make_event_bad_date_string() {
         let wembley_event = WembleyEvent::new(
             "sdfsdfgf".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
@@ -125,6 +132,7 @@ mod tests {
     fn test_make_event_bad_date_extra_item() {
         let wembley_event = WembleyEvent::new(
             "5 June 2021 5 June 2021".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
@@ -136,6 +144,7 @@ mod tests {
     fn test_make_event_bad_date_reversed() {
         let wembley_event = WembleyEvent::new(
             "2021 June 5".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),

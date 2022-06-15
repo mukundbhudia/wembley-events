@@ -12,11 +12,17 @@ pub struct SerpapiDate {
 }
 
 #[derive(Deserialize, Serialize, Default, Debug)]
+pub struct SerpapiVenue {
+    pub name: String,
+}
+
+#[derive(Deserialize, Serialize, Default, Debug)]
 pub struct SerpapiEvent {
     pub title: String,
     pub description: String,
     pub date: SerpapiDate,
     pub link: String,
+    pub venue: SerpapiVenue,
     pub thumbnail: String,
 }
 
