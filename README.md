@@ -4,15 +4,16 @@
 [![Rust](https://github.com/mukundbhudia/wembley-events/actions/workflows/rust.yml/badge.svg)](https://github.com/mukundbhudia/wembley-events/actions/workflows/rust.yml)
 [![Trigger calendar generation on a CRON Schedule](https://github.com/mukundbhudia/wembley-events/actions/workflows/scheduled-builds.yml/badge.svg)](https://github.com/mukundbhudia/wembley-events/actions/workflows/scheduled-builds.yml)
 
-Know when Wembley Stadium events are happening ahead of time. 
+Know when Wembley Stadium events are happening ahead of time.
 This project generates a calendar file on all the upcoming events at Wembley Stadium.
- - Don't get caught out in the traffic.
- - Don't struggle with parking.
- - Don't waste precious time.
 
-The calendar is updated regularly and is always available to subscribe to/download here: **https://mukundbhudia.github.io/wembley-events/wembley-events.ics**.
+- Don't get caught out in the traffic.
+- Don't struggle with parking.
+- Don't waste precious time.
 
-In addition to the calendar, this project can also generate a JSON file containing the events available to download here: https://mukundbhudia.github.io/wembley-events/wembley-events.json.
+The calendar is updated regularly and is always available to subscribe to/download here: **<https://mukundbhudia.github.io/wembley-events/wembley-events.ics>**.
+
+In addition to the calendar, this project can also generate a JSON file containing the events available to download here: <https://mukundbhudia.github.io/wembley-events/wembley-events.json>.
 
 The [wembley-events-web](https://github.com/mukundbhudia/wembley-events-web) project uses the events generated using this project to provide useful a frontend for the calendar.
 
@@ -29,8 +30,8 @@ Feel free to subscribe to the calendar using your favourite calendar app. The fi
 
 - Copy the `.env.example` file to `.env` and edit the values to suit.
 - Within the repo directory run `cargo r`.
-    - This will generate a calendar file to the path defined in `CALENDAR_SAVE_PATH`.
-    - Setting a path for `CALENDAR_JSON_SAVE_PATH` will create a JSON file of events with the same name.
+  - This will generate a calendar file to the path defined in `CALENDAR_SAVE_PATH`.
+  - Setting a path for `CALENDAR_JSON_SAVE_PATH` will create a JSON file of events with the same name.
 
 ## Production
 
@@ -45,4 +46,4 @@ Feel free to subscribe to the calendar using your favourite calendar app. The fi
 
 ## Resources & Thanks
 
-- [Brent Council events](https://www.brent.gov.uk/events-and-whats-on-calendar/).
+- [SerpAPI](https://serpapi.com/).
