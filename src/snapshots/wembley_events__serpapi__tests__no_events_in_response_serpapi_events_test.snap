@@ -1,0 +1,9 @@
+---
+source: src/serpapi.rs
+assertion_line: 79
+expression: wembley_events
+
+---
+WembleyEvents {
+    events: {},
+}

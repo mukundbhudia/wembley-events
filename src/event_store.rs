@@ -50,7 +50,7 @@ impl WembleyEvents {
     pub fn build_calendar_from_events(self) -> Calendar {
         let mut calendar = Calendar::new();
 
-        for (_, event) in self.events {
+        self.events.into_iter().for_each(|(_, event)| {
             if let Some(ymd) = event.date_to_ymd() {
                 let wembley_event = Event::new()
                     .all_day(Utc.ymd(ymd.year, ymd.month, ymd.day))
@@ -60,7 +60,7 @@ impl WembleyEvents {
 
                 calendar.push(wembley_event);
             };
-        }
+        });
 
         calendar
     }
@@ -133,8 +133,6 @@ mod tests {
         let wembley_events_as_json = WembleyEvents::new()
             .build_events_from_html(body)
             .build_json_from_events();
-
-        println!("{}", wembley_events_as_json);
 
         insta::assert_json_snapshot!(wembley_events_as_json);
     }

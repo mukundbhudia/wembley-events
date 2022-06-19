@@ -25,13 +25,13 @@ impl HttpClient {
                 match res.text().await {
                     Ok(res_body) => Ok(HttpResponse::new(res_status, res_body)),
                     Err(e) => {
-                        println!("HTTP response body error: {:#?}", e);
+                        eprintln!("HTTP response body error: {:#?}", e);
                         Err(HttpClientError::ResponseBodyError)
                     }
                 }
             }
             Err(e) => {
-                println!("HTTP request error: {:#?}", e);
+                eprintln!("HTTP request error: {:#?}", e);
                 Err(HttpClientError::RequestError)
             }
         }

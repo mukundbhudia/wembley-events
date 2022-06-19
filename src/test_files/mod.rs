@@ -513,6 +513,244 @@ pub fn serpapi_test_output_json_1() -> String {
 
 pub fn serpapi_test_output_json_2() -> String {
     r##"
-  "##
+    "##
     .to_string()
+}
+
+#[cfg(test)]
+pub fn serpapi_test_output_json_3() -> String {
+    r##"
+      {
+        "args": {}, 
+        "headers": {
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8", 
+          "Accept-Encoding": "gzip, deflate, br", 
+          "Accept-Language": "en-GB,en;q=0.5", 
+          "Dnt": "1", 
+          "Host": "httpbin.org", 
+          "Sec-Fetch-Dest": "document", 
+          "Sec-Fetch-Mode": "navigate", 
+          "Sec-Fetch-Site": "none", 
+          "Sec-Fetch-User": "?1", 
+          "Sec-Gpc": "1", 
+          "Upgrade-Insecure-Requests": "1", 
+          "User-Agent": "Mozilla/5.0 0 Firefox/101.0", 
+          "X-Amzn-Trace-Id": "Root=1-62aee3e4-1e43e58103263fc73f548b84"
+        }, 
+        "origin": "0.0.0.0", 
+        "url": "https://httpbin.org/get"
+      }
+    "##
+    .to_string()
+}
+
+#[cfg(test)]
+pub fn serpapi_test_output_json_4() -> String {
+    r##"
+      {
+        "args": {}, 
+        "headers": {
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8", 
+          "Accept-Encoding": "gzip, deflate, br", 
+          "Accept-Language": "en-GB,en;q=0.5", 
+          "Dnt": "1", 
+          "Host": "httpbin.org", 
+          "Sec-Fetch-Dest": "document", 
+    "##
+    .to_string()
+}
+
+#[cfg(test)]
+pub fn serpapi_test_output_json_5_missing_date() -> String {
+    r##"
+{
+  "search_metadata": {
+    "id": "629b5785af5af14447fa62f6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/68c91323104d0721/629b5785af5af14447fa62f6.json",
+    "created_at": "2022-06-04 13:00:53 UTC",
+    "processed_at": "2022-06-04 13:00:53 UTC",
+    "google_events_url": "https://www.google.com/search?q=Events+in+wembley&ibp=htl;events&uule=w+CAIQICIeV2VtYmxleSxFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/68c91323104d0721/629b5785af5af14447fa62f6.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "q": "Events in wembley",
+    "engine": "google_events",
+    "location_requested": "Wembley, England, United Kingdom",
+    "location_used": "Wembley,England,United Kingdom"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "Harry Styles",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Sun, Jun 19"
+      },
+      "address": [
+        "Club Wembley, Wembley Stadium",
+        "London, United Kingdom"
+      ],
+      "link": "https://www.clubwembley.com/events/2022/harry-styles",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=oUNmLrW4QBiqSGiPv6KlME4_QHo1Y7-53fwLbWtrnaLHh5hJfjTFs-QrupOEp6-2cw5XU_KXKAza4NK0c1Mp8nwDOe5ZBAwOd56yqsEbqvT4_S3BUO8",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x4876122c53bcf57f:0x547e18f740779055?sa=X&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x4876122c53bcf57f%3A0x547e18f740779055&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+wembley&type=place"
+      },
+      "description": "Multi-platinum recording artist Harry Styles announces the rescheduled dates for his world tour, in addition to new shows added across the globe. Styles will kick off his colossal 32-city outing...",
+      "ticket_info": [
+        {
+          "source": "Livenation.co.uk",
+          "link": "https://www.livenation.co.uk/show/1360986/harry-styles-love-on-tour/london/2022-06-19/en",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Songkick.com",
+          "link": "https://www.songkick.com/concerts/40205531-harry-styles-at-wembley-stadium?utm_medium=organic&utm_source=microformat",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Seetickets.com",
+          "link": "https://www.seetickets.com/event/harry-styles-love-on-tour/wembley-stadium/2206022",
+          "link_type": "tickets"
+        },
+        {
+          "source": "The website for the English football association, the Emirates FA Cup and the England football team",
+          "link": "https://www.clubwembley.com/events/2022/harry-styles",
+          "link_type": "more info"
+        },
+        {
+          "source": "Tickets - The FA",
+          "link": "https://ticketingcontent.thefa.com/Harry%20Styles%20Pitch%20Standing%20-%2019th%20June",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Club Wembley",
+        "rating": 4.5,
+        "reviews": 255,
+        "link": "https://www.google.com/search?hl=en&q=Club+Wembley&ludocid=6088331196469055573&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShRkHc7cITjGfbMMkgj1tU-phjKHLT1ARe5VCNQJ9pww&s=10"
+    },
+    {
+      "title": "David Guetta @ Wembley Stadium",
+      "address": [
+        "Wembley Stadium",
+        "London, United Kingdom"
+      ],
+      "link": "https://www.bandsintown.com/e/1024978668-david-guetta-at-wembley-stadium",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=BeLrxXVpFMekV5D1cGfHK5UUuzjyZVDvOtALeFPXfQdFdoVttXfFiEJ2gaV66vKPNKMypnbtGKBFixEeHJNjrrGKD00LhUt575JR1R1DKBVSNiAPMlE",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x48761181d57a876d:0xa64f9f185de8e097?sa=X&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x48761181d57a876d%3A0xa64f9f185de8e097&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+wembley&type=place"
+      },
+      "description": "Capital's Summertime Ball",
+      "ticket_info": [
+        {
+          "source": "Bandsintown.com",
+          "link": "https://www.bandsintown.com/t/1024978668?came_from=209",
+          "link_type": "tickets"
+        }
+      ],
+      "venue": {
+        "name": "Wembley Stadium",
+        "rating": 4.5,
+        "reviews": 42262,
+        "link": "https://www.google.com/search?hl=en&q=Wembley+Stadium&ludocid=11983972060459753623&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7KQe3RBKFt-xf82bsCiVaYSNOF9Quv_FsktsUO5kzFw&s=10"
+    }
+  ]
+}
+    "##.to_string()
+}
+
+#[cfg(test)]
+pub fn serpapi_test_output_json_6_one_bad_json_event() -> String {
+    r##"
+{
+  "search_metadata": {
+    "id": "629b5785af5af14447fa62f6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/68c91323104d0721/629b5785af5af14447fa62f6.json",
+    "created_at": "2022-06-04 13:00:53 UTC",
+    "processed_at": "2022-06-04 13:00:53 UTC",
+    "google_events_url": "https://www.google.com/search?q=Events+in+wembley&ibp=htl;events&uule=w+CAIQICIeV2VtYmxleSxFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/68c91323104d0721/629b5785af5af14447fa62f6.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "q": "Events in wembley",
+    "engine": "google_events",
+    "location_requested": "Wembley, England, United Kingdom",
+    "location_used": "Wembley,England,United Kingdom"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "Harry Styles",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Sun, Jun 19"
+      },
+      "address": [
+        "Club Wembley, Wembley Stadium",
+        "London, United Kingdom"
+      ],
+      "link": "https://www.clubwembley.com/events/2022/harry-styles",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=oUNmLrW4QBiqSGiPv6KlME4_QHo1Y7-53fwLbWtrnaLHh5hJfjTFs-QrupOEp6-2cw5XU_KXKAza4NK0c1Mp8nwDOe5ZBAwOd56yqsEbqvT4_S3BUO8",
+        "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x4876122c53bcf57f:0x547e18f740779055?sa=X&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?data=%214m2%213m1%211s0x4876122c53bcf57f%3A0x547e18f740779055&engine=google_maps&google_domain=google.com&hl=en&q=Events+in+wembley&type=place"
+      },
+      "description": "Multi-platinum recording artist Harry Styles announces the rescheduled dates for his world tour, in addition to new shows added across the globe. Styles will kick off his colossal 32-city outing...",
+      "ticket_info": [
+        {
+          "source": "Livenation.co.uk",
+          "link": "https://www.livenation.co.uk/show/1360986/harry-styles-love-on-tour/london/2022-06-19/en",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Songkick.com",
+          "link": "https://www.songkick.com/concerts/40205531-harry-styles-at-wembley-stadium?utm_medium=organic&utm_source=microformat",
+          "link_type": "tickets"
+        },
+        {
+          "source": "Seetickets.com",
+          "link": "https://www.seetickets.com/event/harry-styles-love-on-tour/wembley-stadium/2206022",
+          "link_type": "tickets"
+        },
+        {
+          "source": "The website for the English football association, the Emirates FA Cup and the England football team",
+          "link": "https://www.clubwembley.com/events/2022/harry-styles",
+          "link_type": "more info"
+        },
+        {
+          "source": "Tickets - The FA",
+          "link": "https://ticketingcontent.thefa.com/Harry%20Styles%20Pitch%20Standing%20-%2019th%20June",
+          "link_type": "more info"
+        }
+      ],
+      "venue": {
+        "name": "Club Wembley",
+        "rating": 4.5,
+        "reviews": 255,
+        "link": "https://www.google.com/search?hl=en&q=Club+Wembley&ludocid=6088331196469055573&ibp=gwp%3B0,7"
+      },
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShRkHc7cITjGfbMMkgj1tU-phjKHLT1ARe5VCNQJ9pww&s=10"
+    },
+    {
+      "title": "David Guetta @ Wembley Stadium",
+      "address": [
+        "Wembley Stadium",
+        "London, United Kingdom"
+  ]
+}
+    "##.to_string()
 }
