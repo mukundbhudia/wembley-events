@@ -3,14 +3,12 @@ use std::collections::BTreeMap;
 
 use chrono::*;
 use icalendar::*;
-use select::document::Document;
-use select::predicate::{Class, Name};
 
-use crate::WembleyEvent;
+use crate::{SerpapiEvents, WembleyEvent};
 
-#[derive(Clone, Serialize, Deserialize)]
+#[derive(Clone, Serialize, Deserialize, Debug)]
 pub struct WembleyEvents {
-    events: BTreeMap<usize, WembleyEvent>,
+    pub events: BTreeMap<usize, WembleyEvent>,
 }
 
 impl WembleyEvents {
@@ -25,36 +23,24 @@ impl WembleyEvents {
     }
 
     pub fn build_events_from_html(mut self, html: String) -> WembleyEvents {
-        let document = Document::from(html.as_str());
-        let event_dates_iter = document.find(Name("h3")).map(|x| x.text());
+        let serp_api_events = serde_json::from_str::<SerpapiEvents>(&html).unwrap_or_default();
 
-        for ((i, node), event_date) in document
-            .find(Class("brent_newEvent"))
+        let mut year = serp_api_events.search_metadata.created_at;
+        year.truncate(4);
+
+        self.events = serp_api_events
+            .events_results
+            .into_iter()
+            .map(|mut e| {
+                let mut swapped_date = e.date.start_date.split_whitespace().collect::<Vec<&str>>();
+                swapped_date.push(&year);
+                swapped_date.swap(0, 1); // swap [month, day] to [day, month]
+
+                e.date.start_date = swapped_date.join(" ");
+                e.into()
+            })
             .enumerate()
-            .zip(event_dates_iter)
-        {
-            let event_title = node
-                .find(Class("card-header"))
-                .map(|x| x.text())
-                .collect::<String>();
-            let event_time_and_place = node
-                .find(Class("brent_newEventDetails"))
-                .map(|x| x.text())
-                .collect::<String>();
-            let event_description = node
-                .find(Class("col-lg-9"))
-                .map(|x| x.children().skip(1).map(|y| y.text()).collect::<String>())
-                .collect::<String>();
-
-            let event = WembleyEvent::new(
-                event_date,
-                event_time_and_place,
-                event_title,
-                event_description,
-            );
-
-            self.events.insert(i, event);
-        }
+            .collect::<BTreeMap<usize, WembleyEvent>>();
 
         Self {
             events: self.events,
@@ -64,7 +50,7 @@ impl WembleyEvents {
     pub fn build_calendar_from_events(self) -> Calendar {
         let mut calendar = Calendar::new();
 
-        for (_, event) in self.events {
+        self.events.into_iter().for_each(|(_, event)| {
             if let Some(ymd) = event.date_to_ymd() {
                 let wembley_event = Event::new()
                     .all_day(Utc.ymd(ymd.year, ymd.month, ymd.day))
@@ -74,7 +60,7 @@ impl WembleyEvents {
 
                 calendar.push(wembley_event);
             };
-        }
+        });
 
         calendar
     }
@@ -92,31 +78,31 @@ impl Default for WembleyEvents {
 
 #[cfg(test)]
 mod tests {
-    use crate::{test_file_1, test_file_2};
+    use crate::{serpapi_test_output_json_1, serpapi_test_output_json_2};
 
     use super::*;
 
     #[test]
     fn build_events_from_html() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
-        assert_eq!(wembley_events.get_events().len(), 7);
+        assert_eq!(wembley_events.get_events().len(), 10);
     }
 
     #[test]
     fn build_calendar_from_events() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         let calendar = wembley_events.build_calendar_from_events();
 
-        assert_eq!(calendar.len(), 7);
+        assert_eq!(calendar.len(), 10);
     }
 
     #[test]
     fn check_events_match_calendar() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
         let calendar_built_from_events = wembley_events.build_calendar_from_events();
 
@@ -125,7 +111,7 @@ mod tests {
 
     #[test]
     fn check_events_match_calendar_with_blank_html() {
-        let body = test_file_2();
+        let body = serpapi_test_output_json_2();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
         let calendar_built_from_events = wembley_events.build_calendar_from_events();
 
@@ -143,12 +129,10 @@ mod tests {
 
     #[test]
     fn check_events_match_calendar_json() {
-        let body = test_file_1();
+        let body = serpapi_test_output_json_1();
         let wembley_events_as_json = WembleyEvents::new()
             .build_events_from_html(body)
             .build_json_from_events();
-
-        println!("{}", wembley_events_as_json);
 
         insta::assert_json_snapshot!(wembley_events_as_json);
     }

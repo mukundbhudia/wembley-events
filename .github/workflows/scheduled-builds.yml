@@ -2,8 +2,8 @@ name: Scheduled calendar build
 
 on:
   schedule:
-    # Runs "At minute 15 past every 12th hour." (see https://crontab.guru)
-    - cron: '15 */12 * * *'
+    # Runs "At minute 15 past every 24th hour." (see https://crontab.guru)
+    - cron: '15 */24 * * *'
 
 jobs:
   build:
@@ -20,9 +20,10 @@ jobs:
         run: |
           ./wembley-events
         env:
-          CALENDAR_URL: "https://www.brent.gov.uk/events-and-whats-on-calendar/?eventCat=Wembley+Stadium+events&startDate=01%2F01%2F2021&endDate=31%2F12%2F2029&count=50"
+          CALENDAR_URL: "https://serpapi.com/search.json?engine=google_events&q=Events+in+wembley&location=Wembley%2C+England%2C+United+Kingdom&api_key="
           CALENDAR_SAVE_PATH: "output/wembley-events.ics"
           CALENDAR_JSON_SAVE_PATH: "output/wembley-events.json"
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
 
       - name: Deploy to GitHub pages
         uses: JamesIves/github-pages-deploy-action@4.1.5

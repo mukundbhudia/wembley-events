@@ -1,5 +1,7 @@
 use serde::{Deserialize, Serialize};
 
+use crate::SerpapiEvent;
+
 #[derive(Debug, PartialEq, Eq)]
 pub struct Ymd {
     pub year: i32,
@@ -9,22 +11,37 @@ pub struct Ymd {
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct WembleyEvent {
-    date: String,
-    time_and_place: String,
+    pub date: String,
+    pub time: String,
+    pub place: String,
     pub title: String,
     pub description: String,
+}
+
+impl From<SerpapiEvent> for WembleyEvent {
+    fn from(serp_event: SerpapiEvent) -> Self {
+        Self {
+            date: serp_event.date.start_date,
+            time: serp_event.date.when,
+            place: serp_event.venue.name,
+            title: serp_event.title,
+            description: serp_event.description,
+        }
+    }
 }
 
 impl WembleyEvent {
     pub fn new(
         date: String,
-        time_and_place: String,
+        time: String,
+        place: String,
         title: String,
         description: String,
     ) -> WembleyEvent {
         WembleyEvent {
             date,
-            time_and_place,
+            time,
+            place,
             title,
             description,
         }
@@ -35,18 +52,18 @@ impl WembleyEvent {
         if date_str.len() == 3 {
             let month_str = date_str[1];
             let month = match month_str {
-                "January" => 1,
-                "February" => 2,
-                "March" => 3,
-                "April" => 4,
+                "Jan" => 1,
+                "Feb" => 2,
+                "Mar" => 3,
+                "Apr" => 4,
                 "May" => 5,
-                "June" => 6,
-                "July" => 7,
-                "August" => 8,
-                "September" => 9,
-                "October" => 10,
-                "November" => 11,
-                "December" => 12,
+                "Jun" => 6,
+                "Jul" => 7,
+                "Aug" => 8,
+                "Sep" => 9,
+                "Oct" => 10,
+                "Nov" => 11,
+                "Dec" => 12,
                 _ => 0,
             };
 
@@ -71,7 +88,8 @@ mod tests {
     #[test]
     fn test_make_event() {
         let wembley_event = WembleyEvent::new(
-            "5 June 2021".to_string(),
+            "5 Jun 2021".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
@@ -90,6 +108,7 @@ mod tests {
     fn test_make_event_bad_month() {
         let wembley_event = WembleyEvent::new(
             "5 Test 2021".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
@@ -101,6 +120,7 @@ mod tests {
     fn test_make_event_bad_date_string() {
         let wembley_event = WembleyEvent::new(
             "sdfsdfgf".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
@@ -112,6 +132,7 @@ mod tests {
     fn test_make_event_bad_date_extra_item() {
         let wembley_event = WembleyEvent::new(
             "5 June 2021 5 June 2021".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
@@ -123,6 +144,7 @@ mod tests {
     fn test_make_event_bad_date_reversed() {
         let wembley_event = WembleyEvent::new(
             "2021 June 5".to_string(),
+            "Wed, 4:30 – 8:30 PM".to_string(),
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),

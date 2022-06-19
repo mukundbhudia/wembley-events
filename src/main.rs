@@ -5,12 +5,11 @@ use wembley_events::{CalendarWriter, Config, HttpClient, WembleyEvents};
 #[tokio::main]
 async fn main() {
     let config = Config::new().load_from_dotenv();
+    let full_url = format!("{}{}", &config.calendar_url, &config.serpapi_api_key);
 
-    if let Ok(res) = HttpClient::new(&config.calendar_url)
-        .get_text_from_url()
-        .await
-    {
+    if let Ok(res) = HttpClient::new(&full_url).get_text_from_url().await {
         let wembley_events = WembleyEvents::new().build_events_from_html(res.body);
+
         let calendar_writer = CalendarWriter::new(wembley_events);
 
         if calendar_writer
