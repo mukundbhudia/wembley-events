@@ -30,7 +30,11 @@ impl Config {
         }
 
         if let Ok(serpapi_api_key) = env::var("SERPAPI_API_KEY") {
-            self.serpapi_api_key = serpapi_api_key;
+            if serpapi_api_key.is_empty() {
+                eprintln!("Empty SERPAPI_API_KEY environment variable. Using default.");
+            } else {
+                self.serpapi_api_key = serpapi_api_key;
+            }
         } else {
             eprintln!("Missing SERPAPI_API_KEY environment variable. Using default.");
         }
