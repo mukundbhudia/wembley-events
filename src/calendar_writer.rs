@@ -76,7 +76,10 @@ pub enum CalendarWriterError {
 
 #[cfg(test)]
 mod tests {
-    use crate::{serpapi_test_output_json_1, serpapi_test_output_json_2, WembleyEvents};
+    use crate::{
+        test_files::{serpapi_test_output_json_1, serpapi_test_output_json_2},
+        WembleyEvents,
+    };
 
     use super::*;
 

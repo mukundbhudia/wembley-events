@@ -12,4 +12,3 @@ pub use event_store::WembleyEvents;
 pub use events::WembleyEvent;
 pub use http::HttpClient;
 pub use serpapi::{SerpapiEvent, SerpapiEvents};
-pub use test_files::{serpapi_test_output_json_1, serpapi_test_output_json_2};

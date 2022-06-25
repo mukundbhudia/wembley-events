@@ -33,10 +33,12 @@ impl WembleyEvents {
             .into_iter()
             .map(|mut e| {
                 let mut swapped_date = e.date.start_date.split_whitespace().collect::<Vec<&str>>();
-                swapped_date.push(&year);
-                swapped_date.swap(0, 1); // swap [month, day] to [day, month]
+                if swapped_date.len() >= 2 {
+                    swapped_date.push(&year);
+                    swapped_date.swap(0, 1); // swap [month, day] to [day, month]
 
-                e.date.start_date = swapped_date.join(" ");
+                    e.date.start_date = swapped_date.join(" ");
+                }
                 e.into()
             })
             .enumerate()
@@ -78,13 +80,24 @@ impl Default for WembleyEvents {
 
 #[cfg(test)]
 mod tests {
-    use crate::{serpapi_test_output_json_1, serpapi_test_output_json_2};
+    use crate::test_files::{
+        serpapi_test_output_json_1, serpapi_test_output_json_2,
+        serpapi_test_output_json_3_some_fields_missing,
+    };
 
     use super::*;
 
     #[test]
     fn build_events_from_html() {
         let body = serpapi_test_output_json_1();
+        let wembley_events = WembleyEvents::new().build_events_from_html(body);
+
+        assert_eq!(wembley_events.get_events().len(), 10);
+    }
+
+    #[test]
+    fn build_events_from_html_2_2() {
+        let body = serpapi_test_output_json_3_some_fields_missing();
         let wembley_events = WembleyEvents::new().build_events_from_html(body);
 
         assert_eq!(wembley_events.get_events().len(), 10);

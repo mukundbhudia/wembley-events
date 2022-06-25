@@ -1,9 +1,23 @@
 ---
 source: src/serpapi.rs
-assertion_line: 101
+assertion_line: 109
 expression: wembley_events
-
 ---
 WembleyEvents {
-    events: {},
+    events: {
+        0: WembleyEvent {
+            date: "19 Jun 2022",
+            time: "Sun, Jun 19",
+            place: "Club Wembley",
+            title: "Harry Styles",
+            description: "Multi-platinum recording artist Harry Styles announces the rescheduled dates for his world tour, in addition to new shows added across the globe. Styles will kick off his colossal 32-city outing...",
+        },
+        1: WembleyEvent {
+            date: "",
+            time: "",
+            place: "Wembley Stadium",
+            title: "David Guetta @ Wembley Stadium",
+            description: "Capital's Summertime Ball",
+        },
+    },
 }
