@@ -3,9 +3,7 @@ name: Scheduled calendar build
 on:
   schedule:
     # Runs "At minute 15 past every 24th hour." (see https://crontab.guru)
-    # - cron: '15 */24 * * *'
-    # Test running every 20 minutes
-    - cron: '*/20 * * * *'
+    - cron: '15 */24 * * *'
 
 jobs:
   build:
