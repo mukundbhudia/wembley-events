@@ -1,8 +1,7 @@
 ---
 source: src/serpapi.rs
-assertion_line: 50
+assertion_line: 63
 expression: wembley_events
-
 ---
 WembleyEvents {
     events: {
@@ -12,6 +11,7 @@ WembleyEvents {
             place: "Club Wembley",
             title: "Harry Styles",
             description: "Multi-platinum recording artist Harry Styles announces the rescheduled dates for his world tour, in addition to new shows added across the globe. Styles will kick off his colossal 32-city outing...",
+            link: "https://www.clubwembley.com/events/2022/harry-styles",
         },
         1: WembleyEvent {
             date: "12 Jun 2022",
@@ -19,6 +19,7 @@ WembleyEvents {
             place: "Wembley Stadium",
             title: "David Guetta @ Wembley Stadium",
             description: "Capital's Summertime Ball",
+            link: "https://www.bandsintown.com/e/1024978668-david-guetta-at-wembley-stadium",
         },
         2: WembleyEvent {
             date: "5 Jun 2022",
@@ -26,6 +27,7 @@ WembleyEvents {
             place: "BOXPARK Wembley",
             title: "Soulful Sundays",
             description: "Join BOXPARK Wembley and their resident DJ's for all things soulful",
+            link: "https://wembleypark.com/whats-on/boxpark-wembley-soulful-sundays-5-june-2022/",
         },
         3: WembleyEvent {
             date: "29 Jun 2022",
@@ -33,6 +35,7 @@ WembleyEvents {
             place: "Wembley Stadium",
             title: "Ed Sheeran @ Wembley Stadium",
             description: "span Ed Sheeran has announced the first leg of his ‘+ - = ÷ x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadiums throughout 2022. Kicking off in April next year, the tour will...",
+            link: "https://ticketingcontent.thefa.com/Ed%20Sheeran%20Standing%2029th%20June%202022",
         },
         4: WembleyEvent {
             date: "25 Jun 2022",
@@ -40,6 +43,7 @@ WembleyEvents {
             place: "Wembley Stadium",
             title: "Dylan @ Wembley Stadium",
             description: "span Ed Sheeran has announced the first leg of his ‘+ - = ÷ x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadiums throughout 2022. Kicking off in April next year, the tour will...",
+            link: "https://ticketingcontent.thefa.com/Ed%20Sheeran%20Standing%2025th%20June%202022",
         },
         5: WembleyEvent {
             date: "16 Aug 2022",
@@ -47,6 +51,7 @@ WembleyEvents {
             place: "Wembley Stadium",
             title: "Coldplay @ Wembley Stadium",
             description: "Global super pop rock band Coldplay will be hitting the road on tour in 2022 and will be performing live on stage in their Music of the Spheres World Tour ! This particular live concert is...",
+            link: "https://ticketingcontent.thefa.com/Coldplay%20Seated%2016th%20August%202022",
         },
         6: WembleyEvent {
             date: "24 Jun 2022",
@@ -54,6 +59,7 @@ WembleyEvents {
             place: "Wembley Stadium",
             title: "Ed Sheeran + - = ÷ x Tour",
             description: "Ed Sheeran Seated Ticket & Hotel Experience This Experience Includes: • Reserved Seated Ticket (Block 104 or 141) Tickets seated together • One night hotel stay including complimentary breakfast •...",
+            link: "https://ticketingcontent.thefa.com/en/Ed-Sheeran-Hospitality-24th-June-2022",
         },
         7: WembleyEvent {
             date: "20 Aug 2022",
@@ -61,6 +67,7 @@ WembleyEvents {
             place: "Wembley Stadium",
             title: "Coldplay: Music of the Spheres World Tour",
             description: "Global super pop rock band Coldplay will be hitting the road on tour in 2022 and will be performing live on stage in their Music of the Spheres World Tour ! This particular live concert is...",
+            link: "https://ticketingcontent.thefa.com/Coldplay%20Seated%2020th%20August%202022",
         },
         8: WembleyEvent {
             date: "26 Jun 2022",
@@ -68,6 +75,7 @@ WembleyEvents {
             place: "OVO Arena",
             title: "Jubin Nautiyal - RESCHEDULED",
             description: "Jubin Nautiyal at OVO Arena Wembley in Wembley Park",
+            link: "https://wembleypark.com/whats-on/ovo-arena-wembley-jubin-nautiyal/",
         },
         9: WembleyEvent {
             date: "10 Jun 2022",
@@ -75,6 +83,7 @@ WembleyEvents {
             place: "The SSE Arena, Wembley",
             title: "50 Cent",
             description: "SJM Concerts 50 CENT FRI, 10 JUN 2022 at 07:30PM BST Doors Open: 06:00PM OnSale: Fri, 28 Jan 2022 at 09:30AM GMT Announcement: Wed, 26 Jan 2022 at 10:00AM GMT Hip Hop heavyweight 50 Cent, has...",
+            link: "https://www.facebook.com/events/ovo-arena-wembley/50-cent/1000089817594536/",
         },
     },
 }

@@ -16,6 +16,7 @@ pub struct WembleyEvent {
     pub place: String,
     pub title: String,
     pub description: String,
+    pub link: String,
 }
 
 impl From<SerpapiEvent> for WembleyEvent {
@@ -26,6 +27,7 @@ impl From<SerpapiEvent> for WembleyEvent {
             place: serp_event.venue.name,
             title: serp_event.title,
             description: serp_event.description,
+            link: serp_event.link,
         }
     }
 }
@@ -37,6 +39,7 @@ impl WembleyEvent {
         place: String,
         title: String,
         description: String,
+        link: String,
     ) -> WembleyEvent {
         WembleyEvent {
             date,
@@ -44,6 +47,7 @@ impl WembleyEvent {
             place,
             title,
             description,
+            link,
         }
     }
 
@@ -93,6 +97,7 @@ mod tests {
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
+            "https://www.example.com/".to_string(),
         );
         assert_eq!(
             wembley_event.date_to_ymd(),
@@ -112,6 +117,7 @@ mod tests {
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
+            "https://www.example.com/".to_string(),
         );
         assert_eq!(wembley_event.date_to_ymd(), None);
     }
@@ -124,6 +130,7 @@ mod tests {
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
+            "https://www.example.com/".to_string(),
         );
         assert_eq!(wembley_event.date_to_ymd(), None);
     }
@@ -136,6 +143,7 @@ mod tests {
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
+            "https://www.example.com/".to_string(),
         );
         assert_eq!(wembley_event.date_to_ymd(), None);
     }
@@ -148,6 +156,7 @@ mod tests {
             "Somewhere".to_string(),
             "Title".to_string(),
             "description".to_string(),
+            "https://www.example.com/".to_string(),
         );
         assert_eq!(wembley_event.date_to_ymd(), None);
     }

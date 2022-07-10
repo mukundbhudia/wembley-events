@@ -11,6 +11,7 @@ WembleyEvents {
             place: "Club Wembley",
             title: "Harry Styles",
             description: "Multi-platinum recording artist Harry Styles announces the rescheduled dates for his world tour, in addition to new shows added across the globe. Styles will kick off his colossal 32-city outing...",
+            link: "https://www.clubwembley.com/events/2022/harry-styles",
         },
         1: WembleyEvent {
             date: "",
@@ -18,6 +19,7 @@ WembleyEvents {
             place: "Wembley Stadium",
             title: "David Guetta @ Wembley Stadium",
             description: "Capital's Summertime Ball",
+            link: "https://www.bandsintown.com/e/1024978668-david-guetta-at-wembley-stadium",
         },
     },
 }
