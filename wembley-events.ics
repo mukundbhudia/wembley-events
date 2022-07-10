@@ -3,102 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
-DESCRIPTION:span Ed Sheeran has announced the first leg of his ‘+ - = ÷ 
- x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadium
- s throughout 2022. Kicking off in April next year, the tour will...
-DTEND;VALUE=DATE:20220625
-DTSTART;VALUE=DATE:20220625
-SUMMARY:Dylan @ Wembley Stadium
-UID:afefc679-711f-4017-bcc9-70d7548eabdd
+DTSTAMP:20220710T024350Z
+DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
+ se hospitality with Club Wembley
+DTEND;VALUE=DATE:20220806
+DTSTART;VALUE=DATE:20220806
+SUMMARY:Westlife
+UID:d5bf6399-38cc-4be2-837a-4fb977536dee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
-DESCRIPTION:TWENTY ONE PILOTS: TAKEØVER TOUR - London 25 June 2022 Sign up
-  for artist pre-sale at twentyonepilots.com/tour Sale Dates and Times: Publ
- ic Onsale : Wed, 23 Jun 2021 at 09:00 AM O2 Presale :...
-DTEND;VALUE=DATE:20220625
-DTSTART;VALUE=DATE:20220625
-SUMMARY:Ed Sheeran
-UID:4f315775-7180-4016-8ac6-946475c1ee03
+DTSTAMP:20220710T024350Z
+DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
+ golden Lamborghini from ﬂames to producing the world‘s largest candy ja
+ r, bulging with thousands of sweets – this show is something...
+DTEND;VALUE=DATE:20220813
+DTSTART;VALUE=DATE:20220813
+SUMMARY:The Ehrlich Brothers - RESCHEDULED
+UID:e4682e2c-877c-409d-bbb5-971d3b773922
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
-DESCRIPTION:The Red Hot Chili Peppers are coming to the Park, with a one ni
- ght performance at the London Stadium next summer as a part of their 2022 U
- K Stadium Tour! The tour kicking off in Estadio La Cartuja...
-DTEND;VALUE=DATE:20220625
-DTSTART;VALUE=DATE:20220625
-SUMMARY:Red Hot Chili Peppers
-UID:5b42ef3f-936a-49b3-9e51-cd4e688e10c5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
-DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
- n tour in 2022 and will be performing live on stage in their Music of the S
- pheres World Tour ! This particular live concert is...
+DTSTAMP:20220710T024350Z
+DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
+ sic of The Spheres World Tour’, at Wembley Stadium, in August 2022. With 
+ thinking of the impact of their concerts on the environment...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay @ Wembley Stadium
-UID:6d3f3006-909a-4215-82ed-51db3c857717
+UID:78509f50-69b0-471f-95cd-f86a8a022a79
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
-DESCRIPTION:span Ed Sheeran has announced the first leg of his ‘+ - = ÷ 
- x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadium
- s throughout 2022. Kicking off in April next year, the tour will...
-DTEND;VALUE=DATE:20220629
-DTSTART;VALUE=DATE:20220629
-SUMMARY:Dylan @ Wembley Stadium
-UID:f973fe70-4b6c-4134-a2f3-4d708f4f6ca0
+DTSTAMP:20220710T024350Z
+DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
+ f last week’s album news, today the electronic music legend announces h
+ e’ll be performing a very special show on September 17th at...
+DTEND;VALUE=DATE:20220916
+DTSTART;VALUE=DATE:20220916
+SUMMARY:Carl Cox
+UID:386ab545-6a0f-4ee9-846b-926ce16fd318
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
-DESCRIPTION:span Ed Sheeran has announced the first leg of his ‘+ - = ÷ 
- x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadium
- s throughout 2022. Kicking off in April next year, the tour will...
-DTEND;VALUE=DATE:20220701
-DTSTART;VALUE=DATE:20220701
-SUMMARY:+ - = ÷ x Tour
-UID:d789e101-ee9b-4f9d-8727-4656fa6aa385
+DTSTAMP:20220710T024350Z
+DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
+ n tour in 2022 and will be performing live on stage in their Music of the S
+ pheres World Tour ! This particular live concert is...
+DTEND;VALUE=DATE:20220816
+DTSTART;VALUE=DATE:20220816
+SUMMARY:Coldplay: Music of the Spheres World Tour
+UID:835ae760-6b94-4af8-b34f-f48c6bd0c7ff
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
-DESCRIPTION:Westlife first broke into the charts with their debut single Sw
- ear It Again. Released in April 1999, the song peaked at No.1 on the Offici
- al UK Singles Chart where it remained for two weeks. The...
-DTEND;VALUE=DATE:20220806
-DTSTART;VALUE=DATE:20220806
-SUMMARY:Westlife at Wembley
-UID:f55281f7-9021-4582-ac98-b0ab0af99c79
+DTSTAMP:20220710T024350Z
+DESCRIPTION:Buy OrelSan tickets and sign-up for latest tour alerts. Find Or
+ elSan tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20221102
+DTSTART;VALUE=DATE:20221102
+SUMMARY:Orelsan
+UID:d215e24a-b29e-4d51-86dc-2dc2f09bd32e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
-DESCRIPTION:American Express presents BST Hyde Park returns in 2022! London
- ’s festival is back next year for the celebration of the summer.British S
- ummer Time in 2022 will be a huge and eagerly awaited...
-DTEND;VALUE=DATE:20220625
-DTSTART;VALUE=DATE:20220625
-SUMMARY:Elton John @ Hyde Park
-UID:788a863f-9675-48d0-94cf-f89b7b9a6a1e
+DTSTAMP:20220710T024350Z
+DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
+ ssain Manawer div
+DTEND;VALUE=DATE:20221026
+DTSTART;VALUE=DATE:20221026
+SUMMARY:Bon Iver
+UID:3f1a48e5-8911-4d03-9c0d-53f3a614685c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
-DESCRIPTION:The Rolling Stones SIXTY summer European tour is a celebration 
- of the band’s 60th Anniversary. The Stones just keep on rolling and are b
- ack where they belong, out on the road in Europe, playing to...
-DTEND;VALUE=DATE:20220625
-DTSTART;VALUE=DATE:20220625
-SUMMARY:The Rolling Stones
-UID:56a2a49f-755b-46c2-a213-f171fe73200d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220625T205127Z
+DTSTAMP:20220710T024350Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:8547df7c-214a-4df0-af25-8f986ba9a7da
+UID:9c31d780-b32e-4214-9c79-dbb077be2a51
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220710T024350Z
+DESCRIPTION:Billy Idol at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221019
+DTSTART;VALUE=DATE:20221019
+SUMMARY:Billy Idol
+UID:543729a9-8fcb-4863-bea6-aafb44ee36d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220710T024350Z
+DESCRIPTION:This show was rescheduled from 30th October 2021. Horizons take
+ s us on a dazzling cinematic journey. A story of how we came to be and wha
+ t we can become. Using state-of-the-art LED screen...
+DTEND;VALUE=DATE:20220928
+DTSTART;VALUE=DATE:20220928
+SUMMARY:Professor Brian Cox - RESCHEDULED
+UID:3cc7f9b1-f720-4a38-a212-873359d0a0ec
 END:VEVENT
 END:VCALENDAR
