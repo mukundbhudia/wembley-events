@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
  se hospitality with Club Wembley
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife
-UID:d5bf6399-38cc-4be2-837a-4fb977536dee
+UID:efbfbbaa-20d1-4cfc-8a90-7957fe46fb12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:The Ehrlich Brothers - RESCHEDULED
-UID:e4682e2c-877c-409d-bbb5-971d3b773922
+UID:59f92e46-752f-4074-aa28-95e1c7026c8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022. With 
  thinking of the impact of their concerts on the environment...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay @ Wembley Stadium
-UID:78509f50-69b0-471f-95cd-f86a8a022a79
+UID:c9b584e4-3bb1-45ff-ab24-4313beeae16b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Carl Cox
-UID:386ab545-6a0f-4ee9-846b-926ce16fd318
+UID:2c86ce6e-f71e-404a-98e6-b61309dfcf14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220816
 DTSTART;VALUE=DATE:20220816
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:835ae760-6b94-4af8-b34f-f48c6bd0c7ff
+UID:e8941dd1-1f45-4b39-a681-015aaa038e08
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:Buy OrelSan tickets and sign-up for latest tour alerts. Find Or
  elSan tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20221102
 DTSTART;VALUE=DATE:20221102
 SUMMARY:Orelsan
-UID:d215e24a-b29e-4d51-86dc-2dc2f09bd32e
+UID:05d7f2b7-4758-44f9-9794-22c194498ca5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:3f1a48e5-8911-4d03-9c0d-53f3a614685c
+UID:02011a73-c746-4a2a-80a0-50c298f1e681
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:9c31d780-b32e-4214-9c79-dbb077be2a51
+UID:c0587011-aa57-44a3-9e96-7359a9c034ec
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:Billy Idol at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol
-UID:543729a9-8fcb-4863-bea6-aafb44ee36d7
+UID:107b1312-eeed-448f-bb5f-6e27f2139a14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220710T024350Z
+DTSTAMP:20220710T110610Z
 DESCRIPTION:This show was rescheduled from 30th October 2021. Horizons take
  s us on a dazzling cinematic journey. A story of how we came to be and wha
  t we can become. Using state-of-the-art LED screen...
 DTEND;VALUE=DATE:20220928
 DTSTART;VALUE=DATE:20220928
 SUMMARY:Professor Brian Cox - RESCHEDULED
-UID:3cc7f9b1-f720-4a38-a212-873359d0a0ec
+UID:9b549f08-6133-4c34-bddb-f16df82aa480
 END:VEVENT
 END:VCALENDAR
