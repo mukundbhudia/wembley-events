@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:The Mayor of London presents International Busking Day, a free 
  worldwide festival of busking in London's Wembley Park on Saturday 16th Jul
  y 2022.
 DTEND;VALUE=DATE:20220716
 DTSTART;VALUE=DATE:20220716
 SUMMARY:International Busking Day
-UID:9cfa155a-9a67-4c44-aca3-0ef7ab60a4b1
+UID:cbc3d716-eadb-477b-b7d0-d9cb69bb017c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
  se hospitality with Club Wembley
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife
-UID:42ad477a-5083-422a-aac4-0e8f791fc835
+UID:1842845d-caf7-4c5f-8620-59d089e0058d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:Tickets, info and places to stay for Brent Makes Music at OVO A
  rena, Wembleyin London on Wed 13th July 2022. Ents24.com, the UK's biggest 
  entertainment guide
 DTEND;VALUE=DATE:20220713
 DTSTART;VALUE=DATE:20220713
 SUMMARY:Brent Makes Music
-UID:61184e51-e04c-4460-9d68-762a42cb8e9c
+UID:76a26cd3-a945-4db0-b14a-99eda97b7690
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:The Ehrlich Brothers - RESCHEDULED
-UID:376e0f63-4cf4-487e-b22c-be744e19b21f
+UID:4a2fac3c-62bd-4ea0-bf19-201705569004
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022. With 
  thinking of the impact of their concerts on the environment...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay @ Wembley Stadium
-UID:de2ab4fd-88d4-445d-bf3b-f69f7823585e
+UID:973eb355-c181-47cd-955d-e1c066feaa20
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220816
 DTSTART;VALUE=DATE:20220816
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:3f418703-d8be-46e7-ae0e-8fd1a6dc2f3b
+UID:fbaa72c0-f53e-4f4d-a171-e5c6ecdd784a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Carl Cox
-UID:a652526d-3ef2-47d0-845b-83b0d3b413ae
+UID:ae3a3ad3-6342-4c68-83b4-e555e2c36ef9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:Buy OrelSan tickets and sign-up for latest tour alerts. Find Or
  elSan tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20221102
 DTSTART;VALUE=DATE:20221102
 SUMMARY:Orelsan
-UID:d043a921-f0af-4f87-8a9f-28fd28378447
+UID:d8ee7898-8acf-45d5-a59e-3143f09c8a7f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:e0d8c031-7dc2-48f5-af7b-a7ef51377a97
+UID:6a737c55-5808-4745-a873-0fb1fd1dce1a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220711T023557Z
+DTSTAMP:20220712T024748Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:91f814dd-dbcf-493b-b66d-8bf8b1ea63d2
+UID:71d0df53-f2bc-4014-be34-a71da40f465a
 END:VEVENT
 END:VCALENDAR
