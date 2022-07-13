@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
+DTSTAMP:20220713T023900Z
 DESCRIPTION:The Mayor of London presents International Busking Day, a free 
  worldwide festival of busking in London's Wembley Park on Saturday 16th Jul
  y 2022.
 DTEND;VALUE=DATE:20220716
 DTSTART;VALUE=DATE:20220716
 SUMMARY:International Busking Day
-UID:cbc3d716-eadb-477b-b7d0-d9cb69bb017c
+UID:66984863-9e9c-458e-8639-5950284f929c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
+DTSTAMP:20220713T023900Z
 DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
  se hospitality with Club Wembley
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife
-UID:1842845d-caf7-4c5f-8620-59d089e0058d
+UID:18f2c297-7f0d-449d-8495-602c94919b35
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
+DTSTAMP:20220713T023900Z
 DESCRIPTION:Tickets, info and places to stay for Brent Makes Music at OVO A
  rena, Wembleyin London on Wed 13th July 2022. Ents24.com, the UK's biggest 
  entertainment guide
 DTEND;VALUE=DATE:20220713
 DTSTART;VALUE=DATE:20220713
 SUMMARY:Brent Makes Music
-UID:76a26cd3-a945-4db0-b14a-99eda97b7690
+UID:27ee9d56-2a7c-4779-90f6-f7aac6fedfed
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
+DTSTAMP:20220713T023900Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:The Ehrlich Brothers - RESCHEDULED
-UID:4a2fac3c-62bd-4ea0-bf19-201705569004
+UID:804fb7c2-77c5-4133-80de-c7b79cc74ad5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
+DTSTAMP:20220713T023900Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022. With 
  thinking of the impact of their concerts on the environment...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay @ Wembley Stadium
-UID:973eb355-c181-47cd-955d-e1c066feaa20
+UID:191e801a-ba57-46c1-bd83-1ac247c78f24
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
+DTSTAMP:20220713T023900Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220816
 DTSTART;VALUE=DATE:20220816
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:fbaa72c0-f53e-4f4d-a171-e5c6ecdd784a
+UID:7673a534-52fc-4556-86f8-e21fdafccff6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
+DTSTAMP:20220713T023900Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Carl Cox
-UID:ae3a3ad3-6342-4c68-83b4-e555e2c36ef9
+UID:b90e4a92-8f90-4216-9a98-9e90000bc0fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
-DESCRIPTION:Buy OrelSan tickets and sign-up for latest tour alerts. Find Or
- elSan tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20221102
-DTSTART;VALUE=DATE:20221102
-SUMMARY:Orelsan
-UID:d8ee7898-8acf-45d5-a59e-3143f09c8a7f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
-DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
- ssain Manawer div
-DTEND;VALUE=DATE:20221026
-DTSTART;VALUE=DATE:20221026
-SUMMARY:Bon Iver
-UID:6a737c55-5808-4745-a873-0fb1fd1dce1a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220712T024748Z
+DTSTAMP:20220713T023900Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:71d0df53-f2bc-4014-be34-a71da40f465a
+UID:00e7f4a5-a749-4806-a523-26c41c51ca66
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220713T023900Z
+DESCRIPTION:Buy OrelSan tickets and sign-up for latest tour alerts. Find Or
+ elSan tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20221102
+DTSTART;VALUE=DATE:20221102
+SUMMARY:Orelsan
+UID:5e751abf-894f-4e4e-b2cb-31783825ce11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220713T023900Z
+DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
+ ssain Manawer div
+DTEND;VALUE=DATE:20221026
+DTSTART;VALUE=DATE:20221026
+SUMMARY:Bon Iver
+UID:2f362983-0511-4fa5-b265-56371fc903ff
 END:VEVENT
 END:VCALENDAR
