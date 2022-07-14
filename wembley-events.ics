@@ -3,99 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
+DTSTAMP:20220714T024412Z
 DESCRIPTION:The Mayor of London presents International Busking Day, a free 
  worldwide festival of busking in London's Wembley Park on Saturday 16th Jul
  y 2022.
 DTEND;VALUE=DATE:20220716
 DTSTART;VALUE=DATE:20220716
 SUMMARY:International Busking Day
-UID:66984863-9e9c-458e-8639-5950284f929c
+UID:e0a60d49-2115-44c7-a662-3ca91fb004a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
+DTSTAMP:20220714T024412Z
 DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
  se hospitality with Club Wembley
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife
-UID:18f2c297-7f0d-449d-8495-602c94919b35
+UID:ba3318a7-fe90-427e-bcb6-f782581958e1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
-DESCRIPTION:Tickets, info and places to stay for Brent Makes Music at OVO A
- rena, Wembleyin London on Wed 13th July 2022. Ents24.com, the UK's biggest 
- entertainment guide
-DTEND;VALUE=DATE:20220713
-DTSTART;VALUE=DATE:20220713
-SUMMARY:Brent Makes Music
-UID:27ee9d56-2a7c-4779-90f6-f7aac6fedfed
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
+DTSTAMP:20220714T024412Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:The Ehrlich Brothers - RESCHEDULED
-UID:804fb7c2-77c5-4133-80de-c7b79cc74ad5
+UID:c0dedf07-89ba-4ca2-9bc5-8e590ac8f64d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
+DTSTAMP:20220714T024412Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022. With 
  thinking of the impact of their concerts on the environment...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay @ Wembley Stadium
-UID:191e801a-ba57-46c1-bd83-1ac247c78f24
+UID:592ef5ec-fd4d-42b9-b1ad-15eb7da89412
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
+DTSTAMP:20220714T024412Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220816
 DTSTART;VALUE=DATE:20220816
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:7673a534-52fc-4556-86f8-e21fdafccff6
+UID:e0a04337-b799-42ca-816a-d4fb311d1a49
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
+DTSTAMP:20220714T024412Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Carl Cox
-UID:b90e4a92-8f90-4216-9a98-9e90000bc0fc
+UID:a144c558-9ba3-4356-aa0e-9a4c0e0f0f24
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
+DTSTAMP:20220714T024412Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:00e7f4a5-a749-4806-a523-26c41c51ca66
+UID:12b8cbb2-15d2-4181-9f99-65c2b6076563
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
+DTSTAMP:20220714T024412Z
 DESCRIPTION:Buy OrelSan tickets and sign-up for latest tour alerts. Find Or
  elSan tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20221102
 DTSTART;VALUE=DATE:20221102
 SUMMARY:Orelsan
-UID:5e751abf-894f-4e4e-b2cb-31783825ce11
+UID:828e165f-4ef2-4147-bac7-fbfec862af91
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220713T023900Z
+DTSTAMP:20220714T024412Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:2f362983-0511-4fa5-b265-56371fc903ff
+UID:d3ab5612-f09b-4941-ab0e-c7a6b01348ba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220714T024412Z
+DESCRIPTION:Billy Idol at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221019
+DTSTART;VALUE=DATE:20221019
+SUMMARY:Billy Idol
+UID:ba5de875-04e6-44fc-973e-4d98bc538d42
 END:VEVENT
 END:VCALENDAR
