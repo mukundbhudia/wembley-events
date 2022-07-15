@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
+DTSTAMP:20220715T025706Z
 DESCRIPTION:The Mayor of London presents International Busking Day, a free 
  worldwide festival of busking in London's Wembley Park on Saturday 16th Jul
  y 2022.
 DTEND;VALUE=DATE:20220716
 DTSTART;VALUE=DATE:20220716
 SUMMARY:International Busking Day
-UID:e0a60d49-2115-44c7-a662-3ca91fb004a9
+UID:520da001-83ac-400b-95b8-ec04f7d37380
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
+DTSTAMP:20220715T025706Z
 DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
  se hospitality with Club Wembley
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife
-UID:ba3318a7-fe90-427e-bcb6-f782581958e1
+UID:78c74f91-7176-4e8d-9f82-0aedeff742a8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
+DTSTAMP:20220715T025706Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:The Ehrlich Brothers - RESCHEDULED
-UID:c0dedf07-89ba-4ca2-9bc5-8e590ac8f64d
+UID:722ad1d5-c6d4-4da9-beec-58494f74df00
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
+DTSTAMP:20220715T025706Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022. With 
  thinking of the impact of their concerts on the environment...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay @ Wembley Stadium
-UID:592ef5ec-fd4d-42b9-b1ad-15eb7da89412
+UID:788ea067-5826-4add-b736-0249a344063e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
-DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
- n tour in 2022 and will be performing live on stage in their Music of the S
- pheres World Tour ! This particular live concert is...
-DTEND;VALUE=DATE:20220816
-DTSTART;VALUE=DATE:20220816
-SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:e0a04337-b799-42ca-816a-d4fb311d1a49
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
+DTSTAMP:20220715T025706Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Carl Cox
-UID:a144c558-9ba3-4356-aa0e-9a4c0e0f0f24
+UID:b5c45478-2228-433b-a600-4b54ea69e9d2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
+DTSTAMP:20220715T025706Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:12b8cbb2-15d2-4181-9f99-65c2b6076563
+UID:7c98890e-b396-4779-b6ca-9728f7c09558
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
+DTSTAMP:20220715T025706Z
 DESCRIPTION:Buy OrelSan tickets and sign-up for latest tour alerts. Find Or
  elSan tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20221102
 DTSTART;VALUE=DATE:20221102
 SUMMARY:Orelsan
-UID:828e165f-4ef2-4147-bac7-fbfec862af91
+UID:f883231f-bac4-4230-a90e-2adfcbe219bd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
+DTSTAMP:20220715T025706Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:d3ab5612-f09b-4941-ab0e-c7a6b01348ba
+UID:5ad0ad38-9630-47e2-96c6-7de300516e04
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220714T024412Z
+DTSTAMP:20220715T025706Z
 DESCRIPTION:Billy Idol at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol
-UID:ba5de875-04e6-44fc-973e-4d98bc538d42
+UID:f338183b-2485-4840-9067-de8659ee46cd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220715T025706Z
+DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
+ n tour in 2022 and will be performing live on stage in their Music of the S
+ pheres World Tour ! This particular live concert is...
+DTEND;VALUE=DATE:20220816
+DTSTART;VALUE=DATE:20220816
+SUMMARY:Coldplay: Music of the Spheres World Tour
+UID:f3b81b6e-fdd1-411a-93d9-a69b6f42e3b9
 END:VEVENT
 END:VCALENDAR
