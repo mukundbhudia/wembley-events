@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:The Mayor of London presents International Busking Day, a free 
  worldwide festival of busking in London's Wembley Park on Saturday 16th Jul
  y 2022.
 DTEND;VALUE=DATE:20220716
 DTSTART;VALUE=DATE:20220716
 SUMMARY:International Busking Day
-UID:520da001-83ac-400b-95b8-ec04f7d37380
+UID:fab074ca-5ca8-4f4f-b7ac-2501b43d4188
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
  se hospitality with Club Wembley
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife
-UID:78c74f91-7176-4e8d-9f82-0aedeff742a8
+UID:a86a80f9-ad78-42b1-a211-56cbc76ac855
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:The Ehrlich Brothers - RESCHEDULED
-UID:722ad1d5-c6d4-4da9-beec-58494f74df00
+UID:7833e23e-6653-42c1-8d5e-0534f376d2b8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022. With 
  thinking of the impact of their concerts on the environment...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay @ Wembley Stadium
-UID:788ea067-5826-4add-b736-0249a344063e
+UID:818d26b6-4af6-4647-9cf2-b90d5499c4d9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Carl Cox
-UID:b5c45478-2228-433b-a600-4b54ea69e9d2
+UID:664d2ac0-fb97-4421-8d48-f4b14e067204
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:7c98890e-b396-4779-b6ca-9728f7c09558
+UID:088064db-092c-4b46-939b-76ab169a478c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:Buy OrelSan tickets and sign-up for latest tour alerts. Find Or
  elSan tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20221102
 DTSTART;VALUE=DATE:20221102
 SUMMARY:Orelsan
-UID:f883231f-bac4-4230-a90e-2adfcbe219bd
+UID:1614c77e-2f49-4e23-9ce4-b69bdd52807a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:5ad0ad38-9630-47e2-96c6-7de300516e04
+UID:a5e49ff3-daa1-4386-af6d-0a2aa60b9064
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:Billy Idol at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol
-UID:f338183b-2485-4840-9067-de8659ee46cd
+UID:ecb88611-41db-4226-82be-8dc443691431
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220715T025706Z
+DTSTAMP:20220716T023106Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220816
 DTSTART;VALUE=DATE:20220816
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:f3b81b6e-fdd1-411a-93d9-a69b6f42e3b9
+UID:357737ee-d449-428d-85da-eb9460927d84
 END:VEVENT
 END:VCALENDAR
