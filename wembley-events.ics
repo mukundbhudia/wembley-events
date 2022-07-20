@@ -3,102 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
+DTSTAMP:20220720T023806Z
+DESCRIPTION:Our Resident DJs play the biggest and best tracks in Hip-Hop, E
+ lectronic, R&B, Pop and Disco every Saturday to guarantee you're dancing fr
+ om 8pm - 1am!
+DTEND;VALUE=DATE:20220723
+DTSTART;VALUE=DATE:20220723
+SUMMARY:COORS PRESENTS: SATURDAY SESSIONS
+UID:125826ab-dd9c-4451-8833-b91bcc14a658
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220720T023806Z
 DESCRIPTION:Tickets, info and places to stay for Thy Kingdom Come at OVO Ar
  ena, Wembleyin London on Sun 24th July 2022. Ents24.com, the UK's biggest e
  ntertainment guide
 DTEND;VALUE=DATE:20220724
 DTSTART;VALUE=DATE:20220724
 SUMMARY:Thy Kingdom Come
-UID:07a3e16f-e10e-439c-b50d-66950094a01d
+UID:f388b70d-e0ba-460b-b881-11f0f6f34b7b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
-DESCRIPTION:With their new show FASCINATION, the Ehrlich Brothers will spre
- ad their magic fever across the UK next year! Nestled amongst the top globa
- l magicians, they deserve comparisons with legends in...
+DTSTAMP:20220720T023806Z
+DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
+ golden Lamborghini from ﬂames to producing the world‘s largest candy ja
+ r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:The Ehrlich Brothers
-UID:36205eb3-66f1-4fa4-925c-d42f1ce6b95c
+UID:c6146f3d-928e-42a6-bda1-e9de1def47ce
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
+DTSTAMP:20220720T023806Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220816
 DTSTART;VALUE=DATE:20220816
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:b8ae1671-4dc9-4b44-a7d3-9665d0b3b234
+UID:505ff3c8-7ec0-4f23-a840-780d60f63fb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
-DESCRIPTION:Adam Kay is an award-winning writer and comedian. His debut boo
- k, This is Going to Hurt , is a literary sensation: a Sunday Times number o
- ne bestseller for over a year, it has sold over 2.5...
-DTEND;VALUE=DATE:20221114
-DTSTART;VALUE=DATE:20221114
-SUMMARY:Adam Kay
-UID:c213eaf0-7a81-4de4-86ae-142ee77706ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
-DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
- f last week’s album news, today the electronic music legend announces h
- e’ll be performing a very special show on September 17th at...
-DTEND;VALUE=DATE:20220916
-DTSTART;VALUE=DATE:20220916
-SUMMARY:Carl Cox
-UID:5947d173-75fb-4421-bb11-e4f265e133fe
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
-DESCRIPTION:Big Green Coach is delighted to be the official ticket and carb
- on neutral coach travel partner to the Coldplay Music of the Spheres World 
- Tour at Wembley Stadium. VENUE: Wembley Stadium Dates...
-DTEND;VALUE=DATE:20220811
-DTSTART;VALUE=DATE:20220811
-SUMMARY:Coldplay at Wembley
-UID:f9586566-c297-4c2a-a74d-73c9af471c53
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
-DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
- ts. Find Celebrating Africa tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20220827
-DTSTART;VALUE=DATE:20220827
-SUMMARY:Celebrating Africa
-UID:b8334c66-53c6-4f5e-94a6-f5c2b10c9120
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
+DTSTAMP:20220720T023806Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20220828
 DTSTART;VALUE=DATE:20220828
 SUMMARY:Neha Kakkar
-UID:bbd20b0d-d60c-4f7b-af50-50bcfd292aba
+UID:39b6ad41-9696-489c-97ff-37e28d2d9a0a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
-DESCRIPTION:Bon Iver have moved their UK and European tour to autumn 2022. 
- Original tickets remain valid. Wed 26 Oct 2022 @ 6:30 pm | SSE Arena, Wembl
- ey, London TICKETS >>> at ticketmaster...
-DTEND;VALUE=DATE:20221026
-DTSTART;VALUE=DATE:20221026
-SUMMARY:Bon Iver
-UID:b80d6fbc-428b-4ffc-bd4f-9950e696d21f
+DTSTAMP:20220720T023806Z
+DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
+ f last week’s album news, today the electronic music legend announces h
+ e’ll be performing a very special show on September 17th at...
+DTEND;VALUE=DATE:20220916
+DTSTART;VALUE=DATE:20220916
+SUMMARY:Carl Cox
+UID:2036e6d7-6186-4d8c-af06-88d2b7748909
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220719T025734Z
+DTSTAMP:20220720T023806Z
+DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
+ ts. Find Celebrating Africa tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20220827
+DTSTART;VALUE=DATE:20220827
+SUMMARY:Celebrating Africa
+UID:33f1893d-6996-4c95-ba9d-5cb86f82caec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220720T023806Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022. With 
  thinking of the impact of their concerts on the environment...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay
-UID:9299459c-6982-4999-b28e-9eca146ef78e
+UID:25eab6f6-6b0d-40e2-a177-77172b8d3278
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220720T023806Z
+DESCRIPTION:Adam Kay is an award-winning writer and comedian. His debut boo
+ k, This is Going to Hurt , is a literary sensation: a Sunday Times number o
+ ne bestseller for over a year, it has sold over 2.5...
+DTEND;VALUE=DATE:20221114
+DTSTART;VALUE=DATE:20221114
+SUMMARY:Adam Kay
+UID:6fd8d18f-fb7f-4847-bb56-61a10c957648
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220720T023806Z
+DESCRIPTION:Big Green Coach is delighted to be the official ticket and carb
+ on neutral coach travel partner to the Coldplay Music of the Spheres World 
+ Tour at Wembley Stadium. VENUE: Wembley Stadium Dates...
+DTEND;VALUE=DATE:20220811
+DTSTART;VALUE=DATE:20220811
+SUMMARY:Coldplay at Wembley
+UID:063b5966-637c-4d20-8112-a70542fb6bd0
 END:VEVENT
 END:VCALENDAR
