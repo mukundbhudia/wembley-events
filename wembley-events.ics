@@ -3,99 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
+DTSTAMP:20220729T024944Z
 DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
  h Coors Light
 DTEND;VALUE=DATE:20220730
 DTSTART;VALUE=DATE:20220730
 SUMMARY:Coors Presents: Saturday Sessions
-UID:c1f018fa-c315-4937-8f80-23ee0c59b4c7
+UID:12fc5e64-e8a1-4096-a2f0-dfd58b0a5d65
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
+DTSTAMP:20220729T024944Z
+DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
+ se hospitality with Club Wembley
+DTEND;VALUE=DATE:20220806
+DTSTART;VALUE=DATE:20220806
+SUMMARY:Westlife
+UID:8be28414-10bd-4536-bf7a-a78f460f8442
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T024944Z
 DESCRIPTION:London’s home of Hip Hop and RnB – Faded has been going fro
  m strength to strength since it started in March 2012. Its three principle
  s are simple: good music, good people and good vibes. Keeping...
 DTEND;VALUE=DATE:20220729
 DTSTART;VALUE=DATE:20220729
 SUMMARY:Faded: R&B Sessions
-UID:4a636498-b0fb-42d8-9531-233c3a06eab1
+UID:b88c9a80-0955-4b53-bb1c-503b5ea723b9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
+DTSTAMP:20220729T024944Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
-SUMMARY:The Ehrlich Brothers
-UID:f93af7c0-9348-4177-96a7-3f2038ce0b47
+SUMMARY:The Ehrlich Brothers - RESCHEDULED
+UID:6bad6f40-50f1-42c7-9a3b-f30807985c51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
-DESCRIPTION:Bon Iver is on Facebook. To connect with Bon Iver, join Faceboo
- k today.
-DTEND;VALUE=DATE:20221026
-DTSTART;VALUE=DATE:20221026
-SUMMARY:Bon Iver
-UID:3d1c638d-2f90-4990-ac9b-9548cb28e9bb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
+DTSTAMP:20220729T024944Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022.
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
-SUMMARY:coldplay.com/sustainability
-UID:b694014e-1318-46ef-b9fd-c07730c85745
+SUMMARY:Coldplay - Infinity Ticket
+UID:dcef5afa-2f62-45ec-ba9b-7d615f01d381
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
-DESCRIPTION:Big Green Coach is delighted to be the official ticket and carb
- on neutral coach travel partner to the Coldplay Music of the Spheres World 
- Tour at Wembley Stadium. VENUE: Wembley Stadium Dates...
-DTEND;VALUE=DATE:20220812
-DTSTART;VALUE=DATE:20220812
-SUMMARY:H.E.R. @ Wembley Stadium
-UID:fe4e81dd-50ad-493a-931d-3ccb809565e1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
+DTSTAMP:20220729T024944Z
 DESCRIPTION:Coldplay Concert 2022 Tour is on Facebook. To connect with Cold
  play Concert 2022 Tour, join Facebook today.
 DTEND;VALUE=DATE:20220816
 DTSTART;VALUE=DATE:20220816
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:9a88b3e6-3697-47ba-a9b9-6e7d4405dfd3
+UID:e46cd786-84b5-46dc-8117-f6f1c994260f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
+DTSTAMP:20220729T024944Z
+DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
+  lakait hoc'h anv e Facebook hiziv.
+DTEND;VALUE=DATE:20221026
+DTSTART;VALUE=DATE:20221026
+SUMMARY:Bon Iver
+UID:7b15e688-d891-4c2f-9a70-221d9ca90fa3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T024944Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:2c5ed9cf-99f5-4f53-94b0-f2eb8ea5760f
+UID:bcdc249e-4df0-4b74-8deb-a596642e08e0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
-DESCRIPTION:Get your ticket for Professor Brian Cox Horizons World Tour ✔
-  Tickets for this event are provided directly by the promoter and not prin
- ted by Ticketmaster and may not be despatched until ten days...
+DTSTAMP:20220729T024944Z
+DESCRIPTION:Westlife first broke into the charts with their debut single Sw
+ ear It Again. Released in April 1999, the song peaked at No.1 on the Offici
+ al UK Singles Chart where it remained for two weeks. The...
+DTEND;VALUE=DATE:20220806
+DTSTART;VALUE=DATE:20220806
+SUMMARY:Westlife at Wembley
+UID:650c0188-94c5-49e9-a48f-aeb428a0ad4b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220729T024944Z
+DESCRIPTION:This show was rescheduled from 30th October 2021. Horizons take
+ s us on a dazzling cinematic journey. A story of how we came to be and wha
+ t we can become. Using state-of-the-art LED screen...
 DTEND;VALUE=DATE:20220928
 DTSTART;VALUE=DATE:20220928
 SUMMARY:Professor Brian Cox Horizons World Tour
-UID:81cfff20-7604-4f01-9b9b-5492a9fafba6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220728T023632Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20220828
-DTSTART;VALUE=DATE:20220828
-SUMMARY:Neha Kakkar
-UID:2528fe28-658a-4d77-a95a-5cfc12b69843
+UID:dbae86fc-1ebe-4621-aecc-4b104bc4fb8b
 END:VEVENT
 END:VCALENDAR
