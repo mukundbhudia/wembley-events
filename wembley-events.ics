@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
+DTSTAMP:20220803T024338Z
 DESCRIPTION:Westlife first broke into the charts with their debut single Sw
  ear It Again. Released in April 1999, the song peaked at No.1 on the Offici
  al UK Singles Chart where it remained for two weeks. The...
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife at Wembley
-UID:e8babb46-6fd4-465e-8365-355a6fc8da22
+UID:6f33f51b-7b62-44b0-973d-4aa029c4b647
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
+DTSTAMP:20220803T024338Z
 DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
  se hospitality with Club Wembley
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife
-UID:5e2720ed-2ac4-48ac-892a-0d23d4c2869d
+UID:83561498-8c51-433b-89e1-64b766222dc0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
-DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
- golden Lamborghini from ﬂames to producing the world‘s largest candy ja
- r, bulging with thousands of sweets – this show is something...
-DTEND;VALUE=DATE:20220813
-DTSTART;VALUE=DATE:20220813
-SUMMARY:The Ehrlich Brothers - RESCHEDULED
-UID:c714b854-a439-4e62-840d-6d098f058d6d
+DTSTAMP:20220803T024338Z
+DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
+ h Coors Light
+DTEND;VALUE=DATE:20220806
+DTSTART;VALUE=DATE:20220806
+SUMMARY:Coors Presents: Saturday Sessions
+UID:73dabaff-94d5-4a33-8b62-188e765866fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
+DTSTAMP:20220803T024338Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20220828
 DTSTART;VALUE=DATE:20220828
 SUMMARY:Neha Kakkar
-UID:5d3500fe-325f-4f8e-bd13-c37bc97b078c
+UID:994034a7-0eb3-4207-87cc-f4ee2fe0bf8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
+DTSTAMP:20220803T024338Z
+DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
+ golden Lamborghini from ﬂames to producing the world‘s largest candy ja
+ r, bulging with thousands of sweets – this show is something...
+DTEND;VALUE=DATE:20220813
+DTSTART;VALUE=DATE:20220813
+SUMMARY:The Ehrlich Brothers - RESCHEDULED
+UID:86127eb5-a535-4894-8e78-da7473732e6a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220803T024338Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022.
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay
-UID:994a8bd9-915d-4baa-b6bd-7a1ddbd2a18e
+UID:8de34146-6e93-4f42-9294-5377f8fee24b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
-DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
- ts. Find Celebrating Africa tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20220827
-DTSTART;VALUE=DATE:20220827
-SUMMARY:Celebrating Africa
-UID:366f774b-a13c-4e73-9c47-2b84237582c5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
+DTSTAMP:20220803T024338Z
 DESCRIPTION:Coors presents: Friday Feelings. We're back ins BEATBOX with ou
  r resident DJs providing a selection of tracks to kickstart your weekend, j
  oined by our resident DJs on the decks spinning the...
 DTEND;VALUE=DATE:20220805
 DTSTART;VALUE=DATE:20220805
 SUMMARY:FRIDAY FEELINGS
-UID:6ad650b9-9e83-4428-9d6f-084fc3aa7775
+UID:4563019f-cefd-4d5c-8eac-1e3311717762
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
+DTSTAMP:20220803T024338Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:1f1d221c-88fc-4f86-b10a-fe38be9158d5
+UID:f5f0b08e-59a8-4323-971c-1d621e2d0024
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
+DTSTAMP:20220803T024338Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:a2a98824-c86c-4460-9ca2-e4c12be65c46
+UID:84de3af2-bfc2-4633-bac9-107cea317957
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220802T030118Z
-DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
-  lakait hoc'h anv e Facebook hiziv.
-DTEND;VALUE=DATE:20221026
-DTSTART;VALUE=DATE:20221026
-SUMMARY:Bon Iver
-UID:05349c6a-d814-462a-941d-c74d5ca1cf9f
+DTSTAMP:20220803T024338Z
+DESCRIPTION:Boss Entertainment UK is bringing the most captivating African 
+ musical jam. The ‘Celebrating Africa’ Concert promises to entertain fan
+ s with back-to-back hits from the heart of the Continent of...
+DTEND;VALUE=DATE:20220827
+DTSTART;VALUE=DATE:20220827
+SUMMARY:Celebrating Africa
+UID:dadf5a43-418c-4cca-9a15-d06799f65e06
 END:VEVENT
 END:VCALENDAR
