@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
+DTSTAMP:20220806T022901Z
 DESCRIPTION:Westlife first broke into the charts with their debut single Sw
  ear It Again. Released in April 1999, the song peaked at No.1 on the Offici
  al UK Singles Chart where it remained for two weeks. The...
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife at Wembley
-UID:9789d16b-f1d9-44bf-aa87-c180e4835e83
+UID:8da1418c-2782-44ac-b988-f641916aba19
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
+DTSTAMP:20220806T022901Z
 DESCRIPTION:Westlife perform at Wembley on Saturday 22 August 2020 - purcha
  se hospitality with Club Wembley
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Westlife
-UID:ca1d19e2-a621-4efa-a3c6-19167b923871
+UID:a6a33565-ddd5-4a04-9fa4-6d5b749c0b3e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
+DTSTAMP:20220806T022901Z
 DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
  h Coors Light
 DTEND;VALUE=DATE:20220806
 DTSTART;VALUE=DATE:20220806
 SUMMARY:Coors Presents: Saturday Sessions
-UID:949244c1-3a21-473d-8d40-b40b5d37152e
+UID:88994ab3-bd4e-4e32-89f0-42119f2f2d93
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20220828
-DTSTART;VALUE=DATE:20220828
-SUMMARY:Neha Kakkar
-UID:45287789-6bc3-4d45-8da4-8b69e27780b2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
+DTSTAMP:20220806T022901Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:The Ehrlich Brothers - RESCHEDULED
-UID:298946f5-685f-42d6-8a19-133a0be2dc2a
+UID:6100dbe1-b8ce-442e-a4c2-74fb3d038ea3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
+DTSTAMP:20220806T022901Z
 DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
  sic of The Spheres World Tour’, at Wembley Stadium, in August 2022.
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
-SUMMARY:Coldplay - Infinity Ticket
-UID:4971aab3-b9b9-45b8-9119-07f50a59cda7
+SUMMARY:Coldplay
+UID:c4a446da-b674-4307-a58c-6914bc826be4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
-DESCRIPTION:Coldplay Concert 2022 Tour is on Facebook. To connect with Cold
- play Concert 2022 Tour, join Facebook today.
-DTEND;VALUE=DATE:20220816
-DTSTART;VALUE=DATE:20220816
-SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:e1d427e6-7956-45cc-ac1d-d3aa6a74621f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
+DTSTAMP:20220806T022901Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:2d3fbdcd-0a9c-4989-8b5d-280441e2b563
+UID:ca4fc4bf-81e0-4b32-af63-e1ef8d5f4210
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
+DTSTAMP:20220806T022901Z
 DESCRIPTION:Coors presents: Friday Feelings. We're back ins BEATBOX with ou
  r resident DJs providing a selection of tracks to kickstart your weekend, j
  oined by our resident DJs on the decks spinning the...
-DTEND;VALUE=DATE:20220805
-DTSTART;VALUE=DATE:20220805
+DTEND;VALUE=DATE:20220806
+DTSTART;VALUE=DATE:20220806
 SUMMARY:FRIDAY FEELINGS
-UID:7553c3ec-40c6-4f01-9d82-79ff6a05f7d1
+UID:9e0a18aa-0228-4792-ac49-a76b1dabbdfb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220805T024000Z
+DTSTAMP:20220806T022901Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:0a3121a1-e71f-41df-a7b7-a32c138cb870
+UID:0834e689-d950-45ae-8607-56fbfbe20092
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220806T022901Z
+DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
+ n tour in 2022 and will be performing live on stage in their Music of the S
+ pheres World Tour ! This particular live concert is...
+DTEND;VALUE=DATE:20220813
+DTSTART;VALUE=DATE:20220813
+SUMMARY:Coldplay: Music of the Spheres World Tour
+UID:e807751d-c4da-4c06-87df-d4741c733070
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220806T022901Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20220828
+DTSTART;VALUE=DATE:20220828
+SUMMARY:Neha Kakkar
+UID:d80058bd-d3cf-488c-9225-b24c6c24df7f
 END:VEVENT
 END:VCALENDAR
