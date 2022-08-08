@@ -3,88 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220807T023605Z
-DESCRIPTION:The UK’s biggest-selling album group of the 21st century, Wes
- tlife will be broadcasting their first evershow from Wembley Stadium, live
-  to cinemas on Saturday 6 August. In front of a sell-out...
-DTEND;VALUE=DATE:20220807
-DTSTART;VALUE=DATE:20220807
-SUMMARY:Westlife
-UID:fcc0314f-3865-4c47-9f0e-6c8f8864523d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220807T023605Z
-DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
- h Coors Light
-DTEND;VALUE=DATE:20220807
-DTSTART;VALUE=DATE:20220807
-SUMMARY:Coors Presents: Saturday Sessions
-UID:80c420aa-bac8-413c-909c-5f27cc2f46a9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220807T023605Z
+DTSTAMP:20220808T023427Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:The Ehrlich Brothers
-UID:ce8c8590-2f2f-4d79-b00c-aa6913f65bb9
+UID:daeb80f9-c64e-409f-ba41-8234c0a7fe7a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220807T023605Z
-DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
- sic of The Spheres World Tour’, at Wembley Stadium, in August 2022.
-DTEND;VALUE=DATE:20220820
-DTSTART;VALUE=DATE:20220820
-SUMMARY:Coldplay @ Wembley Stadium
-UID:2d29c5e3-78ed-4a8e-a2e3-a8a9a3fe18d6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220807T023605Z
+DTSTAMP:20220808T023427Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
-SUMMARY:H.E.R. @ Wembley Stadium
-UID:c32fe9ea-be07-469f-948a-5ae936fc3df5
+SUMMARY:Coldplay: Music of the Spheres World Tour
+UID:bb8cf3dd-b09d-4488-b53a-8868e03b1654
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220807T023605Z
+DTSTAMP:20220808T023427Z
+DESCRIPTION:Searching for VIP tickets to see Coldplay live in the UK? Look 
+ no further than Hospitality Finder for all of your concert hospitality need
+ s.
+DTEND;VALUE=DATE:20220812
+DTSTART;VALUE=DATE:20220812
+SUMMARY:Coldplay: Music of the Spheres World Tour
+UID:64ffea90-0859-45a1-a88a-0bf8944e07b2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T023427Z
+DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
+ n tour in 2022 and will be performing live on stage in their Music of the S
+ pheres World Tour ! This particular live concert is...
+DTEND;VALUE=DATE:20220812
+DTSTART;VALUE=DATE:20220812
+SUMMARY:Coldplay: Music of the Spheres World Tour
+UID:952c83c9-d21b-46c5-99c4-257cd47ea786
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T023427Z
+DESCRIPTION:Tickets, info and places to stay for 75th Pakistan Independenc
+ e Day (JASHAN E ADAZI MUBARAK) at OVO Arena, Wembleyin London on Sun 14th A
+ ugust 2022. Ents24.com, the UK's biggest entertainment guide
+DTEND;VALUE=DATE:20220814
+DTSTART;VALUE=DATE:20220814
+SUMMARY:12th Pakistan Achievement Awards International 2022
+UID:d332f078-c375-459c-9e94-51cdd1af5e5a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T023427Z
+DESCRIPTION:If you want a great night out seeing hilarious stand up comedy 
+ in an intimate venue then LOLipops @ White Horse in Wembley is the place fo
+ r you! An exciting monthly night of stand-up brought to...
+DTEND;VALUE=DATE:20220808
+DTSTART;VALUE=DATE:20220808
+SUMMARY:LOLipops Comedy
+UID:f5e76372-bc15-480c-91c3-7b9f9c2f0c45
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T023427Z
+DESCRIPTION:Arif Lohar, Bilal Saeed, Shafqat Amanat Ali Khan, Sain Zahoor, 
+ Sanam Marvi, Farhan Saeed, Aima Baig, and Humaima Malik at OVO Arena Wemble
+ y at 2022-08-14T18:00:00+0100
+DTEND;VALUE=DATE:20220814
+DTSTART;VALUE=DATE:20220814
+SUMMARY:Arif Lohar
+UID:bbb52e0a-67a3-4f27-b889-92ce8a1079a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T023427Z
+DESCRIPTION:Come and see the magical band that is Coldplay, for their ‘Mu
+ sic of The Spheres World Tour’, at Wembley Stadium, in August 2022.
+DTEND;VALUE=DATE:20220820
+DTSTART;VALUE=DATE:20220820
+SUMMARY:Coldplay
+UID:919b8e75-b280-44b3-8048-c6e036c78ef1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220808T023427Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:555dedd9-f42d-43d3-8629-9c32bb993947
+UID:8cfa28df-c3c1-4d8d-a7c6-c0abe7593219
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220807T023605Z
-DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
-  lakait hoc'h anv e Facebook hiziv.
-DTEND;VALUE=DATE:20221026
-DTSTART;VALUE=DATE:20221026
-SUMMARY:Bon Iver
-UID:bd0b0243-a8cf-4658-8379-ec53efe4735a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220807T023605Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20220828
-DTSTART;VALUE=DATE:20220828
-SUMMARY:Neha Kakkar
-UID:82d5c21a-293d-49d1-9f2c-50ecac388104
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220807T023605Z
-DESCRIPTION:Get notified whenever Her announces a live stream or a concert 
- in your area
-DTEND;VALUE=DATE:20220817
-DTSTART;VALUE=DATE:20220817
-SUMMARY:Coldplay
-UID:6180ac59-973a-44d2-b700-02f28a42265d
+DTSTAMP:20220808T023427Z
+DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
+ f last week’s album news, today the electronic music legend announces h
+ e’ll be performing a very special show on September 17th at...
+DTEND;VALUE=DATE:20220917
+DTSTART;VALUE=DATE:20220917
+SUMMARY:Carl Cox
+UID:ec78efdc-2095-4972-ace4-8d3d58ade311
 END:VEVENT
 END:VCALENDAR
