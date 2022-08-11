@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
+DTSTAMP:20220811T022512Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
-SUMMARY:The Ehrlich Brothers - RESCHEDULED
-UID:6a045ede-6691-4af1-bed3-1085de58c5ba
+SUMMARY:The Ehrlich Brothers
+UID:4c55ce0b-5a86-4284-9897-4e61be46c30e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
+DTSTAMP:20220811T022512Z
 DESCRIPTION:Searching for VIP tickets to see Coldplay live in the UK? Look 
  no further than Hospitality Finder for all of your concert hospitality need
  s.
 DTEND;VALUE=DATE:20220812
 DTSTART;VALUE=DATE:20220812
-SUMMARY:Coldplay
-UID:ffdc8314-44fa-4e7f-b050-9660157ed839
+SUMMARY:H.E.R. @ Wembley Stadium
+UID:c2df1c9a-8696-482e-80fb-4dc56658d2c9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
+DTSTAMP:20220811T022512Z
+DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
+ n tour in 2022 and will be performing live on stage in their Music of the S
+ pheres World Tour ! This particular live concert is...
+DTEND;VALUE=DATE:20220812
+DTSTART;VALUE=DATE:20220812
+SUMMARY:Coldplay: Music of the Spheres World Tour
+UID:f1af6135-f9a9-42e1-b1a0-547893bbf864
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T022512Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:922ce9e3-4e32-44d1-a5c3-1535a8b87461
+UID:f2073309-8128-46a0-abb9-7af1327ae3c7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
+DTSTAMP:20220811T022512Z
 DESCRIPTION:Tickets, info and places to stay for 75th Pakistan Independenc
  e Day (JASHAN E ADAZI MUBARAK) at OVO Arena, Wembleyin London on Sun 14th A
  ugust 2022. Ents24.com, the UK's biggest entertainment guide
 DTEND;VALUE=DATE:20220814
 DTSTART;VALUE=DATE:20220814
 SUMMARY:12th Pakistan Achievement Awards International 2022
-UID:15ffd65e-f330-42ed-8616-2ba6a91e606f
+UID:00ac21ea-2a47-4bcf-aad5-75cb2c700d21
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
+DTSTAMP:20220811T022512Z
 DESCRIPTION:Arif Lohar, Bilal Saeed, Shafqat Amanat Ali Khan, Sain Zahoor, 
  Sanam Marvi, Farhan Saeed, Aima Baig, and Humaima Malik at OVO Arena Wemble
  y at 2022-08-14T18:00:00+0100
 DTEND;VALUE=DATE:20220814
 DTSTART;VALUE=DATE:20220814
 SUMMARY:Arif Lohar
-UID:6d58aade-8126-4d40-89af-50b3e2cbdde5
+UID:bf108533-d8b5-4fb8-8935-6d85aea58d14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
+DTSTAMP:20220811T022512Z
 DESCRIPTION:Coldplay performing at Wembley Stadium on 12, 13, 16, 17, 19 an
  d 20 August 2022.
 DTEND;VALUE=DATE:20220819
 DTSTART;VALUE=DATE:20220819
 SUMMARY:Coldplay
-UID:55b8eacd-27c9-49de-8812-78e42dad6a6a
+UID:2e0f213c-d828-47fe-96b6-1606e1bc8d08
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
+DTSTAMP:20220811T022512Z
+DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
+ ts. Find Celebrating Africa tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20220827
+DTSTART;VALUE=DATE:20220827
+SUMMARY:Celebrating Africa
+UID:50d366cd-0f6c-437f-9003-1ef5e9f30f8c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220811T022512Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:8ac8e5d8-181f-4c56-9f70-36355075a987
+UID:b7acfc0a-1fed-4484-aadd-32505516d08e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
+DTSTAMP:20220811T022512Z
 DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
   lakait hoc'h anv e Facebook hiziv.
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:bdd9b225-d33b-4a98-a79e-062eb6a2c618
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
-DESCRIPTION:Buy Jubin Nautiyal tickets from Ticketmaster IE. Jubin Nautiya
- l 2022-23 tour dates, event details + much more.
-DTEND;VALUE=DATE:20221104
-DTSTART;VALUE=DATE:20221104
-SUMMARY:Jubin Nautiyal Tickets
-UID:f3439587-d6a9-47d3-945e-a6163ead099d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220810T021502Z
-DESCRIPTION:Are you a breezy believer or an Usher pusher? Come pop ya colla
- r and dance forever on the dance floor! 18+ PHYSICAL ID REQUIRED
-DTEND;VALUE=DATE:20220811
-DTSTART;VALUE=DATE:20220811
-SUMMARY:Usher v Chris Brown Party
-UID:19d76952-73de-4127-8fc7-3706c2278502
+UID:876903db-e3bd-465d-9679-4716a10385be
 END:VEVENT
 END:VCALENDAR
