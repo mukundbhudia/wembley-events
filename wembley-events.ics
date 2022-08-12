@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
+DTSTAMP:20220812T023318Z
 DESCRIPTION:From appearing in a helicopter ﬂying in mid-air, sculpting a 
  golden Lamborghini from ﬂames to producing the world‘s largest candy ja
  r, bulging with thousands of sweets – this show is something...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
-SUMMARY:The Ehrlich Brothers
-UID:4c55ce0b-5a86-4284-9897-4e61be46c30e
+SUMMARY:The Ehrlich Brothers - RESCHEDULED
+UID:1887b4da-e04f-473e-91fb-f7067c6e4036
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
-DESCRIPTION:Searching for VIP tickets to see Coldplay live in the UK? Look 
- no further than Hospitality Finder for all of your concert hospitality need
- s.
-DTEND;VALUE=DATE:20220812
-DTSTART;VALUE=DATE:20220812
-SUMMARY:H.E.R. @ Wembley Stadium
-UID:c2df1c9a-8696-482e-80fb-4dc56658d2c9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
+DTSTAMP:20220812T023318Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220812
 DTSTART;VALUE=DATE:20220812
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:f1af6135-f9a9-42e1-b1a0-547893bbf864
+UID:8fe2f2ec-c364-4cf5-a06b-ea51f2bef4f3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
+DTSTAMP:20220812T023318Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220813
 DTSTART;VALUE=DATE:20220813
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:f2073309-8128-46a0-abb9-7af1327ae3c7
+UID:49f5fd9e-6535-4f39-8732-f06e39b9633a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
+DTSTAMP:20220812T023318Z
 DESCRIPTION:Tickets, info and places to stay for 75th Pakistan Independenc
  e Day (JASHAN E ADAZI MUBARAK) at OVO Arena, Wembleyin London on Sun 14th A
  ugust 2022. Ents24.com, the UK's biggest entertainment guide
 DTEND;VALUE=DATE:20220814
 DTSTART;VALUE=DATE:20220814
 SUMMARY:12th Pakistan Achievement Awards International 2022
-UID:00ac21ea-2a47-4bcf-aad5-75cb2c700d21
+UID:6b212bf4-9d9c-4eb7-a29d-86194d2d39ca
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
+DTSTAMP:20220812T023318Z
 DESCRIPTION:Arif Lohar, Bilal Saeed, Shafqat Amanat Ali Khan, Sain Zahoor, 
  Sanam Marvi, Farhan Saeed, Aima Baig, and Humaima Malik at OVO Arena Wemble
  y at 2022-08-14T18:00:00+0100
 DTEND;VALUE=DATE:20220814
 DTSTART;VALUE=DATE:20220814
 SUMMARY:Arif Lohar
-UID:bf108533-d8b5-4fb8-8935-6d85aea58d14
+UID:0fd2b72e-e5a4-40a1-8f65-23208c77b803
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
+DTSTAMP:20220812T023318Z
 DESCRIPTION:Coldplay performing at Wembley Stadium on 12, 13, 16, 17, 19 an
  d 20 August 2022.
 DTEND;VALUE=DATE:20220819
 DTSTART;VALUE=DATE:20220819
 SUMMARY:Coldplay
-UID:2e0f213c-d828-47fe-96b6-1606e1bc8d08
+UID:0b192c78-6668-4f83-a090-3b338dc0400e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
+DTSTAMP:20220812T023318Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20220828
+DTSTART;VALUE=DATE:20220828
+SUMMARY:Neha Kakkar
+UID:84c751bf-f69c-43f5-bbe1-9401179155d3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220812T023318Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:50d366cd-0f6c-437f-9003-1ef5e9f30f8c
+UID:299e6953-63d3-4518-8af8-07cfa05a2d6b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
+DTSTAMP:20220812T023318Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:b7acfc0a-1fed-4484-aadd-32505516d08e
+UID:6c2bc330-c1f2-49d1-8c89-40cd5b32e33f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220811T022512Z
-DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
-  lakait hoc'h anv e Facebook hiziv.
-DTEND;VALUE=DATE:20221026
-DTSTART;VALUE=DATE:20221026
-SUMMARY:Bon Iver
-UID:876903db-e3bd-465d-9679-4716a10385be
+DTSTAMP:20220812T023318Z
+DESCRIPTION:Searching for VIP tickets to see Coldplay live in the UK? Look 
+ no further than Hospitality Finder for all of your concert hospitality need
+ s.
+DTEND;VALUE=DATE:20220812
+DTSTART;VALUE=DATE:20220812
+SUMMARY:Coldplay
+UID:0fdbb1dc-9bc7-41a7-bc4c-7c679d5097d2
 END:VEVENT
 END:VCALENDAR
