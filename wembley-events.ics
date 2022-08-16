@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
+DTSTAMP:20220816T024345Z
 DESCRIPTION:Coldplay performing at Wembley Stadium on 12, 13, 16, 17, 19 an
  d 20 August 2022.
 DTEND;VALUE=DATE:20220819
 DTSTART;VALUE=DATE:20220819
 SUMMARY:Coldplay
-UID:d1db722b-5a3e-46a4-9759-9cf22619b10b
+UID:5eb1f982-2943-459b-800a-9b8b29d2c635
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
+DTSTAMP:20220816T024345Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220816
 DTSTART;VALUE=DATE:20220816
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:3df14ff5-a9e4-4ecf-8b2a-16b432fdad8a
+UID:c7625c7e-ad17-4dac-9701-ba1b132b7d23
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
+DTSTAMP:20220816T024345Z
 DESCRIPTION:The Music Of The Spheres World Tour begins on 18 March 2022 wit
  h the band’s first ever show in Costa Rica , before travelling to the Dom
  inican Republic , Mexico , USA , Germany , Poland , France ...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay @ Wembley Stadium
-UID:d5b30e47-a370-4493-b29e-341ec6257c80
+UID:156d7335-1ba4-4d47-91b9-911a41887e97
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
+DTSTAMP:20220816T024345Z
 DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
  n tour in 2022 and will be performing live on stage in their Music of the S
  pheres World Tour ! This particular live concert is...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:1f66d012-177b-4af6-b7f0-e435e8eb63ce
+UID:de74cf3c-ad4c-4d2a-af01-f99b7671ae0a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
+DTSTAMP:20220816T024345Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20220828
 DTSTART;VALUE=DATE:20220828
 SUMMARY:Neha Kakkar
-UID:fb799fda-6960-4b0d-9187-c44bbd299dbb
+UID:35bd4171-a0b4-4465-be0c-28424e4846f5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
+DTSTAMP:20220816T024345Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:3385713f-95c7-4674-8b8f-315dc195c79a
+UID:c7ca77cd-cd02-4da3-a25b-44e95269fb39
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
+DTSTAMP:20220816T024345Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:0b0e95ea-a81e-470b-adcd-89e2fd859530
+UID:eb1d2c79-20cc-4af4-86df-dd2a161fe82c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
+DTSTAMP:20220816T024345Z
+DESCRIPTION:Get notified whenever Diamond Platnumz announces a live stream 
+ or a concert in your area
+DTEND;VALUE=DATE:20220827
+DTSTART;VALUE=DATE:20220827
+SUMMARY:Sarkodie @ OVO Arena Wembley
+UID:1e01f049-a26b-4a4e-9fb4-acad41951708
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220816T024345Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:11e13403-b1d8-4d05-8dfa-e2db8458e0d3
+UID:0c94b652-0fd1-45ba-9195-fbc71af9e4a1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
+DTSTAMP:20220816T024345Z
 DESCRIPTION:Buy Coldplay - Music Of The Spheres World Tour tickets and sign
  -up for latest tour alerts. Find Coldplay - Music Of The Spheres World Tou
  r tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220822
 DTSTART;VALUE=DATE:20220822
 SUMMARY:Laura Mvula @ Wembley Stadium
-UID:404799d3-e093-46f8-bd2d-c22e4d69d8ac
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220815T024718Z
-DESCRIPTION:Get notified whenever Diamond Platnumz announces a live stream 
- or a concert in your area
-DTEND;VALUE=DATE:20220827
-DTSTART;VALUE=DATE:20220827
-SUMMARY:Sarkodie @ OVO Arena Wembley
-UID:c944c562-9345-4ac7-a8a1-db4f42c03dad
+UID:2269649e-5b92-4840-9dfe-38665ca0d66c
 END:VEVENT
 END:VCALENDAR
