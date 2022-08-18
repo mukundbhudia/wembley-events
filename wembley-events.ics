@@ -3,99 +3,68 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
+DTSTAMP:20220818T025953Z
 DESCRIPTION:Coldplay performing at Wembley Stadium on 12, 13, 16, 17, 19 an
  d 20 August 2022.
 DTEND;VALUE=DATE:20220819
 DTSTART;VALUE=DATE:20220819
 SUMMARY:Coldplay
-UID:c541d843-2a1a-4c8b-ba77-2fb751c7f243
+UID:c991e6e7-14ed-454c-b2f4-ac701a4b89fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
-DESCRIPTION:The Music Of The Spheres World Tour begins on 18 March 2022 wit
- h the band’s first ever show in Costa Rica , before travelling to the Dom
- inican Republic , Mexico , USA , Germany , Poland , France ...
-DTEND;VALUE=DATE:20220820
-DTSTART;VALUE=DATE:20220820
-SUMMARY:Coldplay @ Wembley Stadium
-UID:d943a812-ef5b-446a-8308-03ae50151fda
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
-DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
- n tour in 2022 and will be performing live on stage in their Music of the S
- pheres World Tour ! This particular live concert is...
-DTEND;VALUE=DATE:20220820
-DTSTART;VALUE=DATE:20220820
-SUMMARY:Coldplay: Music of the Spheres World Tour
-UID:1f4e3fe5-79be-4649-aa12-ec7bfd753765
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
+DTSTAMP:20220818T025953Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20220828
 DTSTART;VALUE=DATE:20220828
 SUMMARY:Neha Kakkar
-UID:849327ef-3097-4301-aad1-1d26872bf341
+UID:24db9826-457c-4a0b-b809-8b47388372ce
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
-DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
- ts. Find Celebrating Africa tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20220827
-DTSTART;VALUE=DATE:20220827
-SUMMARY:Celebrating Africa
-UID:e54cb784-23e0-4d38-8d48-e8f10b974d3a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
-DESCRIPTION:Buy Bon Iver tickets at Wembley Arena London via Gigtix. Bon Iv
- er’s ‘Blood Bank’ is a favourite song played on repeat in this househ
- old. Bon Iver started as a solo project for singer/songwriter...
-DTEND;VALUE=DATE:20221025
-DTSTART;VALUE=DATE:20221025
-SUMMARY:Bon Iver x 1
-UID:eddb20d8-202f-4eaa-b81d-d61c873792b3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
-DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
- f last week’s album news, today the electronic music legend announces h
- e’ll be performing a very special show on September 17th at...
-DTEND;VALUE=DATE:20220917
-DTSTART;VALUE=DATE:20220917
-SUMMARY:Carl Cox
-UID:0542faaf-49cf-4b8b-a303-ebe38b4b9a9c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
-DESCRIPTION:Get notified whenever Diamond Platnumz announces a live stream 
- or a concert in your area
-DTEND;VALUE=DATE:20220827
-DTSTART;VALUE=DATE:20220827
-SUMMARY:Sarkodie @ OVO Arena Wembley
-UID:031b9122-7653-4780-a6c1-60463d28c1e2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
+DTSTAMP:20220818T025953Z
 DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
   lakait hoc'h anv e Facebook hiziv.
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:86b1c511-78e1-4f0e-8dda-71b793ad0513
+UID:53ee1059-381a-40a4-82a0-481ba7b617fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220817T025704Z
-DESCRIPTION:Buy Coldplay - Music Of The Spheres World Tour tickets and sign
- -up for latest tour alerts. Find Coldplay - Music Of The Spheres World Tou
- r tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20220822
-DTSTART;VALUE=DATE:20220822
-SUMMARY:Laura Mvula @ Wembley Stadium
-UID:c3d0b021-1988-4ec3-86b9-a8c4e9645c3b
+DTSTAMP:20220818T025953Z
+DESCRIPTION:Emañ Billy Idol - The Roadside Tour 2022 with Special Guests T
+ elevision e Facebook. Evit mont e darempred gant Billy Idol - The Roadside 
+ Tour 2022 with Special Guests Television, lakait hoc'h anv...
+DTEND;VALUE=DATE:20221019
+DTSTART;VALUE=DATE:20221019
+SUMMARY:Billy Idol - The Roadside Tour 2022 with Special...
+UID:dd81bf74-2818-4b18-b871-40ea5968bb34
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220818T025953Z
+DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
+ n tour in 2022 and will be performing live on stage in their Music of the S
+ pheres World Tour ! This particular live concert is...
+DTEND;VALUE=DATE:20220820
+DTSTART;VALUE=DATE:20220820
+SUMMARY:Coldplay: Music of the Spheres World Tour
+UID:d8d07e70-7e07-4075-95de-665fe8e421e2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220818T025953Z
+DESCRIPTION:The Cure performs at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221213
+DTSTART;VALUE=DATE:20221213
+SUMMARY:The Cure - EXTRA DATE ADDED
+UID:9fe26d1d-096c-43e1-9578-64574ca55285
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220818T025953Z
+DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
+  lakait hoc'h anv e Facebook hiziv.
+DTEND;VALUE=DATE:20221025
+DTSTART;VALUE=DATE:20221025
+SUMMARY:Bon Iver
+UID:06f6890e-eb03-407e-9cdb-3a097efd29c6
 END:VEVENT
 END:VCALENDAR
