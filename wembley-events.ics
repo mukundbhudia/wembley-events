@@ -3,99 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
+DTSTAMP:20220820T024041Z
 DESCRIPTION:The Music Of The Spheres World Tour begins on 18 March 2022 wit
  h the band’s first ever show in Costa Rica , before travelling to the Dom
  inican Republic , Mexico , USA , Germany , Poland , France ...
 DTEND;VALUE=DATE:20220820
 DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay
-UID:5c5e7fc2-cb58-4ace-acea-f5e3a43365e7
+UID:1a135d8f-cbcf-47bd-a006-586a8ac923e7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
-DESCRIPTION:Coldplay performing at Wembley Stadium on 12, 13, 16, 17, 19 an
- d 20 August 2022.
-DTEND;VALUE=DATE:20220819
-DTSTART;VALUE=DATE:20220819
+DTSTAMP:20220820T024041Z
+DESCRIPTION:Global super pop rock band Coldplay will be hitting the road o
+ n tour in 2022 and will be performing live on stage in their Music of the S
+ pheres World Tour ! This particular live concert is...
+DTEND;VALUE=DATE:20220820
+DTSTART;VALUE=DATE:20220820
+SUMMARY:Coldplay: Music of the Spheres World Tour
+UID:321a0ab7-c506-4078-8d35-3db427e93067
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220820T024041Z
+DESCRIPTION:Shares div IMPORTANT INFORMATION REGARDING THE SHOW TAKING PLAC
+ E ON THE 19TH AUGUST. Due to planned industrial action on the London Underg
+ round network, Coldplay’s Wembley Stadium concert on...
+DTEND;VALUE=DATE:20220820
+DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay
-UID:7106a93e-d6c2-4ec9-8e81-ada182a5b79b
+UID:00f9d291-7deb-4206-9085-2f851aee80bf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
+DTSTAMP:20220820T024041Z
 DESCRIPTION:Big Green Coach is delighted to be the official ticket and carb
  on neutral coach travel partner to the Coldplay Music of the Spheres World 
  Tour at Wembley Stadium. VENUE: Wembley Stadium Dates...
-DTEND;VALUE=DATE:20220819
-DTSTART;VALUE=DATE:20220819
+DTEND;VALUE=DATE:20220820
+DTSTART;VALUE=DATE:20220820
 SUMMARY:Coldplay at Wembley
-UID:ffc9a8f4-4d88-40b6-8653-e0722fb0a0c8
+UID:2bc46de4-b591-401d-a6ca-aa055f372759
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
+DTSTAMP:20220820T024041Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20220828
 DTSTART;VALUE=DATE:20220828
 SUMMARY:Neha Kakkar
-UID:688de6df-4bd4-4a4d-a2b9-4780ab142403
+UID:99233659-c973-47fa-9eca-ab1f719a6ab5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
-DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
- ts. Find Celebrating Africa tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20220827
-DTSTART;VALUE=DATE:20220827
-SUMMARY:Celebrating Africa
-UID:69e799eb-f625-47dc-8d3c-8c778c169b98
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
+DTSTAMP:20220820T024041Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:57a1fca5-5060-41a5-b336-a137c6aa4173
+UID:3b1a625a-7e5a-4dfb-b6d2-e911be5b5e13
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
+DTSTAMP:20220820T024041Z
 DESCRIPTION:Buy Jubin Nautiyal tickets from Ticketmaster IE. Jubin Nautiya
  l 2022-23 tour dates, event details + much more.
 DTEND;VALUE=DATE:20221104
 DTSTART;VALUE=DATE:20221104
 SUMMARY:Jubin Nautiyal - RESCHEDULED
-UID:8cf6aeeb-eb53-4d3e-8e42-6bf6de52a0c0
+UID:e8abcd76-7d12-40b9-b6ef-f312861d09c4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
+DTSTAMP:20220820T024041Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:300a3e34-c639-4e5c-af72-f4d8f4f7ebbc
+UID:e3c0243f-6c2b-4f96-a421-9cd5013e2fe6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
+DTSTAMP:20220820T024041Z
 DESCRIPTION:Jordan and Perri on Breakfast this morning announced the KISS H
  aunted House Party is returning to the OVO Arena Wembley. They revealed som
  e of the names that are set to take the stage, including...
 DTEND;VALUE=DATE:20221028
 DTSTART;VALUE=DATE:20221028
 SUMMARY:Mabel @ OVO Arena Wembley
-UID:cb2f8222-7eeb-45a1-92ce-70bc3d089006
+UID:7f38a765-5c6d-41fa-99fd-759f370962c9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220819T024602Z
+DTSTAMP:20220820T024041Z
 DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
  eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
  - Commemorative VIP Laminate - Exclusive Autographed...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:7a850757-696e-4c7e-b268-9d84216039c0
+UID:f8a48856-9e5f-458a-8022-36046e2a4e27
 END:VEVENT
 END:VCALENDAR
