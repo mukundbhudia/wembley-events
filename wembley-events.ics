@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
+DTSTAMP:20220825T030113Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20220828
 DTSTART;VALUE=DATE:20220828
 SUMMARY:Neha Kakkar
-UID:9e4c0d02-b600-4d1e-8f80-55189a5a9717
+UID:1a144fe2-13ee-4331-ab18-7602ea160a7f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
+DTSTAMP:20220825T030113Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Celebrating Africa
-UID:5d176bb1-e0e0-4fa8-bd15-afafe08b9862
+UID:87dc96c8-1588-49b2-8cbb-8647b704caa6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
+DTSTAMP:20220825T030113Z
+DESCRIPTION:Another Motive heads to Box Park Wembley for this Special Carni
+ val takeover About this Event
+DTEND;VALUE=DATE:20220825
+DTSTART;VALUE=DATE:20220825
+SUMMARY:Another Motive
+UID:e974ae6d-1a14-4873-a30f-9d2d1a153bc2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220825T030113Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:d9890bd4-40be-45b7-b1db-c2797e166940
+UID:e5147ef3-03db-412f-9bff-987dd2bcaa86
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
-DESCRIPTION:The Kids' Table will be at BOXPARK Wembley providing arts, craf
- ts and entertainment for your little ones. First come, first served and fre
- e of charge to BOXPARK customers, over 3s. Spaces are...
-DTEND;VALUE=DATE:20220824
-DTSTART;VALUE=DATE:20220824
-SUMMARY:The Kids' Table: Summer Holidays
-UID:302541bf-60fb-4232-9913-d37093638000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
+DTSTAMP:20220825T030113Z
 DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
   lakait hoc'h anv e Facebook hiziv.
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:3cbdb76b-6faa-49d7-b2c2-93328a464e75
+UID:c0036547-fbd8-4c1d-82e8-943dd77c0fe1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
+DTSTAMP:20220825T030113Z
 DESCRIPTION:Jordan and Perri on Breakfast this morning announced the KISS H
  aunted House Party is returning to the OVO Arena Wembley. They revealed som
  e of the names that are set to take the stage, including...
 DTEND;VALUE=DATE:20221028
 DTSTART;VALUE=DATE:20221028
 SUMMARY:Mabel @ OVO Arena Wembley
-UID:afa22d03-afa7-41e3-8e48-c3f15acb4678
+UID:d3ccbe49-2c3b-472c-9ed7-f733fd1a5a5a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
-DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
- lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
- stanced Photo Op with Billy Idol and Steve Stevens...
-DTEND;VALUE=DATE:20221019
-DTSTART;VALUE=DATE:20221019
-SUMMARY:Billy Idol - RESCHEDULED
-UID:2c815f2f-fe6e-4e3e-9a68-51af7b89e1ff
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
+DTSTAMP:20220825T030113Z
 DESCRIPTION:Experience Wembley like never before! Explore the rich musical 
  history of Wembley Park with fun facts and iconic top tunes!
 DTEND;VALUE=DATE:20220827
 DTSTART;VALUE=DATE:20220827
 SUMMARY:Icons of Wembley Tour
-UID:49cb8afc-1482-441e-819f-69bf057ff620
+UID:be909e7d-56d6-463e-9b32-6ee894f1ac6e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
+DTSTAMP:20220825T030113Z
 DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
  eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
  - Commemorative VIP Laminate - Exclusive Autographed...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:36d5d206-0b24-4960-b63b-73458a6e16d2
+UID:7af08313-ccc6-447d-8900-13baf08def99
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220824T025632Z
+DTSTAMP:20220825T030113Z
+DESCRIPTION:Buy Russ - The Journey Is Everything tickets and sign-up for la
+ test tour alerts. Find Russ - The Journey Is Everything tour dates, reviews
+ , times and event details.
+DTEND;VALUE=DATE:20221006
+DTSTART;VALUE=DATE:20221006
+SUMMARY:Russ
+UID:0e9f4309-2eb9-43c2-a47e-eeda4b23c93a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220825T030113Z
 DESCRIPTION:Professor Brian Cox Horizons World Tour hè nant'à Facebook. 
  Per cunnettatti à Professor Brian Cox Horizons World Tour, raghjunghji à 
  Facebook oghje.
 DTEND;VALUE=DATE:20220928
 DTSTART;VALUE=DATE:20220928
 SUMMARY:Professor Brian Cox Horizons World Tour
-UID:6ab55e1e-47c9-4107-a595-d9147c3185e1
+UID:4b8ffcbd-5dbc-4f60-a8df-ffd4c9195085
 END:VEVENT
 END:VCALENDAR
