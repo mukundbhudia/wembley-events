@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
+DTSTAMP:20220828T030033Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20220828
 DTSTART;VALUE=DATE:20220828
 SUMMARY:Neha Kakkar
-UID:3cdf2ff6-5016-4508-8509-3dbc83c7431f
+UID:735730dd-70ca-4a7a-8ec4-a112c0b44855
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
+DTSTAMP:20220828T030033Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20220827
-DTSTART;VALUE=DATE:20220827
-SUMMARY:Diamond Platnumz @ OVO Arena Wembley
-UID:cf44e251-668e-4394-a058-0ff3a9663d22
+DTEND;VALUE=DATE:20220828
+DTSTART;VALUE=DATE:20220828
+SUMMARY:Celebrating Africa
+UID:f8927813-c6f2-4184-8924-8f3b256b080c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
+DTSTAMP:20220828T030033Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:17af5f8e-1035-4470-bd20-ab884ff1e9f5
+UID:560cddfa-127b-4ef8-9421-c21631d57548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
+DTSTAMP:20220828T030033Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:86cedb25-85ab-410c-8869-c3c588ca6162
+UID:976ecb0c-2345-4e07-a210-31b1841eae51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
+DTSTAMP:20220828T030033Z
 DESCRIPTION:Jordan and Perri on Breakfast this morning announced the KISS H
  aunted House Party is returning to the OVO Arena Wembley. They revealed som
  e of the names that are set to take the stage, including...
 DTEND;VALUE=DATE:20221028
 DTSTART;VALUE=DATE:20221028
 SUMMARY:Mabel @ OVO Arena Wembley
-UID:d5a4b96a-7849-469e-aafd-b7315084c98f
+UID:033b0bf5-f386-4ba1-a281-da60b8b1c46b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
+DTSTAMP:20220828T030033Z
 DESCRIPTION:Best selling author Dr. Jordan B Peterson takes to the road wit
  h his latest tour, Beyond Order: 12 More Rules For Life Tour. Fri 16 Sept 2
  022 @ 7:30 pm | SSE Arena, Wembley, London On sale on...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:72dadfd5-f4c4-43c0-86d3-466274d1004b
+UID:3560bc9e-82d0-4f28-9de7-5c2286aed66f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
+DTSTAMP:20220828T030033Z
 DESCRIPTION:Buy Russ - The Journey Is Everything tickets and sign-up for la
  test tour alerts. Find Russ - The Journey Is Everything tour dates, reviews
  , times and event details.
 DTEND;VALUE=DATE:20221006
 DTSTART;VALUE=DATE:20221006
 SUMMARY:Russ
-UID:bb71332d-901f-43e4-886e-bd6c087cd667
+UID:cd240abe-63cf-486c-af2c-5056cbd26369
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
+DTSTAMP:20220828T030033Z
 DESCRIPTION:Brian Cox is perhaps the world's foremost communicator of all t
  hings scientific. His innate ability to make highly complex matters enormou
  sly entertaining and easy to contemplate has made his...
 DTEND;VALUE=DATE:20220928
 DTSTART;VALUE=DATE:20220928
 SUMMARY:Professor Brian Cox
-UID:2deb5c66-e42b-450c-883f-739559287628
+UID:36f889aa-7909-4ed7-800e-87ee0a05d47a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
-DESCRIPTION:Experience Wembley like never before! Explore the rich musical 
- history of Wembley Park with fun facts and iconic top tunes!
-DTEND;VALUE=DATE:20220827
-DTSTART;VALUE=DATE:20220827
-SUMMARY:Icons of Wembley Tour
-UID:5c801a24-8a4e-4637-b225-d1538f78d82b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220827T025710Z
+DTSTAMP:20220828T030033Z
 DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
 DTEND;VALUE=DATE:20221030
 DTSTART;VALUE=DATE:20221030
 SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
-UID:2a371c3d-1cf5-4fc8-a079-432cf54b8aa5
+UID:144c7244-d79b-457a-9593-091864d02334
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220828T030033Z
+DESCRIPTION:Buy Ne-Yo - Live In Concert tickets and sign-up for latest tou
+ r alerts. Find Ne-Yo - Live In Concert tour dates, reviews, times and even
+ t details.
+DTEND;VALUE=DATE:20220929
+DTSTART;VALUE=DATE:20220929
+SUMMARY:Ne-Yo
+UID:59ae6b33-c97a-48ce-b419-8486de9f3e9e
 END:VEVENT
 END:VCALENDAR
