@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:Taylor Hawkins Tribute Concert on Saturday 03 September 2022 - 
  purchase hospitality with Club Wembley
 DTEND;VALUE=DATE:20220902
 DTSTART;VALUE=DATE:20220902
 SUMMARY:Taylor Hawkins Tribute Concert
-UID:cb3fde86-83fe-4edf-ad5f-09cbd66049d4
+UID:628445b7-f2f8-4542-bd03-96a4e1ed30bd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
  dians from all over to test out material, and have fun with the audience. T
  he night will feature games & prizes, and food available...
 DTEND;VALUE=DATE:20220831
 DTSTART;VALUE=DATE:20220831
 SUMMARY:Laugh In The Box
-UID:aec4e44e-bd90-44dc-925a-a8e3742e9bfb
+UID:7c93a887-0f87-4d2c-8cda-8f2f1190b86f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:FREE Entry!! Each person can only redeem two tickets. This one'
  s for the RnB lovers! Expect to get caught up in your feelings and sing alo
  ng to the likes of Summer Walker, SZA, Drizzy Drake and...
 DTEND;VALUE=DATE:20220902
 DTSTART;VALUE=DATE:20220902
 SUMMARY:RnB Sessions
-UID:b2305520-879d-4932-a0ae-fd197d361f98
+UID:ee751b79-8431-4f86-b59d-0c7b7aab6fb4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:bcf32b3f-6368-4a68-8de0-ca543cf89c34
+UID:86aa4f10-80bd-47df-a9c1-016c5e0b03a6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:755d84f9-6e7a-442b-9ae5-93e36ac660a3
+UID:04c4a345-e28d-4523-8e94-98d4ef7e74f0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:Jordan and Perri on Breakfast this morning announced the KISS H
  aunted House Party is returning to the OVO Arena Wembley. They revealed som
  e of the names that are set to take the stage, including...
 DTEND;VALUE=DATE:20221028
 DTSTART;VALUE=DATE:20221028
 SUMMARY:Mabel @ OVO Arena Wembley
-UID:6ffe5e07-10f4-42bc-a547-8a2c867f8de0
+UID:f13861a5-b8c2-4a5a-b87a-efce044316a6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:Best selling author Dr. Jordan B Peterson takes to the road wit
  h his latest tour, Beyond Order: 12 More Rules For Life Tour. Fri 16 Sept 2
  022 @ 7:30 pm | SSE Arena, Wembley, London On sale on...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:f45e323c-9fe8-44df-b37f-4226d324ca33
+UID:bd3cde16-84aa-419f-a8bc-755608eaa808
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:Buy Russ - The Journey Is Everything tickets and sign-up for la
  test tour alerts. Find Russ - The Journey Is Everything tour dates, reviews
  , times and event details.
 DTEND;VALUE=DATE:20221006
 DTSTART;VALUE=DATE:20221006
 SUMMARY:Russ
-UID:f963955e-69ea-4567-a182-836c69bf1d71
+UID:d451ee6e-a587-48b9-bfe2-138cc58d297f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:Brian Cox is perhaps the world's foremost communicator of all t
  hings scientific. His innate ability to make highly complex matters enormou
  sly entertaining and easy to contemplate has made his...
 DTEND;VALUE=DATE:20220928
 DTSTART;VALUE=DATE:20220928
 SUMMARY:Professor Brian Cox
-UID:a727c0ac-5fed-4311-afe4-301663ec7723
+UID:c8455c92-2d71-41d9-9edc-5c28ffb4bb87
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220829T030520Z
+DTSTAMP:20220830T031112Z
 DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
 DTEND;VALUE=DATE:20221030
 DTSTART;VALUE=DATE:20221030
 SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
-UID:63893ac5-d403-489c-b103-d9a3b6581dcc
+UID:475e5d77-176b-45ae-b4e9-1228106b169f
 END:VEVENT
 END:VCALENDAR
