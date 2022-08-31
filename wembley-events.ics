@@ -3,99 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
-DESCRIPTION:Taylor Hawkins Tribute Concert on Saturday 03 September 2022 - 
- purchase hospitality with Club Wembley
-DTEND;VALUE=DATE:20220902
-DTSTART;VALUE=DATE:20220902
-SUMMARY:Taylor Hawkins Tribute Concert
-UID:628445b7-f2f8-4542-bd03-96a4e1ed30bd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
+DTSTAMP:20220831T032255Z
 DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
  dians from all over to test out material, and have fun with the audience. T
  he night will feature games & prizes, and food available...
 DTEND;VALUE=DATE:20220831
 DTSTART;VALUE=DATE:20220831
 SUMMARY:Laugh In The Box
-UID:7c93a887-0f87-4d2c-8cda-8f2f1190b86f
+UID:be02ff16-3e0e-47ce-bebb-d4ba355f4e97
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
+DTSTAMP:20220831T032255Z
+DESCRIPTION:The Kids' Table will be at BOXPARK Wembley providing arts, craf
+ ts and entertainment for your little ones. First come, first served and fre
+ e of charge to BOXPARK customers, over 3s. Spaces are...
+DTEND;VALUE=DATE:20220831
+DTSTART;VALUE=DATE:20220831
+SUMMARY:The Kids' Table: Summer Holidays
+UID:05029d71-80bf-4ca4-a05b-dbe711a2d5e4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T032255Z
 DESCRIPTION:FREE Entry!! Each person can only redeem two tickets. This one'
  s for the RnB lovers! Expect to get caught up in your feelings and sing alo
  ng to the likes of Summer Walker, SZA, Drizzy Drake and...
 DTEND;VALUE=DATE:20220902
 DTSTART;VALUE=DATE:20220902
 SUMMARY:RnB Sessions
-UID:ee751b79-8431-4f86-b59d-0c7b7aab6fb4
+UID:9bbcedb8-a95f-4085-b1a7-1fec5ea35677
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
+DTSTAMP:20220831T032255Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:86aa4f10-80bd-47df-a9c1-016c5e0b03a6
+UID:f9d5de57-f2a7-46c2-8da9-b7c089eabffd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
+DTSTAMP:20220831T032255Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:04c4a345-e28d-4523-8e94-98d4ef7e74f0
+UID:8948d1ea-a863-401a-8d83-ac4e9b6bbd6b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
+DTSTAMP:20220831T032255Z
+DESCRIPTION:Sachtela Evrard Djedje (August 25, 1992), aka Vegedream, is a F
+ rench hip-hop artist who grew up in a musical family and spent several year
+ s in his parents' homeland, the Ivory Coast. Moving to...
+DTEND;VALUE=DATE:20220930
+DTSTART;VALUE=DATE:20220930
+SUMMARY:Diamond Platnumz with sarkodie and Vegedream at...
+UID:d6272a8b-0b2e-4160-86ca-87fe0dec2b2e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T032255Z
+DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
+ lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
+ stanced Photo Op with Billy Idol and Steve Stevens...
+DTEND;VALUE=DATE:20221019
+DTSTART;VALUE=DATE:20221019
+SUMMARY:Billy Idol - RESCHEDULED
+UID:8c5bb868-32fa-4f73-90bf-57bfddbb22a0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T032255Z
+DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
+ eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
+ - Commemorative VIP Laminate - Exclusive Autographed...
+DTEND;VALUE=DATE:20220916
+DTSTART;VALUE=DATE:20220916
+SUMMARY:Dr. Jordan B. Peterson: Beyond Order
+UID:3a297311-1307-46b6-b569-1727d90f725e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220831T032255Z
 DESCRIPTION:Jordan and Perri on Breakfast this morning announced the KISS H
  aunted House Party is returning to the OVO Arena Wembley. They revealed som
  e of the names that are set to take the stage, including...
 DTEND;VALUE=DATE:20221028
 DTSTART;VALUE=DATE:20221028
 SUMMARY:Mabel @ OVO Arena Wembley
-UID:f13861a5-b8c2-4a5a-b87a-efce044316a6
+UID:64838d78-702e-49ec-b020-4cf0cba77160
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
-DESCRIPTION:Best selling author Dr. Jordan B Peterson takes to the road wit
- h his latest tour, Beyond Order: 12 More Rules For Life Tour. Fri 16 Sept 2
- 022 @ 7:30 pm | SSE Arena, Wembley, London On sale on...
-DTEND;VALUE=DATE:20220916
-DTSTART;VALUE=DATE:20220916
-SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:bd3cde16-84aa-419f-a8bc-755608eaa808
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
+DTSTAMP:20220831T032255Z
 DESCRIPTION:Buy Russ - The Journey Is Everything tickets and sign-up for la
  test tour alerts. Find Russ - The Journey Is Everything tour dates, reviews
  , times and event details.
 DTEND;VALUE=DATE:20221006
 DTSTART;VALUE=DATE:20221006
 SUMMARY:Russ
-UID:d451ee6e-a587-48b9-bfe2-138cc58d297f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
-DESCRIPTION:Brian Cox is perhaps the world's foremost communicator of all t
- hings scientific. His innate ability to make highly complex matters enormou
- sly entertaining and easy to contemplate has made his...
-DTEND;VALUE=DATE:20220928
-DTSTART;VALUE=DATE:20220928
-SUMMARY:Professor Brian Cox
-UID:c8455c92-2d71-41d9-9edc-5c28ffb4bb87
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220830T031112Z
-DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
-DTEND;VALUE=DATE:20221030
-DTSTART;VALUE=DATE:20221030
-SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
-UID:475e5d77-176b-45ae-b4e9-1228106b169f
+UID:24f74317-60ce-41dc-8fa5-c00a819e3b98
 END:VEVENT
 END:VCALENDAR
