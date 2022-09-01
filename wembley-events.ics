@@ -3,102 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
-DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
- dians from all over to test out material, and have fun with the audience. T
- he night will feature games & prizes, and food available...
-DTEND;VALUE=DATE:20220831
-DTSTART;VALUE=DATE:20220831
-SUMMARY:Laugh In The Box
-UID:be02ff16-3e0e-47ce-bebb-d4ba355f4e97
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
-DESCRIPTION:The Kids' Table will be at BOXPARK Wembley providing arts, craf
- ts and entertainment for your little ones. First come, first served and fre
- e of charge to BOXPARK customers, over 3s. Spaces are...
-DTEND;VALUE=DATE:20220831
-DTSTART;VALUE=DATE:20220831
-SUMMARY:The Kids' Table: Summer Holidays
-UID:05029d71-80bf-4ca4-a05b-dbe711a2d5e4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
+DTSTAMP:20220901T025931Z
 DESCRIPTION:FREE Entry!! Each person can only redeem two tickets. This one'
  s for the RnB lovers! Expect to get caught up in your feelings and sing alo
  ng to the likes of Summer Walker, SZA, Drizzy Drake and...
 DTEND;VALUE=DATE:20220902
 DTSTART;VALUE=DATE:20220902
 SUMMARY:RnB Sessions
-UID:9bbcedb8-a95f-4085-b1a7-1fec5ea35677
+UID:92dcb39a-4d41-4b2b-bf74-23fc3e4563c5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
+DTSTAMP:20220901T025931Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:f9d5de57-f2a7-46c2-8da9-b7c089eabffd
+UID:6a71b6c8-ea75-46cd-abcd-3646245652ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
+DTSTAMP:20220901T025931Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:8948d1ea-a863-401a-8d83-ac4e9b6bbd6b
+UID:f4f18352-553f-455f-b76e-0121c13a6102
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
+DTSTAMP:20220901T025931Z
 DESCRIPTION:Sachtela Evrard Djedje (August 25, 1992), aka Vegedream, is a F
  rench hip-hop artist who grew up in a musical family and spent several year
  s in his parents' homeland, the Ivory Coast. Moving to...
 DTEND;VALUE=DATE:20220930
 DTSTART;VALUE=DATE:20220930
 SUMMARY:Diamond Platnumz with sarkodie and Vegedream at...
-UID:d6272a8b-0b2e-4160-86ca-87fe0dec2b2e
+UID:2a5ac43a-8bc7-4132-a1ed-7e0b30995af4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
+DTSTAMP:20220901T025931Z
 DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
  lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
  stanced Photo Op with Billy Idol and Steve Stevens...
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol - RESCHEDULED
-UID:8c5bb868-32fa-4f73-90bf-57bfddbb22a0
+UID:e73aad88-4404-4b8b-b6e8-afdcdd877264
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
+DTSTAMP:20220901T025931Z
 DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
  eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
  - Commemorative VIP Laminate - Exclusive Autographed...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:3a297311-1307-46b6-b569-1727d90f725e
+UID:6af5f90f-5a49-46f9-a072-4ed97a694dd5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
+DTSTAMP:20220901T025931Z
 DESCRIPTION:Jordan and Perri on Breakfast this morning announced the KISS H
  aunted House Party is returning to the OVO Arena Wembley. They revealed som
  e of the names that are set to take the stage, including...
 DTEND;VALUE=DATE:20221028
 DTSTART;VALUE=DATE:20221028
 SUMMARY:Mabel @ OVO Arena Wembley
-UID:64838d78-702e-49ec-b020-4cf0cba77160
+UID:e28ba8d0-281c-4639-ba65-ac21a3fb3d11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220831T032255Z
+DTSTAMP:20220901T025931Z
 DESCRIPTION:Buy Russ - The Journey Is Everything tickets and sign-up for la
  test tour alerts. Find Russ - The Journey Is Everything tour dates, reviews
  , times and event details.
 DTEND;VALUE=DATE:20221006
 DTSTART;VALUE=DATE:20221006
 SUMMARY:Russ
-UID:24f74317-60ce-41dc-8fa5-c00a819e3b98
+UID:3f3eb0c3-4beb-447f-a095-08ad59065372
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220901T025931Z
+DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
+DTEND;VALUE=DATE:20221030
+DTSTART;VALUE=DATE:20221030
+SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
+UID:b7be1ce2-9784-46f6-ab1e-3ef33d829478
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220901T025931Z
+DESCRIPTION:GO GET FADEDLondon’s home of Hip Hop and RnB – Faded has be
+ en going from strength to strength since it started in March 2012. Its thre
+ e principles are simple: good music, good people and good...
+DTEND;VALUE=DATE:20220902
+DTSTART;VALUE=DATE:20220902
+SUMMARY:FADED
+UID:3e122476-8fef-416c-a70c-4e633d86a107
 END:VEVENT
 END:VCALENDAR
