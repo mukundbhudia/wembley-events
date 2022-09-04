@@ -3,101 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
-DESCRIPTION:FREE Entry!! Each person can only redeem two tickets. This one'
- s for the RnB lovers! Expect to get caught up in your feelings and sing alo
- ng to the likes of Summer Walker, SZA, Drizzy Drake and...
-DTEND;VALUE=DATE:20220903
-DTSTART;VALUE=DATE:20220903
-SUMMARY:RnB Sessions
-UID:49836117-249b-486c-9e43-b7ca6cd71cb7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
+DTSTAMP:20220904T030243Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:6a9bc2ee-88bd-42d5-ae65-5d8c818e3a2e
+UID:23c2dff7-f00b-4115-8fd2-c6e8ab737a05
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
+DTSTAMP:20220904T030243Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:56f65feb-91b6-4221-acba-c2fde8f6652a
+UID:01aa87fa-d11e-4631-a5ed-0e176fd34f3a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
+DTSTAMP:20220904T030243Z
 DESCRIPTION:Sachtela Evrard Djedje (August 25, 1992), aka Vegedream, is a F
  rench hip-hop artist who grew up in a musical family and spent several year
  s in his parents' homeland, the Ivory Coast. Moving to...
 DTEND;VALUE=DATE:20220930
 DTSTART;VALUE=DATE:20220930
 SUMMARY:Diamond Platnumz with sarkodie and Vegedream at...
-UID:3cb57802-1b63-4195-b8ab-b0ecbc6f68d7
+UID:109a5c78-c294-4475-8049-7acad8389eab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
+DTSTAMP:20220904T030243Z
 DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
  lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
  stanced Photo Op with Billy Idol and Steve Stevens...
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol - RESCHEDULED
-UID:c1a3f8ef-c6cf-41b3-92e6-fcd0754e7ff8
+UID:df0c090d-1f85-47ba-a21e-53ac5d302a2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
-DESCRIPTION:Jordan and Perri on Breakfast this morning announced the KISS H
- aunted House Party is returning to the OVO Arena Wembley. They revealed som
- e of the names that are set to take the stage, including...
+DTSTAMP:20220904T030243Z
+DESCRIPTION:“📢 TICKETS ON SALE NOW! 📢 @VOXI_UK Presents #KISSHaunte
+ d House Party Friday 28th October at OVO Arena Wembley 🙌 🎃 @thebbccof
+ ficial 💀 @CraigDavid 👻 @Mabel ☠️ @NathanDawe 🦇 @ndubz 😱 Plu
+ s...
 DTEND;VALUE=DATE:20221028
 DTSTART;VALUE=DATE:20221028
 SUMMARY:Mabel @ OVO Arena Wembley
-UID:dd79b99c-a876-4012-85ca-704c1fcd07ac
+UID:7eff0cd1-82d7-4b58-8482-a4e26ceead85
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
+DTSTAMP:20220904T030243Z
+DESCRIPTION:Amon Amarth and Machine Head at OVO Arena at 2022-09-10T18:00:0
+ 0+0100
+DTEND;VALUE=DATE:20220910
+DTSTART;VALUE=DATE:20220910
+SUMMARY:Machine Head & Amon Amarth: THE VIKINGS ...
+UID:19abd829-9931-4504-a858-5384dbf0d1e4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220904T030243Z
 DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
  eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
  - Commemorative VIP Laminate - Exclusive Autographed...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:e65f8fb0-9539-4191-9cfb-e2692b4fc8e7
+UID:cde780fd-f093-4465-a360-07125a8e31a2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
-DESCRIPTION:Buy Russ - The Journey Is Everything tickets and sign-up for la
- test tour alerts. Find Russ - The Journey Is Everything tour dates, reviews
- , times and event details.
-DTEND;VALUE=DATE:20221006
-DTSTART;VALUE=DATE:20221006
-SUMMARY:Russ
-UID:5511aa07-5756-4c13-9953-96eae169fe13
+DTSTAMP:20220904T030243Z
+DESCRIPTION:Buy Ne-Yo - Live In Concert tickets and sign-up for latest tou
+ r alerts. Find Ne-Yo - Live In Concert tour dates, reviews, times and even
+ t details.
+DTEND;VALUE=DATE:20220929
+DTSTART;VALUE=DATE:20220929
+SUMMARY:Ne-Yo
+UID:39583fdc-71cd-44b6-bcd6-a4413481548f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
-DESCRIPTION:Amon Amarth and Machine Head at OVO Arena at 2022-09-10T18:00:0
- 0+0100
-DTEND;VALUE=DATE:20220910
-DTSTART;VALUE=DATE:20220910
-SUMMARY:Machine Head & Amon Amarth: THE VIKINGS ...
-UID:462f430a-ceef-497c-835b-73d10828ac81
+DTSTAMP:20220904T030243Z
+DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
+DTEND;VALUE=DATE:20221030
+DTSTART;VALUE=DATE:20221030
+SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
+UID:b813b8c5-50fd-4a94-96b0-dcd0da7aa37d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220903T025931Z
-DESCRIPTION:GO GET FADEDLondon’s home of Hip Hop and RnB – Faded has be
- en going from strength to strength since it started in March 2012. Its thre
- e principles are simple: good music, good people and good...
-DTEND;VALUE=DATE:20220903
-DTSTART;VALUE=DATE:20220903
-SUMMARY:FADED
-UID:9b29ba2f-dca5-438a-be15-6f09ceb55ac7
+DTSTAMP:20220904T030243Z
+DESCRIPTION:This show was rescheduled from 30th October 2021. Horizons take
+ s us on a dazzling cinematic journey. A story of how we came to be and wha
+ t we can become. Using state-of-the-art LED screen...
+DTEND;VALUE=DATE:20220928
+DTSTART;VALUE=DATE:20220928
+SUMMARY:Professor Brian Cox Horizons World Tour
+UID:ad264091-3867-4705-9f60-cfdf0caac6d5
 END:VEVENT
 END:VCALENDAR
