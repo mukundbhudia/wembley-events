@@ -3,46 +3,64 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
+DTSTAMP:20220905T030825Z
+DESCRIPTION:Amon Amarth and Machine Head at OVO Arena at 2022-09-10T18:00:0
+ 0+0100
+DTEND;VALUE=DATE:20220910
+DTSTART;VALUE=DATE:20220910
+SUMMARY:Machine Head & Amon Amarth: THE VIKINGS ...
+UID:a4b4a111-742b-4571-b21a-8058519031be
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220905T030825Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:23c2dff7-f00b-4115-8fd2-c6e8ab737a05
+UID:3cf75216-ea29-49ac-9857-dd2807adad2d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
+DTSTAMP:20220905T030825Z
+DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
+ Coors Light
+DTEND;VALUE=DATE:20220909
+DTSTART;VALUE=DATE:20220909
+SUMMARY:FRIDAY FEELINGS
+UID:5f524b69-e059-48c5-a86c-b4503dee32fa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220905T030825Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:01aa87fa-d11e-4631-a5ed-0e176fd34f3a
+UID:7371e62e-6cbe-41de-8cd3-cde4cbce5ac0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
+DTSTAMP:20220905T030825Z
 DESCRIPTION:Sachtela Evrard Djedje (August 25, 1992), aka Vegedream, is a F
  rench hip-hop artist who grew up in a musical family and spent several year
  s in his parents' homeland, the Ivory Coast. Moving to...
 DTEND;VALUE=DATE:20220930
 DTSTART;VALUE=DATE:20220930
 SUMMARY:Diamond Platnumz with sarkodie and Vegedream at...
-UID:109a5c78-c294-4475-8049-7acad8389eab
+UID:cfd3496a-6482-4937-b2ab-d4a9d4cee497
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
+DTSTAMP:20220905T030825Z
 DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
  lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
  stanced Photo Op with Billy Idol and Steve Stevens...
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol - RESCHEDULED
-UID:df0c090d-1f85-47ba-a21e-53ac5d302a2a
+UID:3a1bd17c-1f86-4b0f-a264-46ea2c08120c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
+DTSTAMP:20220905T030825Z
 DESCRIPTION:“📢 TICKETS ON SALE NOW! 📢 @VOXI_UK Presents #KISSHaunte
  d House Party Friday 28th October at OVO Arena Wembley 🙌 🎃 @thebbccof
  ficial 💀 @CraigDavid 👻 @Mabel ☠️ @NathanDawe 🦇 @ndubz 😱 Plu
@@ -50,53 +68,36 @@ DESCRIPTION:“📢 TICKETS ON SALE NOW! 📢 @VOXI_UK Presents #KISSHaunte
 DTEND;VALUE=DATE:20221028
 DTSTART;VALUE=DATE:20221028
 SUMMARY:Mabel @ OVO Arena Wembley
-UID:7eff0cd1-82d7-4b58-8482-a4e26ceead85
+UID:24be4200-2197-4ca9-91f5-e60e385695a0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
-DESCRIPTION:Amon Amarth and Machine Head at OVO Arena at 2022-09-10T18:00:0
- 0+0100
-DTEND;VALUE=DATE:20220910
-DTSTART;VALUE=DATE:20220910
-SUMMARY:Machine Head & Amon Amarth: THE VIKINGS ...
-UID:19abd829-9931-4504-a858-5384dbf0d1e4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
+DTSTAMP:20220905T030825Z
 DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
  eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
  - Commemorative VIP Laminate - Exclusive Autographed...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:cde780fd-f093-4465-a360-07125a8e31a2
+UID:85061696-79c8-49d2-a343-6e0e8d2b62de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
+DTSTAMP:20220905T030825Z
+DESCRIPTION:Westlife is a four piece Irish vocal group composed of Shane Fi
+ lan, Mark Feehily, Nicky Byrne and Kian Egan. They have had 14 #1 singles g
+ race UK charts to date, which pu...
+DTEND;VALUE=DATE:20220906
+DTSTART;VALUE=DATE:20220906
+SUMMARY:Westlife @ Wembley Stadium connected by EE
+UID:b1aaf00c-10a6-4710-b657-c966b4ff1416
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220905T030825Z
 DESCRIPTION:Buy Ne-Yo - Live In Concert tickets and sign-up for latest tou
  r alerts. Find Ne-Yo - Live In Concert tour dates, reviews, times and even
  t details.
 DTEND;VALUE=DATE:20220929
 DTSTART;VALUE=DATE:20220929
 SUMMARY:Ne-Yo
-UID:39583fdc-71cd-44b6-bcd6-a4413481548f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
-DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
-DTEND;VALUE=DATE:20221030
-DTSTART;VALUE=DATE:20221030
-SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
-UID:b813b8c5-50fd-4a94-96b0-dcd0da7aa37d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220904T030243Z
-DESCRIPTION:This show was rescheduled from 30th October 2021. Horizons take
- s us on a dazzling cinematic journey. A story of how we came to be and wha
- t we can become. Using state-of-the-art LED screen...
-DTEND;VALUE=DATE:20220928
-DTSTART;VALUE=DATE:20220928
-SUMMARY:Professor Brian Cox Horizons World Tour
-UID:ad264091-3867-4705-9f60-cfdf0caac6d5
+UID:cd4fbac6-bc31-4325-8fc9-afdd47139fcf
 END:VEVENT
 END:VCALENDAR
