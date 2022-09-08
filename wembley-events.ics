@@ -3,64 +3,94 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
+DTSTAMP:20220908T031055Z
 DESCRIPTION:Amon Amarth and Machine Head at OVO Arena at 2022-09-10T18:00:0
  0+0100
 DTEND;VALUE=DATE:20220910
 DTSTART;VALUE=DATE:20220910
 SUMMARY:Machine Head & Amon Amarth: THE VIKINGS ...
-UID:de5821ff-43f4-470c-a5a5-bdca3befba6c
+UID:b5cd68bc-4293-401d-9b70-b61a9039d00a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
+DTSTAMP:20220908T031055Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:0706746a-777f-4526-82b1-62f4585bfa86
+UID:f64578f0-b50d-4e93-a096-cae2f117d226
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
+DTSTAMP:20220908T031055Z
 DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
  Coors Light
 DTEND;VALUE=DATE:20220909
 DTSTART;VALUE=DATE:20220909
 SUMMARY:FRIDAY FEELINGS
-UID:7d50ba46-132f-43b1-afdf-5660e0dcc72e
+UID:4de0053c-b06f-412d-88a6-909b3d71317a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
+DTSTAMP:20220908T031055Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:24e8fbd3-360e-4e05-b7a8-104d511fe6eb
+UID:7438df83-7841-4dd0-a131-e8e22db9bc12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
+DTSTAMP:20220908T031055Z
 DESCRIPTION:Sachtela Evrard Djedje (August 25, 1992), aka Vegedream, is a F
  rench hip-hop artist who grew up in a musical family and spent several year
  s in his parents' homeland, the Ivory Coast. Moving to...
 DTEND;VALUE=DATE:20220930
 DTSTART;VALUE=DATE:20220930
 SUMMARY:Diamond Platnumz with sarkodie and Vegedream at...
-UID:62f22aeb-3208-4906-937d-a7654017c07a
+UID:699daa2e-cae7-419b-ae42-219dee88f4c8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
+DTSTAMP:20220908T031055Z
 DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
  lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
  stanced Photo Op with Billy Idol and Steve Stevens...
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol - RESCHEDULED
-UID:c0860859-5fd5-4634-970d-7dd78136bb9f
+UID:397e684c-a9f2-4d41-b0b9-d1fc3647ae03
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
+DTSTAMP:20220908T031055Z
+DESCRIPTION:This show was rescheduled from 30th October 2021. Horizons take
+ s us on a dazzling cinematic journey. A story of how we came to be and wha
+ t we can become. Using state-of-the-art LED screen...
+DTEND;VALUE=DATE:20220928
+DTSTART;VALUE=DATE:20220928
+SUMMARY:Professor Brian Cox
+UID:7cef5d82-0f99-48cc-ad71-7afb29c166d1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220908T031055Z
+DESCRIPTION:Join Wembley Park and the Royal Philharmonic Orchestra for a fr
+ ee, day-long performance experience festival using music, dance, spoken wor
+ d and theatre to bring to life the hopes, ambitions and...
+DTEND;VALUE=DATE:20220910
+DTSTART;VALUE=DATE:20220910
+SUMMARY:Wemba's Dream: Join the Journey in Wembley Park
+UID:3f2b2318-2bb8-466f-9d1b-34343790ea9f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220908T031055Z
+DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
+ eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
+ - Commemorative VIP Laminate - Exclusive Autographed...
+DTEND;VALUE=DATE:20220916
+DTSTART;VALUE=DATE:20220916
+SUMMARY:Dr. Jordan B. Peterson: Beyond Order
+UID:18f9dd4f-4ee3-480c-ae37-805b7eb07f23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220908T031055Z
 DESCRIPTION:“📢 TICKETS ON SALE NOW! 📢 @VOXI_UK Presents #KISSHaunte
  d House Party Friday 28th October at OVO Arena Wembley 🙌 🎃 @thebbccof
  ficial 💀 @CraigDavid 👻 @Mabel ☠️ @NathanDawe 🦇 @ndubz 😱 Plu
@@ -68,36 +98,6 @@ DESCRIPTION:“📢 TICKETS ON SALE NOW! 📢 @VOXI_UK Presents #KISSHaunte
 DTEND;VALUE=DATE:20221028
 DTSTART;VALUE=DATE:20221028
 SUMMARY:Mabel @ OVO Arena Wembley
-UID:349d21d1-1c9b-465c-9f36-db3cb1669c1a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
-DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
- eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
- - Commemorative VIP Laminate - Exclusive Autographed...
-DTEND;VALUE=DATE:20220916
-DTSTART;VALUE=DATE:20220916
-SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:f0c10e39-7adb-42a3-bf84-a1d6f5e8b3cf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
-DESCRIPTION:Westlife is a four piece Irish vocal group composed of Shane Fi
- lan, Mark Feehily, Nicky Byrne and Kian Egan. They have had 14 #1 singles g
- race UK charts to date, which pu...
-DTEND;VALUE=DATE:20220906
-DTSTART;VALUE=DATE:20220906
-SUMMARY:Westlife @ Wembley Stadium connected by EE
-UID:3ac60b52-288a-433e-92d0-90fc1e4ca5a8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220906T031248Z
-DESCRIPTION:Buy Ne-Yo - Live In Concert tickets and sign-up for latest tou
- r alerts. Find Ne-Yo - Live In Concert tour dates, reviews, times and even
- t details.
-DTEND;VALUE=DATE:20220929
-DTSTART;VALUE=DATE:20220929
-SUMMARY:Ne-Yo
-UID:4d9fceb2-0716-438f-800d-b38e01321afb
+UID:33a8e4b9-8116-4f16-a525-8b93281a5abc
 END:VEVENT
 END:VCALENDAR
