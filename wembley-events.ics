@@ -3,57 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220912T031837Z
+DTSTAMP:20220913T031321Z
+DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
+ f last week’s album news, today the electronic music legend announces h
+ e’ll be performing a very special show on September 17th at...
+DTEND;VALUE=DATE:20220917
+DTSTART;VALUE=DATE:20220917
+SUMMARY:Carl Cox
+UID:395b9dfd-e374-4a8d-8596-277287455076
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220913T031321Z
+DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
+ eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
+ - Commemorative VIP Laminate - Exclusive Autographed...
+DTEND;VALUE=DATE:20220916
+DTSTART;VALUE=DATE:20220916
+SUMMARY:Dr. Jordan B. Peterson: Beyond Order
+UID:69e77aca-71b1-4cd7-a011-00716199c670
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220913T031321Z
+DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
+ h Coors Light
+DTEND;VALUE=DATE:20220917
+DTSTART;VALUE=DATE:20220917
+SUMMARY:Coors Presents: Saturday Sessions
+UID:57ec211c-ed81-49c7-87cd-7328551d78d0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220913T031321Z
+DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
+ Coors Light
+DTEND;VALUE=DATE:20220916
+DTSTART;VALUE=DATE:20220916
+SUMMARY:FRIDAY FEELINGS
+UID:1f424161-f8b0-4a2c-a23c-8dbfdfd4fdaf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220913T031321Z
 DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
  ssain Manawer div
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:6887fa22-c031-45f8-b30f-e000fe7d6a33
+UID:5bb9cf32-9647-418e-b54f-e47f063e4914
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220912T031837Z
+DTSTAMP:20220913T031321Z
+DESCRIPTION:Explore all upcoming wembley stadium events in Harrow, find inf
+ ormation & tickets for upcoming wembley stadium events happening in Harrow.
+DTEND;VALUE=DATE:20220917
+DTSTART;VALUE=DATE:20220917
+SUMMARY:Westlife - Live From Wembley Stadium - Beck...
+UID:f29593c0-da67-4e59-80dc-b92912a7ef99
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220913T031321Z
+DESCRIPTION:Sachtela Evrard Djedje (August 25, 1992), aka Vegedream, is a F
+ rench hip-hop artist who grew up in a musical family and spent several year
+ s in his parents' homeland, the Ivory Coast. Moving to...
+DTEND;VALUE=DATE:20220930
+DTSTART;VALUE=DATE:20220930
+SUMMARY:Diamond Platnumz with sarkodie, Vegedream, and...
+UID:63076236-5451-4ea0-acba-c5bd4168a81a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220913T031321Z
+DESCRIPTION:An unmissable event for Westlife fans - enjoy the Irish heart-t
+ hrobs’ spectacular sold out Wembley Stadium show from the comfort of the 
+ cinema.
+DTEND;VALUE=DATE:20220916
+DTSTART;VALUE=DATE:20220916
+SUMMARY:Westlife – Live at Wembley Stadium!
+UID:366589c3-50f7-4c61-824b-94b174022dc2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220913T031321Z
+DESCRIPTION:Brian Cox is perhaps the world's foremost communicator of all t
+ hings scientific. His innate ability to make highly complex matters enormou
+ sly entertaining and easy to contemplate has made his...
+DTEND;VALUE=DATE:20220928
+DTSTART;VALUE=DATE:20220928
+SUMMARY:Professor Brian Cox Horizons World Tour
+UID:c090e150-6fc0-4083-ba46-4cd42ee72c14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220913T031321Z
 DESCRIPTION:Machine Gun Kelly is the stage name of American musician and ac
  tor Colson Baker, whose combination of hip-hop, hard-rock, and pop influenc
  es resulted in a slew of platinum awards throughout the...
 DTEND;VALUE=DATE:20221001
 DTSTART;VALUE=DATE:20221001
 SUMMARY:MacHine Gun Kelly: Mainstream Sellout Tour
-UID:8f120362-dbfb-4f61-ac94-c40b5eccef5e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220912T031837Z
-DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
-DTEND;VALUE=DATE:20221030
-DTSTART;VALUE=DATE:20221030
-SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
-UID:1940b8f6-a4d9-42e1-984a-b180cbdec2a1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220912T031837Z
-DESCRIPTION:Find Skaar tickets in the UK | Videos, biography, tour dates, p
- erformance times. Book online, view seating plans. VIP packages available.
-DTEND;VALUE=DATE:20221112
-DTSTART;VALUE=DATE:20221112
-SUMMARY:Sigrid
-UID:c73079aa-d804-4886-bd87-cebc0fa70744
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220912T031837Z
-DESCRIPTION:Buy Porcupine Tree tickets and sign-up for latest tour alerts. 
- Find Porcupine Tree tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20221111
-DTSTART;VALUE=DATE:20221111
-SUMMARY:Porcupine Tree
-UID:2f82658f-6163-42ff-96fa-4becf2f3e25f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220912T031837Z
-DESCRIPTION:Buy Jack Harlow tickets and sign-up for latest tour alerts. Fin
- d Jack Harlow tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20221103
-DTSTART;VALUE=DATE:20221103
-SUMMARY:JACK HARLOW @ OVO Arena
-UID:ba20b50e-bf2c-4866-b99f-1bc55136f278
+UID:ca9da12a-6a48-44d8-ba9c-9b19dccf2634
 END:VEVENT
 END:VCALENDAR
