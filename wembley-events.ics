@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
+DTSTAMP:20220914T030840Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f last week’s album news, today the electronic music legend announces h
  e’ll be performing a very special show on September 17th at...
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Carl Cox
-UID:395b9dfd-e374-4a8d-8596-277287455076
+UID:187e929b-8fc8-45b4-9360-6aedb652ee27
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
+DTSTAMP:20220914T030840Z
 DESCRIPTION:Package Includes: - Premium Seat Ticket - Early Venue Entry - M
  eet & Greet with Jordan Peterson - Professional Photo with Jordan Peterson 
  - Commemorative VIP Laminate - Exclusive Autographed...
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Dr. Jordan B. Peterson: Beyond Order
-UID:69e77aca-71b1-4cd7-a011-00716199c670
+UID:941e0ac9-5d57-408c-b6d7-75761d632ed1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
+DTSTAMP:20220914T030840Z
 DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
  h Coors Light
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Coors Presents: Saturday Sessions
-UID:57ec211c-ed81-49c7-87cd-7328551d78d0
+UID:a5805839-dccd-4739-96ed-c2102ba088e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
+DTSTAMP:20220914T030840Z
 DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
  Coors Light
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:FRIDAY FEELINGS
-UID:1f424161-f8b0-4a2c-a23c-8dbfdfd4fdaf
+UID:c63422e0-4669-45cd-ad94-281f63a37829
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
-DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
- ssain Manawer div
-DTEND;VALUE=DATE:20221026
-DTSTART;VALUE=DATE:20221026
+DTSTAMP:20220914T030840Z
+DESCRIPTION:Buy Carm tickets from Ticketmaster IE. Carm 2022-23 tour dates
+ , event details + much more.
+DTEND;VALUE=DATE:20221025
+DTSTART;VALUE=DATE:20221025
 SUMMARY:Bon Iver
-UID:5bb9cf32-9647-418e-b54f-e47f063e4914
+UID:7c605836-9ea9-4844-9bda-b8f06ff2a349
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
+DTSTAMP:20220914T030840Z
 DESCRIPTION:Explore all upcoming wembley stadium events in Harrow, find inf
  ormation & tickets for upcoming wembley stadium events happening in Harrow.
 DTEND;VALUE=DATE:20220917
 DTSTART;VALUE=DATE:20220917
 SUMMARY:Westlife - Live From Wembley Stadium - Beck...
-UID:f29593c0-da67-4e59-80dc-b92912a7ef99
+UID:2129b131-a38d-41b9-a98f-122f92f6cecb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
+DTSTAMP:20220914T030840Z
 DESCRIPTION:Sachtela Evrard Djedje (August 25, 1992), aka Vegedream, is a F
  rench hip-hop artist who grew up in a musical family and spent several year
  s in his parents' homeland, the Ivory Coast. Moving to...
 DTEND;VALUE=DATE:20220930
 DTSTART;VALUE=DATE:20220930
 SUMMARY:Diamond Platnumz with sarkodie, Vegedream, and...
-UID:63076236-5451-4ea0-acba-c5bd4168a81a
+UID:421263e6-e37b-4bbe-9e0d-f10b11dbd095
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
+DTSTAMP:20220914T030840Z
 DESCRIPTION:An unmissable event for Westlife fans - enjoy the Irish heart-t
  hrobs’ spectacular sold out Wembley Stadium show from the comfort of the 
  cinema.
 DTEND;VALUE=DATE:20220916
 DTSTART;VALUE=DATE:20220916
 SUMMARY:Westlife – Live at Wembley Stadium!
-UID:366589c3-50f7-4c61-824b-94b174022dc2
+UID:62ae22e2-2608-46f8-b418-d4fde30bbafd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
+DTSTAMP:20220914T030840Z
 DESCRIPTION:Brian Cox is perhaps the world's foremost communicator of all t
  hings scientific. His innate ability to make highly complex matters enormou
  sly entertaining and easy to contemplate has made his...
 DTEND;VALUE=DATE:20220928
 DTSTART;VALUE=DATE:20220928
 SUMMARY:Professor Brian Cox Horizons World Tour
-UID:c090e150-6fc0-4083-ba46-4cd42ee72c14
+UID:ffe96b24-f935-4276-aa19-a3ce888f7dc9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220913T031321Z
+DTSTAMP:20220914T030840Z
 DESCRIPTION:Machine Gun Kelly is the stage name of American musician and ac
  tor Colson Baker, whose combination of hip-hop, hard-rock, and pop influenc
  es resulted in a slew of platinum awards throughout the...
 DTEND;VALUE=DATE:20221001
 DTSTART;VALUE=DATE:20221001
 SUMMARY:MacHine Gun Kelly: Mainstream Sellout Tour
-UID:ca9da12a-6a48-44d8-ba9c-9b19dccf2634
+UID:6c41b320-ec71-4b26-8710-08fa04d1f655
 END:VEVENT
 END:VCALENDAR
