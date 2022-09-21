@@ -3,101 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
-DESCRIPTION:Buy Carm tickets from Ticketmaster IE. Carm 2022-23 tour dates
- , event details + much more.
-DTEND;VALUE=DATE:20221025
-DTSTART;VALUE=DATE:20221025
-SUMMARY:Bon Iver
-UID:578766b8-ad2a-44c4-92bd-0f1d5077e08f
+DTSTAMP:20220921T031855Z
+DESCRIPTION:BOXPARK Wembley are partnering up with Wicked Student Nights t
+ o deliver an unbelievable Freshers Festival like no other, bringing the bes
+ t summer beats to BOXPARK Wembley!
+DTEND;VALUE=DATE:20220922
+DTSTART;VALUE=DATE:20220922
+SUMMARY:Freshtival: Powered By Wicked Student Nights
+UID:057d5591-d867-4d9e-9435-c93bf2d11c8f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
-DESCRIPTION:Sachtela Evrard Djedje (August 25, 1992), aka Vegedream, is a F
- rench hip-hop artist who grew up in a musical family and spent several year
- s in his parents' homeland, the Ivory Coast. Moving to...
+DTSTAMP:20220921T031855Z
+DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
+ ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220930
 DTSTART;VALUE=DATE:20220930
 SUMMARY:Diamond Platnumz with sarkodie, Vegedream, and...
-UID:8182571b-0fa2-4032-a4aa-665576af5dd8
+UID:e7cc8869-5d70-487a-b3a3-2b3cbf381363
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
+DTSTAMP:20220921T031855Z
+DESCRIPTION:Buy Carm tickets from Ticketmaster IE. Carm 2022-23 tour dates
+ , event details + much more.
+DTEND;VALUE=DATE:20221026
+DTSTART;VALUE=DATE:20221026
+SUMMARY:Bon Iver
+UID:6f918b74-65a2-4a48-9d50-02dd6b2959a1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220921T031855Z
+DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
+DTEND;VALUE=DATE:20221030
+DTSTART;VALUE=DATE:20221030
+SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
+UID:5ddede76-5f07-4916-b677-78c55bf7e8a4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220921T031855Z
 DESCRIPTION:Buy Joe Lycett: More, More, More! tickets and sign-up for lates
  t tour alerts. Find Joe Lycett: More, More, More! tour dates, reviews, time
  s and event details.
 DTEND;VALUE=DATE:20220922
 DTSTART;VALUE=DATE:20220922
 SUMMARY:More, More, More! How Do You Lycett?
-UID:0ffde4f5-21f8-4e25-a6a0-8687c3d4aab2
+UID:526544d8-1afb-4b20-9cab-e541f969db2d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
-DESCRIPTION:Buy Ne-Yo - Live In Concert tickets and sign-up for latest tou
- r alerts. Find Ne-Yo - Live In Concert tour dates, reviews, times and even
- t details.
+DTSTAMP:20220921T031855Z
+DESCRIPTION:Fresh from an appearance on the hit ITV Show ‘The Masked Sing
+ er’ in February, where he was runner up, NE-YO’s affection for his UK f
+ ans has drawn him back for the biggest UK tour of his career...
 DTEND;VALUE=DATE:20220929
 DTSTART;VALUE=DATE:20220929
-SUMMARY:Ne-Yo
-UID:ccfaec1b-7fe9-43fb-99c5-10fe9ee41b58
+SUMMARY:Ne-Yo Tickets
+UID:b1f9e757-ee18-4b54-8fa7-4eecd55dac93
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
-DESCRIPTION:FRESHTIVAL 2022BOXPARK WEMBLEYTHURSDAY 22ND SEPTEMBER7PM-1AMWic
- ked Student Nights is partnering up with BOXPARK Wembley to deliver an unbe
- lievable event this Freshers!A Freshers festival like no...
-DTEND;VALUE=DATE:20220922
-DTSTART;VALUE=DATE:20220922
-SUMMARY:FRESHTIVAL @ BOXPARK WEMBLEY - 22ND SEPTEMBER
-UID:a224b805-c4dd-4955-8b75-e147ece0a5a1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
-DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
- lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
- stanced Photo Op with Billy Idol and Steve Stevens...
+DTSTAMP:20220921T031855Z
+DESCRIPTION:The world’s favourite rebel Billy Idol has rescheduled The Ro
+ adside Tour 2022 with new dates now set for October 2022 . All existing tic
+ kets are still valid for the revised dates. Says Billy Idol...
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol - RESCHEDULED
-UID:c0de274f-b6f6-41e4-b667-fd80ed92d332
+UID:aa26bbd2-7f13-4bb5-af8e-d32ef8b08a6a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
-DESCRIPTION:Buy Joe Lycett: More, More, More! tickets and sign-up for lates
- t tour alerts. Find Joe Lycett: More, More, More! tour dates, reviews, time
- s and event details.
-DTEND;VALUE=DATE:20220923
-DTSTART;VALUE=DATE:20220923
-SUMMARY:Joe Lycett: More, More, More!
-UID:c993dd7d-5789-4ceb-87ab-973d7b6361f4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
-DESCRIPTION:London | OVO Arena Wembley Bon Iver Bon Iver, CARM featuring Hu
- ssain Manawer div
-DTEND;VALUE=DATE:20221026
-DTSTART;VALUE=DATE:20221026
-SUMMARY:Bon Iver
-UID:7fd272c5-8abb-4a8a-b3af-0ffe5de4eb1b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
-DESCRIPTION:Machine Gun Kelly is the stage name of American musician and ac
- tor Colson Baker, whose combination of hip-hop, hard-rock, and pop influenc
- es resulted in a slew of platinum awards throughout the...
-DTEND;VALUE=DATE:20221001
-DTSTART;VALUE=DATE:20221001
-SUMMARY:MacHine Gun Kelly: Mainstream Sellout Tour
-UID:1928b44f-865f-40a5-80e8-e9c2d707aa0f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220920T030800Z
+DTSTAMP:20220921T031855Z
 DESCRIPTION:Brian Cox is perhaps the world's foremost communicator of all t
  hings scientific. His innate ability to make highly complex matters enormou
  sly entertaining and easy to contemplate has made his...
 DTEND;VALUE=DATE:20220928
 DTSTART;VALUE=DATE:20220928
 SUMMARY:Professor Brian Cox - RESCHEDULED
-UID:c304c566-21d4-4e5a-bfb8-00667fe63389
+UID:0ddb792f-edee-4583-a53e-cd0edfc3800c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220921T031855Z
+DESCRIPTION:Joe Lycett: More, More, More! How Do You Lycett? How Do You Lyc
+ ett? Join Joe Lycett (the artist formerly known as Hugo Boss) doing what h
+ e does best: talking at a room of people in a queer and...
+DTEND;VALUE=DATE:20220923
+DTSTART;VALUE=DATE:20220923
+SUMMARY:Joe Lycett: More, More, More!
+UID:4ca08b79-7404-420f-82e1-ae9fa8b7cfec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220921T031855Z
+DESCRIPTION:Machine Gun Kelly is the stage name of American musician and ac
+ tor Colson Baker, whose combination of hip-hop, hard-rock, and pop influenc
+ es resulted in a slew of platinum awards throughout the...
+DTEND;VALUE=DATE:20221001
+DTSTART;VALUE=DATE:20221001
+SUMMARY:MacHine Gun Kelly: Mainstream Sellout Tour
+UID:f024b9cd-d556-4ef4-a512-4885166da4d6
 END:VEVENT
 END:VCALENDAR
