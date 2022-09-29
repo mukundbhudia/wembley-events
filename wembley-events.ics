@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
+DTSTAMP:20220929T031445Z
 DESCRIPTION:Compre entradas Ne-Yo - Live In Concert e inscríbase para reci
  bir las últimas alertas del recorrido. Encuentra Ne-Yo - Live In Concert f
  echas de gira, reseñas, horarios y detalles del evento.
 DTEND;VALUE=DATE:20220929
 DTSTART;VALUE=DATE:20220929
-SUMMARY:Ne-Yo Tickets
-UID:8d325e94-79a0-48fa-8c76-a83a6e9923c8
+SUMMARY:Ne-Yo
+UID:cfc9dbf3-051c-4e8c-a1a9-819befee5d83
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
-DESCRIPTION:Brian Cox is perhaps the world's foremost communicator of all t
- hings scientific. His innate ability to make highly complex matters enormou
- sly entertaining and easy to contemplate has made his...
-DTEND;VALUE=DATE:20220928
-DTSTART;VALUE=DATE:20220928
-SUMMARY:Professor Brian Cox - RESCHEDULED
-UID:2367fb42-26e5-4284-a236-12c7b5890a63
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
+DTSTAMP:20220929T031445Z
 DESCRIPTION:Machine Gun Kelly is the stage name of American musician and ac
  tor Colson Baker, whose combination of hip-hop, hard-rock, and pop influenc
  es resulted in a slew of platinum awards throughout the...
 DTEND;VALUE=DATE:20221001
 DTSTART;VALUE=DATE:20221001
 SUMMARY:MacHine Gun Kelly: Mainstream Sellout Tour
-UID:f4c3bd48-1406-4cde-b1cd-dab1a2d62a74
+UID:2e34b214-96b1-4827-8296-ed77dc781a9a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
-DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
- ts. Find Celebrating Africa tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20220930
-DTSTART;VALUE=DATE:20220930
-SUMMARY:Celebrating Africa
-UID:54f8ada5-4e4f-46df-b0fa-b46441519534
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
+DTSTAMP:20220929T031445Z
 DESCRIPTION:Celebrate Diwali 2022 in Wembley Park this October! Following W
  embley Park's array of entertainment throughout the day, we will be hostin
  g our very own Diwali Disco! Expect entertainment from top...
 DTEND;VALUE=DATE:20221001
 DTSTART;VALUE=DATE:20221001
 SUMMARY:Diwali Disco
-UID:05ce0e62-c34d-452a-89eb-1c5d410436de
+UID:f3beb161-1d70-42f0-a097-42a14363d68c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
+DTSTAMP:20220929T031445Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f his album news, electronic music legend announces he’ll be performing a
   very special show on October 15th at London’s iconic OVO Arena...
 DTEND;VALUE=DATE:20221015
 DTSTART;VALUE=DATE:20221015
 SUMMARY:Carl Cox - RESCHEDULED
-UID:59c00a79-e880-47ce-b3c0-a0555a6d3a27
+UID:67051665-a04c-4c57-ae99-701db2fbc9e7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
+DTSTAMP:20220929T031445Z
 DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
   lakait hoc'h anv e Facebook hiziv.
 DTEND;VALUE=DATE:20221025
 DTSTART;VALUE=DATE:20221025
 SUMMARY:Bon Iver
-UID:a3acac8c-8095-408a-8d6f-33a053cd5194
+UID:b1635afe-c298-460b-afca-2deff45b0fc7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
+DTSTAMP:20220929T031445Z
 DESCRIPTION:Diwali is coming early to Wembley Park this year, as London’s
   most exciting new neighbourhood invites visitors and the local community t
  o celebrate the victory of light over darkness. The...
 DTEND;VALUE=DATE:20221001
 DTSTART;VALUE=DATE:20221001
 SUMMARY:Diwali at Wembley Park 2022
-UID:eea30a39-c7c4-4806-b50a-1eb5fba144ac
+UID:bfc6f0fa-f3a3-46b8-a2f6-0e3c22a1b2b6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
+DTSTAMP:20220929T031445Z
 DESCRIPTION:Parkway Drive are returning to Ally Pally on 30 Sep 22! Support
  ed by While She Sleeps. Formed in Byron Bay in 2002, Parkway Drive have rel
  eased six studio albums, all on Epitaph: Killing with a...
 DTEND;VALUE=DATE:20220930
 DTSTART;VALUE=DATE:20220930
 SUMMARY:Parkway Drive
-UID:6b1765fd-6619-4291-9a56-d507e3655d36
+UID:cefb655a-3038-4f2f-9ed8-7697fb75418e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20220928T031043Z
+DTSTAMP:20220929T031445Z
+DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
+ ts. Find Celebrating Africa tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20221021
+DTSTART;VALUE=DATE:20221021
+SUMMARY:Diamond Platnumz with sarkodie, Vegedream, and...
+UID:36fc1b6f-91c8-4262-a1b2-774f8f514a37
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220929T031445Z
 DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
 DTEND;VALUE=DATE:20221030
 DTSTART;VALUE=DATE:20221030
 SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
-UID:567b031f-9595-4c4e-b063-b68d0b55e1c0
+UID:b878db5a-3a51-4385-bc3e-2e0c7c0ae90b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220929T031445Z
+DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
+ lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
+ stanced Photo Op with Billy Idol and Steve Stevens...
+DTEND;VALUE=DATE:20221019
+DTSTART;VALUE=DATE:20221019
+SUMMARY:Billy Idol - RESCHEDULED
+UID:68c508db-2e97-44ac-bde2-b79f8a6499a5
 END:VEVENT
 END:VCALENDAR
