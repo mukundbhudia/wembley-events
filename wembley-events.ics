@@ -3,98 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
-DESCRIPTION:Machine Gun Kelly is the stage name of American musician and ac
- tor Colson Baker, whose combination of hip-hop, hard-rock, and pop influenc
- es resulted in a slew of platinum awards throughout the...
-DTEND;VALUE=DATE:20221002
-DTSTART;VALUE=DATE:20221002
-SUMMARY:Machine Gun Kelly: Mainstream Sellout Tour
-UID:1e4b621c-bcce-4bc4-88d9-00d4cccbed29
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
-DESCRIPTION:Celebrate Diwali 2022 in Wembley Park this October! Following W
- embley Park's array of entertainment throughout the day, we will be hostin
- g our very own Diwali Disco! Expect entertainment from top...
-DTEND;VALUE=DATE:20221002
-DTSTART;VALUE=DATE:20221002
-SUMMARY:Diwali Disco
-UID:d78ce6e2-9d46-4f27-ae9e-161ff6e8291d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
+DTSTAMP:20221003T023257Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f his album news, electronic music legend announces he’ll be performing a
   very special show on October 15th at London’s iconic OVO Arena...
 DTEND;VALUE=DATE:20221015
 DTSTART;VALUE=DATE:20221015
 SUMMARY:Carl Cox - RESCHEDULED
-UID:b9f0ff17-7673-4b9d-8fa4-bdd4a88fe031
+UID:7b97ae45-bc52-4a9a-89fa-0d71952a00a0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
+DTSTAMP:20221003T023257Z
 DESCRIPTION:Emañ Bon Iver e Facebook. Evit mont e darempred gant Bon Iver,
   lakait hoc'h anv e Facebook hiziv.
 DTEND;VALUE=DATE:20221025
 DTSTART;VALUE=DATE:20221025
 SUMMARY:Bon Iver
-UID:3ec484c6-0c91-4782-be8d-bc1077c5abd2
+UID:1634670d-2fad-454f-a50b-b836246cfff7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
+DTSTAMP:20221003T023257Z
 DESCRIPTION:Buy Celebrating Africa tickets and sign-up for latest tour aler
  ts. Find Celebrating Africa tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20221021
 DTSTART;VALUE=DATE:20221021
 SUMMARY:Diamond Platnumz with sarkodie, Vegedream, and...
-UID:1e57716a-0a2d-4a8c-9693-4434a3311b81
+UID:0ae34cde-f40a-4569-a34f-bfff3be761fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
+DTSTAMP:20221003T023257Z
 DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
 DTEND;VALUE=DATE:20221030
 DTSTART;VALUE=DATE:20221030
 SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
-UID:faf70f4d-8ac5-4152-9ad4-bb0924dd74a2
+UID:d004b35f-3153-4b5a-ab62-4ac8c2d05056
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
+DTSTAMP:20221003T023257Z
 DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
  lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
  stanced Photo Op with Billy Idol and Steve Stevens...
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol - RESCHEDULED
-UID:b5c4d093-1725-450b-b8a9-0a36bdeddd6f
+UID:b69044a4-60fd-47f0-a2de-bdb03c966247
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
+DTSTAMP:20221003T023257Z
 DESCRIPTION:Buy Carm tickets from Ticketmaster IE. Carm 2022-23 tour dates
  , event details + much more.
 DTEND;VALUE=DATE:20221026
 DTSTART;VALUE=DATE:20221026
 SUMMARY:Bon Iver
-UID:e82d206a-7f5d-4e94-b03d-f51eb7ef0f92
+UID:46195a9d-5d54-4a74-a5c0-3ce97c9e3e85
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
+DTSTAMP:20221003T023257Z
+DESCRIPTION:If you want a great night out seeing hilarious stand up comedy 
+ in an intimate venue then LOLipops @ White Horse in Wembley is the place fo
+ r you! An exciting monthly night of stand-up brought to...
+DTEND;VALUE=DATE:20221005
+DTSTART;VALUE=DATE:20221005
+SUMMARY:LOLipops Comedy
+UID:eb338f0c-7ac4-45ed-b434-e3cf0956cc15
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221003T023257Z
+DESCRIPTION:Ricky Gervais Supernature Tour 2022 Tickets | Saturday 8 Octobe
+ r 2022, 18:30 | OVO Wembley Arena, London
+DTEND;VALUE=DATE:20221008
+DTSTART;VALUE=DATE:20221008
+SUMMARY:Ricky Gervais
+UID:388d7f64-b889-46ed-9b78-c2b97ce1b1fb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221003T023257Z
+DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
+ Coors Light
+DTEND;VALUE=DATE:20221007
+DTSTART;VALUE=DATE:20221007
+SUMMARY:Coors Light Presents: Friday Feelings
+UID:b44320e2-4f66-495b-8dec-3c05d0b3be8f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221003T023257Z
 DESCRIPTION:AEG Presents are delighted to announce that due to huge public 
  demand Britain’s best-loved rockers STATUS QUO are extending their ‘Ou
  t Out Quoing’ UK & Eire Spring Tour in 2022 and will now...
 DTEND;VALUE=DATE:20221203
 DTSTART;VALUE=DATE:20221203
 SUMMARY:Status Quo & very special guest Shakin Stevens
-UID:5fce5ebb-4181-4da8-9264-c6dc19251e1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221002T031917Z
-DESCRIPTION:Multi-platinum rock band SHINEDOWN have announced the UK and Eu
- ropean leg of their Planet ZeroWorld Tour, set to arrive at the OVO Arena W
- embley on 1 December 2022. SHINEDOWN frontman and vocal...
-DTEND;VALUE=DATE:20221201
-DTSTART;VALUE=DATE:20221201
-SUMMARY:Shinedown
-UID:ed51b863-c23e-434e-9198-9110fc6cb146
+UID:a524b783-3b40-4c08-8179-0841b9740abe
 END:VEVENT
 END:VCALENDAR
