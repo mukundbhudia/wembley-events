@@ -3,97 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
+DTSTAMP:20221006T023913Z
 DESCRIPTION:There’s no stopping Carl Cox right now… Hot off the heels o
  f his album news, electronic music legend announces he’ll be performing a
   very special show on October 15th at London’s iconic OVO Arena...
 DTEND;VALUE=DATE:20221015
 DTSTART;VALUE=DATE:20221015
 SUMMARY:Carl Cox - RESCHEDULED
-UID:2a6f7491-76b2-4bb5-a43d-0c3922dc67ee
+UID:11e605ba-cd42-46da-a6e3-ecac93034e2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
+DTSTAMP:20221006T023913Z
+DESCRIPTION:The UK’s biggest-selling album group of the 21st century, Wes
+ tlife, broadcasted their first ever show from Wembley Stadium live to cine
+ mas on Saturday 6 August. This spectacular show was their...
+DTEND;VALUE=DATE:20221008
+DTSTART;VALUE=DATE:20221008
+SUMMARY:Westlife – Live from Wembley
+UID:a6a4e248-dfa5-4ec7-849e-19792135f540
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T023913Z
 DESCRIPTION:Rewind Tou３ - Udit Naraya１, Alk＊ Yagnik, Kum＊r ＃anu
 DTEND;VALUE=DATE:20221030
 DTSTART;VALUE=DATE:20221030
 SUMMARY:Rewind Tour - Udit Narayan Alka Yagnik Kumar Sanu
-UID:7463499f-3ff8-4913-b6eb-d86915c26f13
+UID:89e559e9-3faf-4a11-96da-4444d91607a5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
+DTSTAMP:20221006T023913Z
 DESCRIPTION:VIP Package includes: -Premium Reserved Seat in Rows 1-3 -Socia
  lly distanced Meet & Greet with Billy Idol and Steve Stevens*^ -Socially di
  stanced Photo Op with Billy Idol and Steve Stevens...
 DTEND;VALUE=DATE:20221019
 DTSTART;VALUE=DATE:20221019
 SUMMARY:Billy Idol - RESCHEDULED
-UID:6bb6b2db-f8eb-43f3-a189-48c09c1ec191
+UID:4be8a2a9-09f6-4486-b2d4-dfa14dfc1142
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
-DESCRIPTION:If you want a great night out seeing hilarious stand up comedy 
- in an intimate venue then LOLipops @ White Horse in Wembley is the place fo
- r you! An exciting monthly night of stand-up brought to...
-DTEND;VALUE=DATE:20221005
-DTSTART;VALUE=DATE:20221005
-SUMMARY:LOLipops Comedy
-UID:a139f1a9-d3cd-4fe2-aff3-533c500f69a8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
-DESCRIPTION:Ricky Gervais Supernature Tour 2022 Tickets | Saturday 8 Octobe
- r 2022, 18:30 | OVO Wembley Arena, London
-DTEND;VALUE=DATE:20221008
-DTSTART;VALUE=DATE:20221008
-SUMMARY:Ricky Gervais
-UID:e80ab3df-8536-4531-81da-1f7db864fa9f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
+DTSTAMP:20221006T023913Z
 DESCRIPTION:AEG Presents are delighted to announce that due to huge public 
  demand Britain’s best-loved rockers STATUS QUO are extending their ‘Ou
  t Out Quoing’ UK & Eire Spring Tour in 2022 and will now...
 DTEND;VALUE=DATE:20221203
 DTSTART;VALUE=DATE:20221203
 SUMMARY:Status Quo & very special guest Shakin Stevens
-UID:4242108c-951e-4ac4-b907-4c5e2fe7415b
+UID:b3ebd7c2-128d-4e29-917b-44d0a1cb03d8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
-DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
- Coors Light
-DTEND;VALUE=DATE:20221007
-DTSTART;VALUE=DATE:20221007
-SUMMARY:Coors Light Presents: Friday Feelings
-UID:e8f33040-fda0-43be-9d7c-8d5f8b86aabe
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
+DTSTAMP:20221006T023913Z
 DESCRIPTION:Multi-platinum rock band SHINEDOWN have announced the UK and Eu
  ropean leg of their Planet ZeroWorld Tour, set to arrive at the OVO Arena W
  embley on 1 December 2022. SHINEDOWN frontman and vocal...
 DTEND;VALUE=DATE:20221201
 DTSTART;VALUE=DATE:20221201
 SUMMARY:Shinedown
-UID:7d8a59cf-501a-4581-be80-71ace6fb2c78
+UID:4763c7a1-892a-4aa1-bf7b-57d56e398006
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
+DTSTAMP:20221006T023913Z
+DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
+ Coors Light
+DTEND;VALUE=DATE:20221007
+DTSTART;VALUE=DATE:20221007
+SUMMARY:FRIDAY FEELINGS
+UID:412fb2eb-4990-45a0-a017-d6f3538cdc60
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T023913Z
 DESCRIPTION:Find Skaar tickets in the UK | Videos, biography, tour dates, p
  erformance times. Book online, view seating plans. VIP packages available.
 DTEND;VALUE=DATE:20221112
 DTSTART;VALUE=DATE:20221112
 SUMMARY:Sigrid
-UID:4470c369-c8c2-4b11-871c-5f9ed3f0a0b8
+UID:9c6d85bd-7ced-4db9-b08b-860dfcb57f58
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221005T024130Z
+DTSTAMP:20221006T023913Z
 DESCRIPTION:Buy Yungblud tickets and sign-up for latest tour alerts. Find Y
  ungblud tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220225
 DTSTART;VALUE=DATE:20220225
 SUMMARY:YUNGBLUD
-UID:6b70d375-44d5-45f7-8939-26e9eed9a2a8
+UID:bd67b285-78ff-448d-a18f-f9139f05065c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221006T023913Z
+DESCRIPTION:Jordan and Perri on Breakfast this morning announced the KISS H
+ aunted House Party is returning to the OVO Arena Wembley. They revealed som
+ e of the names that are set to take the stage, including...
+DTEND;VALUE=DATE:20221028
+DTSTART;VALUE=DATE:20221028
+SUMMARY:ksi @ OVO Arena, Wembley
+UID:4416fb14-48e5-48ef-857d-7f5dd43cb896
 END:VEVENT
 END:VCALENDAR
