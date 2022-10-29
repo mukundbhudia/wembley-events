@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2.5.0
+      - uses: actions/checkout@v3
       - name: Lint code
         run: cargo fmt --all -- --check
 
@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2.5.0
+      - uses: actions/checkout@v3
       - name: Run tests
         run: cargo test --verbose
 
@@ -67,7 +67,7 @@ jobs:
           # - { os: windows-2019, toolchain: stable-x86_64-pc-windows-msvc, target: x86_64-pc-windows-msvc, cross: false }
 
     steps:
-      - uses: actions/checkout@v2.5.0
+      - uses: actions/checkout@v3
 
       - uses: actions-rs/toolchain@v1
         id: rust-toolchain

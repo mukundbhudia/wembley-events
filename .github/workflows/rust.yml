@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2.5.0
+      - uses: actions/checkout@v3
       - name: Lint code
         run: cargo fmt --all -- --check
 
@@ -25,6 +25,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2.5.0
+      - uses: actions/checkout@v3
       - name: Run tests
         run: cargo test --verbose
