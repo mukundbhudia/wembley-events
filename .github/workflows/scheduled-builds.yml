@@ -3,7 +3,9 @@ name: Scheduled calendar build
 on:
   schedule:
     # Runs "At minute 15 past every 24th hour." (see https://crontab.guru)
-    - cron: '15 */24 * * *'
+    # - cron: '15 */24 * * *'
+    # Test running every 20 minutes
+    - cron: '*/20 * * * *'
 
 jobs:
   build:
@@ -26,7 +28,7 @@ jobs:
           SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
 
       - name: Deploy to GitHub pages
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: JamesIves/github-pages-deploy-action@4.4.1
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: output # The folder the action should deploy.
