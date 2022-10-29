@@ -1,5 +1,6 @@
 # wembley-events
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/mukundbhudia/wembley-events)
 [![Release](https://github.com/mukundbhudia/wembley-events/actions/workflows/release.yml/badge.svg)](https://github.com/mukundbhudia/wembley-events/actions/workflows/release.yml)
 [![Rust](https://github.com/mukundbhudia/wembley-events/actions/workflows/rust.yml/badge.svg)](https://github.com/mukundbhudia/wembley-events/actions/workflows/rust.yml)
 [![Trigger calendar generation on a CRON Schedule](https://github.com/mukundbhudia/wembley-events/actions/workflows/scheduled-builds.yml/badge.svg)](https://github.com/mukundbhudia/wembley-events/actions/workflows/scheduled-builds.yml)
