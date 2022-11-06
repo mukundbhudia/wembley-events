@@ -3,96 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
-DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
- Coors Light
-DTEND;VALUE=DATE:20221105
-DTSTART;VALUE=DATE:20221105
-SUMMARY:FRIDAY FEELINGS
-UID:029ef38e-75c6-4d10-8bd8-01ffd6035dc8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
+DTSTAMP:20221106T022741Z
 DESCRIPTION:Sigrid at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221112
 DTSTART;VALUE=DATE:20221112
 SUMMARY:Sigrid
-UID:3013c819-85a7-4c9f-8708-935e48b131d7
+UID:9c7b0aa6-0781-4f2e-a853-1788035711d5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
+DTSTAMP:20221106T022741Z
 DESCRIPTION:Bright7 Proudly presents “ONCE UPON A TIME TOUR” Live in L
  ondon 2022 Having started his journey with ‘Moonu’ in 2012, Anirudh has
   rocked the cinema music industry for the past 10 years breaking...
 DTEND;VALUE=DATE:20221202
 DTSTART;VALUE=DATE:20221202
 SUMMARY:ovo wembley arena live anirudh
-UID:c640e088-a298-4fa1-80ac-f707ddb62f48
+UID:31876489-ae4d-4a18-9b90-a4e6a8b13b90
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
+DTSTAMP:20221106T022741Z
 DESCRIPTION:Do not miss the London Premiere of Rambert Dance in Peaky Blind
  ers: The Redemption of Thomas Shelby at the Troubadour Wembley Park Theatre
  . For a limited run ahead of their 2023 UK tour, Rambert...
-DTEND;VALUE=DATE:20221105
-DTSTART;VALUE=DATE:20221105
+DTEND;VALUE=DATE:20221106
+DTSTART;VALUE=DATE:20221106
 SUMMARY:PEAKY BLINDERS: THE REDEMPTION OF THOMAS SHELBY
-UID:81165fdf-b49e-4c71-a3ef-69ceb05d7cfe
+UID:82f35edc-6865-4a7b-8edf-5308acd1d4e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
+DTSTAMP:20221106T022741Z
 DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221203
 DTSTART;VALUE=DATE:20221203
 SUMMARY:Status Quo & very special guest Shakin Stevens
-UID:5aef21d9-e514-4c3e-9a9e-5e081fb925b3
+UID:223d9364-631d-4fee-b674-eecb9bae8867
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
+DTSTAMP:20221106T022741Z
 DESCRIPTION:Go VIP and upgrade your experience at OVO Arena Wembley with fa
  st access to the venue and Heroes Lounge for just £45 per person including
   1 x food item + drink. Please note that without a ticket...
 DTEND;VALUE=DATE:20221210
 DTSTART;VALUE=DATE:20221210
 SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:88a36a3c-b51c-4005-9380-17e8042a7a6c
+UID:6de09fad-a8d3-47fa-9780-739c712d1062
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
+DTSTAMP:20221106T022741Z
 DESCRIPTION:Shinedown at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221201
 DTSTART;VALUE=DATE:20221201
 SUMMARY:Zero 9:36 @ OVO Arena
-UID:bee9f114-00b8-486c-9ebe-a940906feb59
+UID:a78f1dba-690f-4f25-a292-565aafbb1179
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
+DTSTAMP:20221106T022741Z
 DESCRIPTION:World-renowned dance company Rambert brings the iconic televisi
  on series to life through dance. This new dance/theatre event digs deeper i
  nto the story of Thomas Shelby and the Peaky Blinders and...
-DTEND;VALUE=DATE:20221105
-DTSTART;VALUE=DATE:20221105
+DTEND;VALUE=DATE:20221106
+DTSTART;VALUE=DATE:20221106
 SUMMARY:Peaky Blinders: The Redemption of Thomas Shelby
-UID:d3106066-a204-47c7-b77c-77f0df0198c8
+UID:b7d3f515-dd98-4722-a150-2bb7b1d5d85e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
+DTSTAMP:20221106T022741Z
 DESCRIPTION:Buy Leisure + Andre Rieu - South Essex tickets and sign-up for 
  latest tour alerts. Find Leisure + Andre Rieu - South Essex tour dates, rev
  iews, times and event details.
 DTEND;VALUE=DATE:20220414
 DTSTART;VALUE=DATE:20220414
 SUMMARY:Leisure + Andre Rieu - South Essex
-UID:4f0eb8ee-8437-4fc2-8355-c170a31afefa
+UID:24b44756-34a0-4706-9a5a-19745547a83b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221105T022257Z
+DTSTAMP:20221106T022741Z
 DESCRIPTION:Kaufen Sie Yungblud Tickets und melden Sie sich für die neuest
  en Tour-Benachrichtigungen an. Finden Sie Yungblud Tourdaten, Bewertungen, 
  Termine und Veranstaltungsdetails.
 DTEND;VALUE=DATE:20220225
 DTSTART;VALUE=DATE:20220225
 SUMMARY:YUNGBLUD
-UID:4e6c7978-3d78-431b-89b0-be46f6880b0f
+UID:11ea1fb2-c5bd-4d62-a49a-a63b985e6462
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221106T022741Z
+DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
+ VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
+ kets, see who's attending, find similar events.
+DTEND;VALUE=DATE:20220204
+DTSTART;VALUE=DATE:20220204
+SUMMARY:Black Stone Cherry & The Darkness
+UID:4efa9040-6629-4eb9-b260-fdb86ee9dc32
 END:VEVENT
 END:VCALENDAR
