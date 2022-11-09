@@ -3,94 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
-DESCRIPTION:Sigrid at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20221112
-DTSTART;VALUE=DATE:20221112
-SUMMARY:Sigrid
-UID:d1396533-1974-44b8-b926-d655401caf98
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
+DTSTAMP:20221109T023130Z
 DESCRIPTION:Bright7 Proudly presents “ONCE UPON A TIME TOUR” Live in L
  ondon 2022 Having started his journey with ‘Moonu’ in 2012, Anirudh has
   rocked the cinema music industry for the past 10 years breaking...
 DTEND;VALUE=DATE:20221202
 DTSTART;VALUE=DATE:20221202
 SUMMARY:ovo wembley arena live anirudh
-UID:e267e52e-3369-4d59-8667-f1d04677e410
+UID:5abe6696-be14-4048-bde4-395fd5547e63
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
-DESCRIPTION:we have taken the decision to postpone The Overlap Live until 
- a later date. We are really disappointed but we want the evening to be enjo
- yable for everyone without the worry of travel issues’ We...
-DTEND;VALUE=DATE:20221110
-DTSTART;VALUE=DATE:20221110
-SUMMARY:The Overlap Live
-UID:2c5f496e-3d42-462f-9209-c5b9937278f2
+DTSTAMP:20221109T023130Z
+DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221203
+DTSTART;VALUE=DATE:20221203
+SUMMARY:Status Quo @ The SSE Arena, Wembley
+UID:8983e966-8af4-40a1-8a20-2d6eef690b26
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
-DESCRIPTION:Go VIP and upgrade your experience at OVO Arena Wembley with fa
- st access to the venue and Heroes Lounge for just £45 per person including
-  1 x food item + drink. Please note that without a ticket...
-DTEND;VALUE=DATE:20221210
-DTSTART;VALUE=DATE:20221210
-SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:462fc679-78ff-45d1-9709-2d772069580f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
+DTSTAMP:20221109T023130Z
 DESCRIPTION:Shinedown at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221201
 DTSTART;VALUE=DATE:20221201
 SUMMARY:Zero 9:36 @ OVO Arena
-UID:a47d2f4e-2a61-4508-b8fd-2f3a727d078c
+UID:820a614d-0bb0-49b5-835c-889e5c83386b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
-DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20221203
-DTSTART;VALUE=DATE:20221203
-SUMMARY:Status Quo & very special guest Shakin Stevens
-UID:ab3098d1-ae63-43d2-aa71-f8642e6f0272
+DTSTAMP:20221109T023130Z
+DESCRIPTION:Sigrid at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221112
+DTSTART;VALUE=DATE:20221112
+SUMMARY:Sigrid
+UID:67de1f2f-d342-4d1b-aa15-ccfa50cdb094
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
-DESCRIPTION:YBNL x C２kobar presen４ Fi３eboy DML live i１ ＠oncert - 
- H２sted by Olamide
-DTEND;VALUE=DATE:20221113
-DTSTART;VALUE=DATE:20221113
-SUMMARY:Fireboy DML @ OVO Arena Wembley
-UID:011be38c-0258-49e5-a86a-fa65570ea311
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
+DTSTAMP:20221109T023130Z
 DESCRIPTION:Buy Leisure + Andre Rieu - South Essex tickets and sign-up for 
  latest tour alerts. Find Leisure + Andre Rieu - South Essex tour dates, rev
  iews, times and event details.
 DTEND;VALUE=DATE:20220414
 DTSTART;VALUE=DATE:20220414
 SUMMARY:Leisure + Andre Rieu - South Essex
-UID:56e76629-631a-4212-af44-c7708fbcab6c
+UID:629e060f-6938-4c5c-8155-8be554b49477
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
-DESCRIPTION:Kaufen Sie Yungblud Tickets und melden Sie sich für die neuest
- en Tour-Benachrichtigungen an. Finden Sie Yungblud Tourdaten, Bewertungen, 
- Termine und Veranstaltungsdetails.
-DTEND;VALUE=DATE:20220225
-DTSTART;VALUE=DATE:20220225
-SUMMARY:YUNGBLUD
-UID:561253a6-5db6-41e2-aa25-cf373c3d8d4a
+DTSTAMP:20221109T023130Z
+DESCRIPTION:Go VIP and upgrade your experience at OVO Arena Wembley with fa
+ st access to the venue and Heroes Lounge for just £45 per person including
+  1 x food item + drink. Please note that without a ticket...
+DTEND;VALUE=DATE:20221210
+DTSTART;VALUE=DATE:20221210
+SUMMARY:The Nightmare Before Christmas Live
+UID:12530390-84e5-4e41-b2b9-defc0e38be11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221108T022152Z
-DESCRIPTION:Porcupine Tree at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20221111
-DTSTART;VALUE=DATE:20221111
-SUMMARY:Porcupine Tree
-UID:fdb45bd1-099a-4dab-b88f-e68691cd1b47
+DTSTAMP:20221109T023130Z
+DESCRIPTION:Harry Styles Love On Tour 2023 Tickets | Friday 16 June 2023, 1
+ 9:00 | Wembley Stadium, London
+DTEND;VALUE=DATE:20220616
+DTSTART;VALUE=DATE:20220616
+SUMMARY:Harry Styles
+UID:2c6cb112-7baf-407c-92ab-db47280b7489
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221109T023130Z
+DESCRIPTION:OneRepublic in London at OVO Arena, Wembley on Wednesday, June 
+ 14, 2023.
+DTEND;VALUE=DATE:20220614
+DTSTART;VALUE=DATE:20220614
+SUMMARY:OneRepublic
+UID:e89ba6be-5fb0-4b43-baad-3ae87c8abd40
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221109T023130Z
+DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
+ VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
+ kets, see who's attending, find similar events.
+DTEND;VALUE=DATE:20220204
+DTSTART;VALUE=DATE:20220204
+SUMMARY:Black Stone Cherry & The Darkness
+UID:e5ac0f79-5ee2-4eb2-9814-8b920dc608c8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221109T023130Z
+DESCRIPTION:Go VIP and upgrade your experience at OVO Arena Wembley with fa
+ st access to the venue and Heroes Lounge for just £45 per person including
+  1 x food item + drink. Please note that without a ticket...
+DTEND;VALUE=DATE:20221209
+DTSTART;VALUE=DATE:20221209
+SUMMARY:Danny Elfman concerto em Wembley
+UID:e447b571-7ba3-4258-ac47-5abdc4533753
 END:VEVENT
 END:VCALENDAR
