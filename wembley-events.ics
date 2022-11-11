@@ -3,94 +3,94 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
+DTSTAMP:20221111T022456Z
 DESCRIPTION:Sigrid at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221112
 DTSTART;VALUE=DATE:20221112
 SUMMARY:Sigrid
-UID:61e8b54b-657a-466a-8d9b-2e07997bcf18
+UID:e7df5e97-e215-40f2-b577-1f66a94e5ff0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
+DTSTAMP:20221111T022456Z
 DESCRIPTION:Bright7 Proudly presents “ONCE UPON A TIME TOUR” Live in L
  ondon 2022 Having started his journey with ‘Moonu’ in 2012, Anirudh has
   rocked the cinema music industry for the past 10 years breaking...
 DTEND;VALUE=DATE:20221202
 DTSTART;VALUE=DATE:20221202
 SUMMARY:ovo wembley arena live anirudh
-UID:c6316c7d-3d06-4184-bed8-58846de09397
+UID:b89b3878-b9c0-40c0-9f97-f38e7741b81b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
-DESCRIPTION:we have taken the decision to postpone The Overlap Live until 
- a later date. We are really disappointed but we want the evening to be enjo
- yable for everyone without the worry of travel issues’ We...
-DTEND;VALUE=DATE:20221110
-DTSTART;VALUE=DATE:20221110
-SUMMARY:The Overlap Live
-UID:eebd4347-a328-4ea4-94bb-ed03c1f76764
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
+DTSTAMP:20221111T022456Z
 DESCRIPTION:Go VIP and upgrade your experience at OVO Arena Wembley with fa
  st access to the venue and Heroes Lounge for just £45 per person including
   1 x food item + drink. Please note that without a ticket...
 DTEND;VALUE=DATE:20221210
 DTSTART;VALUE=DATE:20221210
 SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:f4d668b3-594d-4d0f-b1f5-a36896c2bffe
+UID:ffff5f5f-fb93-4a22-b9bd-f7e62de5ee96
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
+DTSTAMP:20221111T022456Z
 DESCRIPTION:Shinedown at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221201
 DTSTART;VALUE=DATE:20221201
 SUMMARY:Zero 9:36 @ OVO Arena
-UID:8b9f5711-cb16-437a-8abf-09686bfb27d4
+UID:e78adb45-1f9d-4f1f-bcf5-28c74bea35a6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
+DTSTAMP:20221111T022456Z
 DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221203
 DTSTART;VALUE=DATE:20221203
 SUMMARY:Status Quo & very special guest Shakin Stevens
-UID:22621341-2e4b-4fc5-968b-7408b7abe3a1
+UID:2db3bb55-3cab-43e5-98b2-bbacebda9e60
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
+DTSTAMP:20221111T022456Z
 DESCRIPTION:YBNL x C２kobar presen４ Fi３eboy DML live i１ ＠oncert - 
  H２sted by Olamide
 DTEND;VALUE=DATE:20221113
 DTSTART;VALUE=DATE:20221113
 SUMMARY:Fireboy DML @ OVO Arena Wembley
-UID:072acfd4-005b-4036-bdc3-10b45e75b545
+UID:3c0e8f8b-bdf0-4000-a2f2-6ccde0875a29
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
+DTSTAMP:20221111T022456Z
 DESCRIPTION:Buy Leisure + Andre Rieu - South Essex tickets and sign-up for 
  latest tour alerts. Find Leisure + Andre Rieu - South Essex tour dates, rev
  iews, times and event details.
 DTEND;VALUE=DATE:20220414
 DTSTART;VALUE=DATE:20220414
 SUMMARY:Leisure + Andre Rieu - South Essex
-UID:23e8dfc9-d967-407c-ba0a-875e4452c308
+UID:49f4cbf1-a4d4-4de7-a17e-db0c0e15fb94
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
+DTSTAMP:20221111T022456Z
 DESCRIPTION:Kaufen Sie Yungblud Tickets und melden Sie sich für die neuest
  en Tour-Benachrichtigungen an. Finden Sie Yungblud Tourdaten, Bewertungen, 
  Termine und Veranstaltungsdetails.
 DTEND;VALUE=DATE:20220225
 DTSTART;VALUE=DATE:20220225
 SUMMARY:YUNGBLUD
-UID:40416bd4-e5b1-4315-943f-a2f631e4d56a
+UID:118a9823-90bf-4043-b991-19dbff51218e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221110T022510Z
+DTSTAMP:20221111T022456Z
 DESCRIPTION:Porcupine Tree at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221111
 DTSTART;VALUE=DATE:20221111
 SUMMARY:Porcupine Tree
-UID:77ebfe62-6544-4e1f-8935-a82c8ca9876e
+UID:f1e131a5-ee74-4c1c-b937-9ada847c87c5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221111T022456Z
+DESCRIPTION:Buy Harry Styles tickets to see the best pop and rock music act
+ s live and in-person on Fri, Jun 16, 2023 TBA at Wembley Stadium in London
+ , GL, GB.
+DTEND;VALUE=DATE:20220616
+DTSTART;VALUE=DATE:20220616
+SUMMARY:Harry Styles
+UID:9da496b0-a292-4361-9505-6055aaef985c
 END:VEVENT
 END:VCALENDAR
