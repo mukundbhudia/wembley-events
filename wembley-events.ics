@@ -3,96 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
-DESCRIPTION:Bright7 Proudly presents “ONCE UPON A TIME TOUR” Live in L
- ondon 2022 Having started his journey with ‘Moonu’ in 2012, Anirudh has
-  rocked the cinema music industry for the past 10 years breaking...
-DTEND;VALUE=DATE:20221202
-DTSTART;VALUE=DATE:20221202
-SUMMARY:ovo wembley arena live anirudh
-UID:f1832e41-82e8-49c9-b937-f3fbccd3fcfa
+DTSTAMP:20221115T021643Z
+DESCRIPTION:After a sell-out US Tour, for the first time together, Trixie M
+ attel and Katya Zamolodchikova bring their new live show to Europe! Don't m
+ iss out on the...
+DTEND;VALUE=DATE:20221115
+DTSTART;VALUE=DATE:20221115
+SUMMARY:Trixie & Katya
+UID:f9d0ad39-1966-4d73-9a2b-dee2fc881515
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
-DESCRIPTION:Description See Adam Kay at the OVO Arena Wembley. Tickets on s
- ale: 11 Feb 10AM
-DTEND;VALUE=DATE:20221114
-DTSTART;VALUE=DATE:20221114
-SUMMARY:Adam Kay - This is going to hurt... More.
-UID:4c011a34-d68f-4c04-a128-5154e2c5432b
+DTSTAMP:20221115T021643Z
+DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
+ dians from all over to test out material, and have fun with the audience. T
+ he night will feature games & prizes, and food available...
+DTEND;VALUE=DATE:20221116
+DTSTART;VALUE=DATE:20221116
+SUMMARY:LAUGH IN THE BOX
+UID:56ff6dbe-850b-43c1-83c1-f637b2b6ad8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
+DTSTAMP:20221115T021643Z
 DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221203
 DTSTART;VALUE=DATE:20221203
 SUMMARY:Status Quo & very special guest Shakin Stevens
-UID:c981f061-2112-4736-9c90-16122baea276
+UID:cd62932d-df2b-468a-943d-c8c1f753b05a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
+DTSTAMP:20221115T021643Z
 DESCRIPTION:Middle Child becomes the youngest artist to headline Wembley st
  adium.
 DTEND;VALUE=DATE:20221115
 DTSTART;VALUE=DATE:20221115
 SUMMARY:Middle Child. @ Wembley Stadium
-UID:0af9faa0-1c94-4a73-8878-94b6fe71c29d
+UID:5d3e587f-1562-40c2-9fc2-4dab3810e9d2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
-DESCRIPTION:Shinedown at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20221201
-DTSTART;VALUE=DATE:20221201
-SUMMARY:Zero 9:36 @ OVO Arena
-UID:7efc2d99-a1f2-477f-a389-8cef296acb37
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
+DTSTAMP:20221115T021643Z
 DESCRIPTION:Go VIP and upgrade your experience at OVO Arena Wembley with fa
  st access to the venue and Heroes Lounge for just £45 per person including
   1 x food item + drink. Please note that without a ticket...
 DTEND;VALUE=DATE:20221210
 DTSTART;VALUE=DATE:20221210
 SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:c7fce8a1-0240-4d0a-b34b-1a9fb1acee19
+UID:5a9e6321-b733-4cb9-83d1-8c2a47197162
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
+DTSTAMP:20221115T021643Z
+DESCRIPTION:Shinedown at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221201
+DTSTART;VALUE=DATE:20221201
+SUMMARY:Zero 9:36 @ OVO Arena
+UID:3d3be167-015c-4d54-9729-e20d762192a6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221115T021643Z
 DESCRIPTION:Buy Leisure + Andre Rieu - South Essex tickets and sign-up for 
  latest tour alerts. Find Leisure + Andre Rieu - South Essex tour dates, rev
  iews, times and event details.
 DTEND;VALUE=DATE:20220414
 DTSTART;VALUE=DATE:20220414
-SUMMARY:Leisure + Andre Rieu - South Essex
-UID:1bb53fc6-565a-4e2c-8487-11c4df39eef2
+SUMMARY:Andre Rieu Tickets
+UID:71d0920b-4787-4154-9a5e-be8e94cc0e83
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
+DTSTAMP:20221115T021643Z
 DESCRIPTION:Kaufen Sie Yungblud Tickets und melden Sie sich für die neuest
  en Tour-Benachrichtigungen an. Finden Sie Yungblud Tourdaten, Bewertungen, 
  Termine und Veranstaltungsdetails.
 DTEND;VALUE=DATE:20220225
 DTSTART;VALUE=DATE:20220225
 SUMMARY:YUNGBLUD
-UID:14a8608b-1f73-402c-b544-55fb805daeb3
+UID:a77bd7d2-1954-4c10-87e7-70fa7d40d6b5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
+DTSTAMP:20221115T021643Z
+DESCRIPTION:Building on the success of their hilariously candid podcast Par
+ enting Hell, revealing the highs and lows of being a parent, comedians Rob 
+ Beckett and Josh Widdicombe have announced a live version...
+DTEND;VALUE=DATE:20220423
+DTSTART;VALUE=DATE:20220423
+SUMMARY:Parenting Hell Live
+UID:2e20c08a-8656-448a-80f7-ac2107727540
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221115T021643Z
 DESCRIPTION:Buy Harry Styles tickets to see the best pop and rock music act
  s live and in-person on Fri, Jun 16, 2023 TBA at Wembley Stadium in London
  , GL, GB.
 DTEND;VALUE=DATE:20220616
 DTSTART;VALUE=DATE:20220616
 SUMMARY:Harry Styles
-UID:7e1afa98-d59b-466d-957f-88334cfff584
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221114T021925Z
-DESCRIPTION:Buy Peter Crouch tickets and sign-up for latest tour alerts. Fi
- nd Peter Crouch tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20221119
-DTSTART;VALUE=DATE:20221119
-SUMMARY:Crouchfest 2022
-UID:26414053-6135-4c4e-888c-874b59b14f25
+UID:98a8a2b3-208c-4e8b-ba2c-7d073e21291e
 END:VEVENT
 END:VCALENDAR
