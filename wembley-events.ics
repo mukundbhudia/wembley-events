@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
+DTSTAMP:20221118T021933Z
 DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
  Coors Light
 DTEND;VALUE=DATE:20221118
 DTSTART;VALUE=DATE:20221118
 SUMMARY:FRIDAY FEELINGS
-UID:ee6226b0-e5a7-4e43-b8bd-af79cf9b01e9
+UID:c3a9fea7-de8b-4b19-921d-cd2961d16058
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
-DESCRIPTION:DJ Nate's BUBBLE brings the Caribbean Party vibes back to Boxpa
- rk Wembley! Music Policy: Dancehall, Soca, Hip Hop & more ft. special gues
- t performers & DJs! Previous BUBBLE guests include The...
-DTEND;VALUE=DATE:20221117
-DTSTART;VALUE=DATE:20221117
-SUMMARY:Bubble with DJ Nate
-UID:b3d8647c-c23e-4bc9-a33a-708b5429505e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
+DTSTAMP:20221118T021933Z
 DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221203
 DTSTART;VALUE=DATE:20221203
-SUMMARY:Status Quo
-UID:0b3d61c6-eed9-4226-b780-0aeeb606721b
+SUMMARY:Status Quo & very special guest Shakin Stevens
+UID:cd58fb9f-b7d4-4cee-aadc-63994dfc263b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
+DTSTAMP:20221118T021933Z
+DESCRIPTION:DJ Nate's BUBBLE brings the Caribbean Party vibes back to Boxpa
+ rk Wembley! Music Policy: Dancehall, Soca, Hip Hop & more ft. special gues
+ t performers & DJs! Previous BUBBLE guests include The...
+DTEND;VALUE=DATE:20221118
+DTSTART;VALUE=DATE:20221118
+SUMMARY:Bubble with DJ Nate
+UID:173c9eda-bb34-4588-8fc9-a007aa40b75c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221118T021933Z
 DESCRIPTION:Go VIP and upgrade your experience at OVO Arena Wembley with fa
  st access to the venue and Heroes Lounge for just £45 per person including
   1 x food item + drink. Please note that without a ticket...
 DTEND;VALUE=DATE:20221210
 DTSTART;VALUE=DATE:20221210
-SUMMARY:Tim Burton's The Nightmare Before Christmas Live
-UID:9a2e2bb8-cb8b-445f-895a-dace418ab71a
+SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
+UID:4a7f8b51-9ee4-4092-be3f-dfcfe324fcd9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
+DTSTAMP:20221118T021933Z
 DESCRIPTION:Shinedown at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221201
 DTSTART;VALUE=DATE:20221201
 SUMMARY:Zero 9:36 @ OVO Arena
-UID:3d371954-c46c-43af-b643-6c0de6104ac4
+UID:c8f76d18-bd3f-45e9-80b4-1bab258c0b07
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
+DTSTAMP:20221118T021933Z
 DESCRIPTION:Buy Leisure + Andre Rieu - South Essex tickets and sign-up for 
  latest tour alerts. Find Leisure + Andre Rieu - South Essex tour dates, rev
  iews, times and event details.
 DTEND;VALUE=DATE:20220414
 DTSTART;VALUE=DATE:20220414
 SUMMARY:Andre Rieu
-UID:9fa2ee97-3d0f-4283-b184-66851761cfe4
+UID:9b775a97-cb89-41e3-acf5-5d02de371f0c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
+DTSTAMP:20221118T021933Z
 DESCRIPTION:Kaufen Sie Yungblud Tickets und melden Sie sich für die neuest
  en Tour-Benachrichtigungen an. Finden Sie Yungblud Tourdaten, Bewertungen, 
  Termine und Veranstaltungsdetails.
 DTEND;VALUE=DATE:20220225
 DTSTART;VALUE=DATE:20220225
 SUMMARY:YUNGBLUD
-UID:fe328587-7f96-45bd-ba13-5b4df688fc4f
+UID:421cb5c1-88cc-4782-a665-29a52819f093
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
+DTSTAMP:20221118T021933Z
 DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
  h Coors Light
 DTEND;VALUE=DATE:20221119
 DTSTART;VALUE=DATE:20221119
 SUMMARY:Coors Presents: Saturday Sessions
-UID:17641a95-5c9a-4907-bed3-a8244c0c327e
+UID:acf59e39-9841-4d01-895b-97b36488458b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
+DTSTAMP:20221118T021933Z
 DESCRIPTION:Building on the success of their hilariously candid podcast Par
  enting Hell, revealing the highs and lows of being a parent, comedians Rob 
  Beckett and Josh Widdicombe have announced a live version...
 DTEND;VALUE=DATE:20220423
 DTSTART;VALUE=DATE:20220423
 SUMMARY:Parenting Hell Live
-UID:e37bdf3e-14be-4078-9a86-fe0cc05ace14
+UID:081e8310-8eb0-49bd-a7dd-9918b177add4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221117T021430Z
+DTSTAMP:20221118T021933Z
 DESCRIPTION:Buy Harry Styles tickets to see the best pop and rock music act
  s live and in-person on Fri, Jun 16, 2023 TBA at Wembley Stadium in London
  , GL, GB.
 DTEND;VALUE=DATE:20220616
 DTSTART;VALUE=DATE:20220616
 SUMMARY:Harry Styles
-UID:9f1a631d-e445-4e31-9816-013872bfc9c1
+UID:70e18d77-4a06-43b3-9259-65b36a354b4e
 END:VEVENT
 END:VCALENDAR
