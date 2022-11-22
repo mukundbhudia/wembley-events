@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
+DTSTAMP:20221122T021702Z
 DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221203
 DTSTART;VALUE=DATE:20221203
 SUMMARY:Status Quo & very special guest Shakin Stevens
-UID:fd47d45d-0904-4d02-adc6-d033d459dc3d
+UID:432ad46c-9c47-4935-bce7-5c8f6c5fed51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
-DESCRIPTION:• Watch the spectacular live event from one of the best seats
-  in the house Your Exclusive VIP Package also includes: • A collectible g
- ift item chosen for you, our VIP guests • A limited edition A4...
+DTSTAMP:20221122T021702Z
+DESCRIPTION:Sam Ryder has announced a headline London show for the autumn.T
+ he Essex singer-songwriter, who brought the UK to second place in the Eurov
+ ision Song Contest, will perform at the new 2,000 capacity...
+DTEND;VALUE=DATE:20221124
+DTSTART;VALUE=DATE:20221124
+SUMMARY:Sam Ryder
+UID:cc9e1ea0-9992-4d40-a52e-49e1983adc55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221122T021702Z
+DESCRIPTION:TIM BURTON'S THE NIGHTMARE BEFORE CHRISTMAS LIVE IN CONCERT Wit
+ h Danny Elfman and Very Special Guests SAT, 10 DEC 2022 at 07:30PM GMT Door
+ s Open: 06:30PM OnSale: Fri, 29 Oct 2021 at 10:00AM BST...
 DTEND;VALUE=DATE:20221210
 DTSTART;VALUE=DATE:20221210
-SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:6b5c521b-aff8-4da1-ba96-31c4c3b6446a
+SUMMARY:The Nightmare Before Christmas Live
+UID:85e32b5e-4136-4ade-8817-70114eddfaea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
+DTSTAMP:20221122T021702Z
 DESCRIPTION:Shinedown at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221201
 DTSTART;VALUE=DATE:20221201
 SUMMARY:Zero 9:36 @ OVO Arena
-UID:83078d53-a84f-4ad3-a67f-7b58e674fdca
+UID:87e9131f-581c-4525-b95c-c4c92f095bfa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
-DESCRIPTION:“The BEAST is back, the BEAST IN BLACK!” Haunting words rec
- alling »Berserker«, BEAST IN BLACK’s debut album, which was finally re
- leased in November 2017. Although it neve...
-DTEND;VALUE=DATE:20221121
-DTSTART;VALUE=DATE:20221121
-SUMMARY:Beast In Black @ OVO Arena Wembley
-UID:3c926d02-f59b-4c38-87ed-4e8e2445c449
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
+DTSTAMP:20221122T021702Z
 DESCRIPTION:Building on the success of their hilariously candid podcast Par
  enting Hell, revealing the highs and lows of being a parent, comedians Rob 
  Beckett and Josh Widdicombe have announced a live version...
 DTEND;VALUE=DATE:20220423
 DTSTART;VALUE=DATE:20220423
 SUMMARY:Parenting Hell
-UID:9a558f75-f81f-4c83-ba82-94b7dfd03ff0
+UID:5fe6e36e-3421-4064-a8d5-5dc270201e9d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
-DESCRIPTION:Kaufen Sie Yungblud Tickets und melden Sie sich für die neuest
- en Tour-Benachrichtigungen an. Finden Sie Yungblud Tourdaten, Bewertungen, 
- Termine und Veranstaltungsdetails.
-DTEND;VALUE=DATE:20220225
-DTSTART;VALUE=DATE:20220225
-SUMMARY:YUNGBLUD
-UID:340e6f17-9409-46bb-b857-9e0688cefc63
+DTSTAMP:20221122T021702Z
+DESCRIPTION:Hospitality Packages available[#section-fine-dining] *Professo
+ r Brian Cox* and *Robin Ince* of Radio 4’s The Infinite Monkey Cage are h
+ eading to the Hall on 23 November 2022 with their Compendium...
+DTEND;VALUE=DATE:20221123
+DTSTART;VALUE=DATE:20221123
+SUMMARY:Professor Brian Cox & Robin Ince
+UID:cc0775fd-1a6b-42a3-82ba-f1797350d5ab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
+DTSTAMP:20221122T021702Z
 DESCRIPTION:Buy Harry Styles tickets to see the best pop and rock music act
  s live and in-person on Fri, Jun 16, 2023 TBA at Wembley Stadium in London
  , GL, GB.
 DTEND;VALUE=DATE:20220616
 DTSTART;VALUE=DATE:20220616
 SUMMARY:Harry Styles
-UID:c598eebb-5cc2-4945-9970-2ebc849f3a46
+UID:fd63debb-2395-4db0-b81e-66ceb1a3e1c0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
-DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
- VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
- kets, see who's attending, find similar events.
-DTEND;VALUE=DATE:20220204
-DTSTART;VALUE=DATE:20220204
-SUMMARY:Black Stone Cherry & The Darkness
-UID:fc0b8968-9885-4031-8cd9-f1d50e690aea
+DTSTAMP:20221122T021702Z
+DESCRIPTION:Kaufen Sie Yungblud Tickets und melden Sie sich für die neuest
+ en Tour-Benachrichtigungen an. Finden Sie Yungblud Tourdaten, Bewertungen, 
+ Termine und Veranstaltungsdetails.
+DTEND;VALUE=DATE:20220225
+DTSTART;VALUE=DATE:20220225
+SUMMARY:YUNGBLUD
+UID:9508a169-484c-4d2c-bdfc-bf8383f7313e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
-DESCRIPTION:📣 SABATON IN LONDON! 😈 15.04.2023 SSE Arena, Wembley + Th
- e Hu und Lordi 🔥 Tickets go on sale: 9 Jul @10 --> https:// wbr span www
- .timeforgig.c wbr span om/ wbr span sabaton-the-tour wbr span...
-DTEND;VALUE=DATE:20220415
-DTSTART;VALUE=DATE:20220415
-SUMMARY:Sabaton - The Tour To End All Tours
-UID:2fbe11dd-5df7-4931-88c3-f8629a5af5aa
+DTSTAMP:20221122T021702Z
+DESCRIPTION:Buy Tim Burton's The Nightmare Before Christmas Live tickets an
+ d sign-up for latest tour alerts. Find Tim Burton's The Nightmare Before Ch
+ ristmas Live tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20221209
+DTSTART;VALUE=DATE:20221209
+SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
+UID:ba14c0b4-47c4-47a9-bd6f-a78392ffa0e0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221121T021726Z
-DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
- h Coors Light
+DTSTAMP:20221122T021702Z
+DESCRIPTION:Nine years on from the release of their last outing, Placebo ar
+ e back with their long-awaited eighth studio album Never Let Me Go . After 
+ more than a quarter-century together and an unmistakable...
 DTEND;VALUE=DATE:20221126
 DTSTART;VALUE=DATE:20221126
-SUMMARY:Coors Presents: Saturday Sessions
-UID:b62ef095-ac1f-4f31-8e24-b16b531b9de6
+SUMMARY:Placebo
+UID:a1ad0f83-62d4-4e47-8ac3-60c507c316b2
 END:VEVENT
 END:VCALENDAR
