@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
+DTSTAMP:20221127T020508Z
 DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
  h Coors Light
-DTEND;VALUE=DATE:20221126
-DTSTART;VALUE=DATE:20221126
+DTEND;VALUE=DATE:20221127
+DTSTART;VALUE=DATE:20221127
 SUMMARY:Coors Presents: Saturday Sessions
-UID:3a2040e6-8726-4330-83dc-3d3e079f9ed4
+UID:440b3aa3-dd08-4966-baf3-0fe93368054e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
+DTSTAMP:20221127T020508Z
 DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221203
 DTSTART;VALUE=DATE:20221203
 SUMMARY:Status Quo & very special guest Shakin Stevens
-UID:141501d7-e168-459c-b545-6a28dfb72b7b
+UID:76af7b5d-6ab6-4ff7-bd3a-ae5a097fc974
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
+DTSTAMP:20221127T020508Z
 DESCRIPTION:TIM BURTON'S THE NIGHTMARE BEFORE CHRISTMAS LIVE IN CONCERT Wit
  h Danny Elfman and Very Special Guests SAT, 10 DEC 2022 at 07:30PM GMT Door
  s Open: 06:30PM OnSale: Fri, 29 Oct 2021 at 10:00AM BST...
 DTEND;VALUE=DATE:20221210
 DTSTART;VALUE=DATE:20221210
 SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:8dcb2186-d593-4b84-a582-b7a3093ebce4
+UID:9ef5335b-543b-4240-865b-cb28514faede
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
+DTSTAMP:20221127T020508Z
 DESCRIPTION:Shinedown at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221201
 DTSTART;VALUE=DATE:20221201
 SUMMARY:Zero 9:36 @ OVO Arena
-UID:72f0adc1-05fc-47e1-b156-fe1c0b097ed2
+UID:685ebe3a-c40b-4758-8283-ff71e305b4fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
+DTSTAMP:20221127T020508Z
 DESCRIPTION:Buy Harry Styles tickets to see the best pop and rock music act
  s live and in-person on Fri, Jun 16, 2023 TBA at Wembley Stadium in London
  , GL, GB.
 DTEND;VALUE=DATE:20220616
 DTSTART;VALUE=DATE:20220616
 SUMMARY:Harry Styles
-UID:2d0d7dfc-9cd8-460f-86a5-006e406117d2
+UID:85419463-0760-4bb3-b698-1ac149317fe7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
-DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
- ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
-  million downloads, the chart topping podcast has seen them...
+DTSTAMP:20221127T020508Z
+DESCRIPTION:Building on the success of their hilariously candid podcast Par
+ enting Hell, revealing the highs and lows of being a parent, comedians Rob 
+ Beckett and Josh Widdicombe have announced a live version...
 DTEND;VALUE=DATE:20220423
 DTSTART;VALUE=DATE:20220423
 SUMMARY:Parenting Hell
-UID:d6866912-09ac-4dc5-9840-944a62a636e4
+UID:95c84801-2cc9-41e2-ab4c-6c8c9131dce7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
-DESCRIPTION:Nov 27 meta SOULFUL SUNDAYS Supplying all that good music and f
- ood for the soul. Each and every Sunday at BOXPARK Wembley.
-DTEND;VALUE=DATE:20221127
-DTSTART;VALUE=DATE:20221127
-SUMMARY:SOULFUL SUNDAYS
-UID:14cbb98d-bf15-4f62-b300-408b28de8a7f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
-DESCRIPTION:Kaufen Sie Yungblud Tickets und melden Sie sich für die neuest
- en Tour-Benachrichtigungen an. Finden Sie Yungblud Tourdaten, Bewertungen, 
- Termine und Veranstaltungsdetails.
+DTSTAMP:20221127T020508Z
+DESCRIPTION:Buy Yungblud tickets and sign-up for latest tour alerts. Find Y
+ ungblud tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20220225
 DTSTART;VALUE=DATE:20220225
 SUMMARY:YUNGBLUD
-UID:3cfdac03-a2a9-415f-8069-2d0f2b72104d
+UID:e8e69def-719b-4d99-af04-9598bcc8ca47
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
-DESCRIPTION:📣 SABATON IN LONDON! 😈 15.04.2023 SSE Arena, Wembley + Th
- e Hu und Lordi 🔥 Tickets go on sale: 9 Jul @10 --> https:// wbr span www
- .timeforgig.c wbr span om/ wbr span sabaton-the-tour wbr span...
-DTEND;VALUE=DATE:20220415
-DTSTART;VALUE=DATE:20220415
-SUMMARY:Sabaton - The Tour To End All Tours
-UID:d8bbedaf-b207-45eb-91df-a51db10cf6f0
+DTSTAMP:20221127T020508Z
+DESCRIPTION:Buy Leisure + Andre Rieu - South Essex tickets and sign-up for 
+ latest tour alerts. Find Leisure + Andre Rieu - South Essex tour dates, rev
+ iews, times and event details.
+DTEND;VALUE=DATE:20220414
+DTSTART;VALUE=DATE:20220414
+SUMMARY:Leisure + Andre Rieu - South Essex
+UID:7797ac80-1a22-4260-8c91-8836d46da99c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221126T015432Z
+DTSTAMP:20221127T020508Z
 DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
  VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
  kets, see who's attending, find similar events.
 DTEND;VALUE=DATE:20220204
 DTSTART;VALUE=DATE:20220204
 SUMMARY:Black Stone Cherry & The Darkness
-UID:6a7fb50e-7aac-4fbc-8b03-40aebe2b78ba
+UID:5708c9ef-3fb8-4e5c-9408-a35210f67634
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221127T020508Z
+DESCRIPTION:📣 SABATON IN LONDON! 😈 15.04.2023 SSE Arena, Wembley + Th
+ e Hu und Lordi 🔥 Tickets go on sale: 9 Jul @10 --> https:// wbr span www
+ .timeforgig.c wbr span om/ wbr span sabaton-the-tour wbr span...
+DTEND;VALUE=DATE:20220415
+DTSTART;VALUE=DATE:20220415
+SUMMARY:Sabaton - The Tour To End All Tours
+UID:26586947-de1f-4cd3-bcec-4ebbc195a8ba
 END:VEVENT
 END:VCALENDAR
