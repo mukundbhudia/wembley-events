@@ -3,97 +3,91 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
+DTSTAMP:20221203T014452Z
+DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221203
+DTSTART;VALUE=DATE:20221203
+SUMMARY:Status Quo & very special guest Shakin Stevens
+UID:372b7f2f-1a59-44f9-b30e-1ab3644de610
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221203T014452Z
+DESCRIPTION:The Cure performs at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221211
+DTSTART;VALUE=DATE:20221211
+SUMMARY:The Cure
+UID:9405abcc-cb79-4c83-a8b8-158f15b61092
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221203T014452Z
 DESCRIPTION:Buy Harry Styles tickets to see the best pop and rock music act
  s live and in-person on Fri, Jun 16, 2023 TBA at Wembley Stadium in London
  , GL, GB.
 DTEND;VALUE=DATE:20220616
 DTSTART;VALUE=DATE:20220616
 SUMMARY:Harry Styles
-UID:8ec60307-21d7-4e94-9d93-0bc26ba7d38a
+UID:cf8d3ed6-f09b-40aa-969a-20abc897c3a2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
-DESCRIPTION:Status Quo at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20221203
-DTSTART;VALUE=DATE:20221203
-SUMMARY:Status Quo & very special guest Shakin Stevens
-UID:d272b665-ba3d-4d9c-8f89-d813b2849c41
+DTSTAMP:20221203T014452Z
+DESCRIPTION:The Cure performs at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221212
+DTSTART;VALUE=DATE:20221212
+SUMMARY:The Cure
+UID:0a624cb0-53d3-4524-8d1c-b663f90d454c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
+DTSTAMP:20221203T014452Z
 DESCRIPTION:• A limited opportunity to meet and have your photo taken wit
  h the composer, singer and songwriter, Danny Elfman • Watch the spectacul
  ar live event from one of the best seats in the house Your...
 DTEND;VALUE=DATE:20221210
 DTSTART;VALUE=DATE:20221210
 SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:ae544027-38fb-4d34-9ba1-52bf5d2b8232
+UID:0b04f92b-2293-40e4-bab1-8d679ffece50
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
-DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
- London, GB on Sat Feb 25 2023. Tickets on sale now.
-DTEND;VALUE=DATE:20220225
-DTSTART;VALUE=DATE:20220225
-SUMMARY:YUNGBLUD
-UID:02462ddd-48d5-426d-b0e0-5e178202c89c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
-DESCRIPTION:Anirudh at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20221202
-DTSTART;VALUE=DATE:20221202
-SUMMARY:Anirudh
-UID:7b2c55e8-29c7-4154-afad-98d98e128d03
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
+DTSTAMP:20221203T014452Z
 DESCRIPTION:Building on the success of their hilariously candid podcast Par
  enting Hell, revealing the highs and lows of being a parent, comedians Rob 
  Beckett and Josh Widdicombe have announced a live version...
 DTEND;VALUE=DATE:20220423
 DTSTART;VALUE=DATE:20220423
-SUMMARY:Parenting Hell Live
-UID:99433ece-67dc-4a1a-abc1-78edd2cd3e4c
+SUMMARY:Parenting Hell
+UID:155a3eb2-1fdb-4322-975e-9127d3906d6f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
-DESCRIPTION:Buy Leisure + Andre Rieu - South Essex tickets and sign-up for 
- latest tour alerts. Find Leisure + Andre Rieu - South Essex tour dates, rev
- iews, times and event details.
+DTSTAMP:20221203T014452Z
+DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
+ London, GB on Sat Feb 25 2023. Tickets on sale now.
+DTEND;VALUE=DATE:20220225
+DTSTART;VALUE=DATE:20220225
+SUMMARY:YUNGBLUD
+UID:73dc6fe8-5375-405c-8b69-bfdb7a09ff9f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221203T014452Z
+DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20220316
+DTSTART;VALUE=DATE:20220316
+SUMMARY:Loyle Carner
+UID:d18ab61c-c3e8-4bc6-a139-c5694edddc23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221203T014452Z
+DESCRIPTION:André Rieu at OVO Arena, Wembley in Wembley Park
 DTEND;VALUE=DATE:20220414
 DTSTART;VALUE=DATE:20220414
-SUMMARY:Leisure + Andre Rieu - South Essex
-UID:bd03c5ce-0081-4b32-981a-77a09bbe6993
+SUMMARY:André Rieu
+UID:4843d065-c438-4b2b-8316-9be0d52ec5fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
+DTSTAMP:20221203T014452Z
 DESCRIPTION:Be there live to see Harry Styles perform at Wembley Stadium i
  n London on Tuesday, June 13, 2023.
 DTEND;VALUE=DATE:20220613
 DTSTART;VALUE=DATE:20220613
 SUMMARY:Harry Styles
-UID:56afc47b-1e37-4082-8b74-29efc70a6362
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
-DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
- VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
- kets, see who's attending, find similar events.
-DTEND;VALUE=DATE:20220204
-DTSTART;VALUE=DATE:20220204
-SUMMARY:Black Stone Cherry & The Darkness
-UID:104c75f1-8863-454e-97a2-1554a4e0ac7f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221202T015140Z
-DESCRIPTION:Buy Tim Burton's The Nightmare Before Christmas Live tickets an
- d sign-up for latest tour alerts. Find Tim Burton's The Nightmare Before Ch
- ristmas Live tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20221209
-DTSTART;VALUE=DATE:20221209
-SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:862cb599-5d0f-4d08-89aa-13bfa2d591c7
+UID:fb534990-2115-410c-8486-cdc7a02e5160
 END:VEVENT
 END:VCALENDAR
