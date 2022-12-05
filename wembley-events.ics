@@ -3,93 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
-DESCRIPTION:The Cure performs at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20221211
-DTSTART;VALUE=DATE:20221211
-SUMMARY:The Cure
-UID:66ae4c52-6bad-45d9-8dff-a04a465bbcb7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
+DTSTAMP:20221205T015008Z
 DESCRIPTION:• A limited opportunity to meet and have your photo taken wit
  h the composer, singer and songwriter, Danny Elfman • Watch the spectacul
  ar live event from one of the best seats in the house Your...
 DTEND;VALUE=DATE:20221210
 DTSTART;VALUE=DATE:20221210
-SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:6f657027-14eb-4bf6-bf64-82bbbab96693
+SUMMARY:The Nightmare Before Christmas Live
+UID:7a3acdc2-50a2-4760-be40-f7d5cfc227b2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
-DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
- London, GB on Sat Feb 25 2023. Tickets on sale now.
-DTEND;VALUE=DATE:20220225
-DTSTART;VALUE=DATE:20220225
-SUMMARY:YUNGBLUD
-UID:9f1e92a4-ad31-4c5a-b1b7-5eafca31d2b4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
-DESCRIPTION:Buy Harry Styles tickets to see the best pop and rock music act
- s live and in-person on Fri, Jun 16, 2023 TBA at Wembley Stadium in London
- , GL, GB.
-DTEND;VALUE=DATE:20220616
-DTSTART;VALUE=DATE:20220616
-SUMMARY:Harry Styles
-UID:81d69eba-14dc-4711-8979-cb62043ee068
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
+DTSTAMP:20221205T015008Z
 DESCRIPTION:The Cure performs at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20221212
-DTSTART;VALUE=DATE:20221212
+DTEND;VALUE=DATE:20221211
+DTSTART;VALUE=DATE:20221211
 SUMMARY:The Cure
-UID:115de6eb-bcfd-4a73-8c73-48788a014818
+UID:925cc8a0-27f2-441d-b989-137819208436
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
-DESCRIPTION:Building on the success of their hilariously candid podcast Par
- enting Hell, revealing the highs and lows of being a parent, comedians Rob 
- Beckett and Josh Widdicombe have announced a live version...
-DTEND;VALUE=DATE:20220423
-DTSTART;VALUE=DATE:20220423
-SUMMARY:Parenting Hell
-UID:58d4dcdd-9503-42a0-82ef-5d843ddddf41
+DTSTAMP:20221205T015008Z
+DESCRIPTION:ABOUT THE ARTIST: "Daddy Cool", "Ma Baker", "Sunny", "Rasputin"
+ , "Mary's Boy Child – Oh My Lord" and "Rivers of Babylon" Boney M with m
+ ore than 150 Million records sold including Brown Girl in the...
+DTEND;VALUE=DATE:20221208
+DTSTART;VALUE=DATE:20221208
+SUMMARY:BONEY M
+UID:363967ec-d90d-4e06-a979-b913903de77b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
-DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20220316
-DTSTART;VALUE=DATE:20220316
-SUMMARY:Loyle Carner
-UID:67bb05ef-38fc-44c7-820d-7345d09daa86
+DTSTAMP:20221205T015008Z
+DESCRIPTION:Buy Tim Burton's The Nightmare Before Christmas Live tickets an
+ d sign-up for latest tour alerts. Find Tim Burton's The Nightmare Before Ch
+ ristmas Live tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20221209
+DTSTART;VALUE=DATE:20221209
+SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
+UID:a31eceeb-2109-410d-ac0a-a4cfd7a12b7e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
-DESCRIPTION:André Rieu at OVO Arena, Wembley in Wembley Park
-DTEND;VALUE=DATE:20220414
-DTSTART;VALUE=DATE:20220414
-SUMMARY:André Rieu
-UID:fca51f20-2654-4dd4-9fbc-f696c0bb21cf
+DTSTAMP:20221205T015008Z
+DESCRIPTION:The National Lottery's Big Bash, Tickets on sale on Thursday, 1
+ 0 Nov 2022 at 09:00, is a festival which takes place on the 12/06/2022 at 1
+ 9:30 in SSE Wembley Arena, London, United Kingdom. Its...
+DTEND;VALUE=DATE:20221206
+DTSTART;VALUE=DATE:20221206
+SUMMARY:The National Lottery's Big Bash
+UID:f65a460a-bd90-4f69-8b2f-bb901d5f442c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
-DESCRIPTION:Be there live to see Harry Styles perform at Wembley Stadium i
- n London on Tuesday, June 13, 2023.
-DTEND;VALUE=DATE:20220613
-DTSTART;VALUE=DATE:20220613
-SUMMARY:Harry Styles
-UID:689c4916-4ce3-4a42-939d-1842725f3f8d
+DTSTAMP:20221205T015008Z
+DESCRIPTION:Off the back of a storming host role at this year’s BRIT Awa
+ rds and his second Netflix stand-up special release, double BAFTA winning B
+ ritish comedian Mo Gilligan announces his return to London’s...
+DTEND;VALUE=DATE:20221208
+DTSTART;VALUE=DATE:20221208
+SUMMARY:Mo Gilligan + Friends: The Black British Takeover...
+UID:8ce67bf5-10a2-494c-b097-bfffd8497eb4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T015134Z
-DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
- VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
- kets, see who's attending, find similar events.
-DTEND;VALUE=DATE:20220204
-DTSTART;VALUE=DATE:20220204
-SUMMARY:Black Stone Cherry & The Darkness
-UID:a4e79a6d-5639-4b73-88ac-3bbe25ec8e55
+DTSTAMP:20221205T015008Z
+DESCRIPTION:Ground-breaking artist and producer Fred again.. is back with t
+ he third of his hugely successful Actual Life trilogy. an autobiographical 
+ body of work that both references and pushes forwards the...
+DTEND;VALUE=DATE:20221208
+DTSTART;VALUE=DATE:20221208
+SUMMARY:Fred again..
+UID:957f8d3b-6017-4209-8a11-c7ecd66d866f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221205T015008Z
+DESCRIPTION:Westlife is an Irish pop group formed on 3 July 1998. The group
+ 's original lineup comprised Nicky Byrne, Kian Egan, Markus Feehily, Shane 
+ Filan and Brian McFadden (who left in 2004). The group is...
+DTEND;VALUE=DATE:20221207
+DTSTART;VALUE=DATE:20221207
+SUMMARY:Westlife - The Wild Dreams Tour
+UID:e6c16757-b685-46d8-b418-904be346f9da
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221205T015008Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20221207
+DTSTART;VALUE=DATE:20221207
+SUMMARY:Wednesday December 7th 2022 - OVO Arena Wembley
+UID:9ca23cb2-f5ff-4db0-bab8-dbbe9c75d0d5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221205T015008Z
+DESCRIPTION:Buy Ethel Cain tickets and sign-up for latest tour alerts. Fin
+ d Ethel Cain tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20221206
+DTSTART;VALUE=DATE:20221206
+SUMMARY:Ethel Cain
+UID:6e0e630b-1cd9-47e4-a29d-7a6753fe2814
 END:VEVENT
 END:VCALENDAR
