@@ -3,98 +3,94 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
+DTSTAMP:20221206T014907Z
 DESCRIPTION:• A limited opportunity to meet and have your photo taken wit
  h the composer, singer and songwriter, Danny Elfman • Watch the spectacul
  ar live event from one of the best seats in the house Your...
 DTEND;VALUE=DATE:20221210
 DTSTART;VALUE=DATE:20221210
 SUMMARY:The Nightmare Before Christmas Live
-UID:7a3acdc2-50a2-4760-be40-f7d5cfc227b2
+UID:ee301a9d-498c-4e4b-8e4f-f2a5a5d476a6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
+DTSTAMP:20221206T014907Z
 DESCRIPTION:The Cure performs at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20221211
 DTSTART;VALUE=DATE:20221211
 SUMMARY:The Cure
-UID:925cc8a0-27f2-441d-b989-137819208436
+UID:fd734b18-991b-4f7d-96a6-f3759d4220b8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
-DESCRIPTION:ABOUT THE ARTIST: "Daddy Cool", "Ma Baker", "Sunny", "Rasputin"
- , "Mary's Boy Child – Oh My Lord" and "Rivers of Babylon" Boney M with m
- ore than 150 Million records sold including Brown Girl in the...
-DTEND;VALUE=DATE:20221208
-DTSTART;VALUE=DATE:20221208
-SUMMARY:BONEY M
-UID:363967ec-d90d-4e06-a979-b913903de77b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
+DTSTAMP:20221206T014907Z
 DESCRIPTION:Buy Tim Burton's The Nightmare Before Christmas Live tickets an
  d sign-up for latest tour alerts. Find Tim Burton's The Nightmare Before Ch
  ristmas Live tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20221209
 DTSTART;VALUE=DATE:20221209
 SUMMARY:Tim Burton's The Nightmare Before Christmas Live...
-UID:a31eceeb-2109-410d-ac0a-a4cfd7a12b7e
+UID:5ec960ab-67b7-4090-a588-3119656bf67e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
+DTSTAMP:20221206T014907Z
 DESCRIPTION:The National Lottery's Big Bash, Tickets on sale on Thursday, 1
  0 Nov 2022 at 09:00, is a festival which takes place on the 12/06/2022 at 1
  9:30 in SSE Wembley Arena, London, United Kingdom. Its...
 DTEND;VALUE=DATE:20221206
 DTSTART;VALUE=DATE:20221206
 SUMMARY:The National Lottery's Big Bash
-UID:f65a460a-bd90-4f69-8b2f-bb901d5f442c
+UID:b204ea7f-bb86-4282-82cb-7aafd8930967
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
-DESCRIPTION:Off the back of a storming host role at this year’s BRIT Awa
- rds and his second Netflix stand-up special release, double BAFTA winning B
- ritish comedian Mo Gilligan announces his return to London’s...
-DTEND;VALUE=DATE:20221208
-DTSTART;VALUE=DATE:20221208
-SUMMARY:Mo Gilligan + Friends: The Black British Takeover...
-UID:8ce67bf5-10a2-494c-b097-bfffd8497eb4
+DTSTAMP:20221206T014907Z
+DESCRIPTION:Buy Harry Styles tickets to see the best pop and rock music act
+ s live and in-person on Fri, Jun 16, 2023 TBA at Wembley Stadium in London
+ , GL, GB.
+DTEND;VALUE=DATE:20220616
+DTSTART;VALUE=DATE:20220616
+SUMMARY:Harry Styles
+UID:49ba1fa3-ed33-4d8c-a248-7636d1d80bbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
-DESCRIPTION:Ground-breaking artist and producer Fred again.. is back with t
- he third of his hugely successful Actual Life trilogy. an autobiographical 
- body of work that both references and pushes forwards the...
-DTEND;VALUE=DATE:20221208
-DTSTART;VALUE=DATE:20221208
-SUMMARY:Fred again..
-UID:957f8d3b-6017-4209-8a11-c7ecd66d866f
+DTSTAMP:20221206T014907Z
+DESCRIPTION:The Cure performs at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20221212
+DTSTART;VALUE=DATE:20221212
+SUMMARY:The Cure
+UID:71819727-8f5a-4ccc-b98f-7a80c9954264
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
-DESCRIPTION:Westlife is an Irish pop group formed on 3 July 1998. The group
- 's original lineup comprised Nicky Byrne, Kian Egan, Markus Feehily, Shane 
- Filan and Brian McFadden (who left in 2004). The group is...
-DTEND;VALUE=DATE:20221207
-DTSTART;VALUE=DATE:20221207
-SUMMARY:Westlife - The Wild Dreams Tour
-UID:e6c16757-b685-46d8-b418-904be346f9da
+DTSTAMP:20221206T014907Z
+DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
+ London, GB on Sat Feb 25 2023. Tickets on sale now.
+DTEND;VALUE=DATE:20220225
+DTSTART;VALUE=DATE:20220225
+SUMMARY:YUNGBLUD
+UID:4c4d0867-ae35-4400-b8e3-3241d94afc43
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
+DTSTAMP:20221206T014907Z
+DESCRIPTION:Building on the success of their hilariously candid podcast Par
+ enting Hell, revealing the highs and lows of being a parent, comedians Rob 
+ Beckett and Josh Widdicombe have announced a live version...
+DTEND;VALUE=DATE:20220423
+DTSTART;VALUE=DATE:20220423
+SUMMARY:Parenting Hell
+UID:de45c3a7-e1f6-43ca-be49-4498691fe116
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221206T014907Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20221207
 DTSTART;VALUE=DATE:20221207
 SUMMARY:Wednesday December 7th 2022 - OVO Arena Wembley
-UID:9ca23cb2-f5ff-4db0-bab8-dbbe9c75d0d5
+UID:624fdd07-b865-4752-8388-8a7627d90a9c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221205T015008Z
-DESCRIPTION:Buy Ethel Cain tickets and sign-up for latest tour alerts. Fin
- d Ethel Cain tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20221206
-DTSTART;VALUE=DATE:20221206
-SUMMARY:Ethel Cain
-UID:6e0e630b-1cd9-47e4-a29d-7a6753fe2814
+DTSTAMP:20221206T014907Z
+DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20220316
+DTSTART;VALUE=DATE:20220316
+SUMMARY:Loyle Carner
+UID:4d61e7fb-aa1a-4dd4-8264-091252d9db7d
 END:VEVENT
 END:VCALENDAR
