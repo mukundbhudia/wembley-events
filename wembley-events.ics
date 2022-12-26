@@ -3,93 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
+DTSTAMP:20221226T014600Z
+DESCRIPTION:HUGE LOVEJUICE NEWS. NYE & NYD ANNOUNCEMENT We are delivering o
+ ur biggest New Years to date! A debut at Boxpark Wembley on NYE + and we re
+ turn to the jaw-dropping Koko Camden on NYD! An unmissable...
+DTEND;VALUE=DATE:20221231
+DTSTART;VALUE=DATE:20221231
+SUMMARY:LoveJuice NYE
+UID:f7f553a3-0a68-4070-b991-7f50cb7ab4de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221226T014600Z
+DESCRIPTION:Another Motive bring their vibes to Wembley with this BEATBOX t
+ akeover with extra special guest DJs. You won't want to miss it! Please not
+ e: free registration does not guarantee entry . We will be...
+DTEND;VALUE=DATE:20221229
+DTSTART;VALUE=DATE:20221229
+SUMMARY:Another Motive
+UID:65dcac40-a395-476a-8097-f3a3b86b0fa5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221226T014600Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20220616
 DTSTART;VALUE=DATE:20220616
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:aa5056e6-ebe3-42db-b8b6-10b4e96a1595
+UID:44dba839-df39-48d6-b141-7a629bb0e7ca
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
-DESCRIPTION:First look photos are in for Dolly Parton’s Smoky Mountain Ch
- ristmas Carol starring Robert Bathurst
-DTEND;VALUE=DATE:20221225
-DTSTART;VALUE=DATE:20221225
+DTSTAMP:20221226T014600Z
+DESCRIPTION:This reimagining of a classic Christmas tale is set to new musi
+ c from Dolly herself. Coming to London’s Southbank Centre for a limited o
+ ne-month holiday run. “Bringing our reimagined Charles...
+DTEND;VALUE=DATE:20221226
+DTSTART;VALUE=DATE:20221226
 SUMMARY:DOLLY PARTON'S SMOKY MOUNTAIN CHRISTMAS CAROL
-UID:a5808080-7e37-4fb3-91f0-b04fc3f55aca
+UID:3fa5aa6e-c24c-4cb1-bf5e-3124650bdb99
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
+DTSTAMP:20221226T014600Z
+DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
+ dians from all over to test out material, and have fun with the audience. T
+ he night will feature games & prizes, and food available...
+DTEND;VALUE=DATE:20221228
+DTSTART;VALUE=DATE:20221228
+SUMMARY:Laugh In The Box
+UID:dd826c61-2ea1-4565-94d9-267b8322df58
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221226T014600Z
 DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
  London, GB on Sat Feb 25 2023. Tickets on sale now.
 DTEND;VALUE=DATE:20220225
 DTSTART;VALUE=DATE:20220225
-SUMMARY:Yungblud
-UID:22f1a406-1984-4493-9a0b-ffed211ce045
+SUMMARY:YUNGBLUD
+UID:c08c6806-849f-4b75-b78b-26ec328eb83b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
+DTSTAMP:20221226T014600Z
+DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20220617
+DTSTART;VALUE=DATE:20220617
+SUMMARY:Pet Shop Boys
+UID:92cc9156-5778-4ead-8f14-159e5b4e3a98
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221226T014600Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20220613
 DTSTART;VALUE=DATE:20220613
 SUMMARY:Harry Styles
-UID:b462050f-d04d-478c-ac1a-6678ce365f70
+UID:795d92ae-442c-4bc0-960d-8a7e3ce7af40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
-DESCRIPTION:One Night Extravaganza entertainment present Christmas Carniva
- l 2022 This Christmas Eve the ONE team celebrates its 15th anniversary. Thi
- s event features a heavy weight line up to take you on an...
-DTEND;VALUE=DATE:20221225
-DTSTART;VALUE=DATE:20221225
-SUMMARY:Christmas Carnival
-UID:8fadf8a3-02b9-4058-9bba-f84a6e6b5d16
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
+DTSTAMP:20221226T014600Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20220423
 DTSTART;VALUE=DATE:20220423
 SUMMARY:Parenting Hell
-UID:52d1816b-da80-4b50-9a11-c63d8cacd946
+UID:70e9e641-503a-42b1-a5cb-e86faf8bd542
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
+DTSTAMP:20221226T014600Z
 DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20220316
 DTSTART;VALUE=DATE:20220316
 SUMMARY:Loyle Carner
-UID:39645af9-1a1a-4abc-b2e1-1a25554cc819
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
-DESCRIPTION:André Rieu at OVO Arena, Wembley in Wembley Park
-DTEND;VALUE=DATE:20220414
-DTSTART;VALUE=DATE:20220414
-SUMMARY:André Rieu
-UID:56c034f0-4902-4318-8d42-b5fe99c9dce8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
-DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20220617
-DTSTART;VALUE=DATE:20220617
-SUMMARY:Pet Shop Boys
-UID:5402c747-b813-44c1-9c0f-b666752b589e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221225T014912Z
-DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
- n Hong Kong when the band had an unexpected break in touring in May 2013. I
- t is released by Parlophone Recor...
-DTEND;VALUE=DATE:20220708
-DTSTART;VALUE=DATE:20220708
-SUMMARY:Blur
-UID:baae1cfe-1b3d-4cda-83cc-3fd896148097
+UID:e3f8dc97-7ba4-4d40-9b0c-ec97feaf0f52
 END:VEVENT
 END:VCALENDAR
