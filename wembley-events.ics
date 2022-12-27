@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
+DTSTAMP:20221227T014401Z
 DESCRIPTION:HUGE LOVEJUICE NEWS. NYE & NYD ANNOUNCEMENT We are delivering o
  ur biggest New Years to date! A debut at Boxpark Wembley on NYE + and we re
  turn to the jaw-dropping Koko Camden on NYD! An unmissable...
 DTEND;VALUE=DATE:20221231
 DTSTART;VALUE=DATE:20221231
 SUMMARY:LoveJuice NYE
-UID:f7f553a3-0a68-4070-b991-7f50cb7ab4de
+UID:1430137e-b2ff-4b84-bca0-f6dccb54b974
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
+DTSTAMP:20221227T014401Z
 DESCRIPTION:Another Motive bring their vibes to Wembley with this BEATBOX t
  akeover with extra special guest DJs. You won't want to miss it! Please not
  e: free registration does not guarantee entry . We will be...
 DTEND;VALUE=DATE:20221229
 DTSTART;VALUE=DATE:20221229
 SUMMARY:Another Motive
-UID:65dcac40-a395-476a-8097-f3a3b86b0fa5
+UID:56200f92-6763-47d0-94eb-0d6db793353b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
+DTSTAMP:20221227T014401Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20220616
 DTSTART;VALUE=DATE:20220616
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:44dba839-df39-48d6-b141-7a629bb0e7ca
+UID:a1021326-e8f0-43b3-aa78-d95e0a069ba1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
-DESCRIPTION:This reimagining of a classic Christmas tale is set to new musi
- c from Dolly herself. Coming to London’s Southbank Centre for a limited o
- ne-month holiday run. “Bringing our reimagined Charles...
-DTEND;VALUE=DATE:20221226
-DTSTART;VALUE=DATE:20221226
-SUMMARY:DOLLY PARTON'S SMOKY MOUNTAIN CHRISTMAS CAROL
-UID:3fa5aa6e-c24c-4cb1-bf5e-3124650bdb99
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
+DTSTAMP:20221227T014401Z
 DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
  dians from all over to test out material, and have fun with the audience. T
  he night will feature games & prizes, and food available...
 DTEND;VALUE=DATE:20221228
 DTSTART;VALUE=DATE:20221228
 SUMMARY:Laugh In The Box
-UID:dd826c61-2ea1-4565-94d9-267b8322df58
+UID:58d9ce1a-3b5c-457d-8ccb-6bed0bace5e1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
+DTSTAMP:20221227T014401Z
+DESCRIPTION:This reimagining of a classic Christmas tale is set to new musi
+ c from Dolly herself. Coming to London’s Southbank Centre for a limited o
+ ne-month holiday run. “Bringing our reimagined Charles...
+DTEND;VALUE=DATE:20221227
+DTSTART;VALUE=DATE:20221227
+SUMMARY:DOLLY PARTON'S SMOKY MOUNTAIN CHRISTMAS CAROL
+UID:5430ce55-2d1e-454e-9901-da9e3d1e33a1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221227T014401Z
 DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
  London, GB on Sat Feb 25 2023. Tickets on sale now.
 DTEND;VALUE=DATE:20220225
 DTSTART;VALUE=DATE:20220225
 SUMMARY:YUNGBLUD
-UID:c08c6806-849f-4b75-b78b-26ec328eb83b
+UID:4d5a748c-5a94-4dcc-8fc6-cc4c2207d2f0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
+DTSTAMP:20221227T014401Z
 DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20220617
 DTSTART;VALUE=DATE:20220617
 SUMMARY:Pet Shop Boys
-UID:92cc9156-5778-4ead-8f14-159e5b4e3a98
+UID:7720c2ee-edf9-4a0a-b2a6-c2a390371e43
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
+DTSTAMP:20221227T014401Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20220613
 DTSTART;VALUE=DATE:20220613
 SUMMARY:Harry Styles
-UID:795d92ae-442c-4bc0-960d-8a7e3ce7af40
+UID:f607c8a5-d108-466e-a3f9-e3269aec6a86
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
+DTSTAMP:20221227T014401Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20220423
 DTSTART;VALUE=DATE:20220423
 SUMMARY:Parenting Hell
-UID:70e9e641-503a-42b1-a5cb-e86faf8bd542
+UID:329e3dc0-2c78-42e0-92e9-d63c81b9d63f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221226T014600Z
+DTSTAMP:20221227T014401Z
 DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20220316
 DTSTART;VALUE=DATE:20220316
 SUMMARY:Loyle Carner
-UID:e3f8dc97-7ba4-4d40-9b0c-ec97feaf0f52
+UID:3ea5cd58-b316-4ab4-a809-4649c043dea7
 END:VEVENT
 END:VCALENDAR
