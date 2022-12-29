@@ -3,96 +3,94 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
+DTSTAMP:20221229T014624Z
 DESCRIPTION:HUGE LOVEJUICE NEWS. NYE & NYD ANNOUNCEMENT We are delivering o
  ur biggest New Years to date! A debut at Boxpark Wembley on NYE + and we re
  turn to the jaw-dropping Koko Camden on NYD! An unmissable...
 DTEND;VALUE=DATE:20221231
 DTSTART;VALUE=DATE:20221231
 SUMMARY:LoveJuice NYE
-UID:7f6605d7-48f9-4a57-9c9b-ae3aac78f3bf
+UID:39303038-9229-422f-b72b-6f1ac1584a09
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
+DTSTAMP:20221229T014624Z
 DESCRIPTION:Another Motive bring their vibes to Wembley with this BEATBOX t
  akeover with extra special guest DJs. You won't want to miss it! Please not
  e: free registration does not guarantee entry . We will be...
 DTEND;VALUE=DATE:20221229
 DTSTART;VALUE=DATE:20221229
 SUMMARY:Another Motive
-UID:90ceef41-c44a-44ac-9264-60ddc85c461b
+UID:febed467-52ae-4890-900b-1b75ab4244d4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20220616
-DTSTART;VALUE=DATE:20220616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:7b0f064e-ab08-4dc7-9dca-03ef64c578cc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
-DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
- dians from all over to test out material, and have fun with the audience. T
- he night will feature games & prizes, and food available...
-DTEND;VALUE=DATE:20221228
-DTSTART;VALUE=DATE:20221228
-SUMMARY:Laugh In The Box
-UID:09bfbdbf-3ef6-4efe-9a64-0d0394899dcd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
+DTSTAMP:20221229T014624Z
 DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
  London, GB on Sat Feb 25 2023. Tickets on sale now.
 DTEND;VALUE=DATE:20220225
 DTSTART;VALUE=DATE:20220225
 SUMMARY:YUNGBLUD
-UID:1a8809bf-1134-41ee-8f4b-05d367ea7a7e
+UID:97f11014-c12a-4f22-97dc-18f19e0d878c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
-DESCRIPTION:This reimagining of a classic Christmas tale is set to new musi
- c from Dolly herself. Coming to London’s Southbank Centre for a limited o
- ne-month holiday run. “Bringing our reimagined Charles...
-DTEND;VALUE=DATE:20221228
-DTSTART;VALUE=DATE:20221228
-SUMMARY:DOLLY PARTON'S SMOKY MOUNTAIN CHRISTMAS CAROL
-UID:fe246fe1-140e-4c81-8ea9-421c355283e0
+DTSTAMP:20221229T014624Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20220616
+DTSTART;VALUE=DATE:20220616
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:c12d9ea9-1ef9-4ce9-84fd-2af82c83bbd2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
-DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20220617
-DTSTART;VALUE=DATE:20220617
-SUMMARY:Pet Shop Boys
-UID:6bd2c662-e7e7-4f9a-8e00-6cb596ab913d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
+DTSTAMP:20221229T014624Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20220613
 DTSTART;VALUE=DATE:20220613
 SUMMARY:Harry Styles
-UID:63151186-e2b7-48b0-a54f-504efa14d5d3
+UID:d5db3c65-0ee1-4d97-a59a-5145406925da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
+DTSTAMP:20221229T014624Z
+DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20220617
+DTSTART;VALUE=DATE:20220617
+SUMMARY:Pet Shop Boys
+UID:03178fa9-46e2-4b57-966e-01af7cf1b0a1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221229T014624Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20220423
 DTSTART;VALUE=DATE:20220423
 SUMMARY:Parenting Hell
-UID:52d69cf8-048d-4fb8-9314-9e86702f5175
+UID:ad4a5871-7b12-46fb-a66c-77048c444f18
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221228T014426Z
+DTSTAMP:20221229T014624Z
 DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20220316
 DTSTART;VALUE=DATE:20220316
 SUMMARY:Loyle Carner
-UID:ec5ba330-203a-49bc-8a7f-5e69db50312e
+UID:fc21ad4e-0752-4c47-98d1-79aff09955e2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221229T014624Z
+DESCRIPTION:André Rieu at OVO Arena, Wembley in Wembley Park
+DTEND;VALUE=DATE:20220414
+DTSTART;VALUE=DATE:20220414
+SUMMARY:André Rieu
+UID:f87fb14e-3cf0-47a7-9607-89b8dd271574
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221229T014624Z
+DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
+ n Hong Kong when the band had an unexpected break in touring in May 2013. I
+ t is released by Parlophone Recor...
+DTEND;VALUE=DATE:20220708
+DTSTART;VALUE=DATE:20220708
+SUMMARY:Blur
+UID:e7f2ae28-6e59-4702-9563-877f192cc4a8
 END:VEVENT
 END:VCALENDAR
