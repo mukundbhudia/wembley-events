@@ -3,96 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
+DTSTAMP:20230110T015302Z
 DESCRIPTION:YEYE PRESENTS INTERNATIONAL FRIENDSJoin us for a fun night of c
  onnecting cultures through music. Our exciting DJs will be playing a mix o
  f the best and newest music from India, Nigeria and...
 DTEND;VALUE=DATE:20230111
 DTSTART;VALUE=DATE:20230111
 SUMMARY:YEYE Presents International Friends
-UID:8fbd17fc-80c9-44d5-b0f1-da625110c630
+UID:d5f53d2e-3514-4edf-9ff5-b9b4f29b8ca6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
-DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
- London, GB on Sat Feb 25 2023. Tickets on sale now.
-DTEND;VALUE=DATE:20230225
-DTSTART;VALUE=DATE:20230225
-SUMMARY:Yungblud Tickets
-UID:aa50c5fd-ef3a-40a0-93d9-a143dcb5f1d4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
+DTSTAMP:20230110T015302Z
 DESCRIPTION:Tickets, info and places to stay for Euro Cup: London Lions v H
  apoel Tel Aviv at OVO Arena, Wembleyin London on Wed 11th January 2023. Ent
  s24.com, the UK's biggest entertainment guide
 DTEND;VALUE=DATE:20230111
 DTSTART;VALUE=DATE:20230111
 SUMMARY:Euro Cup: London Lions v Hapoel Tel Aviv
-UID:05c5bc76-2f6c-4088-a2fe-97a0f847d960
+UID:395e6bf9-2bb5-48b1-a32e-28cf35ffcbcc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:4fa7ffbd-e551-450d-993a-98dcd864e4e0
+DTSTAMP:20230110T015302Z
+DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
+ London, GB on Sat Feb 25 2023. Tickets on sale now.
+DTEND;VALUE=DATE:20230225
+DTSTART;VALUE=DATE:20230225
+SUMMARY:Yungblud Tickets
+UID:00ef510f-a585-49ce-b14d-13da1790d2f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
+DTSTAMP:20230110T015302Z
+DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20230316
+DTSTART;VALUE=DATE:20230316
+SUMMARY:Loyle Carner
+UID:e4c337bf-bdb6-40ec-ad08-30e397a8c6d8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T015302Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Harry Styles
-UID:b7784a1b-36f0-4d46-9ba6-a33a9cdc0941
+UID:c005e5ca-327c-4d8c-ae25-060a804a7ca6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
-DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20230316
-DTSTART;VALUE=DATE:20230316
-SUMMARY:Loyle Carner
-UID:3c64e582-9f77-46a3-8c0e-6ab7ee3d2a53
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
-DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
- n Hong Kong when the band had an unexpected break in touring in May 2013. I
- t is released by Parlophone Recor...
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur
-UID:845de4d1-43bb-4796-a16e-7f783f804f1e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
+DTSTAMP:20230110T015302Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Parenting Hell
-UID:251e94e5-2ba3-4215-bcbb-3f97d9fc4252
+UID:8ce9f880-d29f-42a3-8fb5-147ede7095be
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
+DTSTAMP:20230110T015302Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:49decc87-623d-4bac-8f8d-bcb1ab0a1718
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T015302Z
+DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
+ n Hong Kong when the band had an unexpected break in touring in May 2013. I
+ t is released by Parlophone Recor...
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Blur
+UID:0e197aa8-253e-43b5-9078-128df740139d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230110T015302Z
 DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:e60c0797-1003-4e2f-9621-369f11f2ed41
+UID:bf0d3954-8690-4646-9a03-40bdd9176601
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230109T014739Z
-DESCRIPTION:As part of the artist’s first ever solo headline tour, Jackso
- n Wang will be heading to the UK for the show at London Eventim Apollo on 1
- 2 January 2023. The tour announcement follows the wildly...
-DTEND;VALUE=DATE:20230112
-DTSTART;VALUE=DATE:20230112
-SUMMARY:Jackson Wang
-UID:1c11dab7-1eff-437f-a710-0215168a4184
+DTSTAMP:20230110T015302Z
+DESCRIPTION:YouTube phenom KSI returns to the ring against American MMA-spe
+ cialist, Dillon Danis, at the OVO Arena, London on Saturday January 14.
+DTEND;VALUE=DATE:20230114
+DTSTART;VALUE=DATE:20230114
+SUMMARY:KSI at OVO Arena Wembley
+UID:40c9f4cf-4d6a-4b5c-903e-fbf5f30d0f05
 END:VEVENT
 END:VCALENDAR
