@@ -3,94 +3,93 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
-DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
- London, GB on Sat Feb 25 2023. Tickets on sale now.
-DTEND;VALUE=DATE:20230225
-DTSTART;VALUE=DATE:20230225
-SUMMARY:Yungblud Tickets
-UID:82030dcf-7fc6-4d3a-bd85-cb82636a32c3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
-DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
- n Hong Kong when the band had an unexpected break in touring in May 2013. I
- t is released by Parlophone Recor...
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur
-UID:16622cb7-4e72-44b2-87d0-5c5a51924cc2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
+DTSTAMP:20230123T014826Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:2272cc26-10e3-4d50-aaab-05059882ceba
+UID:0498453b-7f62-4210-ab83-752f7100dae2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
+DTSTAMP:20230123T014826Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Harry Styles
-UID:f0c4ad6d-6074-49f7-b6cd-605a2a86083b
+UID:88696a0e-02b0-4417-80ce-a49ed31c522e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
+DTSTAMP:20230123T014826Z
+DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
+ London, GB on Sat Feb 25 2023. Tickets on sale now.
+DTEND;VALUE=DATE:20230225
+DTSTART;VALUE=DATE:20230225
+SUMMARY:Yungblud Tickets
+UID:41f70f82-361b-4cb2-8df8-12c2e3a8cd37
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230123T014826Z
 DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:693c8022-a235-4deb-9737-0e643d6ee8e6
+UID:cbb6e20d-9d3a-42ef-858f-8ed75cbb8434
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
-DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
- ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
-  million downloads, the chart topping podcast has seen them...
-DTEND;VALUE=DATE:20230423
-DTSTART;VALUE=DATE:20230423
-SUMMARY:Parenting Hell
-UID:f1a48b62-6355-479d-927f-27b44d02a0ba
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
-DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20230316
-DTSTART;VALUE=DATE:20230316
-SUMMARY:Loyle Carner
-UID:a350efec-ade6-4b11-a203-3e8bcd978ad8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
-DESCRIPTION:André Rieu at OVO Arena, Wembley in Wembley Park
-DTEND;VALUE=DATE:20230414
-DTSTART;VALUE=DATE:20230414
-SUMMARY:André Rieu
-UID:6017bf15-030e-47af-a94c-6c48be515af4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
+DTSTAMP:20230123T014826Z
 DESCRIPTION:Tickets, info and places to stay for Kizomba Festival 2023 at O
  VO Arena, Wembleyin London on Fri 3rd February 2023. Ents24.com, the UK's b
  iggest entertainment guide
 DTEND;VALUE=DATE:20230203
 DTSTART;VALUE=DATE:20230203
 SUMMARY:Kizomba Festival
-UID:c9621ef7-922d-422c-a924-30b8da6b4bdc
+UID:5cc677d8-8a3a-4ba1-94e2-5149324078f1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230122T015313Z
-DESCRIPTION:Tugce Kandemir, born and raised in Turkey. She started producin
- g music on YouTube at a young age after becoming a fan favourite artist. On
- e of her first and most popular song was ‘Bu Benim Oykum’...
-DTEND;VALUE=DATE:20230122
-DTSTART;VALUE=DATE:20230122
-SUMMARY:TUĞÇE KANDEMIR
-UID:b74203c2-c3e8-4a04-ae27-b0e39b357d34
+DTSTAMP:20230123T014826Z
+DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
+ n Hong Kong when the band had an unexpected break in touring in May 2013. I
+ t is released by Parlophone Recor...
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Blur
+UID:b4dcfe8c-1c4b-4862-beba-31bd35e026fc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230123T014826Z
+DESCRIPTION:Andre Rieu live at Wembley Arena - Book Tickets with Premier Ev
+ ents
+DTEND;VALUE=DATE:20230413
+DTSTART;VALUE=DATE:20230413
+SUMMARY:Andre Rieu
+UID:f6bc04e3-4ea3-423e-ae81-68cdf316da2a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230123T014826Z
+DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20230316
+DTSTART;VALUE=DATE:20230316
+SUMMARY:Loyle Carner
+UID:2f77fb63-eaf5-445a-9edd-25723c07c101
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230123T014826Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Harry Styles | Wembley
+UID:705eca54-0fa5-48d1-b901-a606c46fe262
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230123T014826Z
+DESCRIPTION:Hard Rock/Metal Sabaton - The Tour To End All Tours 2023 Ticket
+ s at OVO Arena, Wembley
+DTEND;VALUE=DATE:20230415
+DTSTART;VALUE=DATE:20230415
+SUMMARY:Sabaton - The Tour To End All Tours
+UID:f1fbc797-4f46-4a43-9f4e-6351a3cdff62
 END:VEVENT
 END:VCALENDAR
