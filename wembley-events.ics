@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
+DTSTAMP:20230202T015316Z
 DESCRIPTION:Tickets, info and places to stay for Kizomba Festival 2023 at O
  VO Arena, Wembleyin London on Fri 3rd February 2023. Ents24.com, the UK's b
  iggest entertainment guide
 DTEND;VALUE=DATE:20230203
 DTSTART;VALUE=DATE:20230203
 SUMMARY:Kizomba Festival
-UID:91bf6644-ea2d-4881-b8b7-9500eda20b79
+UID:858d26f6-2164-4301-b649-6dc24052d92b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
+DTSTAMP:20230202T015316Z
 DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
  VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
  kets, see who's attending, find similar events.
 DTEND;VALUE=DATE:20230204
 DTSTART;VALUE=DATE:20230204
 SUMMARY:Black Stone Cherry & The Darkness
-UID:09c668a6-cf92-4e68-b08d-209165a0a7a6
+UID:ad6519f7-54ee-4c7f-b7bc-424e2ab4d62d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
+DTSTAMP:20230202T015316Z
 DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
  London, GB on Sat Feb 25 2023. Tickets on sale now.
 DTEND;VALUE=DATE:20230225
 DTSTART;VALUE=DATE:20230225
 SUMMARY:Yungblud Tickets
-UID:598e1eeb-2ace-4113-b9cd-be18867238d1
+UID:e37bd3b7-f2dd-428f-ac76-6e9b132d52a0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
+DTSTAMP:20230202T015316Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:b6633996-ac54-43fb-8d9d-fc2bde6ad489
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230202T015316Z
+DESCRIPTION:A Night Appreciating All Things Doggy Dogg! Expect all the bigg
+ est Snoop tracks with an eclectic mashup by our DJs of old skool and curren
+ t hip hop! Free merchandise given out throughout the...
+DTEND;VALUE=DATE:20230202
+DTSTART;VALUE=DATE:20230202
+SUMMARY:Snoop Dogg
+UID:aa49d156-22d2-4209-962d-2100f91839d2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230202T015316Z
 DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
  n Hong Kong when the band had an unexpected break in touring in May 2013. I
  t is released by Parlophone Recor...
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur
-UID:906bf37d-96f0-47b2-9a26-ac059aee2a0b
+UID:992cfb19-67de-4671-9eb1-e49588280ed2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
-DESCRIPTION:A Night Appreciating All Things Doggy Dogg! Expect all the bigg
- est Snoop tracks with an eclectic mashup by our DJs of old skool and curren
- t hip hop! Free merchandise given out throughout the...
-DTEND;VALUE=DATE:20230201
-DTSTART;VALUE=DATE:20230201
-SUMMARY:Snoop Dogg
-UID:c910215c-2ed1-483f-b43a-2d1d5a8934c9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:d7fd43c9-03f4-4d80-956b-2d7de422d742
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
+DTSTAMP:20230202T015316Z
 DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:c9738e3d-da88-4e8d-9a82-81a396ce3856
+UID:22c00534-af7a-488a-9434-f5bdfc8b607f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
+DTSTAMP:20230202T015316Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Harry Styles
-UID:06e9dc2e-1ac0-4314-9285-647f9f4af012
+UID:581b962d-2811-4123-83d7-44eaba999c76
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
+DTSTAMP:20230202T015316Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Parenting Hell
-UID:128b4f83-a792-495d-963e-1e6e81306b77
+UID:0fb90bfe-4ceb-4cd9-a942-10e841df639b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230201T020337Z
+DTSTAMP:20230202T015316Z
 DESCRIPTION:beabadoobee - Brits Week presented by Mastercard for War Child
 DTEND;VALUE=DATE:20230203
 DTSTART;VALUE=DATE:20230203
 SUMMARY:Beabadoobee
-UID:ce0e15e1-3cc5-4857-b453-154e045ac373
+UID:083998ad-f696-486b-b72a-2696c18cb95c
 END:VEVENT
 END:VCALENDAR
