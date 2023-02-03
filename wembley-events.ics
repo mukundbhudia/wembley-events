@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
+DTSTAMP:20230203T015444Z
 DESCRIPTION:Tickets, info and places to stay for Kizomba Festival 2023 at O
  VO Arena, Wembleyin London on Fri 3rd February 2023. Ents24.com, the UK's b
  iggest entertainment guide
 DTEND;VALUE=DATE:20230203
 DTSTART;VALUE=DATE:20230203
 SUMMARY:Kizomba Festival
-UID:858d26f6-2164-4301-b649-6dc24052d92b
+UID:d98ec078-7730-4a6f-8454-54c07ee9bd71
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
+DTSTAMP:20230203T015444Z
 DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
  VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
  kets, see who's attending, find similar events.
 DTEND;VALUE=DATE:20230204
 DTSTART;VALUE=DATE:20230204
 SUMMARY:Black Stone Cherry & The Darkness
-UID:ad6519f7-54ee-4c7f-b7bc-424e2ab4d62d
+UID:6f61e00f-f1a7-46a6-b1f8-6ced04927c37
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
+DTSTAMP:20230203T015444Z
 DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
  London, GB on Sat Feb 25 2023. Tickets on sale now.
 DTEND;VALUE=DATE:20230225
 DTSTART;VALUE=DATE:20230225
 SUMMARY:Yungblud Tickets
-UID:e37bd3b7-f2dd-428f-ac76-6e9b132d52a0
+UID:1d815532-44d9-421f-91db-adead93d7136
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:b6633996-ac54-43fb-8d9d-fc2bde6ad489
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
-DESCRIPTION:A Night Appreciating All Things Doggy Dogg! Expect all the bigg
- est Snoop tracks with an eclectic mashup by our DJs of old skool and curren
- t hip hop! Free merchandise given out throughout the...
-DTEND;VALUE=DATE:20230202
-DTSTART;VALUE=DATE:20230202
-SUMMARY:Snoop Dogg
-UID:aa49d156-22d2-4209-962d-2100f91839d2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
+DTSTAMP:20230203T015444Z
 DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
  n Hong Kong when the band had an unexpected break in touring in May 2013. I
  t is released by Parlophone Recor...
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur
-UID:992cfb19-67de-4671-9eb1-e49588280ed2
+UID:0d2b8996-2cb8-4f41-8b61-3fe4f96af506
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
+DTSTAMP:20230203T015444Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:eae3e7e2-c1e6-4f79-a38b-3a8854e4323b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230203T015444Z
 DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:22c00534-af7a-488a-9434-f5bdfc8b607f
+UID:be09cd48-65b8-47b3-baf3-994d8a82c3b9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
+DTSTAMP:20230203T015444Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Harry Styles
-UID:581b962d-2811-4123-83d7-44eaba999c76
+UID:649adf9b-fa3c-4710-a93b-99a833565ec4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
+DTSTAMP:20230203T015444Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Parenting Hell
-UID:0fb90bfe-4ceb-4cd9-a942-10e841df639b
+UID:c66b05a3-5ab6-4b3c-941e-4e2acdad87cc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230202T015316Z
+DTSTAMP:20230203T015444Z
 DESCRIPTION:beabadoobee - Brits Week presented by Mastercard for War Child
 DTEND;VALUE=DATE:20230203
 DTSTART;VALUE=DATE:20230203
 SUMMARY:Beabadoobee
-UID:083998ad-f696-486b-b72a-2696c18cb95c
+UID:0116da1c-1d5f-4ee5-aba7-94cfc446bcf3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230203T015444Z
+DESCRIPTION:Win a pair of tickets to see Cavetown at Omeara in London on th
+ e 4th February 2023.Cavetown performing an intimate set of songs, includin
+ g from their latest album Worm Food, at Omeara, London, on...
+DTEND;VALUE=DATE:20230204
+DTSTART;VALUE=DATE:20230204
+SUMMARY:Cavetown @ Omeara
+UID:481436ae-fd56-4219-acf6-2a0ed4cbb284
 END:VEVENT
 END:VCALENDAR
