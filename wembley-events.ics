@@ -3,96 +3,94 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
-DESCRIPTION:Tickets, info and places to stay for Kizomba Festival 2023 at O
- VO Arena, Wembleyin London on Fri 3rd February 2023. Ents24.com, the UK's b
- iggest entertainment guide
-DTEND;VALUE=DATE:20230203
-DTSTART;VALUE=DATE:20230203
-SUMMARY:Kizomba Festival
-UID:d98ec078-7730-4a6f-8454-54c07ee9bd71
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
-DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
- VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
- kets, see who's attending, find similar events.
+DTSTAMP:20230204T014714Z
+DESCRIPTION:
 DTEND;VALUE=DATE:20230204
 DTSTART;VALUE=DATE:20230204
-SUMMARY:Black Stone Cherry & The Darkness
-UID:6f61e00f-f1a7-46a6-b1f8-6ced04927c37
+SUMMARY:Wembley Stadium Tour
+UID:3649c89c-8dd7-44ac-afe8-d89f41c08541
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
+DTSTAMP:20230204T014714Z
 DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
  London, GB on Sat Feb 25 2023. Tickets on sale now.
 DTEND;VALUE=DATE:20230225
 DTSTART;VALUE=DATE:20230225
 SUMMARY:Yungblud Tickets
-UID:1d815532-44d9-421f-91db-adead93d7136
+UID:d0a48d9f-6942-467d-9108-57780617343c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
+DTSTAMP:20230204T014714Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:15553703-bbc7-4015-af29-be2ae5057863
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230204T014714Z
 DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
  n Hong Kong when the band had an unexpected break in touring in May 2013. I
  t is released by Parlophone Recor...
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur
-UID:0d2b8996-2cb8-4f41-8b61-3fe4f96af506
+UID:a642c2ef-1c37-4b95-9928-55665b0b46d0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:eae3e7e2-c1e6-4f79-a38b-3a8854e4323b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
+DTSTAMP:20230204T014714Z
 DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:be09cd48-65b8-47b3-baf3-994d8a82c3b9
+UID:a30b28fa-614f-42a4-9baa-c4efb9fa4671
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Harry Styles
-UID:649adf9b-fa3c-4710-a93b-99a833565ec4
+DTSTAMP:20230204T014714Z
+DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
+ VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
+ kets, see who's attending, find similar events.
+DTEND;VALUE=DATE:20230204
+DTSTART;VALUE=DATE:20230204
+SUMMARY:Black Stone Cherry & The Darkness
+UID:ac15028b-5cee-49fa-aab6-f91d78fb4551
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
+DTSTAMP:20230204T014714Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Parenting Hell
-UID:c66b05a3-5ab6-4b3c-941e-4e2acdad87cc
+UID:2266b67e-425a-48e0-8842-0aab529a9030
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
-DESCRIPTION:beabadoobee - Brits Week presented by Mastercard for War Child
-DTEND;VALUE=DATE:20230203
-DTSTART;VALUE=DATE:20230203
-SUMMARY:Beabadoobee
-UID:0116da1c-1d5f-4ee5-aba7-94cfc446bcf3
+DTSTAMP:20230204T014714Z
+DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
+ ’ll need to display your ticket on your phone via the OVO Arena Wembley 
+ app . Ticket purchasers will receive an email from us with news...
+DTEND;VALUE=DATE:20230331
+DTSTART;VALUE=DATE:20230331
+SUMMARY:The Sonu Nigam Show
+UID:340b220c-c418-41a5-bafb-4778c594c2a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230203T015444Z
-DESCRIPTION:Win a pair of tickets to see Cavetown at Omeara in London on th
- e 4th February 2023.Cavetown performing an intimate set of songs, includin
- g from their latest album Worm Food, at Omeara, London, on...
-DTEND;VALUE=DATE:20230204
-DTSTART;VALUE=DATE:20230204
-SUMMARY:Cavetown @ Omeara
-UID:481436ae-fd56-4219-acf6-2a0ed4cbb284
+DTSTAMP:20230204T014714Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Harry Styles
+UID:b2ab0f32-8910-47c0-a7bb-882039dc12bf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230204T014714Z
+DESCRIPTION:André Rieu at OVO Arena, Wembley in Wembley Park
+DTEND;VALUE=DATE:20230414
+DTSTART;VALUE=DATE:20230414
+SUMMARY:André Rieu
+UID:b6999877-6869-4096-8f85-8f22d21f514b
 END:VEVENT
 END:VCALENDAR
