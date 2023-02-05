@@ -3,94 +3,93 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20230204
-DTSTART;VALUE=DATE:20230204
-SUMMARY:Wembley Stadium Tour
-UID:3649c89c-8dd7-44ac-afe8-d89f41c08541
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
+DTSTAMP:20230205T015704Z
 DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
  London, GB on Sat Feb 25 2023. Tickets on sale now.
 DTEND;VALUE=DATE:20230225
 DTSTART;VALUE=DATE:20230225
 SUMMARY:Yungblud Tickets
-UID:d0a48d9f-6942-467d-9108-57780617343c
+UID:b591504a-b614-43e5-8c99-90519feddcf4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
+DTSTAMP:20230205T015704Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:15553703-bbc7-4015-af29-be2ae5057863
+UID:642d3108-f15e-4a62-8ba1-e618fd5b7ee5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
+DTSTAMP:20230205T015704Z
 DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
  n Hong Kong when the band had an unexpected break in touring in May 2013. I
  t is released by Parlophone Recor...
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur
-UID:a642c2ef-1c37-4b95-9928-55665b0b46d0
+UID:317921b7-11c4-4de2-a0f5-02b06cbd1036
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
+DTSTAMP:20230205T015704Z
 DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:a30b28fa-614f-42a4-9baa-c4efb9fa4671
+UID:0b4009fe-b97a-448c-856a-eb3462ea5309
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
-DESCRIPTION:Last.fm concert page for Black Stone Cherry & The Darkness at O
- VO Arena Wembley (London) on Feb. 4, 2023. Discuss the gig, get concert tic
- kets, see who's attending, find similar events.
-DTEND;VALUE=DATE:20230204
-DTSTART;VALUE=DATE:20230204
-SUMMARY:Black Stone Cherry & The Darkness
-UID:ac15028b-5cee-49fa-aab6-f91d78fb4551
+DTSTAMP:20230205T015704Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Harry Styles
+UID:9aa6eedb-62df-4dd1-8413-1e5c4df2f743
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
-DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
- ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
-  million downloads, the chart topping podcast has seen them...
-DTEND;VALUE=DATE:20230423
-DTSTART;VALUE=DATE:20230423
-SUMMARY:Parenting Hell
-UID:2266b67e-425a-48e0-8842-0aab529a9030
+DTSTAMP:20230205T015704Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Harry Styles | Wembley
+UID:627f816c-7fac-4dde-b4d5-a4aaebfc6bdc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
+DTSTAMP:20230205T015704Z
+DESCRIPTION:Andre Rieu live at Wembley Arena - Book Tickets with Premier Ev
+ ents
+DTEND;VALUE=DATE:20230413
+DTSTART;VALUE=DATE:20230413
+SUMMARY:Andre Rieu
+UID:854f5e0f-7ce3-4655-9a5f-fe40ed53a9a2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230205T015704Z
+DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20230316
+DTSTART;VALUE=DATE:20230316
+SUMMARY:Loyle Carner
+UID:46daa0fb-0f3c-44b8-b9e0-56e235584760
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230205T015704Z
+DESCRIPTION:Hard Rock/Metal Sabaton - The Tour To End All Tours 2023 Ticket
+ s at OVO Arena, Wembley
+DTEND;VALUE=DATE:20230415
+DTSTART;VALUE=DATE:20230415
+SUMMARY:Sabaton - The Tour To End All Tours
+UID:290c0d0f-9663-4fbd-8526-78ecc664a4c5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230205T015704Z
 DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
  ’ll need to display your ticket on your phone via the OVO Arena Wembley 
  app . Ticket purchasers will receive an email from us with news...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:The Sonu Nigam Show
-UID:340b220c-c418-41a5-bafb-4778c594c2a9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Harry Styles
-UID:b2ab0f32-8910-47c0-a7bb-882039dc12bf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230204T014714Z
-DESCRIPTION:André Rieu at OVO Arena, Wembley in Wembley Park
-DTEND;VALUE=DATE:20230414
-DTSTART;VALUE=DATE:20230414
-SUMMARY:André Rieu
-UID:b6999877-6869-4096-8f85-8f22d21f514b
+UID:b32c2d98-1c71-4644-8a0f-b793ccd427b1
 END:VEVENT
 END:VCALENDAR
