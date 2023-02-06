@@ -3,93 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
+DTSTAMP:20230206T014719Z
 DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in OVO Arena Wembley, 
  London, GB on Sat Feb 25 2023. Tickets on sale now.
 DTEND;VALUE=DATE:20230225
 DTSTART;VALUE=DATE:20230225
 SUMMARY:Yungblud Tickets
-UID:b591504a-b614-43e5-8c99-90519feddcf4
+UID:836888ad-4b6a-4e06-8de1-9fe749c6cb2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:642d3108-f15e-4a62-8ba1-e618fd5b7ee5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
+DTSTAMP:20230206T014719Z
 DESCRIPTION:The new album from Blur, titled The Magic Whip, started life i
  n Hong Kong when the band had an unexpected break in touring in May 2013. I
  t is released by Parlophone Recor...
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur
-UID:317921b7-11c4-4de2-a0f5-02b06cbd1036
+UID:b83536b5-ed2e-44ca-baae-80ff4381440c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
+DTSTAMP:20230206T014719Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:138f8270-02f6-4416-97ee-e746091b23ec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230206T014719Z
 DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:0b4009fe-b97a-448c-856a-eb3462ea5309
+UID:6cdb4f56-c765-4632-90dc-024779b46b07
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Harry Styles
-UID:9aa6eedb-62df-4dd1-8413-1e5c4df2f743
+DTSTAMP:20230206T014719Z
+DESCRIPTION:Book direct from The London Palladium's official box office fo
+ r the best choice of seats at the best price to Belinda Carlisle.
+DTEND;VALUE=DATE:20230210
+DTSTART;VALUE=DATE:20230210
+SUMMARY:Belinda Carlisle
+UID:da3e15c1-75c0-4cb4-adf8-08ac26b2de32
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Harry Styles | Wembley
-UID:627f816c-7fac-4dde-b4d5-a4aaebfc6bdc
+DTSTAMP:20230206T014719Z
+DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
+ ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
+  million downloads, the chart topping podcast has seen them...
+DTEND;VALUE=DATE:20230423
+DTSTART;VALUE=DATE:20230423
+SUMMARY:Parenting Hell
+UID:ef036955-cd09-46e5-9e90-c902110f1d5e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
-DESCRIPTION:Andre Rieu live at Wembley Arena - Book Tickets with Premier Ev
- ents
-DTEND;VALUE=DATE:20230413
-DTSTART;VALUE=DATE:20230413
-SUMMARY:Andre Rieu
-UID:854f5e0f-7ce3-4655-9a5f-fe40ed53a9a2
+DTSTAMP:20230206T014719Z
+DESCRIPTION:Book direct from the Adelphi Theatre's official box office for 
+ the best choice of seats at the best price to John Barrowman.
+DTEND;VALUE=DATE:20230207
+DTSTART;VALUE=DATE:20230207
+SUMMARY:John Barrowman @ Adelphi Theatre
+UID:b8d169c7-4cf7-4440-8401-9363d6365967
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
-DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20230316
-DTSTART;VALUE=DATE:20230316
-SUMMARY:Loyle Carner
-UID:46daa0fb-0f3c-44b8-b9e0-56e235584760
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
-DESCRIPTION:Hard Rock/Metal Sabaton - The Tour To End All Tours 2023 Ticket
- s at OVO Arena, Wembley
-DTEND;VALUE=DATE:20230415
-DTSTART;VALUE=DATE:20230415
-SUMMARY:Sabaton - The Tour To End All Tours
-UID:290c0d0f-9663-4fbd-8526-78ecc664a4c5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230205T015704Z
+DTSTAMP:20230206T014719Z
 DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
  ’ll need to display your ticket on your phone via the OVO Arena Wembley 
  app . Ticket purchasers will receive an email from us with news...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:The Sonu Nigam Show
-UID:b32c2d98-1c71-4644-8a0f-b793ccd427b1
+UID:886a5e87-11ca-41ab-90fa-28a8d2538907
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230206T014719Z
+DESCRIPTION:Find Tickets for Ellie Goulding | Brightest Blue Tour 2021 | Ol
+ ympia Theatre, Dublin | 12 May
+DTEND;VALUE=DATE:20230207
+DTSTART;VALUE=DATE:20230207
+SUMMARY:Ellie Goulding
+UID:1dffd296-b538-40f0-b598-d4717494125f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230206T014719Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Harry Styles
+UID:e9863a44-3408-4e22-860f-8a5598f58542
 END:VEVENT
 END:VCALENDAR
