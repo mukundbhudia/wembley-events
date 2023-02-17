@@ -3,93 +3,93 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
+DTSTAMP:20230217T015903Z
 DESCRIPTION:Set a reminder for ticketing info & updates about this event, a
  nd to follow Yungblud on Bandsintown.
 DTEND;VALUE=DATE:20230225
 DTSTART;VALUE=DATE:20230225
-SUMMARY:Yungblud
-UID:0dcb1e48-7e48-438d-a2cb-d0eeba9874df
+SUMMARY:Yungblud @ OVO Arena Wembley
+UID:bf9dabd5-f528-48bb-8693-8bcb5b1747df
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
-DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:e6e21bfe-8deb-4313-82f9-87c311859963
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
-DESCRIPTION:Buy Blur tickets and sign-up for latest tour alerts. Find Blur 
- tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Wembley Stadium Hospitality - Blur
-UID:33579c82-160f-4a5b-9942-2aee874d7bbc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:403b8375-c1c9-46f3-b258-321ced93f8e3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:14bf60da-be82-4dd3-bac0-34571cfa1991
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
-DESCRIPTION:Buy Harry Styles: Love on Tour 2023 tickets and sign-up for lat
- est tour alerts. Find Harry Styles: Love on Tour 2023 tour dates, reviews, 
- times and event details.
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Harry Styles
-UID:9cee1cc9-a4fc-40fd-aa45-0bffa2500cf2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
-DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
- Coors Light
-DTEND;VALUE=DATE:20230217
-DTSTART;VALUE=DATE:20230217
-SUMMARY:Coors Light Presents: Friday Feelings
-UID:c24feda9-dddb-4f4e-ab56-35b290bad337
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230702
-DTSTART;VALUE=DATE:20230702
-SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:284f1211-5452-48d1-bec1-e2f1e25f55fd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
+DTSTAMP:20230217T015903Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Parenting Hell
-UID:8130307b-edff-4e23-89a9-fb6d2d75e8d9
+UID:22d3b3f5-3379-40a3-8be8-29165687b698
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230216T015418Z
+DTSTAMP:20230217T015903Z
+DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Pet Shop Boys
+UID:6c4257c7-be8e-4d8c-9b34-6d8ce6a06a0f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230217T015903Z
 DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20230316
 DTSTART;VALUE=DATE:20230316
 SUMMARY:Loyle Carner
-UID:6b086235-9e82-4c25-b837-7b496eac254f
+UID:604cb697-3201-4958-8bea-c4585e9de468
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230217T015903Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Love On Tour 2023
+UID:150d38a4-07c2-4f00-ab1e-3c7c6075fba5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230217T015903Z
+DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
+ Coors Light
+DTEND;VALUE=DATE:20230217
+DTSTART;VALUE=DATE:20230217
+SUMMARY:Coors Light Presents: Friday Feelings
+UID:5fd172c1-6e61-4e8e-93a8-c00968af6a0d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230217T015903Z
+DESCRIPTION:Buy Blur tickets and sign-up for latest tour alerts. Find Blur 
+ tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Blur @ Wembley Stadium
+UID:49e8172c-e44a-4fe1-90dd-af45bdffa46d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230217T015903Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Love On Tour 2023
+UID:da2385aa-271f-409d-b898-5cd2e88a89d2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230217T015903Z
+DESCRIPTION:Buy Harry Styles: Love on Tour 2023 tickets and sign-up for lat
+ est tour alerts. Find Harry Styles: Love on Tour 2023 tour dates, reviews, 
+ times and event details.
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:wet leg @ Wembley Stadium
+UID:15cf55ae-aa99-4a28-a272-5a3ab282f58e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230217T015903Z
+DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
+ ard and Mötley Crüe are heading to Wembley Stadium.
+DTEND;VALUE=DATE:20230702
+DTSTART;VALUE=DATE:20230702
+SUMMARY:Def Leppard & Mötley Crüe: The World Tour
+UID:226a976c-d90b-48e6-8b7c-fbf94d5cc239
 END:VEVENT
 END:VCALENDAR
