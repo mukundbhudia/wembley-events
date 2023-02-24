@@ -3,98 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
+DTSTAMP:20230224T015218Z
 DESCRIPTION:Don't miss Yungblud at OVO Arena Wembley in Arena Square, Engin
  eers Way, London, GB on Sat Feb 25 2023. Tickets on sale now.
 DTEND;VALUE=DATE:20230225
 DTSTART;VALUE=DATE:20230225
 SUMMARY:Yungblud
-UID:13d9148a-bf0f-4292-aa12-b5360de319a7
+UID:f971a0ff-ed73-4f42-a2cf-3de5df282866
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
+DTSTAMP:20230224T015218Z
 DESCRIPTION:Country-pop singer-songwriter, Kelsea Ballerini takes to the ro
  ad on her ‘Heartfirst Tour’ to perform tracks from her fourth studio a
  lbum, Subject To Change , a brilliant collection of some of her...
 DTEND;VALUE=DATE:20230225
 DTSTART;VALUE=DATE:20230225
 SUMMARY:Kelsea Ballerini
-UID:a69de07d-2dcb-460b-8b3f-606bccfd178b
+UID:5f0843f0-2127-41f9-a853-4fe6b3e43666
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
-DESCRIPTION:Buy Pet Shop Boys tickets and sign-up for latest tour alerts. F
- ind Pet Shop Boys tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:41fd59e6-1a51-4534-864b-4184527d0a9c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
+DTSTAMP:20230224T015218Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:0395310d-a4bc-4a0f-9673-724fe00a1c4d
+UID:5516dd16-fdfd-48cd-be1c-68dc5758a357
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
+DTSTAMP:20230224T015218Z
+DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Pet Shop Boys
+UID:f14a6924-b0f9-45bd-927c-e62f7217ff6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230224T015218Z
 DESCRIPTION:Buy Harry Styles: Love on Tour 2023 tickets and sign-up for lat
  est tour alerts. Find Harry Styles: Love on Tour 2023 tour dates, reviews, 
  times and event details.
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Harry Styles
-UID:cd4f2fdd-d024-49dd-88dd-624c56dd5c0d
+UID:a69dbecf-333a-4ffc-ab49-c06f8e721746
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:549c9016-7998-4078-b903-680d463e7d9f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
+DTSTAMP:20230224T015218Z
 DESCRIPTION:Evolving from their flowery debut album Leisure (1991), Blur be
  came one of the forefathers of Brit-pop, turning their backs on the grunge 
  scene to feed off the hooks of '60s legends The Kinks and...
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Wembley Stadium Hospitality - Blur
-UID:120dc34d-3e51-4d9b-a9ca-6cd135112792
+UID:56768869-068b-48b3-a6da-ba73bcf691e1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
+DTSTAMP:20230224T015218Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Parenting Hell
-UID:0367620b-dfc7-482f-8267-fd0d9c8f1c5a
+UID:70949b88-7f2f-45b8-921c-fc84ad413a82
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
-DESCRIPTION:Buy Newsies - The Musical tickets now to see West End theatre l
- ive on Sat, Feb 25, 2023 2:30 pm at Wembley Park Theatre in Wembley, GL, GB
- .
-DTEND;VALUE=DATE:20230225
-DTSTART;VALUE=DATE:20230225
-SUMMARY:Newsies
-UID:7eefb4ec-ebfe-4c35-989b-e057b5ad283b
+DTSTAMP:20230224T015218Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:0d71f51f-dfff-424e-bc48-276ead657ac9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230223T015118Z
+DTSTAMP:20230224T015218Z
 DESCRIPTION:DJ Nate's BUBBLE brings the Caribbean Party vibes back to BOXPA
  RK Wembley! Expect the best vibes until 1am!
-DTEND;VALUE=DATE:20230223
-DTSTART;VALUE=DATE:20230223
+DTEND;VALUE=DATE:20230224
+DTSTART;VALUE=DATE:20230224
 SUMMARY:Bubble with DJ Nate
-UID:c751f474-0439-4904-9054-0c56dfa09634
+UID:8836ba8d-98ec-4aba-aca6-4e1a38b9c983
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230224T015218Z
+DESCRIPTION:Buy Stromae tickets from Ticketmaster IE. Stromae 2023-24 tour 
+ dates, event details + much more.
+DTEND;VALUE=DATE:20230504
+DTSTART;VALUE=DATE:20230504
+SUMMARY:Stromae
+UID:9a4f470a-8d85-4cec-98d1-7f9b8c21c60e
 END:VEVENT
 END:VCALENDAR
