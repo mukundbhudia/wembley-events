@@ -3,91 +3,94 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
-DESCRIPTION:Dominic Richard Harrison (born 5 August 1997), known profession
- ally as YUNGBLUD (pronounced "Youngblood"), is an English singer, musician 
- and songwriter. In 2018, he released his first EP...
-DTEND;VALUE=DATE:20230226
-DTSTART;VALUE=DATE:20230226
-SUMMARY:Yungblud
-UID:b17a92a6-1002-4594-8539-e8620e4af787
+DTSTAMP:20230227T015515Z
+DESCRIPTION:PLEASE WELCOME ALL FOR HOLI FESTIVAL WITH BOLLYWOOD DJ About th
+ is Event B﻿OLLYWOOD DJ F﻿OOD STALLS C﻿OLOURS F﻿UN J﻿OY h﻿oli
+DTEND;VALUE=DATE:20230304
+DTSTART;VALUE=DATE:20230304
+SUMMARY:HOLI FESTIVAL OF COLOURS
+UID:cd9010e9-e1f9-40a7-ba1c-db7a04aa253a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:508fe1e0-0f46-412d-a011-044b715108fe
+DTSTAMP:20230227T015515Z
+DESCRIPTION:FREE Entry!! Each person can only redeem two tickets. Faded tak
+ eover Beatbox at Boxpark Wembley, expect the hottest Hip Hop, RnB, Afrobeat
+ s & Bashment. This is a free event and this ticket does...
+DTEND;VALUE=DATE:20230303
+DTSTART;VALUE=DATE:20230303
+SUMMARY:Faded @ Boxpark Wembley
+UID:35b26449-c716-4fd7-a82f-c4029ecabeaa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
-DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:41e6e195-c77c-4b38-a418-031e601e802e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20230226
-DTSTART;VALUE=DATE:20230226
-SUMMARY:Wembley 26th Feb
-UID:93c601ae-b4cb-4357-be37-68e8d0658ec8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
+DTSTAMP:20230227T015515Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
-SUMMARY:Love On Tour 2023
-UID:1e10fe52-c168-47b3-9bab-47efc570f3c7
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:be62aa65-f02d-4062-80e1-d7e5700508f1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
+DTSTAMP:20230227T015515Z
+DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Pet Shop Boys
+UID:dd0afb1f-c731-4c63-ae62-9347561dc6d2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230227T015515Z
+DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20230316
+DTSTART;VALUE=DATE:20230316
+SUMMARY:Loyle Carner
+UID:19673a7e-4a81-4387-8df8-61445bdfd3d2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230227T015515Z
+DESCRIPTION:Buy Blur tickets and sign-up for latest tour alerts. Find Blur 
+ tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Wembley Stadium Hospitality - Blur
+UID:e878d186-c094-417a-afb0-823436598d66
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230227T015515Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Parenting Hell
-UID:3566d3ed-5bdb-46ac-94b2-6d8770498d0d
+UID:037d8547-946d-4de2-9675-a14eb4cff50d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
-DESCRIPTION:Buy Blur tickets and sign-up for latest tour alerts. Find Blur 
- tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Wembley Stadium Hospitality - Blur
-UID:5fae8958-5cb1-4633-91f1-f3089e2c26cd
+DTSTAMP:20230227T015515Z
+DESCRIPTION:British writer, comedian and podcast host Adam Buxton brings BU
+ G, the long running, sell out BFI music video show to the indigo at The O2 
+ stage. Expect a selection of outstanding videos from the...
+DTEND;VALUE=DATE:20230302
+DTSTART;VALUE=DATE:20230302
+SUMMARY:Katherine Ryan @ Indigo at The O₂
+UID:fec1202c-a80b-4293-a330-8d305b0b948d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
-DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20230316
-DTSTART;VALUE=DATE:20230316
-SUMMARY:Loyle Carner
-UID:92c199b6-d2b7-40ab-9f40-84888e1eb294
+DTSTAMP:20230227T015515Z
+DESCRIPTION:Buy Adam Lambert tickets and sign-up for latest tour alerts. Fi
+ nd Adam Lambert tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20230227
+DTSTART;VALUE=DATE:20230227
+SUMMARY:Adam Lambert
+UID:c4d2b733-fffe-4e1b-aa81-92fe4bd8f3f7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
+DTSTAMP:20230227T015515Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230702
 DTSTART;VALUE=DATE:20230702
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:96361ad0-ff88-454a-b43b-26e6c75e45de
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230226T020220Z
-DESCRIPTION:André Rieu at OVO Arena, Wembley in Wembley Park
-DTEND;VALUE=DATE:20230414
-DTSTART;VALUE=DATE:20230414
-SUMMARY:André Rieu
-UID:0a78566f-4a2d-4c54-9f72-19a5d13a27ed
+UID:451ffa05-0ffd-468a-9660-d91d141c9daa
 END:VEVENT
 END:VCALENDAR
