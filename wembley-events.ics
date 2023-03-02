@@ -3,94 +3,92 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
-DESCRIPTION:PLEASE WELCOME ALL FOR HOLI FESTIVAL WITH BOLLYWOOD DJ About th
- is Event B﻿OLLYWOOD DJ F﻿OOD STALLS C﻿OLOURS F﻿UN J﻿OY h﻿oli
-DTEND;VALUE=DATE:20230304
-DTSTART;VALUE=DATE:20230304
-SUMMARY:HOLI FESTIVAL OF COLOURS
-UID:55236558-ac8a-4bcb-bece-1f7db9200bc2
+DTSTAMP:20230302T020050Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:dc8705f4-e3d0-4978-bbc7-10db2893fe22
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
+DTSTAMP:20230302T020050Z
 DESCRIPTION:Loyle Carner at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20230316
 DTSTART;VALUE=DATE:20230316
 SUMMARY:Loyle Carner
-UID:e4c59331-c8c7-4c17-a5f7-748440972c87
+UID:54e47011-c678-4309-b9db-cc779c916964
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
+DTSTAMP:20230302T020050Z
 DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
  ’ll need to display your ticket on your phone via the OVO Arena Wembley 
  app . Ticket purchasers will receive an email from us with news...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:The Sonu Nigam Show
-UID:d00b00c6-7614-4183-ae61-f0066ba5142e
+UID:4111c5fc-175b-45ad-9dd5-14aff225cc32
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
+DTSTAMP:20230302T020050Z
+DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Pet Shop Boys
+UID:49c1a170-ede3-4cff-b892-2131049e13ff
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230302T020050Z
+DESCRIPTION:Last.fm concert page for NCT DREAM TOUR 'THE DREAM SHOW2 : In 
+ A DREAM' at OVO Arena Wembley (London) on March 28, 2023. Discuss the gig, 
+ get concert tickets, see who's attending, find similar events.
+DTEND;VALUE=DATE:20230328
+DTSTART;VALUE=DATE:20230328
+SUMMARY:NCT DREAM
+UID:73cf3ec3-1ca9-4cc7-b464-e7b5a3dbd710
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230302T020050Z
+DESCRIPTION:André Rieu at OVO Arena, Wembley in Wembley Park
+DTEND;VALUE=DATE:20230414
+DTSTART;VALUE=DATE:20230414
+SUMMARY:André Rieu
+UID:31250944-3fe9-4624-b116-dc2de2bf7cee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230302T020050Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:6c4cc0a4-09b5-4262-9425-1b4521c4a9d2
+UID:e61c934e-c3e7-4017-8f08-3621f8a988b6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
-DESCRIPTION:Pet Shop Boys at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:ee671169-3960-414b-ae11-31d884708803
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
-DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
- ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
-  million downloads, the chart topping podcast has seen them...
-DTEND;VALUE=DATE:20230423
-DTSTART;VALUE=DATE:20230423
-SUMMARY:Parenting Hell
-UID:d14c1e4c-9232-43ee-b2f2-d987dc1d9a2d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:b3cebc0d-85e7-4a5e-90a8-971d146f9adb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
-DESCRIPTION:FREE Entry!! Each person can only redeem two tickets. Faded tak
- eover Beatbox at Boxpark Wembley, expect the hottest Hip Hop, RnB, Afrobeat
- s & Bashment. This is a free event and this ticket does...
-DTEND;VALUE=DATE:20230303
-DTSTART;VALUE=DATE:20230303
-SUMMARY:Faded @ Boxpark Wembley
-UID:759d67e9-7485-40a9-9e15-2e1a4fa50d9a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
+DTSTAMP:20230302T020050Z
 DESCRIPTION:Buy Blur tickets and sign-up for latest tour alerts. Find Blur 
  tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur
-UID:3114f1d2-cd09-4c74-b165-22848d2c0cdc
+SUMMARY:Wembley Stadium Hospitality - Blur
+UID:cb60632e-39ee-4227-b2b2-bbbe6daa3405
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230301T020647Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230702
-DTSTART;VALUE=DATE:20230702
-SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:012ddfe1-bdc7-4856-8ac5-d3bb8ec4123a
+DTSTAMP:20230302T020050Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:14953407-3708-4dfc-9ba0-0f54edda0d9a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230302T020050Z
+DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
+ sday, June 14, 7:00 PM.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:One Republic
+UID:8b9b7c28-0164-4e16-9b82-d3eb0c5afb6b
 END:VEVENT
 END:VCALENDAR
