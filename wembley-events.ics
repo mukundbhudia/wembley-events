@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
+DTSTAMP:20230310T020033Z
 DESCRIPTION:$uicideboy$ at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20230309
-DTSTART;VALUE=DATE:20230309
+DTEND;VALUE=DATE:20230310
+DTSTART;VALUE=DATE:20230310
 SUMMARY:GREY DAY EUROPE
-UID:d495eba6-3642-4457-9fee-dcdceabae455
+UID:d8e15178-0b87-4094-b659-b855f7ac7b3f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
+DTSTAMP:20230310T020033Z
 DESCRIPTION:The wait is almost over. Country to Country; Europe's biggest c
  ountry music festival is back for it 10-year celebration at The O2, London
  . With just a few weeks to go; Country to Country is...
 DTEND;VALUE=DATE:20230310
 DTSTART;VALUE=DATE:20230310
 SUMMARY:Country to Country
-UID:9e8fda07-222b-4e5d-af66-48bc125dda4d
+UID:52c9596a-454c-477b-a802-dcc25d262f31
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
+DTSTAMP:20230310T020033Z
+DESCRIPTION:Disney on Ice 2023 at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20230311
+DTSTART;VALUE=DATE:20230311
+SUMMARY:Disney On Ice presents Discover the Magic
+UID:b7d8d9d8-a8e1-4948-a8a2-36cd5a23f71d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230310T020033Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:6a174193-1ed1-4e88-8769-437ea768eefd
+UID:0e3b78f8-58d6-4dd1-9ab3-6cf473ed5576
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
+DTSTAMP:20230310T020033Z
 DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
  ’ll need to display your ticket on your phone via the OVO Arena Wembley 
  app . Ticket purchasers will receive an email from us with news...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:The Sonu Nigam Show
-UID:29f26ac8-fbe0-4ed9-88ef-d47e100a867f
+UID:6d3474d3-5ad9-4c38-bdbe-4ffa88c53a3d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
-DESCRIPTION:Join Mickey Mouse and his Disney friends on adventures filled w
- ith world-class skating, high-flying acrobatics and unexpected stunts!
-DTEND;VALUE=DATE:20230309
-DTSTART;VALUE=DATE:20230309
-SUMMARY:Disney On Ice presents Discover the Magic
-UID:9ad52a8f-c5dc-4b6b-8c3c-7d80f40ddd45
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:856c7351-d1b6-4b94-981c-52680a025f64
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
+DTSTAMP:20230310T020033Z
 DESCRIPTION:Last.fm concert page for NCT DREAM TOUR 'THE DREAM SHOW2 : In 
  A DREAM' at OVO Arena Wembley (London) on March 28, 2023. Discuss the gig, 
  get concert tickets, see who's attending, find similar events.
 DTEND;VALUE=DATE:20230328
 DTSTART;VALUE=DATE:20230328
 SUMMARY:NCT DREAM @ OVO Arena Wembley
-UID:ee758472-abcb-4ebe-8d83-6ae23f6e2e1a
+UID:d0f38071-baec-4736-9722-a4b4e8f71320
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
+DTSTAMP:20230310T020033Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:ef206f9f-1d37-42ce-89d6-d9dc5d4bcd0c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230310T020033Z
+DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
+ ard and Mötley Crüe are heading to Wembley Stadium.
+DTEND;VALUE=DATE:20230702
+DTSTART;VALUE=DATE:20230702
+SUMMARY:Def Leppard & Mötley Crüe: The World Tour
+UID:225b8154-0706-45ef-a4a2-f9205e1ec26b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230310T020033Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Parenting Hell
-UID:d6c4c1c5-bba5-471c-8ed7-8cd3eca920b0
+UID:0b2940d9-4fed-4ff7-a183-dab1b0cb8fce
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Harry Styles | Wembley
-UID:fc8bef09-d435-4ba7-932c-2f803887472e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230309T020003Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230702
-DTSTART;VALUE=DATE:20230702
-SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:ddb3352e-35d5-4410-97f3-f7414e15c62e
+DTSTAMP:20230310T020033Z
+DESCRIPTION:Buy Harry Styles: Love on Tour 2023 tickets and sign-up for lat
+ est tour alerts. Find Harry Styles: Love on Tour 2023 tour dates, reviews, 
+ times and event details.
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:fdee3aba-1c46-4bec-8fb0-98c59ce29881
 END:VEVENT
 END:VCALENDAR
