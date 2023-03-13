@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
-DESCRIPTION:The wait is almost over. Country to Country; Europe's biggest c
- ountry music festival is back for it 10-year celebration at The O2, London
- . With just a few weeks to go; Country to Country is...
-DTEND;VALUE=DATE:20230312
-DTSTART;VALUE=DATE:20230312
-SUMMARY:Country to Country
-UID:6c3447be-ebfa-44cc-8897-d70c57a41be8
+DTSTAMP:20230313T014801Z
+DESCRIPTION:$uicideboy$ is an American hip-hop duo from New Orleans, Louisi
+ ana, founded in 2014 by cousins Ruby da Cherry and $crim. Via the music sha
+ ring platform SoundCloud, the duo rose to popularity for...
+DTEND;VALUE=DATE:20230314
+DTSTART;VALUE=DATE:20230314
+SUMMARY:$UICIDEBOY$
+UID:915c7a89-abc0-4f28-ac4f-019ac26e1be7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:9d096287-52fa-46ca-ad3a-369c9bb2ba3b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
-DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
- sday, June 14, 7:00 PM.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:One Republic
-UID:76dd1313-4742-4b45-b965-38de4eecde24
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
-DESCRIPTION:For accessible seating including wheelchair access for Andre Ri
- eu please contact our specialist sales line on 0208 782 5629. Find out wha
- t new measures are in place at OVO Arena Wembley for...
-DTEND;VALUE=DATE:20230414
-DTSTART;VALUE=DATE:20230414
-SUMMARY:André Rieu
-UID:30a1cbe5-9987-4a92-a1b1-f2b8ca10eb97
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:5ee38101-750a-4559-a2a0-8ea8afd6a01d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230702
-DTSTART;VALUE=DATE:20230702
-SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:8a5eaedf-90a5-4730-9e3c-12e5824578f8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
-DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
- ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
-  million downloads, the chart topping podcast has seen them...
-DTEND;VALUE=DATE:20230423
-DTSTART;VALUE=DATE:20230423
-SUMMARY:Parenting Hell
-UID:9098424f-d0f5-4200-a76d-39995e07f660
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
-DESCRIPTION:Harry Styles at Wembley Stadium Harry Styles announces the cont
- inuation of "Love on Tour" with four new Wembley Stadium Shows in 2023. Int
- ernational superstar Harry Styles has announced 19 newly...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:4f4672e8-bb3d-4b89-bd63-a70d4a193946
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
+DTSTAMP:20230313T014801Z
 DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
  ’ll need to display your ticket on your phone via the OVO Arena Wembley 
  app . Ticket purchasers will receive an email from us with news...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:The Sonu Nigam Show
-UID:62c3dc3c-86ce-465a-aece-1d94a6a431b1
+UID:8f6b5946-2ea9-42bd-9690-7f91a45fc094
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230312T015553Z
+DTSTAMP:20230313T014801Z
 DESCRIPTION:Disney’s NEWSIES, the sensational family musical with music b
  y Alan Menken, lyrics by Jack Feldman and book by Harvey Fierstein, is now 
  playing at London’s Troubadour Wembley Park Theatre for a...
-DTEND;VALUE=DATE:20230312
-DTSTART;VALUE=DATE:20230312
+DTEND;VALUE=DATE:20230315
+DTSTART;VALUE=DATE:20230315
 SUMMARY:Newsies
-UID:04d64f5f-8fc2-4fb6-86db-4c02a9b6d8e8
+UID:54fe200a-63b3-4035-a819-1f9cfd2c12d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230313T014801Z
+DESCRIPTION:Triple GRAMMY® Award-winning, RIAA multi-platinum certified ar
+ tist Lizzo has announced the European leg of The Special Tour, with headli
+ ne shows at The O2 on Wednesday 15 and Thursday 16 March...
+DTEND;VALUE=DATE:20230315
+DTSTART;VALUE=DATE:20230315
+SUMMARY:Angie Stone, Omar
+UID:9f5ecba9-63aa-47e6-bc64-6461fdde3e67
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230313T014801Z
+DESCRIPTION:The Wembley Open Experience is an event where you will be able 
+ to learn about the benefits of Herbalife Nutrition. Try the products and ho
+ w they can be incorporated into a healthy lifestyle Learn...
+DTEND;VALUE=DATE:20230315
+DTSTART;VALUE=DATE:20230315
+SUMMARY:Wembley Open Experience
+UID:953f96fc-9c7a-4db9-8e59-82ab84dd95e2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230313T014801Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:e7a18d3a-7c0e-4940-9198-764877b4f4eb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230313T014801Z
+DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
+ sday, June 14, 7:00 PM.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:One Republic
+UID:20023d53-5cda-485e-8401-70cdfba69c13
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230313T014801Z
+DESCRIPTION:For accessible seating including wheelchair access for Andre Ri
+ eu please contact our specialist sales line on 0208 782 5629. Find out wha
+ t new measures are in place at OVO Arena Wembley for...
+DTEND;VALUE=DATE:20230414
+DTSTART;VALUE=DATE:20230414
+SUMMARY:André Rieu
+UID:40bbaea9-fa7a-4c1f-bb61-7b4563bdc300
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230313T014801Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:d3142393-6d25-4ae9-9b66-7034b8889764
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230313T014801Z
+DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
+ ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
+  million downloads, the chart topping podcast has seen them...
+DTEND;VALUE=DATE:20230423
+DTSTART;VALUE=DATE:20230423
+SUMMARY:Parenting Hell
+UID:2fce7aba-d74e-4447-8686-50d124dc801b
 END:VEVENT
 END:VCALENDAR
