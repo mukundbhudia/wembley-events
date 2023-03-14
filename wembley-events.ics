@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
+DTSTAMP:20230314T013534Z
 DESCRIPTION:$uicideboy$ is an American hip-hop duo from New Orleans, Louisi
  ana, founded in 2014 by cousins Ruby da Cherry and $crim. Via the music sha
  ring platform SoundCloud, the duo rose to popularity for...
 DTEND;VALUE=DATE:20230314
 DTSTART;VALUE=DATE:20230314
 SUMMARY:$UICIDEBOY$
-UID:915c7a89-abc0-4f28-ac4f-019ac26e1be7
+UID:a415b496-69d1-43ff-b645-79786ad2bad8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
-DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
- ’ll need to display your ticket on your phone via the OVO Arena Wembley 
- app . Ticket purchasers will receive an email from us with news...
-DTEND;VALUE=DATE:20230331
-DTSTART;VALUE=DATE:20230331
-SUMMARY:The Sonu Nigam Show
-UID:8f6b5946-2ea9-42bd-9690-7f91a45fc094
+DTSTAMP:20230314T013534Z
+DESCRIPTION:Loyle Carner is an emcee from South London has been causing qui
+ te a stir following the release of his debut ‘A Little Late’ EP in Sept
+ ember of last year. All but one track on the EP was produced...
+DTEND;VALUE=DATE:20230316
+DTSTART;VALUE=DATE:20230316
+SUMMARY:Loyle Carner
+UID:6e9c9351-6a61-4246-868b-27abaff2287a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
-DESCRIPTION:Disney’s NEWSIES, the sensational family musical with music b
- y Alan Menken, lyrics by Jack Feldman and book by Harvey Fierstein, is now 
- playing at London’s Troubadour Wembley Park Theatre for a...
-DTEND;VALUE=DATE:20230315
-DTSTART;VALUE=DATE:20230315
-SUMMARY:Newsies
-UID:54fe200a-63b3-4035-a819-1f9cfd2c12d7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
+DTSTAMP:20230314T013534Z
 DESCRIPTION:Triple GRAMMY® Award-winning, RIAA multi-platinum certified ar
  tist Lizzo has announced the European leg of The Special Tour, with headli
  ne shows at The O2 on Wednesday 15 and Thursday 16 March...
 DTEND;VALUE=DATE:20230315
 DTSTART;VALUE=DATE:20230315
 SUMMARY:Angie Stone, Omar
-UID:9f5ecba9-63aa-47e6-bc64-6461fdde3e67
+UID:fbb92a40-f86c-4a51-8a5b-aab5b850bbe1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
+DTSTAMP:20230314T013534Z
+DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
+ ’ll need to display your ticket on your phone via the OVO Arena Wembley 
+ app . Ticket purchasers will receive an email from us with news...
+DTEND;VALUE=DATE:20230331
+DTSTART;VALUE=DATE:20230331
+SUMMARY:The Sonu Nigam Show
+UID:01093212-9bce-4570-8972-c7a2b65a70ec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230314T013534Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:8b014701-1756-401c-9497-093f53e4a430
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230314T013534Z
+DESCRIPTION:Disney’s NEWSIES, the sensational family musical with music b
+ y Alan Menken, lyrics by Jack Feldman and book by Harvey Fierstein, is now 
+ playing at London’s Troubadour Wembley Park Theatre for a...
+DTEND;VALUE=DATE:20230315
+DTSTART;VALUE=DATE:20230315
+SUMMARY:Newsies
+UID:cbdda2fe-b4c8-4f1d-87ab-9264370afaf5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230314T013534Z
 DESCRIPTION:The Wembley Open Experience is an event where you will be able 
  to learn about the benefits of Herbalife Nutrition. Try the products and ho
  w they can be incorporated into a healthy lifestyle Learn...
 DTEND;VALUE=DATE:20230315
 DTSTART;VALUE=DATE:20230315
 SUMMARY:Wembley Open Experience
-UID:953f96fc-9c7a-4db9-8e59-82ab84dd95e2
+UID:5d36e417-78bd-4018-9d37-2a691db6dead
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
+DTSTAMP:20230314T013534Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:e7a18d3a-7c0e-4940-9198-764877b4f4eb
+UID:8bc7f95c-5f28-406e-b672-9629626f11c2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
+DTSTAMP:20230314T013534Z
 DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
  sday, June 14, 7:00 PM.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:One Republic
-UID:20023d53-5cda-485e-8401-70cdfba69c13
+UID:5f809689-02a7-4399-8407-f6f9fa67292f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
+DTSTAMP:20230314T013534Z
 DESCRIPTION:For accessible seating including wheelchair access for Andre Ri
  eu please contact our specialist sales line on 0208 782 5629. Find out wha
  t new measures are in place at OVO Arena Wembley for...
 DTEND;VALUE=DATE:20230414
 DTSTART;VALUE=DATE:20230414
 SUMMARY:André Rieu
-UID:40bbaea9-fa7a-4c1f-bb61-7b4563bdc300
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:d3142393-6d25-4ae9-9b66-7034b8889764
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230313T014801Z
-DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
- ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
-  million downloads, the chart topping podcast has seen them...
-DTEND;VALUE=DATE:20230423
-DTSTART;VALUE=DATE:20230423
-SUMMARY:Parenting Hell
-UID:2fce7aba-d74e-4447-8686-50d124dc801b
+UID:988cc2d5-8904-4974-9486-b7b0616e1090
 END:VEVENT
 END:VCALENDAR
