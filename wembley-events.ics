@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
-DESCRIPTION:$uicideboy$ is an American hip-hop duo from New Orleans, Louisi
- ana, founded in 2014 by cousins Ruby da Cherry and $crim. Via the music sha
- ring platform SoundCloud, the duo rose to popularity for...
-DTEND;VALUE=DATE:20230314
-DTSTART;VALUE=DATE:20230314
-SUMMARY:$UICIDEBOY$
-UID:a415b496-69d1-43ff-b645-79786ad2bad8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
+DTSTAMP:20230315T014658Z
 DESCRIPTION:Loyle Carner is an emcee from South London has been causing qui
  te a stir following the release of his debut ‘A Little Late’ EP in Sept
  ember of last year. All but one track on the EP was produced...
 DTEND;VALUE=DATE:20230316
 DTSTART;VALUE=DATE:20230316
 SUMMARY:Loyle Carner
-UID:6e9c9351-6a61-4246-868b-27abaff2287a
+UID:3d82b457-904d-4869-8770-4adea537f593
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
+DTSTAMP:20230315T014658Z
 DESCRIPTION:Triple GRAMMY® Award-winning, RIAA multi-platinum certified ar
  tist Lizzo has announced the European leg of The Special Tour, with headli
  ne shows at The O2 on Wednesday 15 and Thursday 16 March...
 DTEND;VALUE=DATE:20230315
 DTSTART;VALUE=DATE:20230315
 SUMMARY:Angie Stone, Omar
-UID:fbb92a40-f86c-4a51-8a5b-aab5b850bbe1
+UID:6df2213e-d0df-42f3-8902-4001a72a4d03
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
+DTSTAMP:20230315T014658Z
 DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
  ’ll need to display your ticket on your phone via the OVO Arena Wembley 
  app . Ticket purchasers will receive an email from us with news...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:The Sonu Nigam Show
-UID:01093212-9bce-4570-8972-c7a2b65a70ec
+UID:37f8b304-8a84-4a48-b442-a0988484de5a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
+DTSTAMP:20230315T014658Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:8b014701-1756-401c-9497-093f53e4a430
+UID:b9860f25-5080-4fdf-aee3-ec2710d47306
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
+DTSTAMP:20230315T014658Z
 DESCRIPTION:Disney’s NEWSIES, the sensational family musical with music b
  y Alan Menken, lyrics by Jack Feldman and book by Harvey Fierstein, is now 
  playing at London’s Troubadour Wembley Park Theatre for a...
 DTEND;VALUE=DATE:20230315
 DTSTART;VALUE=DATE:20230315
 SUMMARY:Newsies
-UID:cbdda2fe-b4c8-4f1d-87ab-9264370afaf5
+UID:35a41bdc-bf5f-4dc3-9f09-2f3104149a6e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
-DESCRIPTION:The Wembley Open Experience is an event where you will be able 
- to learn about the benefits of Herbalife Nutrition. Try the products and ho
- w they can be incorporated into a healthy lifestyle Learn...
-DTEND;VALUE=DATE:20230315
-DTSTART;VALUE=DATE:20230315
-SUMMARY:Wembley Open Experience
-UID:5d36e417-78bd-4018-9d37-2a691db6dead
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:8bc7f95c-5f28-406e-b672-9629626f11c2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
+DTSTAMP:20230315T014658Z
 DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
  sday, June 14, 7:00 PM.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:One Republic
-UID:5f809689-02a7-4399-8407-f6f9fa67292f
+UID:277ace15-13eb-4cc5-beff-620daa12148c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230314T013534Z
+DTSTAMP:20230315T014658Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:a8276b35-6236-4222-a90b-7c3c67cd5b4f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230315T014658Z
+DESCRIPTION:Tickets, info and places to stay for Angele at OVO Arena, Wembl
+ eyin London on Tue 23rd May 2023. Ents24.com, the UK's biggest entertainmen
+ t guide
+DTEND;VALUE=DATE:20230523
+DTSTART;VALUE=DATE:20230523
+SUMMARY:Angele
+UID:3b1e1c49-b0b5-481c-98fa-4f5a971526ba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230315T014658Z
+DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
+ ard and Mötley Crüe are heading to Wembley Stadium.
+DTEND;VALUE=DATE:20230702
+DTSTART;VALUE=DATE:20230702
+SUMMARY:Def Leppard & Mötley Crüe: The World Tour
+UID:c4644c8e-f5bf-438b-876a-ece27423ed41
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230315T014658Z
 DESCRIPTION:For accessible seating including wheelchair access for Andre Ri
  eu please contact our specialist sales line on 0208 782 5629. Find out wha
  t new measures are in place at OVO Arena Wembley for...
 DTEND;VALUE=DATE:20230414
 DTSTART;VALUE=DATE:20230414
 SUMMARY:André Rieu
-UID:988cc2d5-8904-4974-9486-b7b0616e1090
+UID:3fb2779b-42ed-4679-b945-58b5c5ce2fd0
 END:VEVENT
 END:VCALENDAR
