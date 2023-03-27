@@ -3,97 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:a18369ac-9e98-4823-884f-c58eaf1e0ca4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
+DTSTAMP:20230327T014032Z
 DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
  ’ll need to display your ticket on your phone via the OVO Arena Wembley 
  app . Ticket purchasers will receive an email from us with news...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:The Sonu Nigam Show
-UID:f2eb6b92-740c-464f-9dc6-87f6ae557e00
+UID:ae8a7103-3b1a-40f7-9637-86ea52ebf070
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
-DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
- re today for your exclusive VIP packages for this unmissable show.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur | Wembley Stadium
-UID:e44fc04b-6470-4601-8abb-bb64ba58d023
+DTSTAMP:20230327T014032Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Love On Tour 2023
+UID:c58a47b4-3648-4307-bc66-9843226d21cd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
+DTSTAMP:20230327T014032Z
+DESCRIPTION:I Prevail—Brian Burkheiser [clean vocals], Eric Vanlerberghe 
+ [harsh vocals], Steve Menoian [guitar], and Lee Runestad [drums]—explore
+  this phenomenon within the...
+DTEND;VALUE=DATE:20230329
+DTSTART;VALUE=DATE:20230329
+SUMMARY:I Prevail
+UID:66e8a5c2-c1fd-4e0e-994a-381ad0306d20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230327T014032Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:f2760d40-2246-4a89-9959-a867a2926302
+SUMMARY:Love On Tour 2023
+UID:43c7fc66-d21a-4b6e-8ff4-fa2e78ece00e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
+DTSTAMP:20230327T014032Z
 DESCRIPTION:Crown Hotel London is set in a prime location for Wembley Stadi
  um & Arena, just an 11 minute journey on the Jubilee Line. The historic gra
  de II listed Victorian Crown building offers 152 spacious...
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:77366470-b2eb-4524-888d-c4bcdbb2c6bc
+UID:4cc31e32-0b77-4ebc-b84d-7ebaec775a74
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
-DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
- sday, June 14, 7:00 PM.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:One Republic
-UID:5ae040c9-12fc-4d5a-8323-664b7b1745cd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
+DTSTAMP:20230327T014032Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Love On Tour 2023
-UID:5bc51f1f-c263-48b4-9b2a-b5d982619a68
+UID:56760b37-72b1-416a-95c9-f25e0d3211fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
+DTSTAMP:20230327T014032Z
 DESCRIPTION:André Rieu is coming back to the UK and Ireland in 2023! Toget
  her with his 60-piece Johann Strauss Orchestra and many soloist André Rieu
   will give you what you’ve come to expect from his...
 DTEND;VALUE=DATE:20230414
 DTSTART;VALUE=DATE:20230414
-SUMMARY:André Rieu
-UID:22bc0964-267b-438e-a82b-7866efce985d
+SUMMARY:Andre Rieu
+UID:49bc43ec-9bbd-4239-b48b-bb07c63c7c87
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
-DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
- s continue DREAMWORLD The Greatest Hits Live next year.
+DTSTAMP:20230327T014032Z
+DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
+ re today for your exclusive VIP packages for this unmissable show.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Blur
+UID:f9a7fb66-afa6-478e-b3ff-83e06522e278
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230327T014032Z
+DESCRIPTION:Package includes: Reserved ticket in a central seating block Re
+ laxed and informal 'lounge style' hospitality Exclusive access to hospitali
+ ty lounge pre-show and for one hour post-show Inclusive...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:77bcf9df-e744-4bb8-b82c-93a7da990310
+SUMMARY:Harry Styles Love on Tour 2023
+UID:91bb3755-26c1-4ac7-96d1-20563672e5d4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230326T014813Z
-DESCRIPTION:Ana Gabriel concert in London, Get your tickets for Ana Gabrie
- l in London, is a concert which takes place on the 07/07/2023 at 20:00 in S
- SE Wembley Arena, London, United Kingdom. Its music style...
-DTEND;VALUE=DATE:20230707
-DTSTART;VALUE=DATE:20230707
-SUMMARY:Ana Gabriel
-UID:26ca9f57-cd3e-42fc-ac64-82ec8ac863dd
+DTSTAMP:20230327T014032Z
+DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
+ ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
+  million downloads, the chart topping podcast has seen them...
+DTEND;VALUE=DATE:20230423
+DTSTART;VALUE=DATE:20230423
+SUMMARY:Parenting Hell
+UID:763ef932-887c-4e5d-ac38-1d72604a9572
 END:VEVENT
 END:VCALENDAR
