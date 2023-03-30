@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
  ’ll need to display your ticket on your phone via the OVO Arena Wembley 
  app . Ticket purchasers will receive an email from us with news...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:The Sonu Nigam Show
-UID:12da0080-ef68-4fb6-a6af-d5809bee4a76
+UID:9e949f09-4eef-4c9a-8b62-d759ede5b659
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:0246c5d9-aedb-4f48-aefe-bd54017c3418
+UID:35d49485-30ee-4bee-a0dc-55e825f1768a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur | Wembley Stadium
-UID:c5508e3e-8cf0-40b6-9368-42a093e94e5a
+SUMMARY:Wembley Stadium Hospitality - Blur
+UID:2a425366-9dbc-4852-9f04-d153bc1f2000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
  sday, June 14, 7:00 PM.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:One Republic
-UID:30a4dfa0-5fe8-4014-ae40-1749ccf62abf
+UID:970d5db0-4a6e-4bec-b34a-d8d387ef5dee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:5b3d5356-a113-4903-880e-4e2314f9b022
+UID:00ce3cc0-919c-425c-962b-a8632f943709
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:André Rieu is coming back to the UK and Ireland in 2023! Toget
  her with his 60-piece Johann Strauss Orchestra and many soloist André Rieu
   will give you what you’ve come to expect from his...
 DTEND;VALUE=DATE:20230414
 DTSTART;VALUE=DATE:20230414
 SUMMARY:André Rieu
-UID:62ca906d-3a72-4a9a-a37f-fae072f1c7c2
+UID:5b157d51-56ba-44e3-91b9-f346487ee2e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
  Coors Light
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:Coors Light Presents: Friday Feelings
-UID:bdfabb86-0794-432c-9d07-b9652af5ec19
+UID:c84de7ad-f846-4fc6-bbf3-c0f104b9d7e6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Love On Tour 2023
-UID:4593e4d5-9c2b-46d1-abe5-bd354680c14f
+UID:d98bb93c-2c23-47a2-b461-8af46264e4c5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:Disney’s NEWSIES, the sensational family musical with music b
  y Alan Menken, lyrics by Jack Feldman and book by Harvey Fierstein, is now 
  playing at London’s Troubadour Wembley Park Theatre for a...
 DTEND;VALUE=DATE:20230330
 DTSTART;VALUE=DATE:20230330
 SUMMARY:Newsies
-UID:b1cd949b-3f65-4811-9548-9795c31bf9b3
+UID:d158ee31-1f60-4db8-81c8-d0f5a5edfd50
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230329T015227Z
+DTSTAMP:20230330T014454Z
 DESCRIPTION:Macklemore has made history with a combination of commercial su
  ccess, critical acclaim, and international appeal. With a total of 12.8 bil
  lion combined streams to date, Macklemore is one of the...
 DTEND;VALUE=DATE:20230412
 DTSTART;VALUE=DATE:20230412
 SUMMARY:Macklemore
-UID:6b27cfad-ecbd-4bc9-b79e-859222f4d964
+UID:82674196-0d64-4284-bb21-9e284c400254
 END:VEVENT
 END:VCALENDAR
