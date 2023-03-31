@@ -3,97 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
+DTSTAMP:20230331T014316Z
 DESCRIPTION:For this show, if you’ve purchased your tickets via AXS, you
  ’ll need to display your ticket on your phone via the OVO Arena Wembley 
  app . Ticket purchasers will receive an email from us with news...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:The Sonu Nigam Show
-UID:9e949f09-4eef-4c9a-8b62-d759ede5b659
+UID:99ed43ba-b89a-422b-b98b-1150466f70fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Harry Styles: Love On Tour 2023
-UID:35d49485-30ee-4bee-a0dc-55e825f1768a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
-DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
- re today for your exclusive VIP packages for this unmissable show.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Wembley Stadium Hospitality - Blur
-UID:2a425366-9dbc-4852-9f04-d153bc1f2000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
-DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
- sday, June 14, 7:00 PM.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:One Republic
-UID:970d5db0-4a6e-4bec-b34a-d8d387ef5dee
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
+DTSTAMP:20230331T014316Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Harry Styles: Love On Tour 2023
-UID:00ce3cc0-919c-425c-962b-a8632f943709
+UID:e7cf838c-6ed5-44ac-b9f2-fabfce351622
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
+DTSTAMP:20230331T014316Z
+DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
+ sday, June 14, 7:00 PM.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:One Republic
+UID:6144e6b8-e2df-4baf-b8dd-84adfaeafc6e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230331T014316Z
 DESCRIPTION:André Rieu is coming back to the UK and Ireland in 2023! Toget
  her with his 60-piece Johann Strauss Orchestra and many soloist André Rieu
   will give you what you’ve come to expect from his...
 DTEND;VALUE=DATE:20230414
 DTSTART;VALUE=DATE:20230414
 SUMMARY:André Rieu
-UID:5b157d51-56ba-44e3-91b9-f346487ee2e2
+UID:23cc7d3e-b69c-4d14-9638-0cd54f63b680
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
-DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
- Coors Light
-DTEND;VALUE=DATE:20230331
-DTSTART;VALUE=DATE:20230331
-SUMMARY:Coors Light Presents: Friday Feelings
-UID:c84de7ad-f846-4fc6-bbf3-c0f104b9d7e6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
+DTSTAMP:20230331T014316Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Love On Tour 2023
-UID:d98bb93c-2c23-47a2-b461-8af46264e4c5
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:8095b43d-1d5b-4527-bd74-6e8e8fee4392
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
-DESCRIPTION:Disney’s NEWSIES, the sensational family musical with music b
- y Alan Menken, lyrics by Jack Feldman and book by Harvey Fierstein, is now 
- playing at London’s Troubadour Wembley Park Theatre for a...
-DTEND;VALUE=DATE:20230330
-DTSTART;VALUE=DATE:20230330
-SUMMARY:Newsies
-UID:d158ee31-1f60-4db8-81c8-d0f5a5edfd50
+DTSTAMP:20230331T014316Z
+DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
+ ard and Mötley Crüe are heading to Wembley Stadium.
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:Def Leppard & Mötley Crüe
+UID:dd6b610f-2339-4596-addc-a91b9d08d45a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230330T014454Z
+DTSTAMP:20230331T014316Z
 DESCRIPTION:Macklemore has made history with a combination of commercial su
  ccess, critical acclaim, and international appeal. With a total of 12.8 bil
  lion combined streams to date, Macklemore is one of the...
 DTEND;VALUE=DATE:20230412
 DTSTART;VALUE=DATE:20230412
 SUMMARY:Macklemore
-UID:82674196-0d64-4284-bb21-9e284c400254
+UID:de1b21c7-25d0-43a0-87b2-6bc4e648687e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230331T014316Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:ef421079-8c38-48ad-b4cb-a84c788f776c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230331T014316Z
+DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
+ re today for your exclusive VIP packages for this unmissable show.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Blur
+UID:b9a0da90-6985-422e-9531-6b265c3d90f5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230331T014316Z
+DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
+ s continue DREAMWORLD The Greatest Hits Live next year.
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Pet Shop Boys
+UID:ad6b667f-da1b-4164-b1cc-8e27cc71eeac
 END:VEVENT
 END:VCALENDAR
