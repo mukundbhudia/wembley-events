@@ -3,98 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
-DESCRIPTION:Buy Sabaton - The Tour To End All Tours tickets and sign-up fo
- r latest tour alerts. Find Sabaton - The Tour To End All Tours tour dates, 
- reviews, times and event details.
-DTEND;VALUE=DATE:20230415
-DTSTART;VALUE=DATE:20230415
-SUMMARY:Sabaton
-UID:5d7fe3f5-7416-49cd-9900-0d6c79445934
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
+DTSTAMP:20230416T014558Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Love On Tour 2023
-UID:73d50d46-88e3-4906-9b09-3454e1d84419
+UID:b1754b28-72a4-4512-ad3a-11a8a565ce2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Love On Tour 2023
-UID:1945c440-48ce-4e0e-84db-29a9cde8424a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Def Leppard @ Wembley Stadium
-UID:3d766c8b-53d0-4316-beec-16b860ee2a4e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
+DTSTAMP:20230416T014558Z
 DESCRIPTION:Petrolheadonism Underground will have over cars together includ
  ing Supercars Classics Americana JDM Retro Rides High Modified cars and muc
  h more
 DTEND;VALUE=DATE:20230416
 DTSTART;VALUE=DATE:20230416
 SUMMARY:Petrolheadonism Underground
-UID:e2b77305-6948-4c0f-be8b-8777dacf7d2a
+UID:32c8d8e6-ac5e-4f77-be3c-3beaa9b54bfa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
+DTSTAMP:20230416T014558Z
+DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
+ ard and Mötley Crüe are heading to Wembley Stadium.
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:Def Leppard & Mötley Crüe: The World Tour
+UID:7bdd99fa-f807-4369-a427-6a43a19fda26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230416T014558Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Love On Tour 2023
+UID:375b0cc5-eed4-49ed-a372-a82764a2d40d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230416T014558Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
-SUMMARY:Love On Tour 2023
-UID:c798c86a-9ae2-4a6c-80e4-224fc45638f2
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:7af9683b-6300-4015-b3be-13e68a02a67e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
-DESCRIPTION:FREE Entry!! Each person can only redeem two tickets. Faded tak
- eover Beatbox at Boxpark Wembley, expect the hottest Hip Hop, RnB, Afrobeat
- s & Bashment. This is a free event and this ticket does...
-DTEND;VALUE=DATE:20230415
-DTSTART;VALUE=DATE:20230415
-SUMMARY:Faded @ Boxpark Wembley
-UID:73d2cbcb-57e2-4e06-8f70-8df8b06d8155
+DTSTAMP:20230416T014558Z
+DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
+ re today for your exclusive VIP packages for this unmissable show.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Wembley Stadium Hospitality - Blur
+UID:146df62c-1967-4a81-bc11-485c4df28d3f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
+DTSTAMP:20230416T014558Z
+DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
+ sday, June 14, 7:00 PM.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:One Republic
+UID:f16b6ff8-b9e8-4ac2-8216-875e83227a7f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230416T014558Z
+DESCRIPTION:Package includes: Reserved ticket in a central seating block Re
+ laxed and informal 'lounge style' hospitality Exclusive access to hospitali
+ ty lounge pre-show and for one hour post-show Inclusive...
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Harry Styles
+UID:94aa6eb7-1e74-4a9a-ac96-04e8b3d8f8f4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230416T014558Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Rob Beckett & Josh Widdicombe's Parenting Hell...
-UID:87d4f900-e184-4819-a15b-47086f2851f7
+UID:70c7689f-3564-4f02-8a1d-9ea44ca2749f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
-DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
- re today for your exclusive VIP packages for this unmissable show.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur
-UID:0cffaee5-5ff4-4b8d-9b08-5b63f96c24ef
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230415T013943Z
-DESCRIPTION:Package includes: Reserved ticket in a central seating block Re
- laxed and informal 'lounge style' hospitality Exclusive access to hospitali
- ty lounge pre-show and for one hour post-show Inclusive...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:wet leg @ Wembley Stadium
-UID:a0b1476a-d38f-49a3-a6f1-c0e0293e86b2
+DTSTAMP:20230416T014558Z
+DESCRIPTION:Buy Limp Bizkit tickets and sign-up for latest tour alerts. Fin
+ d Limp Bizkit tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20230417
+DTSTART;VALUE=DATE:20230417
+SUMMARY:Limp Bizkit Moved To Ovo Arena, Wembley
+UID:b8e9c3bf-c279-4c27-a2b3-069dab2cd4ad
 END:VEVENT
 END:VCALENDAR
