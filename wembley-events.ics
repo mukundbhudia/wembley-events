@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
+DTSTAMP:20230419T014122Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Rob Beckett & Josh Widdicombe's Parenting Hell...
-UID:5e7afffa-201a-41c8-bce9-0cad1ced6c6b
+UID:e64609f2-6db7-4ec3-908f-e3f548ff4407
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
+DTSTAMP:20230419T014122Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Love On Tour 2023
-UID:d7a1f58f-40b0-4c3d-8a99-2251fa046971
+UID:50c8fcef-2c31-476f-a0ef-0f4d446e7339
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
+DTSTAMP:20230419T014122Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:036e91a9-8566-4f32-a3b4-2b39274cd263
+UID:142fc05f-1090-4213-a0cb-fa495dda6935
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
+DTSTAMP:20230419T014122Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Wembley Stadium Hospitality - Blur
-UID:d5651749-51de-460b-94c9-f53382d4dc7d
+UID:078a1dd7-1c5f-4aa2-9c55-15d4e104c4d3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
+DTSTAMP:20230419T014122Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Love On Tour 2023
-UID:fccff674-3e4c-4f1c-b8c3-7cf89be7c203
+UID:77185852-7711-4a01-91b4-f15fea3ba96d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
+DTSTAMP:20230419T014122Z
 DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
  sday, June 14, 7:00 PM.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:One Republic
-UID:77158350-d480-443c-88ab-dc6c51134725
+UID:eaf3e74d-dfc2-4fbe-9779-7a3cefcbb8fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
+DTSTAMP:20230419T014122Z
 DESCRIPTION:Package includes: Reserved ticket in a central seating block Re
  laxed and informal 'lounge style' hospitality Exclusive access to hospitali
  ty lounge pre-show and for one hour post-show Inclusive...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Harry Styles
-UID:52087542-3556-4fea-b6eb-5a6aa3a6193b
+UID:289d24ef-8a23-4355-99a2-d337994bde54
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
-DESCRIPTION:Sam Smith was born in London in May 1992 and began singing at 
- a young age. They first hit the charts as the featured singer on the 2012 D
- isclosure song "Latch," and released their first single...
-DTEND;VALUE=DATE:20230418
-DTSTART;VALUE=DATE:20230418
-SUMMARY:Sam Smith - Gloria the Tour
-UID:0ae8b10e-d514-45c8-aa8e-b9a120240e7c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:0c22ac86-596b-4fd6-8894-fd5ba8e33942
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230418T013753Z
+DTSTAMP:20230419T014122Z
 DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
  s continue DREAMWORLD The Greatest Hits Live next year.
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:7155c6a6-27e8-427c-8a09-58e3b72c8076
+UID:d6466e87-3df2-4bdf-bc03-754ab7fc8105
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230419T014122Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:e7740a77-aaba-4686-9be1-2b445d3ac785
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230419T014122Z
+DESCRIPTION:Celine Dion is known around the world for her powerful voice. T
+ outed as the best-selling Canadian recording artist of all time, she is wid
+ ely recognized for the timeless track from Titanic, "My...
+DTEND;VALUE=DATE:20230419
+DTSTART;VALUE=DATE:20230419
+SUMMARY:Celine Dion
+UID:17ec9c58-115f-4ac1-ad33-90052fec63ff
 END:VEVENT
 END:VCALENDAR
