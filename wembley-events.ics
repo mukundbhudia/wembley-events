@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:Rob Beckett and Josh Widdicombe will be bringing their hit podc
  ast to London’s OVO Arena Wembley on Sunday 23 April 2023. With nearly 50
   million downloads, the chart topping podcast has seen them...
 DTEND;VALUE=DATE:20230423
 DTSTART;VALUE=DATE:20230423
 SUMMARY:Rob Beckett & Josh Widdicombe's Parenting Hell...
-UID:e64609f2-6db7-4ec3-908f-e3f548ff4407
+UID:dd07eb9e-1f5f-463a-96d7-e80f6540b76c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Love On Tour 2023
-UID:50c8fcef-2c31-476f-a0ef-0f4d446e7339
+UID:30fee823-514e-448a-80e6-f085096a7388
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:142fc05f-1090-4213-a0cb-fa495dda6935
+UID:c134cae4-65da-47d7-8279-11bccc31228b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Wembley Stadium Hospitality - Blur
-UID:078a1dd7-1c5f-4aa2-9c55-15d4e104c4d3
+UID:01f611e1-ccce-4dfe-b148-07d69aa5d7eb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Love On Tour 2023
-UID:77185852-7711-4a01-91b4-f15fea3ba96d
+UID:2398d7ca-919b-47af-a50c-f4e2fd9001cb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
  sday, June 14, 7:00 PM.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:One Republic
-UID:eaf3e74d-dfc2-4fbe-9779-7a3cefcbb8fc
+UID:df671636-787c-4560-b783-4785ab5a687f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:Package includes: Reserved ticket in a central seating block Re
  laxed and informal 'lounge style' hospitality Exclusive access to hospitali
  ty lounge pre-show and for one hour post-show Inclusive...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Harry Styles
-UID:289d24ef-8a23-4355-99a2-d337994bde54
+UID:186938bc-0ebb-4191-9a90-1ef959936010
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
  s continue DREAMWORLD The Greatest Hits Live next year.
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:d6466e87-3df2-4bdf-bc03-754ab7fc8105
+UID:d3b325be-44ea-4539-8162-5b26318d97ba
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:e7740a77-aaba-4686-9be1-2b445d3ac785
+UID:329bce54-fec9-4f88-aaca-b486a9292f68
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230419T014122Z
+DTSTAMP:20230420T013753Z
 DESCRIPTION:Celine Dion is known around the world for her powerful voice. T
  outed as the best-selling Canadian recording artist of all time, she is wid
  ely recognized for the timeless track from Titanic, "My...
-DTEND;VALUE=DATE:20230419
-DTSTART;VALUE=DATE:20230419
+DTEND;VALUE=DATE:20230420
+DTSTART;VALUE=DATE:20230420
 SUMMARY:Celine Dion
-UID:17ec9c58-115f-4ac1-ad33-90052fec63ff
+UID:2e8e92d5-f224-45d8-8741-f310a7f0ee64
 END:VEVENT
 END:VCALENDAR
