@@ -3,96 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
+DTSTAMP:20230427T014101Z
 DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
  d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
  D) Children under 5 enter for free and without a ticket...
-DTEND;VALUE=DATE:20230426
-DTSTART;VALUE=DATE:20230426
+DTEND;VALUE=DATE:20230427
+DTSTART;VALUE=DATE:20230427
 SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for...
-UID:4fad5c72-4174-4321-a1e6-3770c57a3b20
+UID:ade8d0ca-3762-4a51-baf4-26a9389b7f31
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
+DTSTAMP:20230427T014101Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:095dc22a-3b31-48dd-af75-88249d771177
+UID:3176b61b-8cb5-45b5-9acf-ee58feec5d48
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
+DTSTAMP:20230427T014101Z
 DESCRIPTION:Smashing together new and classic indie anthems to create a for
  ce that'll propel you onto the dance floor and pull some shapes, London's g
  reatest indie party lands at Boxpark, dropping indie hit...
 DTEND;VALUE=DATE:20230427
 DTSTART;VALUE=DATE:20230427
 SUMMARY:Not Another Indie Disco
-UID:09a65db4-d9ae-4b00-b414-0e2b60cb3a3e
+UID:3a866fc6-1d99-4b53-b31c-04a93a408bc4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
+DTSTAMP:20230427T014101Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Love On Tour 2023
-UID:01721436-47cb-4ce5-b2f3-4627923c2070
+UID:6792bb0b-acc7-4f1e-b7f9-67890dd8a8a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
+DTSTAMP:20230427T014101Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Wembley Stadium Hospitality - Blur
-UID:16dc5e55-3545-4e4f-8cc4-2ac85fbc90f1
+UID:b5a185b6-885b-4e61-b3db-9fe46728c84e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
+DTSTAMP:20230427T014101Z
 DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
  wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230427
-DTSTART;VALUE=DATE:20230427
+DTEND;VALUE=DATE:20230429
+DTSTART;VALUE=DATE:20230429
 SUMMARY:Newsies
-UID:cc01dd30-75ac-4b6b-a806-732f3c450d2c
+UID:e66cc2c2-2ecd-4130-9957-4f3a9c4126b4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
+DTSTAMP:20230427T014101Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:0523ed2b-5744-48ac-8a6d-df3f64c9f4e6
+UID:bea4996b-04c2-4010-ba00-50ac164ccfbc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
+DTSTAMP:20230427T014101Z
 DESCRIPTION:Buy Russell Howard tickets and sign-up for latest tour alerts. 
  Find Russell Howard tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20230428
 DTSTART;VALUE=DATE:20230428
 SUMMARY:Russell Howard
-UID:4fb2271c-02ea-43a7-ab71-568a4cfc6163
+UID:6ad59dc0-551c-4f46-8fef-cf5b8d8510fb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
+DTSTAMP:20230427T014101Z
+DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
+ wsies tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20230427
+DTSTART;VALUE=DATE:20230427
+SUMMARY:Newsies
+UID:322074d7-1332-4890-8a75-f4af61e49958
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230427T014101Z
 DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
  s continue DREAMWORLD The Greatest Hits Live next year.
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:3f109b84-c326-4f38-912e-845897fd0fd8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230426T013930Z
-DESCRIPTION:Package includes: Reserved ticket in a central seating block Re
- laxed and informal 'lounge style' hospitality Exclusive access to hospitali
- ty lounge pre-show and for one hour post-show Inclusive...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Harry Styles
-UID:b5c64d3d-26a1-4bf5-92ea-bbdd90072cd3
+UID:39840bb2-77df-4966-99e6-910056f5770b
 END:VEVENT
 END:VCALENDAR
