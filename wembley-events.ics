@@ -3,95 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
+DTSTAMP:20230430T014308Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:24d2f35c-fbf8-4ab3-8e22-e180416b5d9c
+UID:9cc077eb-daa0-43fe-8a12-66ecd5696d63
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
+DTSTAMP:20230430T014308Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:b9a99065-8623-430f-a9e6-439af1e685c1
+UID:373271f9-50d7-4a57-9c32-b1439b41c94d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
+DTSTAMP:20230430T014308Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Love On Tour 2023
-UID:0513703b-eab6-4923-9ecb-e61487ad2fdb
+UID:f4fadccf-0acc-425c-9a11-b3395b6c3715
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
+DTSTAMP:20230430T014308Z
 DESCRIPTION:Package includes: Reserved ticket in a central seating block Re
  laxed and informal 'lounge style' hospitality Exclusive access to hospitali
  ty lounge pre-show and for one hour post-show Inclusive...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Harry Styles
-UID:2f2af67c-2264-4f6f-ac5f-868295e0232b
+UID:e4e4d9cd-d8df-4cf6-8bf3-96a8fbe3159c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
-DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
- wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230429
-DTSTART;VALUE=DATE:20230429
-SUMMARY:Newsies
-UID:a37bbaad-57d6-4733-820d-9e35644e4db6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
+DTSTAMP:20230430T014308Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:d33f2283-a1cc-4732-9c74-dbccde6da5fc
+UID:ad798e8e-760d-4893-a164-ed3ff74593c9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
-DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
- s continue DREAMWORLD The Greatest Hits Live next year.
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:ce40b592-eda9-497b-a0d4-9eac3bff5668
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
-DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
- sday, June 14, 7:00 PM.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:One Republic Tickets
-UID:a4fde173-0ff9-4e72-8245-69fd40dd7b24
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
+DTSTAMP:20230430T014308Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:c39f36e4-a991-4271-b6e8-6d2f8f49dd6b
+UID:fbc24734-0351-45e6-a5db-3e814bcd27b2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230429T013916Z
+DTSTAMP:20230430T014308Z
+DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
+ s continue DREAMWORLD The Greatest Hits Live next year.
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Pet Shop Boys
+UID:cbaed131-544d-454f-811f-dac61407b393
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230430T014308Z
+DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
+ sday, June 14, 7:00 PM.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:One Republic Tickets
+UID:15d1c7fa-02bd-47f7-960f-74dc6e2ce8a0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230430T014308Z
+DESCRIPTION:After a three year break, Asian superstar JJ Lin is back to bri
+ ng his highly anticipated 'JJ Lin JJ20 World Tour' to London in April 2023.
+DTEND;VALUE=DATE:20230501
+DTSTART;VALUE=DATE:20230501
+SUMMARY:JJ Lin
+UID:31dafaf9-78cc-421b-8f1d-c6904b475853
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230430T014308Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:56e51469-db4d-423c-bedd-64dc9efef846
+UID:c25f9eb4-d0e3-4ca9-936e-3f9cebdd1101
 END:VEVENT
 END:VCALENDAR
