@@ -3,94 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
+DTSTAMP:20230504T013724Z
 DESCRIPTION:Paul Van Haver (pronounced : pɔl vɑn ɦɑvər) (born 12 March
   1985, Brussels), better known by his stage name Stromae [stʁɔmaj], is a
   Belgian musician, producer, singer, rapper and songwriter...
 DTEND;VALUE=DATE:20230504
 DTSTART;VALUE=DATE:20230504
 SUMMARY:Stromae
-UID:3a4bec99-0148-4045-abc0-1f030c5fd9d1
+UID:ae28b3ef-d56b-4a61-a72b-439fa9f91222
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
+DTSTAMP:20230504T013724Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:ca90f090-8fad-48d0-b875-bd0d0bc7bbab
+UID:f50e4f6f-018f-4438-9d74-28fe970fac2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
+DTSTAMP:20230504T013724Z
+DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
+ Coors Light
+DTEND;VALUE=DATE:20230505
+DTSTART;VALUE=DATE:20230505
+SUMMARY:Coors Light Presents: Friday Feelings
+UID:592a57de-ffa0-4737-95b0-04e43093debf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230504T013724Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:8dc80b7d-6598-444e-a4e4-4eea30ea5788
+UID:916c6ff1-344a-498f-9726-72909523c3ae
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
+DTSTAMP:20230504T013724Z
 DESCRIPTION:The Harlem Globetrotters 2023 World Tour is coming with game li
  ke never before! Your favorite Globetrotter stars are bringing out their am
  azing basketball skill, outrageous athleticism and a...
 DTEND;VALUE=DATE:20230507
 DTSTART;VALUE=DATE:20230507
 SUMMARY:The Original Harlem Globetrotters
-UID:4f999ac6-7b8e-412d-bd47-722f3813d65f
+UID:ed6ad3b1-46b3-4021-ac38-729065f47e19
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
+DTSTAMP:20230504T013724Z
+DESCRIPTION:Exciting news! On Saturday, May 6th, Wembley Park, the world-re
+ nowned neighbourhood in North London, home to Wembley Stadium and BOXPARK W
+ embley, will be hosting a free live screening and...
+DTEND;VALUE=DATE:20230506
+DTSTART;VALUE=DATE:20230506
+SUMMARY:Coronation Celebration - Free Live Screening
+UID:ed1f08d5-ec74-4087-befd-e50555d23015
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230504T013724Z
 DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
  sday, June 14, 7:00 PM.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:One Republic
-UID:928cb86c-175d-4f1d-bc89-bf08d7b17388
+UID:ea9db695-f193-4065-a587-04df0e3bfba7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
+DTSTAMP:20230504T013724Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:ed053065-9c59-424d-ab37-774d9a72a82d
+UID:ecd34619-68fa-4ac1-8b1b-f94e5c2af3cf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
+DTSTAMP:20230504T013724Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:21efefe4-1473-4656-aff0-c2be21b658e6
+UID:e6050457-88ec-4691-961d-77eb613c3a7a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
+DTSTAMP:20230504T013724Z
 DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
  s continue DREAMWORLD The Greatest Hits Live next year.
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:9a23912e-8c4c-43b6-a94b-dc2385c74b71
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:7f534ca2-f6dd-4b88-a49a-07838903d37f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230503T013915Z
-DESCRIPTION:Stromae at The SSE Arena, Wembley on May 23, 2023
-DTEND;VALUE=DATE:20230523
-DTSTART;VALUE=DATE:20230523
-SUMMARY:Stromae
-UID:2c8720c0-743b-4537-b886-cbebce81cd50
+UID:e3decdad-52fc-4593-8617-7c441d448985
 END:VEVENT
 END:VCALENDAR
