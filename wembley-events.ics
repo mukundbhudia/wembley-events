@@ -3,95 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
+DTSTAMP:20230506T013440Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:22e0ce1e-b5b0-48d5-bcfb-cffa6e9042fc
+UID:8b5365df-ec5b-4651-a072-1ed9bf23ed7e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
+DTSTAMP:20230506T013440Z
 DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
  Coors Light
-DTEND;VALUE=DATE:20230505
-DTSTART;VALUE=DATE:20230505
+DTEND;VALUE=DATE:20230506
+DTSTART;VALUE=DATE:20230506
 SUMMARY:Coors Light Presents: Friday Feelings
-UID:c2889a83-a2d9-430f-8b0e-1f8823af0380
+UID:677cf56f-2051-46dd-b4f7-9b5be85c6afc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
+DTSTAMP:20230506T013440Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:ca0fe2b4-a9cb-4445-a3cf-29c17fa99553
+UID:9eb73b82-6d80-464c-a756-ed1998e88526
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
+DTSTAMP:20230506T013440Z
 DESCRIPTION:The Harlem Globetrotters 2023 World Tour is coming with game li
  ke never before! Your favorite Globetrotter stars are bringing out their am
  azing basketball skill, outrageous athleticism and a...
 DTEND;VALUE=DATE:20230507
 DTSTART;VALUE=DATE:20230507
 SUMMARY:The Original Harlem Globetrotters
-UID:41ffc450-f349-44ac-9db2-fff4cd3a804e
+UID:1b898e35-bda3-49fb-ac78-31a18b3895ee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
+DTSTAMP:20230506T013440Z
 DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
  sday, June 14, 7:00 PM.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:One Republic
-UID:99df4a90-38b8-40d7-a909-4d8f71cfcb4b
+UID:859ff96c-b9a9-416c-9b72-fa4deecd3667
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
+DTSTAMP:20230506T013440Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:23aaf13c-b3c8-4b59-896c-d272aa45c59c
+UID:7b146e64-a97c-419b-8ee3-3ea04e0e7ac7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
+DTSTAMP:20230506T013440Z
 DESCRIPTION:The vibe doors opened this year, with two opening events at ou
  r signature spots at Studio 338 and Outernet. This May bank holiday we're a
  t the iconic North West London venue Boxpark Wembly for the...
 DTEND;VALUE=DATE:20230507
 DTSTART;VALUE=DATE:20230507
 SUMMARY:DLT Brunch
-UID:af00ca01-3499-405d-8bf4-d6d3ac8faedc
+UID:538bd8bd-b255-4008-83ec-842f86c53132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
+DTSTAMP:20230506T013440Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:499c608d-9536-406e-8cee-f5a2dc252772
+UID:eebf77f8-9e50-46fc-b744-bb6f72fc99eb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
+DTSTAMP:20230506T013440Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:a54ca1a2-f301-4138-b1c6-f5f39cd19a4c
+UID:90e6094b-2172-4e3f-b9fa-1247af35fa19
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T013450Z
-DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
- s continue DREAMWORLD The Greatest Hits Live next year.
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:f072ccee-af18-477e-873c-16cb15f8d350
+DTSTAMP:20230506T013440Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:The Weeknd at Wembley Stadium
+UID:ad66d439-617a-46be-93ef-a4c783f430eb
 END:VEVENT
 END:VCALENDAR
