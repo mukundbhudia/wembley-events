@@ -3,95 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
+DTSTAMP:20230508T013949Z
+DESCRIPTION:The stakes are higher than ever as KSI accepts his hardest chal
+ lenge to date by taking on undefeated pro boxer Joe Fournier on May 13 at t
+ he OVO Arena Wembley in London, live on DAZN and DAZN PPV...
+DTEND;VALUE=DATE:20230513
+DTSTART;VALUE=DATE:20230513
+SUMMARY:KSI vs Joe Fournier
+UID:bc64b42a-aedd-4b5a-aa04-a630334f8eaf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230508T013949Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:470fa4e5-df13-473a-bafe-ea6a4ad5c43a
+UID:95fb401a-02aa-481b-9d8e-f86c4a4830db
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
+DTSTAMP:20230508T013949Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:afee3ca2-8f03-45dc-83c1-b06471f49b2c
+UID:c3381a99-1d93-4df4-885d-74d9ebab6b97
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
-DESCRIPTION:The vibe doors opened this year, with two opening events at ou
- r signature spots at Studio 338 and Outernet. This May bank holiday we're a
- t the iconic North West London venue Boxpark Wembly for the...
-DTEND;VALUE=DATE:20230507
-DTSTART;VALUE=DATE:20230507
-SUMMARY:DLT Brunch
-UID:74524fa9-ca62-4a6a-9c96-535b860f1f86
+DTSTAMP:20230508T013949Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230510
+DTSTART;VALUE=DATE:20230510
+SUMMARY:Tom Segura
+UID:f0c0de10-6146-46fe-aa6b-bde10a41030a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Def Leppard @ Wembley Stadium
-UID:7455f417-5f2d-4aaa-a474-f88d23efb8fb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
+DTSTAMP:20230508T013949Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:7dca72fd-e56e-4e62-951c-8dadac930370
+UID:d018b828-57f7-44e8-9106-a99438ca248f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
+DTSTAMP:20230508T013949Z
 DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
  sday, June 14, 7:00 PM.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:One Republic
-UID:c8e57552-12de-4263-9be8-abd9211298a7
+UID:75912a19-dec8-4bb1-ad70-72bbf708b693
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
-DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
- s continue DREAMWORLD The Greatest Hits Live next year.
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:af59267d-7d83-4d5d-9b38-a5151a68a536
+DTSTAMP:20230508T013949Z
+DESCRIPTION:The originators of basketball style, influencers on today’s g
+ ame, and skilled athletes of the highest order, the world famous Harlem Glo
+ betrotters have showcased their iconic talents in 124...
+DTEND;VALUE=DATE:20230508
+DTSTART;VALUE=DATE:20230508
+SUMMARY:Harlem Globetrotters
+UID:6bf551a6-00e5-496a-8683-34c515906c8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
+DTSTAMP:20230508T013949Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:644dd08b-4ce6-4a75-be26-877d1348f57f
+UID:abad8965-4e10-48bf-9445-581a8017c18d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
-DESCRIPTION:Saturday Sessions is back at BOXPARK Wembley in conjunction wit
- h Coors Light
-DTEND;VALUE=DATE:20230507
-DTSTART;VALUE=DATE:20230507
-SUMMARY:Coors Presents: Saturday Sessions
-UID:5e62a5fe-bf13-42d0-a1be-4d5baa3c7c31
+DTSTAMP:20230508T013949Z
+DESCRIPTION:The vibe doors opened this year, with two opening events at ou
+ r signature spots at Studio 338 and Outernet. This May bank holiday we're a
+ t the iconic North West London venue Boxpark Wembly for the...
+DTEND;VALUE=DATE:20230508
+DTSTART;VALUE=DATE:20230508
+SUMMARY:DLT Brunch
+UID:214729b9-c0f3-43fb-a5f6-298c16a1b26d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230507T014600Z
-DESCRIPTION:The Harlem Globetrotters 2023 World Tour is coming with game li
- ke never before! Your favorite Globetrotter stars are bringing out their am
- azing basketball skill, outrageous athleticism and a...
-DTEND;VALUE=DATE:20230507
-DTSTART;VALUE=DATE:20230507
-SUMMARY:Harlem Globetrotters
-UID:b47bffea-1f20-4100-a3ce-ed94bc478274
+DTSTAMP:20230508T013949Z
+DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
+ s continue DREAMWORLD The Greatest Hits Live next year.
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Pet Shop Boys
+UID:8e0000f0-114b-4a01-8203-5d21ce0a7a01
 END:VEVENT
 END:VCALENDAR
