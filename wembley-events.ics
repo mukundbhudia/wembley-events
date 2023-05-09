@@ -3,97 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
+DTSTAMP:20230509T014043Z
 DESCRIPTION:The stakes are higher than ever as KSI accepts his hardest chal
  lenge to date by taking on undefeated pro boxer Joe Fournier on May 13 at t
  he OVO Arena Wembley in London, live on DAZN and DAZN PPV...
 DTEND;VALUE=DATE:20230513
 DTSTART;VALUE=DATE:20230513
 SUMMARY:KSI vs Joe Fournier
-UID:bc64b42a-aedd-4b5a-aa04-a630334f8eaf
+UID:b174b6df-5fa3-4ece-9beb-3220cb563b34
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
+DTSTAMP:20230509T014043Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:95fb401a-02aa-481b-9d8e-f86c4a4830db
+UID:21440b0b-c5dc-404c-9e44-afe223b73a20
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
+DTSTAMP:20230509T014043Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:c3381a99-1d93-4df4-885d-74d9ebab6b97
+UID:79834ee7-44c6-46c9-82a6-54d1efefbf00
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
+DTSTAMP:20230509T014043Z
+DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
+ ard and Mötley Crüe are heading to Wembley Stadium.
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:Def Leppard & Mötley Crüe: The World Tour
+UID:ae369fd8-1328-42f7-ac5f-97f8709ae6f2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230509T014043Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:e118c961-d1e4-4d15-a9ec-6dc96d1a82e5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230509T014043Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230510
 DTSTART;VALUE=DATE:20230510
 SUMMARY:Tom Segura
-UID:f0c0de10-6146-46fe-aa6b-bde10a41030a
+UID:0b0c7589-36d1-46e5-af64-b39ecec80c57
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:d018b828-57f7-44e8-9106-a99438ca248f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
+DTSTAMP:20230509T014043Z
 DESCRIPTION:Countdown to One Republic @ Wembley Arena taking place on Wedne
  sday, June 14, 7:00 PM.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:One Republic
-UID:75912a19-dec8-4bb1-ad70-72bbf708b693
+UID:22956b42-1b68-489a-a0fb-d24de7bf7415
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
-DESCRIPTION:The originators of basketball style, influencers on today’s g
- ame, and skilled athletes of the highest order, the world famous Harlem Glo
- betrotters have showcased their iconic talents in 124...
-DTEND;VALUE=DATE:20230508
-DTSTART;VALUE=DATE:20230508
-SUMMARY:Harlem Globetrotters
-UID:6bf551a6-00e5-496a-8683-34c515906c8e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
+DTSTAMP:20230509T014043Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:abad8965-4e10-48bf-9445-581a8017c18d
+UID:7ec8d6e9-9ed6-46dc-8fc9-6b33d4b90124
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
-DESCRIPTION:The vibe doors opened this year, with two opening events at ou
- r signature spots at Studio 338 and Outernet. This May bank holiday we're a
- t the iconic North West London venue Boxpark Wembly for the...
-DTEND;VALUE=DATE:20230508
-DTSTART;VALUE=DATE:20230508
-SUMMARY:DLT Brunch
-UID:214729b9-c0f3-43fb-a5f6-298c16a1b26d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230508T013949Z
+DTSTAMP:20230509T014043Z
 DESCRIPTION:After a critically acclaimed, sold out 2022 tour, Pet Shop Boy
  s continue DREAMWORLD The Greatest Hits Live next year.
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:8e0000f0-114b-4a01-8203-5d21ce0a7a01
+UID:77fcc7ed-4f9d-46c0-a09d-d071a8ebe1e1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230509T014043Z
+DESCRIPTION:Ricky Gervais Armageddon Tour 2023 Tickets | Friday 6 October 2
+ 023, 19:30 | OVO Wembley Arena, London
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais
+UID:11f734d1-2f85-41c6-9cc1-215d98d6a440
 END:VEVENT
 END:VCALENDAR
