@@ -3,95 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
+DTSTAMP:20230512T013751Z
 DESCRIPTION:The stakes are higher than ever as KSI accepts his hardest chal
  lenge to date by taking on undefeated pro boxer Joe Fournier on May 13 at t
  he OVO Arena Wembley in London, live on DAZN and DAZN PPV...
 DTEND;VALUE=DATE:20230513
 DTSTART;VALUE=DATE:20230513
 SUMMARY:🎤 KSI Tickets
-UID:a603b474-0143-47aa-bc9d-85251e47eb3b
+UID:588dd6a3-0005-4930-959c-c44bdb38c379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
+DTSTAMP:20230512T013751Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:fef22fe0-5685-4e4f-8d9b-15ba2e4473d5
+UID:491c30bc-392a-4438-af28-20a3bf2d3a58
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
-DESCRIPTION:Tickets, info and places to stay for Angele at OVO Arena, Wembl
- eyin London on Tue 23rd May 2023. Ents24.com, the UK's biggest entertainmen
- t guide
-DTEND;VALUE=DATE:20230523
-DTSTART;VALUE=DATE:20230523
-SUMMARY:Angele
-UID:4998a123-cae0-438c-8910-ee4b2ba1264c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
+DTSTAMP:20230512T013751Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
-SUMMARY:Wembley Stadium Hospitality - Blur
-UID:c1923df6-9732-48e1-bb8f-cbb3c8a09fe0
+SUMMARY:Blur | Wembley Stadium
+UID:ab60c926-0737-418d-a33e-d72d43a8c7d3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
+DTSTAMP:20230512T013751Z
+DESCRIPTION:AEG Presents PET SHOP BOYS SAT, 17 JUN 2023 at 07:30PM BST Door
+ s Open: 06:30PM OnSale: Mon, 27 Jun 2022 at 09:00AM BST Announcement: Mon, 
+ 27 Jun 2022 at 09:00AM BST Pet Shop Boys have today...
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Pet Shop Boys
+UID:5b748e18-9613-4271-8a34-2a5a3423b52d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230512T013751Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:7ea32205-dbe8-463a-b18d-ca77c053765a
+UID:fe39effa-9767-400b-b4ac-4ab7d3611e5c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
+DTSTAMP:20230512T013751Z
+DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
+ wsies tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20230512
+DTSTART;VALUE=DATE:20230512
+SUMMARY:Newsies
+UID:d881bb87-41cb-4b2f-abab-49d9b2540feb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230512T013751Z
 DESCRIPTION:Achetez Harry Styles: Love on Tour 2023 billets et inscrivez-vo
  us pour recevoir les dernières alertes de la tournée. Trouvez Harry Styl
  es: Love on Tour 2023 dates de tournée, critiques, horaires...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Harry Styles
-UID:3b4285de-42ff-4eba-a70c-257f111f9585
+UID:9bc14820-c3aa-4c37-a68e-21ada286c306
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
-DESCRIPTION:Stromae at The SSE Arena, Wembley [CANCELED] on May 23, 2023
-DTEND;VALUE=DATE:20230523
-DTSTART;VALUE=DATE:20230523
-SUMMARY:Stromae
-UID:68ff0b6b-a77f-48cd-9923-41718b70ba1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
+DTSTAMP:20230512T013751Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:54a2df2d-363f-43cb-b8ce-bebc33f1cac7
+UID:9d8313a0-7200-4822-b84b-4f2701b450b1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
+DTSTAMP:20230512T013751Z
+DESCRIPTION:Crown Hotel London is set in a prime location for Wembley Stadi
+ um & Arena, just an 11 minute journey on the Jubilee Line. The historic gra
+ de II listed Victorian Crown building offers 152 spacious...
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:537bb733-4d8a-48f9-838e-4def30c5b8ac
+UID:dab2245f-2b5e-430d-bd24-8fc6d082a413
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230511T013937Z
-DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
- wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230511
-DTSTART;VALUE=DATE:20230511
-SUMMARY:Newsies
-UID:08d1fb17-9835-4698-98ff-e575cc47c415
+DTSTAMP:20230512T013751Z
+DESCRIPTION:Tickets, info and places to stay for Angele at OVO Arena, Wembl
+ eyin London on Tue 23rd May 2023. Ents24.com, the UK's biggest entertainmen
+ t guide
+DTEND;VALUE=DATE:20230523
+DTSTART;VALUE=DATE:20230523
+SUMMARY:Angele
+UID:8816f550-9c40-48f4-b9e3-bb73688d8693
 END:VEVENT
 END:VCALENDAR
