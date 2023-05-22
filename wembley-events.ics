@@ -3,97 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:decfcfe9-209a-460a-bc2e-aaa0953e0b24
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
-DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
- d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
- D) Children under 5 enter for free and without a ticket...
-DTEND;VALUE=DATE:20230521
-DTSTART;VALUE=DATE:20230521
-SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for...
-UID:1c7b3754-e7f4-40b7-9289-685dc4642195
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
-DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
- re today for your exclusive VIP packages for this unmissable show.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur | Wembley Stadium
-UID:15105c06-e77b-490c-bb67-76f21c5da4fd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:wet leg @ Wembley Stadium
-UID:b13cdf60-f898-4067-854e-d7548576457e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
-DESCRIPTION:AEG Presents PET SHOP BOYS SAT, 17 JUN 2023 at 07:30PM BST Door
- s Open: 06:30PM OnSale: Mon, 27 Jun 2022 at 09:00AM BST Announcement: Mon, 
- 27 Jun 2022 at 09:00AM BST Pet Shop Boys have today...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:4760be04-4a11-4c4d-a7ec-7ae370633251
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:f5bc8f84-3761-4da8-a28d-ccdfc214f147
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
+DTSTAMP:20230522T014714Z
 DESCRIPTION:Tickets, info and places to stay for Angele at OVO Arena, Wembl
  eyin London on Tue 23rd May 2023. Ents24.com, the UK's biggest entertainmen
  t guide
 DTEND;VALUE=DATE:20230523
 DTSTART;VALUE=DATE:20230523
 SUMMARY:Angele
-UID:5e796458-59ed-4afb-bb44-b355e76ecaa1
+UID:48f3073a-8e18-4feb-8dfd-e059d9a0b8eb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
+DTSTAMP:20230522T014714Z
+DESCRIPTION:After four long years, the Legend returns. Gurdas Maan will be 
+ returning to UK shores and Ireland with his highly anticipated tour in May 
+ 2023. Titled Akhiyan Udeek Diyan ("My eyes are longing for...
+DTEND;VALUE=DATE:20230528
+DTSTART;VALUE=DATE:20230528
+SUMMARY:Gurdas Maan @ OVO Arena Wembley
+UID:7b115c2a-23c5-429f-a5c7-2da63903db18
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230522T014714Z
+DESCRIPTION:Ticket resale for Stromae parties in Australia. Tixel is a saf
+ e marketplace for second hand tickets - buy or sell your unused tickets. Pr
+ ices are capped to prevent scalping.
+DTEND;VALUE=DATE:20230523
+DTSTART;VALUE=DATE:20230523
+SUMMARY:Stromae
+UID:17c7bacb-b7ac-48d3-a9cb-44a736129a4e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230522T014714Z
+DESCRIPTION:Buy Angèle tickets from Ticketmaster IE. Angèle 2023-24 tour 
+ dates, event details + much more.
+DTEND;VALUE=DATE:20230523
+DTSTART;VALUE=DATE:20230523
+SUMMARY:Angèle
+UID:b34c6d6f-dbcd-471f-9583-5627236cdf25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230522T014714Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:4b26e4db-d37b-4d5e-bf49-f2a836cc437e
+UID:849a1330-b58c-4dec-b14a-b184dd69d9cd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
-DESCRIPTION:Package includes: Reserved ticket in a central seating block Re
- laxed and informal 'lounge style' hospitality Exclusive access to hospitali
- ty lounge pre-show and for one hour post-show Inclusive...
+DTSTAMP:20230522T014714Z
+DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
+ d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
+ D) Children under 5 enter for free and without a ticket...
+DTEND;VALUE=DATE:20230522
+DTSTART;VALUE=DATE:20230522
+SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for...
+UID:d869b9c0-d496-41fb-8e92-7d202c1b79d5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230522T014714Z
+DESCRIPTION:Heavy Music Awards announces its first wave performers and host
+ s for the historic 2023 event, set to take place at OVO Arena Wembley on 2
+ 6 May 2023 . Renowned for showcasing the diverse global...
+DTEND;VALUE=DATE:20230526
+DTSTART;VALUE=DATE:20230526
+SUMMARY:Heavy Music Awards 2023
+UID:7bf8d2e5-46f5-4cd0-acf2-114847180318
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230522T014714Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:wet leg @ Wembley Stadium
+UID:f3321416-6ed8-438d-bec1-bae2b9cab209
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230522T014714Z
+DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
+ re today for your exclusive VIP packages for this unmissable show.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Blur | Wembley Stadium
+UID:f0422a6a-e63c-4258-96d6-ff98d52da795
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230522T014714Z
+DESCRIPTION:AEG Presents PET SHOP BOYS SAT, 17 JUN 2023 at 07:30PM BST Door
+ s Open: 06:30PM OnSale: Mon, 27 Jun 2022 at 09:00AM BST Announcement: Mon, 
+ 27 Jun 2022 at 09:00AM BST Pet Shop Boys have today...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
-SUMMARY:Harry Styles
-UID:0a034e74-8d31-4f5c-a126-d5a17d7dcb4b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230521T014759Z
-DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
- wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230521
-DTSTART;VALUE=DATE:20230521
-SUMMARY:Newsies
-UID:e42847ae-0c0e-4a71-b921-bb3fd3d7a469
+SUMMARY:Pet Shop Boys
+UID:78e91332-68dd-4d93-aaed-6d79eb07b404
 END:VEVENT
 END:VCALENDAR
