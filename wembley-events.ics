@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:Tickets, info and places to stay for Angele at OVO Arena, Wembl
  eyin London on Tue 23rd May 2023. Ents24.com, the UK's biggest entertainmen
  t guide
 DTEND;VALUE=DATE:20230523
 DTSTART;VALUE=DATE:20230523
 SUMMARY:Angele
-UID:48f3073a-8e18-4feb-8dfd-e059d9a0b8eb
+UID:0a05a09b-bebf-4b26-882f-d7a5d32ef601
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:After four long years, the Legend returns. Gurdas Maan will be 
  returning to UK shores and Ireland with his highly anticipated tour in May 
  2023. Titled Akhiyan Udeek Diyan ("My eyes are longing for...
 DTEND;VALUE=DATE:20230528
 DTSTART;VALUE=DATE:20230528
 SUMMARY:Gurdas Maan @ OVO Arena Wembley
-UID:7b115c2a-23c5-429f-a5c7-2da63903db18
+UID:efa54f1f-29ff-4c4f-a8d4-3420e70bf725
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:Ticket resale for Stromae parties in Australia. Tixel is a saf
  e marketplace for second hand tickets - buy or sell your unused tickets. Pr
  ices are capped to prevent scalping.
 DTEND;VALUE=DATE:20230523
 DTSTART;VALUE=DATE:20230523
 SUMMARY:Stromae
-UID:17c7bacb-b7ac-48d3-a9cb-44a736129a4e
+UID:414c29f8-99fe-4b81-aa7a-85b533e1290a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:Buy Angèle tickets from Ticketmaster IE. Angèle 2023-24 tour 
  dates, event details + much more.
 DTEND;VALUE=DATE:20230523
 DTSTART;VALUE=DATE:20230523
 SUMMARY:Angèle
-UID:b34c6d6f-dbcd-471f-9583-5627236cdf25
+UID:267f94b6-9bfd-49db-8209-d251f4282aaa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:849a1330-b58c-4dec-b14a-b184dd69d9cd
+UID:a3c1d140-7ea7-4b12-afc4-429a305698d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
  d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
  D) Children under 5 enter for free and without a ticket...
-DTEND;VALUE=DATE:20230522
-DTSTART;VALUE=DATE:20230522
+DTEND;VALUE=DATE:20230523
+DTSTART;VALUE=DATE:20230523
 SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for...
-UID:d869b9c0-d496-41fb-8e92-7d202c1b79d5
+UID:9c5f6120-ea77-4d5c-8c60-5e2c1941be43
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:Heavy Music Awards announces its first wave performers and host
  s for the historic 2023 event, set to take place at OVO Arena Wembley on 2
  6 May 2023 . Renowned for showcasing the diverse global...
 DTEND;VALUE=DATE:20230526
 DTSTART;VALUE=DATE:20230526
 SUMMARY:Heavy Music Awards 2023
-UID:7bf8d2e5-46f5-4cd0-acf2-114847180318
+UID:dfd10b30-ca87-4f44-bea5-2c8dc8276a85
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:wet leg @ Wembley Stadium
-UID:f3321416-6ed8-438d-bec1-bae2b9cab209
+UID:77a394a5-2855-4e92-ae04-33217982419a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:f0422a6a-e63c-4258-96d6-ff98d52da795
+UID:03b403ba-2aa0-46cd-a719-386fb2a9c892
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230522T014714Z
+DTSTAMP:20230523T014224Z
 DESCRIPTION:AEG Presents PET SHOP BOYS SAT, 17 JUN 2023 at 07:30PM BST Door
  s Open: 06:30PM OnSale: Mon, 27 Jun 2022 at 09:00AM BST Announcement: Mon, 
  27 Jun 2022 at 09:00AM BST Pet Shop Boys have today...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:78e91332-68dd-4d93-aaed-6d79eb07b404
+UID:8e629be4-310d-43a5-aff8-e7acb9c27479
 END:VEVENT
 END:VCALENDAR
