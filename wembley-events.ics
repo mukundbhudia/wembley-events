@@ -3,94 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
+DTSTAMP:20230526T014155Z
 DESCRIPTION:Get notified whenever Gurdas Maan announces a live stream or a 
  concert in your area
 DTEND;VALUE=DATE:20230528
 DTSTART;VALUE=DATE:20230528
 SUMMARY:Gurdas Maan
-UID:a61827e5-b49b-4386-b037-63c05f7f4770
+UID:946b5652-0452-440d-8c3d-7348f565a8f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
+DTSTAMP:20230526T014155Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:5ca20120-d005-4b98-9843-f5bc77ea19a6
+UID:eb5ee0b4-fac7-4025-bf2e-14fe99a7a86e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
+DTSTAMP:20230526T014155Z
 DESCRIPTION:Heavy Music Awards announces its first wave performers and host
  s for the historic 2023 event, set to take place at OVO Arena Wembley on 2
  6 May 2023 . Renowned for showcasing the diverse global...
 DTEND;VALUE=DATE:20230526
 DTSTART;VALUE=DATE:20230526
 SUMMARY:Heavy Music Awards 2023
-UID:7718bb92-63b7-447e-a2a1-64804057dfce
+UID:f7d28075-a7fa-4464-872e-8e2ffa211c99
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
+DTSTAMP:20230526T014155Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:wet leg @ Wembley Stadium
-UID:603b6105-82ec-4cb0-ae54-6f39595fd4df
+UID:b3cbcf57-e154-4a92-b4de-3b71f08f7f29
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
+DTSTAMP:20230526T014155Z
 DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
  isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
  ards and occasionally vocals). The longevity of Pet Shop...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:94536b9b-65a9-4bbd-8230-08ec2886ba28
+UID:c9389c80-6151-4b6b-88c1-39b0a3cd428e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
+DTSTAMP:20230526T014155Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:64622acb-398a-4fc8-aa5f-5ce6501088d1
+UID:d7ceb5c7-0fc7-4049-947e-19e45fbd783c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
+DTSTAMP:20230526T014155Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
-SUMMARY:Love On Tour 2023
-UID:5ed59e16-b714-4bda-a938-070dd9b7f7a3
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:157e3f5b-ce20-4c68-9d48-e034994e6b51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
-DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
- wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230525
-DTSTART;VALUE=DATE:20230525
-SUMMARY:Newsies
-UID:edfc9130-0c6d-4cf2-836e-457e06636ebc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
+DTSTAMP:20230526T014155Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard
 DTEND;VALUE=DATE:20230611
 DTSTART;VALUE=DATE:20230611
 SUMMARY:Joel Corry
-UID:0c855482-e618-4d45-8c65-6513f7f7dd20
+UID:3a09dceb-8811-4e14-b016-ebc4f7945e60
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230525T014040Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
+DTSTAMP:20230526T014155Z
+DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
+ were met to rave reviews, the forner One Direction member, now Global Super
+ star, Harry Styles is coming back to London this June for...
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:7d7cbcae-3aa5-44e2-87e3-a0182ac7ae19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230526T014155Z
+DESCRIPTION:Crown Hotel London is set in a prime location for Wembley Stadi
+ um & Arena, just an 11 minute journey on the Jubilee Line. The historic gra
+ de II listed Victorian Crown building offers 152 spacious...
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:6151bd14-8b58-4e59-be02-62108547f3b0
+UID:a64329cf-712b-43f0-946b-7dd04736192b
 END:VEVENT
 END:VCALENDAR
