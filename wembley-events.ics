@@ -3,87 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230528T015339Z
-DESCRIPTION:Get notified whenever Gurdas Maan announces a live stream or a 
- concert in your area
-DTEND;VALUE=DATE:20230528
-DTSTART;VALUE=DATE:20230528
-SUMMARY:Gurdas Maan @ OVO Arena Wembley
-UID:edaf899b-c72e-46ca-81b3-a41aec515b5e
+DTSTAMP:20230529T014625Z
+DESCRIPTION:Big Green Coach is delighted to be the OFFICIAL carbon neutral 
+ coach travel partner to Burna Boy at London Stadium on 3rd June 2023.
+DTEND;VALUE=DATE:20230603
+DTSTART;VALUE=DATE:20230603
+SUMMARY:Burna Boy
+UID:8655f1de-8f74-4ef3-bece-cc9ecc08fce8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T015339Z
+DTSTAMP:20230529T014625Z
+DESCRIPTION:For one-night-only American artist Colson Baker AKA Machine Gu
+ n Kelly will perform at the Royal Albert Hall. The genre-bending artist wil
+ l follow in the footsteps of the greatest musicians of all...
+DTEND;VALUE=DATE:20230531
+DTSTART;VALUE=DATE:20230531
+SUMMARY:Machine Gun Kelly
+UID:c3663094-5690-4280-bd3e-d23dd64a991d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230529T014625Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:295275f1-b052-4911-a0b4-913073c2afa8
+UID:880bead6-a552-4672-81f7-18281a51c6af
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T015339Z
+DTSTAMP:20230529T014625Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:wet leg @ Wembley Stadium
+UID:61f0d295-d9d6-42f8-b234-7307efac5cc9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230529T014625Z
 DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
  isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
  ards and occasionally vocals). The longevity of Pet Shop...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:26dd95ed-4eb4-47c3-9981-864dfecee7b8
+UID:c56e5eb4-daec-4940-8b41-edd2d8e964a6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T015339Z
+DTSTAMP:20230529T014625Z
+DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
+ re today for your exclusive VIP packages for this unmissable show.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Blur | Wembley Stadium
+UID:90263ce2-6615-46a5-b3e6-86149c055a5c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230529T014625Z
 DESCRIPTION:Crown Hotel London is set in a prime location for Wembley Stadi
  um & Arena, just an 11 minute journey on the Jubilee Line. The historic gra
  de II listed Victorian Crown building offers 152 spacious...
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard @ Wembley Stadium
-UID:29e998a7-5e28-447a-82af-bf15e9af469c
+UID:9985a4f6-4105-4bf6-8717-f23502f47cd1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T015339Z
+DTSTAMP:20230529T014625Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:70b3d5ee-21c0-452f-a4e2-71d40953853c
+UID:b4ed15e4-55ba-41ce-84fe-8055c99348e8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T015339Z
-DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
- re today for your exclusive VIP packages for this unmissable show.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur | Wembley Stadium
-UID:fa061e85-a5ac-4d9d-b222-3f8c9dff611f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230528T015339Z
+DTSTAMP:20230529T014625Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard
 DTEND;VALUE=DATE:20230611
 DTSTART;VALUE=DATE:20230611
 SUMMARY:Joel Corry
-UID:64bcc844-5fca-4d5a-92d9-c5870ba6ebe5
+UID:3c51c86e-7458-49cf-9c51-49da2b228b02
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230528T015339Z
-DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
- were met to rave reviews, the forner One Direction member, now Global Super
- star, Harry Styles is coming back to London this June for...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:ff5adfa0-4875-494c-9a1f-a96f06401439
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230528T015339Z
-DESCRIPTION:Maturity isn’t measured by years but by character. And Tom is
-  an artist whose age has no reflection on the depth of his art and story te
- lling. A bluesy, soulful tone balanced with an original...
-DTEND;VALUE=DATE:20230611
-DTSTART;VALUE=DATE:20230611
-SUMMARY:Tom Grennan @ Wembley Stadium
-UID:1f7eef4e-fbf9-475e-a9ae-7a97016511f2
+DTSTAMP:20230529T014625Z
+DESCRIPTION:Buy OneRepublic tickets from Ticketmaster IE. OneRepublic 2023-
+ 24 tour dates, event details + much more.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:OneRepublic
+UID:01d3bf09-5263-411b-b030-fc9f9237ee12
 END:VEVENT
 END:VCALENDAR
