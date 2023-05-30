@@ -3,95 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
-DESCRIPTION:Big Green Coach is delighted to be the OFFICIAL carbon neutral 
- coach travel partner to Burna Boy at London Stadium on 3rd June 2023.
+DTSTAMP:20230530T014720Z
+DESCRIPTION:We are excited to announce global superstar Burna Boy’s Love,
+  Damini Stadium concert which will take place at the London Stadium on Satu
+ rday 3rd June 2023. Burna Boy is set to become the first...
 DTEND;VALUE=DATE:20230603
 DTSTART;VALUE=DATE:20230603
 SUMMARY:Burna Boy
-UID:8655f1de-8f74-4ef3-bece-cc9ecc08fce8
+UID:d7375792-413f-4e89-86d4-8ab38bae9a41
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
+DTSTAMP:20230530T014720Z
+DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
+ dians from all over to test out material, and have fun with the audience. T
+ he night will feature games & prizes, and food available...
+DTEND;VALUE=DATE:20230531
+DTSTART;VALUE=DATE:20230531
+SUMMARY:Laugh In The Box
+UID:547311ef-9f19-453a-9fdd-07cf2ade06e1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230530T014720Z
 DESCRIPTION:For one-night-only American artist Colson Baker AKA Machine Gu
  n Kelly will perform at the Royal Albert Hall. The genre-bending artist wil
  l follow in the footsteps of the greatest musicians of all...
 DTEND;VALUE=DATE:20230531
 DTSTART;VALUE=DATE:20230531
 SUMMARY:Machine Gun Kelly
-UID:c3663094-5690-4280-bd3e-d23dd64a991d
+UID:5231fc6c-17c9-4be6-9453-47d264f1caa0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
+DTSTAMP:20230530T014720Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:880bead6-a552-4672-81f7-18281a51c6af
+UID:1f77b04d-44e5-4a18-847a-12fc0ba117ff
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
+DTSTAMP:20230530T014720Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:wet leg @ Wembley Stadium
-UID:61f0d295-d9d6-42f8-b234-7307efac5cc9
+UID:48a2813d-494f-4218-9433-c60342349207
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
+DTSTAMP:20230530T014720Z
 DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
  isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
  ards and occasionally vocals). The longevity of Pet Shop...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:c56e5eb4-daec-4940-8b41-edd2d8e964a6
+UID:a6689b12-6210-4e5c-a22b-d128f0c187a8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
+DTSTAMP:20230530T014720Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:90263ce2-6615-46a5-b3e6-86149c055a5c
+UID:da304a17-85ef-4b74-8636-84ebde8627ec
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
+DTSTAMP:20230530T014720Z
 DESCRIPTION:Crown Hotel London is set in a prime location for Wembley Stadi
  um & Arena, just an 11 minute journey on the Jubilee Line. The historic gra
  de II listed Victorian Crown building offers 152 spacious...
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard @ Wembley Stadium
-UID:9985a4f6-4105-4bf6-8717-f23502f47cd1
+UID:4128c1ce-ea56-42a0-aa70-a10849ad7a1a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
+DTSTAMP:20230530T014720Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:b4ed15e4-55ba-41ce-84fe-8055c99348e8
+UID:0f8e1a90-6209-45cf-ac98-6ec73d985fee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
+DTSTAMP:20230530T014720Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard
 DTEND;VALUE=DATE:20230611
 DTSTART;VALUE=DATE:20230611
 SUMMARY:Joel Corry
-UID:3c51c86e-7458-49cf-9c51-49da2b228b02
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230529T014625Z
-DESCRIPTION:Buy OneRepublic tickets from Ticketmaster IE. OneRepublic 2023-
- 24 tour dates, event details + much more.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:OneRepublic
-UID:01d3bf09-5263-411b-b030-fc9f9237ee12
+UID:fc97cc2a-4a3e-4dcd-9adc-0d7d3bde4832
 END:VEVENT
 END:VCALENDAR
