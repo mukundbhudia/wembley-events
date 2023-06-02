@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
+DTSTAMP:20230602T015845Z
 DESCRIPTION:We are excited to announce global superstar Burna Boy’s Love,
   Damini Stadium concert which will take place at the London Stadium on Satu
  rday 3rd June 2023. Burna Boy is set to become the first...
 DTEND;VALUE=DATE:20230603
 DTSTART;VALUE=DATE:20230603
-SUMMARY:🎤 Burna Boy Tickets
-UID:d1a0ca26-29b3-4e0e-a29c-2104ae502ee6
+SUMMARY:Burna Boy @ London Stadium
+UID:4aa00db3-d9a6-4a9a-a046-6181bf04e036
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
+DTSTAMP:20230602T015845Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:3e607ea9-3aac-41bd-a1ef-fc62bf819205
+UID:e3ea273f-5108-4226-8ed4-51f0b8a1ba6a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
-DESCRIPTION:For one-night-only American artist Colson Baker AKA Machine Gu
- n Kelly will perform at the Royal Albert Hall. The genre-bending artist wil
- l follow in the footsteps of the greatest musicians of all...
-DTEND;VALUE=DATE:20230601
-DTSTART;VALUE=DATE:20230601
-SUMMARY:Machine Gun Kelly
-UID:4b1fe474-71d5-4e50-8ab2-20515ee11966
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
+DTSTAMP:20230602T015845Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:wet leg @ Wembley Stadium
-UID:e0dbda38-4556-4bba-90cc-0c368550b805
+UID:e29c2b2b-cab5-4ac9-8fe0-5f8c89d07221
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
+DTSTAMP:20230602T015845Z
 DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
  isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
  ards and occasionally vocals). The longevity of Pet Shop...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:1bd2abac-8b43-46a9-b5cb-223b77953ad6
+UID:6c09dcaa-8d1f-4b2a-aa4b-9dd00eff8118
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:86c104b7-a323-41bd-ac81-0bee7ad939da
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
+DTSTAMP:20230602T015845Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:a40c5195-3bcb-4686-8011-c070f44a19c5
+UID:f633ce57-5b7e-46fe-b2f0-794694a92bee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
+DTSTAMP:20230602T015845Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard @ Wembley Stadium
-UID:e52bb2e2-c99d-491d-932e-30378ea2c440
+UID:dca70936-bb00-4e62-8a77-5efbed4727b5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
+DTSTAMP:20230602T015845Z
+DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
+ were met to rave reviews, the forner One Direction member, now Global Super
+ star, Harry Styles is coming back to London this June for...
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:2ab4f212-92a9-4839-8718-e7ca557793dd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T015845Z
 DESCRIPTION:Zara Larsson is a Swedish singer and songwriter. Website: http:
  //zaralarssonofficial.com/ Twitter: @ZaraLarsson Instagram: http://instagra
  m.com/ZaraLarsson Facebook...
 DTEND;VALUE=DATE:20230611
 DTSTART;VALUE=DATE:20230611
 SUMMARY:Zara Larsson @ Wembley Stadium
-UID:2fde5400-9614-415f-936e-910bd20b0d0f
+UID:bb6670f0-d2c3-455f-b9bc-323110f00347
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230601T022118Z
+DTSTAMP:20230602T015845Z
 DESCRIPTION:Grammy nominated OneRepublic, is comprised of singer/songwrite
  r and lead vocalist Ryan Tedder, guitarists Zach Filkins and Drew Brown, ke
  ys Brian Willett, bassist and cellist Brent Kutzle, and...
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:OneRepublic
-UID:b3f84844-8626-45f7-9c38-415f62e718e9
+UID:4c434f0d-fd23-46ad-82e5-c1f1d417e246
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230602T015845Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:42554e2f-048c-48c9-9efa-0e0ace0da4f2
 END:VEVENT
 END:VCALENDAR
