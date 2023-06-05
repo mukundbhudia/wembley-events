@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:0b48c02f-f2a5-49fa-aa8f-43c27494017e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230616
-DTSTART;VALUE=DATE:20230616
-SUMMARY:wet leg @ Wembley Stadium
-UID:800a2abf-4b82-4025-bfa2-293819cd83a6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
-DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
- isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
- ards and occasionally vocals). The longevity of Pet Shop...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:fd62d813-d687-48c6-8e64-891cf704acaa
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:067ed8d0-086a-4ee4-863e-50ce2a694a84
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
-DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
- re today for your exclusive VIP packages for this unmissable show.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur | Wembley Stadium
-UID:fbeca338-ec06-4df0-b1e6-1554395c4a19
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Def Leppard @ Wembley Stadium
-UID:6be9c002-9c47-4a20-99fe-241440ce03df
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
+DTSTAMP:20230605T020005Z
 DESCRIPTION:Zara Larsson is a Swedish singer and songwriter. Website: http:
  //zaralarssonofficial.com/ Twitter: @ZaraLarsson Instagram: http://instagra
  m.com/ZaraLarsson Facebook...
 DTEND;VALUE=DATE:20230611
 DTSTART;VALUE=DATE:20230611
 SUMMARY:Zara Larsson @ Wembley Stadium
-UID:7c982536-fd16-403e-976f-d6cf9ac3975e
+UID:0f0abef3-b335-4785-9faf-679c29ea24c1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
-DESCRIPTION:Grammy nominated OneRepublic, is comprised of singer/songwrite
- r and lead vocalist Ryan Tedder, guitarists Zach Filkins and Drew Brown, ke
- ys Brian Willett, bassist and cellist Brent Kutzle, and...
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:OneRepublic
-UID:f9e95682-dd60-473c-813a-18068f7f01b4
+DTSTAMP:20230605T020005Z
+DESCRIPTION:Calvin Harris (born 17 January 1984), is a Scottish singer, son
+ gwriter and record producer. He was born and grew up in Dumfries, Scotland
+ . His first album I Created Disco was released on 18 June...
+DTEND;VALUE=DATE:20230611
+DTSTART;VALUE=DATE:20230611
+SUMMARY:Calvin Harris
+UID:450348e5-a5ee-400c-a786-5cf5585e7bdc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
-DESCRIPTION:German magicians bring their illusion show to the UK. With thei
- r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
- across the UK next year! Nestled amongst the top global...
-DTEND;VALUE=DATE:20230930
-DTSTART;VALUE=DATE:20230930
-SUMMARY:The Ehrlich Brothers
-UID:67e725da-a908-4d55-8135-019e1763c72e
+DTSTAMP:20230605T020005Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230613
+DTSTART;VALUE=DATE:20230613
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:33a45403-2321-4a72-b011-c3248fe2fc77
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230604T021851Z
-DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
- were met to rave reviews, the forner One Direction member, now Global Super
- star, Harry Styles is coming back to London this June for...
+DTSTAMP:20230605T020005Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230616
+DTSTART;VALUE=DATE:20230616
+SUMMARY:wet leg @ Wembley Stadium
+UID:9af81b3f-70f9-45f7-aa88-87d2861a7796
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230605T020005Z
+DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
+ isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
+ ards and occasionally vocals). The longevity of Pet Shop...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
+SUMMARY:Pet Shop Boys
+UID:0b540215-a211-466a-9b14-435674a5fd77
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230605T020005Z
+DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
+ 023, Enquire now to secure your hospitality.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:6cbabbe5-a29b-4e26-bffb-ce129e4bcdea
+UID:65d188de-2dc7-4f4b-9501-536a09496b68
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230605T020005Z
+DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
+ re today for your exclusive VIP packages for this unmissable show.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Blur | Wembley Stadium
+UID:b39f4002-105f-46ce-90f1-6ba31602022a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230605T020005Z
+DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
+ ard and Mötley Crüe are heading to Wembley Stadium.
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:Def Leppard @ Wembley Stadium
+UID:743154d0-1cbe-48bf-a579-1cb60f37bb4f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230605T020005Z
+DESCRIPTION:Two weeks of world-class music acts perform in the stunning Tud
+ or Palace. Line-up includes Grace Jones, Kaiser Chiefs, Björn Again and Ri
+ ck Astley.
+DTEND;VALUE=DATE:20230608
+DTSTART;VALUE=DATE:20230608
+SUMMARY:Grace Jones @ Hampton Court Palace
+UID:ff9e4cf8-fb79-4d64-8fea-6927866d3250
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230605T020005Z
+DESCRIPTION:Y’all are the music, we’re just the DJS! Fatboy Slim retur
+ ns to Alexandra Palace for an epic live show on Saturday 10 June 2023. Age 
+ restriction 16+ Fatboy Slim’s shows were originally due to take...
+DTEND;VALUE=DATE:20230610
+DTSTART;VALUE=DATE:20230610
+SUMMARY:Fatboy Slim
+UID:bf9b8b1c-3645-4f7a-8585-713cea1ca4be
 END:VEVENT
 END:VCALENDAR
