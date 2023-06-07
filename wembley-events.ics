@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
+DTSTAMP:20230607T020142Z
 DESCRIPTION:Zara Larsson is a Swedish singer and songwriter. Website: http:
  //zaralarssonofficial.com/ Twitter: @ZaraLarsson Instagram: http://instagra
  m.com/ZaraLarsson Facebook...
 DTEND;VALUE=DATE:20230611
 DTSTART;VALUE=DATE:20230611
 SUMMARY:Zara Larsson @ Wembley Stadium
-UID:e392016b-4925-4d4c-a37f-384e9cb41aff
+UID:13ab7c45-f510-4eee-a256-16799d9b9bf1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
+DTSTAMP:20230607T020142Z
 DESCRIPTION:Calvin Harris (born 17 January 1984), is a Scottish singer, son
  gwriter and record producer. He was born and grew up in Dumfries, Scotland
  . His first album I Created Disco was released on 18 June...
 DTEND;VALUE=DATE:20230611
 DTSTART;VALUE=DATE:20230611
 SUMMARY:Calvin Harris
-UID:43ac5b79-e9c8-4d88-b511-e57b8696ef7d
+UID:604b50f1-a20f-4f2b-9841-f81b0a4e260f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
+DTSTAMP:20230607T020142Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:8e4be3ec-a969-410f-aa5b-1908ce903041
+UID:e3e3a4a7-b98b-4d73-b22c-17757e15e275
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
+DTSTAMP:20230607T020142Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:wet leg @ Wembley Stadium
-UID:4a2124d3-3dfd-4321-b00f-18d7073b5053
+UID:8a043d89-af05-4702-9314-42d47c816bc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
+DTSTAMP:20230607T020142Z
 DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
  isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
  ards and occasionally vocals). The longevity of Pet Shop...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:445186d5-b0e8-47aa-9832-7a9f2d99e51b
+UID:f1cd2935-8bc1-43c3-83c6-9f1918a96c7f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Def Leppard @ Wembley Stadium
-UID:bbdd0c51-89e4-4691-9c7e-a4853b1ad880
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
+DTSTAMP:20230607T020142Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:c08887ec-98e0-4d55-b37d-0d080f9da163
+UID:eabb4e3d-7641-466d-bd7b-d72c5aa2590a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
+DTSTAMP:20230607T020142Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:1f9476a5-09e6-4c98-8e28-118f70483ffe
+UID:8b3b645b-4efe-46b3-82b2-87680bd6751b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
+DTSTAMP:20230607T020142Z
 DESCRIPTION:Two weeks of world-class music acts perform in the stunning Tud
  or Palace. Line-up includes Grace Jones, Kaiser Chiefs, Björn Again and Ri
  ck Astley.
 DTEND;VALUE=DATE:20230608
 DTSTART;VALUE=DATE:20230608
 SUMMARY:Grace Jones @ Hampton Court Palace
-UID:4f2d7d8b-2bec-4e04-aab1-077535dc589e
+UID:11d5aa96-74a8-4151-a62e-f20a47161bc5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230606T020059Z
+DTSTAMP:20230607T020142Z
 DESCRIPTION:Grammy nominated OneRepublic, is comprised of singer/songwrite
  r and lead vocalist Ryan Tedder, guitarists Zach Filkins and Drew Brown, ke
  ys Brian Willett, bassist and cellist Brent Kutzle, and...
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:OneRepublic
-UID:259c3a65-90aa-4079-ae15-0179965cd3de
+UID:b3747813-5d32-4ad6-a083-d00e732e1801
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230607T020142Z
+DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
+ were met to rave reviews, the forner One Direction member, now Global Super
+ star, Harry Styles is coming back to London this June for...
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
+UID:a8af589c-986f-47b6-88f6-c11f0b90d34d
 END:VEVENT
 END:VCALENDAR
