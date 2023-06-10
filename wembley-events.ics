@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
+DTSTAMP:20230610T015057Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard
 DTEND;VALUE=DATE:20230611
 DTSTART;VALUE=DATE:20230611
 SUMMARY:Coi Leray @ Wembley Stadium
-UID:5758b9cd-776e-4a28-9801-0cc8d5478bd3
+UID:465247bb-04a2-47e8-aafe-402cd56a83bb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
+DTSTAMP:20230610T015057Z
 DESCRIPTION:Calvin Harris (born 17 January 1984), is a Scottish singer, son
  gwriter and record producer. He was born and grew up in Dumfries, Scotland
  . His first album I Created Disco was released on 18 June...
 DTEND;VALUE=DATE:20230611
 DTSTART;VALUE=DATE:20230611
 SUMMARY:Calvin Harris
-UID:1cb1b44b-37dc-43c3-95fe-abc7db24b23b
+UID:c3c2fd1e-f75c-4e89-a659-0c852902ab4e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
+DTSTAMP:20230610T015057Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230613
 DTSTART;VALUE=DATE:20230613
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:918a1ee9-2f31-48e6-82bf-82944f3fbb8a
+UID:7282afc4-e76d-484a-a400-a76f7c0af64d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
+DTSTAMP:20230610T015057Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:wet leg @ Wembley Stadium
-UID:5af4d5a0-eeb9-4461-baf2-1ebde06f801c
+UID:f871e525-f965-429f-adfe-48414cd3f239
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
+DTSTAMP:20230610T015057Z
 DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
  isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
  ards and occasionally vocals). The longevity of Pet Shop...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:34531377-ef2a-45a5-a5fc-65121ca22d03
+UID:a22edbb9-b1d2-4b48-9ac4-5ac32c5ee7bb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
+DTSTAMP:20230610T015057Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:8ecbb61f-9c35-4487-aaf3-11b8b062d77d
+UID:a66e588f-2f64-4a42-a0a3-190c53571989
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
+DTSTAMP:20230610T015057Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:ddad9915-e195-4798-b386-e5a7efa04329
+UID:f6bbf71f-c90e-4932-a64f-5cbcf70a52d1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
+DTSTAMP:20230610T015057Z
 DESCRIPTION:Grammy nominated OneRepublic, is comprised of singer/songwrite
  r and lead vocalist Ryan Tedder, guitarists Zach Filkins and Drew Brown, ke
  ys Brian Willett, bassist and cellist Brent Kutzle, and...
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:OneRepublic
-UID:cedc9508-1d9a-41bd-888e-af1f356e0143
+UID:2ea8e3d1-8da9-4e39-ae8e-caf1be26fd17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
+DTSTAMP:20230610T015057Z
 DESCRIPTION:Y’all are the music, we’re just the DJS! Fatboy Slim retur
  ns to Alexandra Palace for an epic live show on Saturday 10 June 2023. Age 
  restriction 16+ Fatboy Slim’s shows were originally due to take...
 DTEND;VALUE=DATE:20230610
 DTSTART;VALUE=DATE:20230610
 SUMMARY:Fatboy Slim
-UID:80d7f69b-e4d5-4baa-9ccf-0fbc978976ec
+UID:f629cad2-99d7-42d1-a133-f9e665cc31f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230609T020008Z
-DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
- were met to rave reviews, the forner One Direction member, now Global Super
- star, Harry Styles is coming back to London this June for...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:112eb032-f232-4bc5-8d67-7a63e6af23c8
+DTSTAMP:20230610T015057Z
+DESCRIPTION:German magicians bring their illusion show to the UK. With thei
+ r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
+ across the UK next year! Nestled amongst the top global...
+DTEND;VALUE=DATE:20230930
+DTSTART;VALUE=DATE:20230930
+SUMMARY:The Ehrlich Brothers
+UID:9a02e56c-99b8-4f39-ab1e-22b9fcb98f5d
 END:VEVENT
 END:VCALENDAR
