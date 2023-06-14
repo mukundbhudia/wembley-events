@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
+DTSTAMP:20230614T015119Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230613
-DTSTART;VALUE=DATE:20230613
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:52470be5-8aa1-47ab-aab9-8b8ff6b70f4d
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Harry Styles: Love On Tour 2023
+UID:238bbd0a-c99e-4d6d-9fcd-ad177beaf103
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
+DTSTAMP:20230614T015119Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:wet leg @ Wembley Stadium
-UID:9b796dfd-42cd-4409-ad33-3c8ad7c0a1c8
+UID:2829a8f6-a736-4171-9c9e-ebe4977fbe8c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
+DTSTAMP:20230614T015119Z
 DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
  isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
  ards and occasionally vocals). The longevity of Pet Shop...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:e18f8216-b40c-43d5-b5b5-81c979baca10
+UID:61f8eae5-846c-433d-aaa9-f041640ed975
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
-DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
- 023, Enquire now to secure your hospitality.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Wembley Stadium Hospitality - Harry Styles: Love...
-UID:976f4a0b-ab51-4c15-ac47-86ecbd6ffa0b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
-DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
- were met to rave reviews, the forner One Direction member, now Global Super
- star, Harry Styles is coming back to London this June for...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:wet leg @ Wembley Stadium
-UID:fc86943e-92f6-41d3-b4d7-7b5820b43bea
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
+DTSTAMP:20230614T015119Z
 DESCRIPTION:Grammy nominated OneRepublic, is comprised of singer/songwrite
  r and lead vocalist Ryan Tedder, guitarists Zach Filkins and Drew Brown, ke
  ys Brian Willett, bassist and cellist Brent Kutzle, and...
 DTEND;VALUE=DATE:20230614
 DTSTART;VALUE=DATE:20230614
 SUMMARY:OneRepublic
-UID:7a3115ce-f9d0-401a-9a7e-9365f6402ee9
+UID:ce9be1e6-1c2a-4ec4-b225-e8189a2f3d89
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
+DTSTAMP:20230614T015119Z
+DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
+ were met to rave reviews, the forner One Direction member, now Global Super
+ star, Harry Styles is coming back to London this June for...
+DTEND;VALUE=DATE:20230617
+DTSTART;VALUE=DATE:20230617
+SUMMARY:wet leg @ Wembley Stadium
+UID:3c11481e-9929-49c5-839b-34537e123dd0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230614T015119Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:ab99b562-521c-4222-8c33-0ad538983671
+UID:f5f7d18b-082e-4026-9448-51f3e1b35324
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
+DTSTAMP:20230614T015119Z
 DESCRIPTION:German magicians bring their illusion show to the UK. With thei
  r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
  across the UK next year! Nestled amongst the top global...
 DTEND;VALUE=DATE:20230930
 DTSTART;VALUE=DATE:20230930
 SUMMARY:The Ehrlich Brothers
-UID:1a8583b3-329b-446e-8a7c-2bd4c5c97d9d
+UID:8de566f2-e2e5-4146-8a26-68bacc8b122d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
-DESCRIPTION:Two weeks of world-class music acts perform in the stunning Tud
- or Palace. Line-up includes Grace Jones, Kaiser Chiefs, Björn Again and Ri
- ck Astley.
-DTEND;VALUE=DATE:20230614
-DTSTART;VALUE=DATE:20230614
-SUMMARY:Tom Jones @ Hampton Court Palace
-UID:c689ca3e-d7ec-466d-a30b-6ed5237b1cfd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230613T015157Z
+DTSTAMP:20230614T015119Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:6e19ab81-c112-46d0-a3c8-8c957af96b42
+UID:f0a0e7a2-40f0-40ac-a635-19e381d174c9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230614T015119Z
+DESCRIPTION:Two weeks of world-class music acts perform in the stunning Tud
+ or Palace. Line-up includes Grace Jones, Kaiser Chiefs, Björn Again and Ri
+ ck Astley.
+DTEND;VALUE=DATE:20230614
+DTSTART;VALUE=DATE:20230614
+SUMMARY:Tom Jones @ Hampton Court Palace
+UID:2d9548f9-00ca-46de-bd45-c73a7d5887ac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230614T015119Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:67ae24c0-a65e-4e20-bcaf-d4cf2ffdca83
 END:VEVENT
 END:VCALENDAR
