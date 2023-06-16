@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
+DTSTAMP:20230616T015110Z
 DESCRIPTION:Harry Styles is bringing his world tour to Wembley Stadium in 2
  023, Enquire now to secure your hospitality.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:wet leg @ Wembley Stadium
-UID:1e9efd18-cfb5-47a6-a154-2d6ccd7e5c41
+UID:3ada482c-09a3-4b32-8d42-deb6d9b5d0ff
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
+DTSTAMP:20230616T015110Z
 DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
  isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
  ards and occasionally vocals). The longevity of Pet Shop...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:Pet Shop Boys
-UID:5b3ef360-4019-43dd-80b1-8b2bba36d9a9
+UID:b6cb4b7c-0b42-4763-bcb7-faa6afccb7b0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
+DTSTAMP:20230616T015110Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:16a3f1b3-4f5f-49b2-b69f-59403e3a81d5
+UID:fdc34ed7-766a-42bb-94a1-e507806cb878
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
+DTSTAMP:20230616T015110Z
 DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
  were met to rave reviews, the forner One Direction member, now Global Super
  star, Harry Styles is coming back to London this June for...
 DTEND;VALUE=DATE:20230617
 DTSTART;VALUE=DATE:20230617
 SUMMARY:wet leg @ Wembley Stadium
-UID:9a71d4ab-401a-4945-bd8c-7723414d80c0
+UID:2bdd139d-bf66-42ba-b6d9-0cfe66597e40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
+DTSTAMP:20230616T015110Z
 DESCRIPTION:German magicians bring their illusion show to the UK. With thei
  r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
  across the UK next year! Nestled amongst the top global...
 DTEND;VALUE=DATE:20230930
 DTSTART;VALUE=DATE:20230930
 SUMMARY:The Ehrlich Brothers
-UID:21ed1462-62d4-4718-850d-bce214cdfe81
+UID:25442860-c29b-4f10-8d24-c120ae8a021b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
+DTSTAMP:20230616T015110Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:db921105-0020-459a-a7a9-febd05326fb8
+UID:f06a57a3-ad17-4f9c-af89-06d5b4c79fdb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
+DTSTAMP:20230616T015110Z
 DESCRIPTION:Two weeks of world-class music acts perform in the stunning Tud
  or Palace. Line-up includes Grace Jones, Kaiser Chiefs, Björn Again and Ri
  ck Astley.
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:Hampton Court Palace Festival
-UID:fc01a6d0-14d6-4ad2-9099-458591e167d0
+UID:d4316ef0-66d7-4c06-9eb9-5b7111ae6451
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
+DTSTAMP:20230616T015110Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:aa0ca7ce-0217-495d-b945-fde416676f80
+UID:427a0307-0daa-4863-b3e7-85ce67a4f9d1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
+DTSTAMP:20230616T015110Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:2d4df2ee-ce71-4017-9ac7-9aac058bb6b2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230616T015110Z
 DESCRIPTION:Tenacious D (often referred to as "The D" and sometimes introdu
  ced as "The Greatest Band in the world. Period.") is an American satirical 
  rock duo formed by musicians and actors Kyle Gass and Jack...
 DTEND;VALUE=DATE:20230616
 DTSTART;VALUE=DATE:20230616
 SUMMARY:TENACIOUS D
-UID:db183006-bdfb-40bb-937a-735479de5c17
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230615T014936Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:The Weeknd: After Hours til Dawn Tour
-UID:a4683edc-d4b6-411f-ac11-a227ee780f07
+UID:9522fbb2-c00d-4cc3-9c4a-77a48b7ab034
 END:VEVENT
 END:VCALENDAR
