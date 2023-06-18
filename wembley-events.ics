@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
-DESCRIPTION:The Pet Shop Boys are an English electronic/pop music duo, cons
- isting of Neil Tennant (vocals, keyboards and guitar) and Chris Lowe (keybo
- ards and occasionally vocals). The longevity of Pet Shop...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Pet Shop Boys
-UID:9c81fd0a-bfaa-40f3-9f2f-cb92eb38ea9c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
-DESCRIPTION:After two sold out performances at Wembley Stadium last summer 
- were met to rave reviews, the forner One Direction member, now Global Super
- star, Harry Styles is coming back to London this June for...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:Harry Styles
-UID:256ff11f-7595-4311-b30d-3eff7cfbd3ac
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
+DTSTAMP:20230618T020436Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe
-UID:7941ca5d-34b5-4f1d-a831-f6a31584f725
+UID:38c77095-b26b-4eae-b9b6-a6ab2fc5b6e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
+DTSTAMP:20230618T020436Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:48b64391-a510-49cb-a0a7-4fd55af2cbf5
+UID:f23abf38-4b59-45b9-9d58-9e48a0be3641
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
+DTSTAMP:20230618T020436Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:806aa14e-ef69-423b-9772-6c9aac4b6e91
+UID:1625f4d8-9d4e-4256-a0d8-4421972325d5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
-DESCRIPTION:German magicians bring their illusion show to the UK. With thei
- r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
- across the UK next year! Nestled amongst the top global...
-DTEND;VALUE=DATE:20230930
-DTSTART;VALUE=DATE:20230930
-SUMMARY:The Ehrlich Brothers
-UID:0ec9a1b6-1bb4-4426-b6fe-b0ace454a8f6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
+DTSTAMP:20230618T020436Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:ca911561-476a-4f20-9e99-ac00845ab9fb
+UID:4625fa85-f406-4d69-81fe-3f12e4fdcf79
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
-DESCRIPTION:Tenacious D (often referred to as "The D" and sometimes introdu
- ced as "The Greatest Band in the world. Period.") is an American satirical 
- rock duo formed by musicians and actors Kyle Gass and Jack...
-DTEND;VALUE=DATE:20230617
-DTSTART;VALUE=DATE:20230617
-SUMMARY:TENACIOUS D
-UID:5890109d-2233-4917-b648-225438edf5a0
+DTSTAMP:20230618T020436Z
+DESCRIPTION:German magicians bring their illusion show to the UK. With thei
+ r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
+ across the UK next year! Nestled amongst the top global...
+DTEND;VALUE=DATE:20230930
+DTSTART;VALUE=DATE:20230930
+SUMMARY:The Ehrlich Brothers
+UID:b5c301f8-5229-4bce-947b-40ce77f02dc8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
+DTSTAMP:20230618T020436Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:4436ccfe-5bed-44bd-b30e-26bc662fbcf2
+UID:a4dcce0f-f9be-4fbb-bfbd-8771b910f4da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230617T014659Z
+DTSTAMP:20230618T020436Z
 DESCRIPTION:50 Cent, Busta Rhymes, and Jeremih at OVO Arena at 2023-11-17T1
  8:00:00+0000
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent
-UID:8c783567-308c-4696-a819-a42db7d29606
+UID:916deafc-f0a8-4839-bcc2-f2c3091588bd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230618T020436Z
+DESCRIPTION:Ranjit Bawa is an Indian singer, actor, and television presente
+ r who works in Punjabi cinema. He is finally back after seven years "Proud 
+ to be part of the reopening of The Halls Wolverhampton" as...
+DTEND;VALUE=DATE:20230618
+DTSTART;VALUE=DATE:20230618
+SUMMARY:Ranjit Bawa
+UID:a219ebf9-1e64-4651-bfa5-c16c3db33c52
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230618T020436Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230812
+DTSTART;VALUE=DATE:20230812
+SUMMARY:Adnan Sami - Live in Concert
+UID:930c8b46-f874-490d-8b03-d68ada9d413b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230618T020436Z
+DESCRIPTION:Our car park will be opening for the Depeche Mode concert at Tw
+ ickenham Stadium. We're just under a mile away from Twickenham Stadium- aro
+ und a 10-15 minute walk. Car park will open 30 minutes...
+DTEND;VALUE=DATE:20230618
+DTSTART;VALUE=DATE:20230618
+SUMMARY:Depeche Mode
+UID:13679287-919e-4110-ac1f-a38c7b2487dc
 END:VEVENT
 END:VCALENDAR
