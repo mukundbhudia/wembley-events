@@ -3,99 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
+DTSTAMP:20230619T015143Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe
-UID:38c77095-b26b-4eae-b9b6-a6ab2fc5b6e2
+UID:2ebdaeee-2be3-477b-ad99-b1b6b9956cc7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
+DTSTAMP:20230619T015143Z
+DESCRIPTION:He has had over a billion global streams, supported and toured 
+ with Niall Horan, Sam Smith and Ed Sheeran, even BTS’s Jimin is a fan…
+ ….! His early gigs saw Sunday nights at The Old Storehouse in...
+DTEND;VALUE=DATE:20230623
+DTSTART;VALUE=DATE:20230623
+SUMMARY:Gavin James at Glastonbury Festivals (June 23, 2023)
+UID:42db8434-0858-49b5-a438-378fc8f141b0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230619T015143Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:f23abf38-4b59-45b9-9d58-9e48a0be3641
+UID:db52fcbc-0533-4f9f-aa36-2c4180c2b1b6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
+DTSTAMP:20230619T015143Z
+DESCRIPTION:‘UK GARAGE ALL STARS have announced that the UK tour schedule
+ d for June this year will be rescheduled to 2024. Since the dates were anno
+ unced last month, there has been such a wave of love and...
+DTEND;VALUE=DATE:20230624
+DTSTART;VALUE=DATE:20230624
+SUMMARY:UK GARAGE ALL STARS
+UID:eab3609c-7330-4ec9-b301-7833325b119b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230619T015143Z
+DESCRIPTION:British Summer Time Hyde Park is a music festival held over tw
+ o weekends once a year in London's Hyde Park.
+DTEND;VALUE=DATE:20230625
+DTSTART;VALUE=DATE:20230625
+SUMMARY:British Summer Time Festival 2023
+UID:70a8309e-2e71-4864-a7c6-19684af31233
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230619T015143Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20230624
+DTSTART;VALUE=DATE:20230624
+SUMMARY:So Solid Crew
+UID:0f2ed146-f7b2-42e0-8e94-59acaa3ec711
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230619T015143Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:1625f4d8-9d4e-4256-a0d8-4421972325d5
+UID:d5f8933b-5eec-4490-ba9e-360a3b30b13d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230707
-DTSTART;VALUE=DATE:20230707
-SUMMARY:Ana Gabriel
-UID:4625fa85-f406-4d69-81fe-3f12e4fdcf79
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
+DTSTAMP:20230619T015143Z
 DESCRIPTION:German magicians bring their illusion show to the UK. With thei
  r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
  across the UK next year! Nestled amongst the top global...
 DTEND;VALUE=DATE:20230930
 DTSTART;VALUE=DATE:20230930
 SUMMARY:The Ehrlich Brothers
-UID:b5c301f8-5229-4bce-947b-40ce77f02dc8
+UID:58b61945-3ce5-47b9-9830-60fdcfbe74b2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
+DTSTAMP:20230619T015143Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230707
+DTSTART;VALUE=DATE:20230707
+SUMMARY:Ana Gabriel
+UID:6e6929ba-40f7-44e3-9e3b-b76c24e7c8e9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230619T015143Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:a4dcce0f-f9be-4fbb-bfbd-8771b910f4da
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
-DESCRIPTION:50 Cent, Busta Rhymes, and Jeremih at OVO Arena at 2023-11-17T1
- 8:00:00+0000
-DTEND;VALUE=DATE:20231117
-DTSTART;VALUE=DATE:20231117
-SUMMARY:50 Cent
-UID:916deafc-f0a8-4839-bcc2-f2c3091588bd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
-DESCRIPTION:Ranjit Bawa is an Indian singer, actor, and television presente
- r who works in Punjabi cinema. He is finally back after seven years "Proud 
- to be part of the reopening of The Halls Wolverhampton" as...
-DTEND;VALUE=DATE:20230618
-DTSTART;VALUE=DATE:20230618
-SUMMARY:Ranjit Bawa
-UID:a219ebf9-1e64-4651-bfa5-c16c3db33c52
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230812
-DTSTART;VALUE=DATE:20230812
-SUMMARY:Adnan Sami - Live in Concert
-UID:930c8b46-f874-490d-8b03-d68ada9d413b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230618T020436Z
-DESCRIPTION:Our car park will be opening for the Depeche Mode concert at Tw
- ickenham Stadium. We're just under a mile away from Twickenham Stadium- aro
- und a 10-15 minute walk. Car park will open 30 minutes...
-DTEND;VALUE=DATE:20230618
-DTSTART;VALUE=DATE:20230618
-SUMMARY:Depeche Mode
-UID:13679287-919e-4110-ac1f-a38c7b2487dc
+UID:bc0a77a5-b43d-4ed9-a9f3-da6812388631
 END:VEVENT
 END:VCALENDAR
