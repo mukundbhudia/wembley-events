@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
+DTSTAMP:20230621T014708Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe
-UID:85bf30fa-f2cd-4699-b06a-d852c859de84
+UID:8e6ce3f3-4dd3-4b94-87aa-60e425cacc4f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
+DTSTAMP:20230621T014708Z
 DESCRIPTION:He has had over a billion global streams, supported and toured 
  with Niall Horan, Sam Smith and Ed Sheeran, even BTS’s Jimin is a fan…
  ….! His early gigs saw Sunday nights at The Old Storehouse in...
 DTEND;VALUE=DATE:20230623
 DTSTART;VALUE=DATE:20230623
 SUMMARY:Gavin James at Glastonbury Festivals (June 23, 2023)
-UID:3681444d-c029-4e2d-bdc9-3ec6b62f19b2
+UID:568c2c65-ee07-440d-9a87-f7ae71f0dd8b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
+DTSTAMP:20230621T014708Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:1a2b97b5-6ebe-4412-9ef0-335dc8b91f0f
+UID:a0028342-d48f-4633-839c-3237ca617eff
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
+DTSTAMP:20230621T014708Z
 DESCRIPTION:‘UK GARAGE ALL STARS have announced that the UK tour schedule
  d for June this year will be rescheduled to 2024. Since the dates were anno
  unced last month, there has been such a wave of love and...
 DTEND;VALUE=DATE:20230624
 DTSTART;VALUE=DATE:20230624
 SUMMARY:UK GARAGE ALL STARS
-UID:af8e66c5-e904-47dd-9a71-f1365427f86a
+UID:060e3ab2-9555-402f-85ae-442207765284
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
+DTSTAMP:20230621T014708Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20230624
 DTSTART;VALUE=DATE:20230624
 SUMMARY:So Solid Crew
-UID:4073ae5d-26c0-4e68-b33d-1293fedafdc8
+UID:106de503-60b5-4122-845f-2b53b0c1a8c6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
+DTSTAMP:20230621T014708Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:b7716029-443d-4892-bac3-ff55480f4472
+UID:d1a44adc-79a8-4124-a9af-7f5b1c485ecd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
-DESCRIPTION:German magicians bring their illusion show to the UK. With thei
- r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
- across the UK next year! Nestled amongst the top global...
-DTEND;VALUE=DATE:20230930
-DTSTART;VALUE=DATE:20230930
-SUMMARY:The Ehrlich Brothers
-UID:568052eb-3086-4fc6-b792-62de23d9d386
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
+DTSTAMP:20230621T014708Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:33dd3359-f487-4df0-9c3d-b0c000d74d96
+UID:475ea0a5-c855-4d25-84b3-b592d878bb5b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
+DTSTAMP:20230621T014708Z
+DESCRIPTION:German magicians bring their illusion show to the UK. With thei
+ r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
+ across the UK next year! Nestled amongst the top global...
+DTEND;VALUE=DATE:20230930
+DTSTART;VALUE=DATE:20230930
+SUMMARY:The Ehrlich Brothers
+UID:20984cfe-7c2d-4632-ace6-ea761be7d377
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230621T014708Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:9d39c6ec-9512-46b3-840f-2d5ebbf198c1
+UID:fd4ece5b-916a-4cf6-ab86-14b54e34c10a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230620T014553Z
+DTSTAMP:20230621T014708Z
 DESCRIPTION:50 Cent, Busta Rhymes, and Jeremih at OVO Arena at 2023-11-17T1
  8:00:00+0000
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent
-UID:2c4a8138-2c57-4efc-af4f-a60a15fa0bb7
+UID:922f0e6f-62d6-4045-83dd-e1bf4f9b63c1
 END:VEVENT
 END:VCALENDAR
