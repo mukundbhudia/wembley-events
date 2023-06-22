@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
+DTSTAMP:20230622T015202Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe
-UID:8e6ce3f3-4dd3-4b94-87aa-60e425cacc4f
+UID:8db9e33d-73b2-4893-b0b0-94c151ecc598
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
-DESCRIPTION:He has had over a billion global streams, supported and toured 
- with Niall Horan, Sam Smith and Ed Sheeran, even BTS’s Jimin is a fan…
- ….! His early gigs saw Sunday nights at The Old Storehouse in...
-DTEND;VALUE=DATE:20230623
-DTSTART;VALUE=DATE:20230623
-SUMMARY:Gavin James at Glastonbury Festivals (June 23, 2023)
-UID:568c2c65-ee07-440d-9a87-f7ae71f0dd8b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
+DTSTAMP:20230622T015202Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:a0028342-d48f-4633-839c-3237ca617eff
+UID:49ed9afd-28f9-46e2-9e30-0a8dd73768a1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
+DTSTAMP:20230622T015202Z
 DESCRIPTION:‘UK GARAGE ALL STARS have announced that the UK tour schedule
  d for June this year will be rescheduled to 2024. Since the dates were anno
  unced last month, there has been such a wave of love and...
 DTEND;VALUE=DATE:20230624
 DTSTART;VALUE=DATE:20230624
 SUMMARY:UK GARAGE ALL STARS
-UID:060e3ab2-9555-402f-85ae-442207765284
+UID:4417a98b-9686-4dfb-9c2b-9a84f0e82eb0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20230624
-DTSTART;VALUE=DATE:20230624
-SUMMARY:So Solid Crew
-UID:106de503-60b5-4122-845f-2b53b0c1a8c6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
+DTSTAMP:20230622T015202Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:d1a44adc-79a8-4124-a9af-7f5b1c485ecd
+UID:39966b24-3666-4612-93ba-775a0df2c779
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
+DTSTAMP:20230622T015202Z
+DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
+ wsies tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20230624
+DTSTART;VALUE=DATE:20230624
+SUMMARY:Newsies
+UID:ef44a3c4-c368-4f75-b5b8-1800af37ccad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230622T015202Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:475ea0a5-c855-4d25-84b3-b592d878bb5b
+UID:26c33ed1-d86c-49f4-bab9-8e31ee5623ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
+DTSTAMP:20230622T015202Z
 DESCRIPTION:German magicians bring their illusion show to the UK. With thei
  r new show FASCINATION, the Ehrlich Brothers will spread their magic fever 
  across the UK next year! Nestled amongst the top global...
 DTEND;VALUE=DATE:20230930
 DTSTART;VALUE=DATE:20230930
 SUMMARY:The Ehrlich Brothers
-UID:20984cfe-7c2d-4632-ace6-ea761be7d377
+UID:afb849de-c423-4307-a35a-b8e361b44dd5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
+DTSTAMP:20230622T015202Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:fd4ece5b-916a-4cf6-ab86-14b54e34c10a
+UID:1c099904-5a46-4c06-96e3-473fa490584f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230621T014708Z
-DESCRIPTION:50 Cent, Busta Rhymes, and Jeremih at OVO Arena at 2023-11-17T1
- 8:00:00+0000
+DTSTAMP:20230622T015202Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent
-UID:922f0e6f-62d6-4045-83dd-e1bf4f9b63c1
+UID:124dd287-a7b3-455e-a60a-9e7c837dbdeb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230622T015202Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20230624
+DTSTART;VALUE=DATE:20230624
+SUMMARY:So Solid Crew - London - OVO Arena Wembley - Jun...
+UID:1bca738c-3865-47a1-b7fd-ac30500897c1
 END:VEVENT
 END:VCALENDAR
