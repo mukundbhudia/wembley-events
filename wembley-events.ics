@@ -3,97 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
+DTSTAMP:20230624T020123Z
 DESCRIPTION:Our Resident DJs play the biggest and best tracks in Hip-Hop, E
  lectronic, R&B, Pop and Disco every Saturday to guarantee you're dancing al
  l day long! A﻿TRIUM DJS - 12pm-11pm B﻿EATBOX DJS - 8pm-1am...
 DTEND;VALUE=DATE:20230624
 DTSTART;VALUE=DATE:20230624
 SUMMARY:COORS PRESENTS: SATURDAY SESSIONS
-UID:2d899a4f-e932-4443-aa80-b246fe273812
+UID:714e92b2-826a-4be1-bc16-c321c72339ce
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
+DTSTAMP:20230624T020123Z
+DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
+ re today for your exclusive VIP packages for this unmissable show.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:Blur | Wembley Stadium
+UID:5766887f-5d38-44ca-9bef-06636b778f42
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230624T020123Z
 DESCRIPTION:‘UK GARAGE ALL STARS have announced that the UK tour schedule
  d for June this year will be rescheduled to 2024. Since the dates were anno
  unced last month, there has been such a wave of love and...
 DTEND;VALUE=DATE:20230624
 DTSTART;VALUE=DATE:20230624
 SUMMARY:UK GARAGE ALL STARS
-UID:c5d600f5-1c3f-47f3-8658-04ec09da159d
+UID:04ee6369-5052-4e79-849d-e67da01eb3c6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
-DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
- re today for your exclusive VIP packages for this unmissable show.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur | Wembley Stadium
-UID:80d8d865-c9d6-44b2-aa4b-d5d28c8a92b9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
-DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
- wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230624
-DTSTART;VALUE=DATE:20230624
-SUMMARY:Newsies
-UID:f31264d8-d6de-4b59-b12c-20892cddd29f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
+DTSTAMP:20230624T020123Z
 DESCRIPTION:Def Leppard & Motley Crue VENUE: Wembley Stadium - London, GL D
  ATE: 01 July, 2023, 05:45 PM
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:c002c3a4-ad84-4456-a97c-d25355a60f5c
+UID:ca385011-7f5c-43e6-9ed8-856061e550fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
+DTSTAMP:20230624T020123Z
+DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
+ wsies tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20230624
+DTSTART;VALUE=DATE:20230624
+SUMMARY:Newsies
+UID:25af701d-aac0-48a4-a188-d4581858475b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230624T020123Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:311f06ec-7d3a-47e3-9507-619eefb8d438
+UID:e076052c-0fea-4811-82ec-8fcbd13af243
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:05285053-3811-46c6-ba27-afecd03f94ab
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
+DTSTAMP:20230624T020123Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:4da81b76-7d35-4d25-a143-7aa5ed39767f
+UID:53f8b14c-10bd-4b5d-8afd-af35b365b022
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
+DTSTAMP:20230624T020123Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent
-UID:26e60f2c-be3f-457c-914a-1423b5c5eb1b
+UID:9fa01899-ce5c-4e40-a8aa-f3f18ea6d9e6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230623T020252Z
-DESCRIPTION:
+DTSTAMP:20230624T020123Z
+DESCRIPTION:Friday Feelings is back at BOXPARK Wembley in conjunction with 
+ Coors Light
 DTEND;VALUE=DATE:20230624
 DTSTART;VALUE=DATE:20230624
-SUMMARY:So Solid Crew - London - OVO Arena Wembley - Jun...
-UID:b0679700-3156-4732-a8a2-acb183ec01af
+SUMMARY:Coors Light Presents: Friday Feelings
+UID:bccf50d7-2016-40d9-947b-dae8a06266bb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230624T020123Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:28fc01e3-7a23-43e8-bf9b-2dd86c2974a5
 END:VEVENT
 END:VCALENDAR
