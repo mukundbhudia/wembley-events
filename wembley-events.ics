@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
-DESCRIPTION:Our Resident DJs play the biggest and best tracks in Hip-Hop, E
- lectronic, R&B, Pop and Disco every Saturday to guarantee you're dancing al
- l day long! A﻿TRIUM DJS - 12pm-11pm B﻿EATBOX DJS - 8pm-1am...
-DTEND;VALUE=DATE:20230625
-DTSTART;VALUE=DATE:20230625
-SUMMARY:COORS PRESENTS: SATURDAY SESSIONS
-UID:20b30707-6c85-495f-88b9-dd27049021c5
+DTSTAMP:20230626T020657Z
+DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
+ ard and Mötley Crüe are heading to Wembley Stadium.
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:Def Leppard & Mötley Crüe: The World Tour
+UID:4c6c52b3-f804-45eb-adf1-19bbfba70879
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
+DTSTAMP:20230626T020657Z
+DESCRIPTION:A brand-new comedy show is heading to Troubadour Wembley Park T
+ heatre on Saturday 1st July with headline act, Phil Wang.
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:Live At Wembley Park with Phil Wang
+UID:5656d9c4-dd94-4bb1-8b01-5aa71728dc0f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230626T020657Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:75b46d53-5234-4133-a716-41437c7e6648
+UID:675de271-56aa-41a5-8bd9-219555b63885
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
-DESCRIPTION:‘UK GARAGE ALL STARS have announced that the UK tour schedule
- d for June this year will be rescheduled to 2024. Since the dates were anno
- unced last month, there has been such a wave of love and...
-DTEND;VALUE=DATE:20230625
-DTSTART;VALUE=DATE:20230625
-SUMMARY:UK GARAGE ALL STARS
-UID:1a5d79fb-fa0e-465e-8d9c-d22d2ee89a5a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
-DESCRIPTION:Def Leppard & Motley Crue VENUE: Wembley Stadium - London, GL D
- ATE: 01 July, 2023, 05:45 PM
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:95e06094-01b9-4e79-8619-af0aa8342839
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
+DTSTAMP:20230626T020657Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:5dcb93ff-75bb-4e46-a6c2-161b15a49ade
+UID:8c54e83e-379f-4c07-938b-eb3589aaf7f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:e3d505cf-3419-4527-bd2f-9fc24c31c1c8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
+DTSTAMP:20230626T020657Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:f18b58cc-9275-43be-89ef-a1a035786d09
+UID:cd15ff72-cb2d-436b-80b2-a9c256d6c860
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230909
-DTSTART;VALUE=DATE:20230909
-SUMMARY:2023 (G)I-DLE World Tour (I am FREE-TY) in Europe
-UID:b0625f0a-c6d0-42c8-a4ef-5628d42b33bd
+DTSTAMP:20230626T020657Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:fe590339-24ae-49df-8a4f-b4341999ff96
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
+DTSTAMP:20230626T020657Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent
-UID:2eabf040-ddf8-4b21-b52a-faca30af640f
+UID:dd6ee368-b289-44c3-b164-577fa25dab84
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230625T021901Z
+DTSTAMP:20230626T020657Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230909
+DTSTART;VALUE=DATE:20230909
+SUMMARY:2023 (G)I-DLE World Tour (I am FREE-TY) in Europe
+UID:f0aad14b-a5f6-4977-b0a3-31119a620edb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230626T020657Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:9807c671-f0f9-4b6e-9a9a-20d71f5b925d
+UID:6559cba5-c3d2-45aa-838d-1116b5411c8a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230626T020657Z
+DESCRIPTION:BST Hyde Park presents a series of concerts across several summ
+ er weekends in leafy surrounds in London. Started in 2013, the event has gr
+ own rapidly thanks to performances from some of the most...
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:American Express BST Hyde Park - Take That
+UID:128c0c0a-20ab-49be-b1a5-9b90dce3527d
 END:VEVENT
 END:VCALENDAR
