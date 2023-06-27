@@ -3,99 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
+DTSTAMP:20230627T020455Z
 DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
  ard and Mötley Crüe are heading to Wembley Stadium.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:4c6c52b3-f804-45eb-adf1-19bbfba70879
+UID:5415b69f-e779-4859-889f-95542534e198
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
-DESCRIPTION:A brand-new comedy show is heading to Troubadour Wembley Park T
- heatre on Saturday 1st July with headline act, Phil Wang.
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Live At Wembley Park with Phil Wang
-UID:5656d9c4-dd94-4bb1-8b01-5aa71728dc0f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
+DTSTAMP:20230627T020455Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:675de271-56aa-41a5-8bd9-219555b63885
+UID:941fd3df-3c7f-48e2-90b6-ca3e9f5b1de6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
+DTSTAMP:20230627T020455Z
+DESCRIPTION:A brand-new comedy show is heading to Troubadour Wembley Park T
+ heatre on Saturday 1st July with headline act, Phil Wang.
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:Live At Wembley Park with Phil Wang
+UID:1c3b1596-1244-4f3c-b66a-5c6b4644e2f2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230627T020455Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:8c54e83e-379f-4c07-938b-eb3589aaf7f8
+UID:94f18ce4-c433-4ba3-8e72-46c9b7012c23
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:cd15ff72-cb2d-436b-80b2-a9c256d6c860
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
+DTSTAMP:20230627T020455Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:fe590339-24ae-49df-8a4f-b4341999ff96
+UID:d371a6d3-8a44-4111-84ee-41d0ac732feb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
+DTSTAMP:20230627T020455Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent
-UID:dd6ee368-b289-44c3-b164-577fa25dab84
+UID:e805edc5-df5d-4d4d-b62e-2f24199f2e32
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
+DTSTAMP:20230627T020455Z
+DESCRIPTION:Ticket for Take That at British Summer Time Hyde Park with The 
+ Script, Sugababes and Will Young
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:American Express BST Hyde Park - Take That
+UID:743282fd-0c9b-40b8-b726-25337e600c16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230627T020455Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230909
 DTSTART;VALUE=DATE:20230909
 SUMMARY:2023 (G)I-DLE World Tour (I am FREE-TY) in Europe
-UID:f0aad14b-a5f6-4977-b0a3-31119a620edb
+UID:247a22ac-c6af-4f18-a6f0-caefee1d32e9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
+DTSTAMP:20230627T020455Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:6559cba5-c3d2-45aa-838d-1116b5411c8a
+UID:7e99dbdf-8e6e-4a74-814f-bca45dd36843
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230626T020657Z
-DESCRIPTION:BST Hyde Park presents a series of concerts across several summ
- er weekends in leafy surrounds in London. Started in 2013, the event has gr
- own rapidly thanks to performances from some of the most...
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:American Express BST Hyde Park - Take That
-UID:128c0c0a-20ab-49be-b1a5-9b90dce3527d
+DTSTAMP:20230627T020455Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230812
+DTSTART;VALUE=DATE:20230812
+SUMMARY:Adnan Sami - Live in Concert
+UID:ce6b1e0f-d74e-4a2b-b083-82eee5e60003
 END:VEVENT
 END:VCALENDAR
