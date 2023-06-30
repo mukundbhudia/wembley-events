@@ -3,88 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230629T015924Z
+DTSTAMP:20230630T015757Z
 DESCRIPTION:Def Leppard & Motley Crue VENUE: Wembley Stadium - London, GL D
  ATE: 01 July, 2023, 05:45 PM
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:2ca9616d-b94d-4352-9926-dce8c53e7a38
+UID:6251c60d-8cc7-40d3-8c55-7dd80f452eb8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230629T015924Z
+DTSTAMP:20230630T015757Z
 DESCRIPTION:A brand-new comedy show is heading to Troubadour Wembley Park T
  heatre on Saturday 1st July with headline act, Phil Wang.
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
 SUMMARY:Live At Wembley Park with Phil Wang
-UID:28bbbfd2-4fdc-4cfc-b68e-e37f63adc75c
+UID:b1859689-53c7-4233-bf91-250ff90d9cad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230629T015924Z
+DTSTAMP:20230630T015757Z
+DESCRIPTION:Take That, P!nk, Bruce Springsteen and Lana Del Rey are among t
+ he headliners confirmed for BST Hyde Park 2023. Here's who's playing and wh
+ en
+DTEND;VALUE=DATE:20230630
+DTSTART;VALUE=DATE:20230630
+SUMMARY:BST Hyde Park 2023
+UID:4ace849b-df9e-447c-bc6d-e61d598bc44b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230630T015757Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:8bc27711-df63-4aa9-bad4-1a8601aaf7d2
+UID:fc659480-be7f-4b15-bb28-a25056696e5e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230629T015924Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:bb7c5413-6d58-4a65-bbe6-2ceef22d1158
+DTSTAMP:20230630T015757Z
+DESCRIPTION:Last.fm concert page for Pulp at Finsbury Park (London) on Jul
+ y 1, 2023. Discuss the gig, get concert tickets, see who's attending, find 
+ similar events.
+DTEND;VALUE=DATE:20230701
+DTSTART;VALUE=DATE:20230701
+SUMMARY:Pulp Finsbury Park
+UID:a12e0a04-da2a-4fea-9b9d-c718acd5a233
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230629T015924Z
+DTSTAMP:20230630T015757Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:6d390198-7d89-4e9b-9401-fbe21cd10d1a
+UID:0a3c5cd4-b1fc-4b38-a816-fde49cd0ee53
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230629T015924Z
-DESCRIPTION:It's been an exciting fixture in London's musical calendar sinc
- e 2013, and it's back with a line-up of some of the biggest stars on the pl
- anet. Taking place across weekends in June and July, Hyde...
-DTEND;VALUE=DATE:20230629
-DTSTART;VALUE=DATE:20230629
-SUMMARY:BST Hyde Park 2023
-UID:16294253-0f56-472d-ad64-cd6ce641ab31
+DTSTAMP:20230630T015757Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:6704f2e3-3b8e-4b13-b1c8-bc8d774ac141
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230629T015924Z
+DTSTAMP:20230630T015757Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent
-UID:e222725a-a919-42ce-84a4-f010de05a347
+UID:73751058-c46a-401b-bf66-b665044db4b1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230629T015924Z
+DTSTAMP:20230630T015757Z
 DESCRIPTION:Ticket for Take That at British Summer Time Hyde Park with The 
  Script, Sugababes and Will Young
 DTEND;VALUE=DATE:20230701
 DTSTART;VALUE=DATE:20230701
-SUMMARY:American Express BST Hyde Park - Take That
-UID:f67a7694-0b64-46d9-a7fd-11516e65592b
+SUMMARY:Take That
+UID:6855d76e-ef7b-407c-b907-b2c31c040bd3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230629T015924Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230812
-DTSTART;VALUE=DATE:20230812
-SUMMARY:Adnan Sami - Live in Concert
-UID:b815c120-9b31-48b3-b1d5-b191a9cc8275
+DTSTAMP:20230630T015757Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:4d415bc5-cbec-4f58-a14e-3b427305c4b5
 END:VEVENT
 END:VCALENDAR
