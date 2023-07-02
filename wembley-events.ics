@@ -3,98 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
-DESCRIPTION:The world’s most iconic and celebrated rock legends Def Lepp
- ard and Mötley Crüe are heading to Wembley Stadium.
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Def Leppard & Mötley Crüe: The World Tour
-UID:1163feb9-0045-4fc9-863b-894af34d9202
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
+DTSTAMP:20230702T021615Z
 DESCRIPTION:A brand-new comedy show is heading to Troubadour Wembley Park T
  heatre on Saturday 1st July with headline act, Phil Wang.
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Live At Wembley Park with Phil Wang
-UID:8678be87-40b5-40d6-8cfb-e876afd25c92
+DTEND;VALUE=DATE:20230702
+DTSTART;VALUE=DATE:20230702
+SUMMARY:Phil Wang @ Troubadour Wembley Park Theatre
+UID:08a6df0b-2863-4dce-8961-ab8bc312cb9d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
-DESCRIPTION:Last.fm concert page for Pulp at Finsbury Park (London) on Jul
- y 1, 2023. Discuss the gig, get concert tickets, see who's attending, find 
- similar events.
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Pulp
-UID:bc57bd0f-8ebc-4124-8c6f-ebe6a3a8a1c4
+DTSTAMP:20230702T021615Z
+DESCRIPTION:Take That, P!nk, Bruce Springsteen and Lana Del Rey are among t
+ he headliners confirmed for BST Hyde Park 2023. Here's who's playing and wh
+ en
+DTEND;VALUE=DATE:20230702
+DTSTART;VALUE=DATE:20230702
+SUMMARY:P!nk @ Hyde Park
+UID:ae3e1ed7-aac7-41bd-ac52-ce488d418fc0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
-DESCRIPTION:P!NK is back! The global pop icon has announced huge UK outdoo
- r shows in June 2023 as part of a 2023 European tour. P!NK will bring her i
- mmensely powerful voice and high octane live show back to...
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:BST Hyde Park 2023
-UID:7ec26e9c-8fd5-4390-9bbc-49e12fda72bf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
+DTSTAMP:20230702T021615Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur | Wembley Stadium
-UID:382f2746-c5e5-4aaa-b7ba-8563aaff2907
+UID:9c340799-7efb-4fa8-94df-09d909604a98
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
+DTSTAMP:20230702T021615Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:119f65db-cb90-4ff0-9f46-6923f38fb9e0
+UID:d7ec6287-a4fe-4cac-ba2c-edc91e69fa73
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
+DTSTAMP:20230702T021615Z
+DESCRIPTION:P!NK is back! The global pop icon has announced huge UK outdoo
+ r shows in June 2023 as part of a 2023 European tour. P!NK will bring her i
+ mmensely powerful voice and high octane live show back to...
+DTEND;VALUE=DATE:20230702
+DTSTART;VALUE=DATE:20230702
+SUMMARY:BST Hyde Park 2023
+UID:c35e848f-3045-4f2f-85e5-23456ba1aca1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230702T021615Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:The Weeknd: After Hours til Dawn Tour
-UID:8ca39a08-a400-4bca-b1ab-319394434f3a
+UID:695c6d07-5865-4a0d-9d33-2785a4c033e5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
+DTSTAMP:20230702T021615Z
 DESCRIPTION:As one of the major Latin pop heartthrobs of the 2000s, Romeo S
  antos mixed traditional bachata music from the Dominican Republic with smoo
  th, crooning R&B, using his charm and talent to establish...
 DTEND;VALUE=DATE:20230702
 DTSTART;VALUE=DATE:20230702
 SUMMARY:Romeo Santos
-UID:68387a3e-b1f2-405d-907d-31ddb5eab4ca
+UID:6e3b69d9-eb52-469f-abc3-8ed66f6b710a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
+DTSTAMP:20230702T021615Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent
-UID:44067f7f-8487-420e-b235-1fbc41ad245b
+UID:d7e3cf1b-c3d3-4248-998e-db0b4710260a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230701T021131Z
-DESCRIPTION:Ticket for Take That at British Summer Time Hyde Park with The 
- Script, Sugababes and Will Young
-DTEND;VALUE=DATE:20230701
-DTSTART;VALUE=DATE:20230701
-SUMMARY:Take That
-UID:9dafe02c-720d-44de-bc41-8bfac1484abd
+DTSTAMP:20230702T021615Z
+DESCRIPTION:Gates Open: 14:00 – please note the gates will be open approx
+ . 60 minutes early for those customers who select Primary Entry and above. 
+ Special guests The Pretenders, The Darkness and Larkin Poe...
+DTEND;VALUE=DATE:20230702
+DTSTART;VALUE=DATE:20230702
+SUMMARY:Guns N' Roses
+UID:f27b578d-fda3-434a-b126-e21441ee18e9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230702T021615Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:94db90cc-2c0a-4b27-9de4-43313ac8a0bf
 END:VEVENT
 END:VCALENDAR
