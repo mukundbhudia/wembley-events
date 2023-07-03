@@ -3,100 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
-DESCRIPTION:A brand-new comedy show is heading to Troubadour Wembley Park T
- heatre on Saturday 1st July with headline act, Phil Wang.
-DTEND;VALUE=DATE:20230702
-DTSTART;VALUE=DATE:20230702
-SUMMARY:Phil Wang @ Troubadour Wembley Park Theatre
-UID:08a6df0b-2863-4dce-8961-ab8bc312cb9d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
-DESCRIPTION:Take That, P!nk, Bruce Springsteen and Lana Del Rey are among t
- he headliners confirmed for BST Hyde Park 2023. Here's who's playing and wh
- en
-DTEND;VALUE=DATE:20230702
-DTSTART;VALUE=DATE:20230702
-SUMMARY:P!nk @ Hyde Park
-UID:ae3e1ed7-aac7-41bd-ac52-ce488d418fc0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
-DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
- re today for your exclusive VIP packages for this unmissable show.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur | Wembley Stadium
-UID:9c340799-7efb-4fa8-94df-09d909604a98
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
+DTSTAMP:20230703T020241Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:d7ec6287-a4fe-4cac-ba2c-edc91e69fa73
+UID:81f4b5d5-fced-49f0-b2c5-fcbc1d9eb4dd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
-DESCRIPTION:P!NK is back! The global pop icon has announced huge UK outdoo
- r shows in June 2023 as part of a 2023 European tour. P!NK will bring her i
- mmensely powerful voice and high octane live show back to...
-DTEND;VALUE=DATE:20230702
-DTSTART;VALUE=DATE:20230702
-SUMMARY:BST Hyde Park 2023
-UID:c35e848f-3045-4f2f-85e5-23456ba1aca1
+DTSTAMP:20230703T020241Z
+DESCRIPTION:London | Wembley Stadium connected by EE blur blur, Paul Weller
+ , The Selecter, Steve Davis & Kavus Torabi (DJ)
+DTEND;VALUE=DATE:20230709
+DTSTART;VALUE=DATE:20230709
+SUMMARY:Blur
+UID:7b1b948f-10ae-462a-9bec-a034a834dfc2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
+DTSTAMP:20230703T020241Z
+DESCRIPTION:Get notified whenever Black Sherif announces a live stream or 
+ a concert in your area
+DTEND;VALUE=DATE:20230709
+DTSTART;VALUE=DATE:20230709
+SUMMARY:Popcaan @ Finsbury Park
+UID:281cfc50-148d-4866-8428-7555fa48ab70
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230703T020241Z
+DESCRIPTION:Take That, P!nk, Bruce Springsteen and Lana Del Rey are among t
+ he headliners confirmed for BST Hyde Park 2023. Here's who's playing and wh
+ en
+DTEND;VALUE=DATE:20230703
+DTSTART;VALUE=DATE:20230703
+SUMMARY:British Summer Time
+UID:05a5550a-1674-4d56-80ee-5ba6a88b72bb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230703T020241Z
+DESCRIPTION:Kiss (often stylized as KIϟϟ) is an American rock band formed
+  in New York City in January 1973 by Paul Stanley, Gene Simmons, Ace Frehl
+ ey, and Peter Criss. Well known for its members' face paint...
+DTEND;VALUE=DATE:20230705
+DTSTART;VALUE=DATE:20230705
+SUMMARY:Kiss
+UID:78701a3b-90dc-4e95-bb7c-29e377a8a491
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230703T020241Z
+DESCRIPTION:SEE FULL EVENT DAY GUIDE HERE Join us for the RunThrough Olympi
+ c Park 5k & 10k on Saturday 8th July! Come and run a chip timed 5k or 10k t
+ hrough the incredible grounds of the North Park in...
+DTEND;VALUE=DATE:20230707
+DTSTART;VALUE=DATE:20230707
+SUMMARY:The Weeknd at London Stadium
+UID:f3cfd5c8-04e4-4aa2-b0a6-1da7809b9521
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230703T020241Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
-SUMMARY:The Weeknd: After Hours til Dawn Tour
-UID:695c6d07-5865-4a0d-9d33-2785a4c033e5
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:f719fdd5-cfc6-4c86-81bb-3f6720e4f9c0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
-DESCRIPTION:As one of the major Latin pop heartthrobs of the 2000s, Romeo S
- antos mixed traditional bachata music from the Dominican Republic with smoo
- th, crooning R&B, using his charm and talent to establish...
-DTEND;VALUE=DATE:20230702
-DTSTART;VALUE=DATE:20230702
-SUMMARY:Romeo Santos
-UID:6e3b69d9-eb52-469f-abc3-8ed66f6b710a
+DTSTAMP:20230703T020241Z
+DESCRIPTION:The Wireless Festival is a legendary annual music event taking 
+ place in London, UK, owned and managed by Live Nation. From its inception i
+ n 2005, the festival has brought many rap icons to perform...
+DTEND;VALUE=DATE:20230707
+DTSTART;VALUE=DATE:20230707
+SUMMARY:Wireless Festival 2023
+UID:6d31b990-c375-4fd6-991f-eec20fbb6e84
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20231117
-DTSTART;VALUE=DATE:20231117
-SUMMARY:50 Cent
-UID:d7e3cf1b-c3d3-4248-998e-db0b4710260a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
-DESCRIPTION:Gates Open: 14:00 – please note the gates will be open approx
- . 60 minutes early for those customers who select Primary Entry and above. 
- Special guests The Pretenders, The Darkness and Larkin Poe...
-DTEND;VALUE=DATE:20230702
-DTSTART;VALUE=DATE:20230702
+DTSTAMP:20230703T020241Z
+DESCRIPTION:It's been an exciting fixture in London's musical calendar sinc
+ e 2013, and it's back with a line-up of some of the biggest stars on the pl
+ anet. Taking place across weekends in June and July, Hyde...
+DTEND;VALUE=DATE:20230703
+DTSTART;VALUE=DATE:20230703
 SUMMARY:Guns N' Roses
-UID:f27b578d-fda3-434a-b126-e21441ee18e9
+UID:dc969956-f27b-4cf0-979a-4e014187491f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230702T021615Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:94db90cc-2c0a-4b27-9de4-43313ac8a0bf
+DTSTAMP:20230703T020241Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20230707
+DTSTART;VALUE=DATE:20230707
+SUMMARY:Faded: R&B Sessions
+UID:c2297805-95c9-42d1-81b5-5d89f69f6cb2
 END:VEVENT
 END:VCALENDAR
