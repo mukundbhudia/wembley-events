@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
+DTSTAMP:20230704T020432Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:81f4b5d5-fced-49f0-b2c5-fcbc1d9eb4dd
+UID:6e19b03c-e55e-4ec4-bffd-fe9b19928c0a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
-DESCRIPTION:London | Wembley Stadium connected by EE blur blur, Paul Weller
- , The Selecter, Steve Davis & Kavus Torabi (DJ)
-DTEND;VALUE=DATE:20230709
-DTSTART;VALUE=DATE:20230709
-SUMMARY:Blur
-UID:7b1b948f-10ae-462a-9bec-a034a834dfc2
+DTSTAMP:20230704T020432Z
+DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
+ re today for your exclusive VIP packages for this unmissable show.
+DTEND;VALUE=DATE:20230708
+DTSTART;VALUE=DATE:20230708
+SUMMARY:blur
+UID:c24fb705-7e85-4b49-b9aa-98b3b93e6de8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
+DTSTAMP:20230704T020432Z
 DESCRIPTION:Get notified whenever Black Sherif announces a live stream or 
  a concert in your area
 DTEND;VALUE=DATE:20230709
 DTSTART;VALUE=DATE:20230709
 SUMMARY:Popcaan @ Finsbury Park
-UID:281cfc50-148d-4866-8428-7555fa48ab70
+UID:dddc3699-3041-4243-b17f-fcc5fcf27f78
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
+DTSTAMP:20230704T020432Z
 DESCRIPTION:Take That, P!nk, Bruce Springsteen and Lana Del Rey are among t
  he headliners confirmed for BST Hyde Park 2023. Here's who's playing and wh
  en
-DTEND;VALUE=DATE:20230703
-DTSTART;VALUE=DATE:20230703
+DTEND;VALUE=DATE:20230704
+DTSTART;VALUE=DATE:20230704
 SUMMARY:British Summer Time
-UID:05a5550a-1674-4d56-80ee-5ba6a88b72bb
+UID:7868b1df-36f6-4925-ab60-87cef3ebd039
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
+DTSTAMP:20230704T020432Z
+DESCRIPTION:London | Wembley Stadium connected by EE blur blur, Paul Weller
+ , The Selecter, Steve Davis & Kavus Torabi (DJ)
+DTEND;VALUE=DATE:20230709
+DTSTART;VALUE=DATE:20230709
+SUMMARY:Blur
+UID:b170dbb8-5fa1-4cd2-8f40-7a3584fb2d33
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230704T020432Z
 DESCRIPTION:Kiss (often stylized as KIϟϟ) is an American rock band formed
   in New York City in January 1973 by Paul Stanley, Gene Simmons, Ace Frehl
  ey, and Peter Criss. Well known for its members' face paint...
 DTEND;VALUE=DATE:20230705
 DTSTART;VALUE=DATE:20230705
 SUMMARY:Kiss
-UID:78701a3b-90dc-4e95-bb7c-29e377a8a491
+UID:dba4d898-df4f-4990-a0b7-dd2ffc647360
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
+DTSTAMP:20230704T020432Z
 DESCRIPTION:SEE FULL EVENT DAY GUIDE HERE Join us for the RunThrough Olympi
  c Park 5k & 10k on Saturday 8th July! Come and run a chip timed 5k or 10k t
  hrough the incredible grounds of the North Park in...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:The Weeknd at London Stadium
-UID:f3cfd5c8-04e4-4aa2-b0a6-1da7809b9521
+UID:818731b9-92fc-466a-8579-6fe5a826a8da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
+DTSTAMP:20230704T020432Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:f719fdd5-cfc6-4c86-81bb-3f6720e4f9c0
+UID:5b161391-6f34-4fa1-a1bf-ccd695651bf0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
+DTSTAMP:20230704T020432Z
 DESCRIPTION:The Wireless Festival is a legendary annual music event taking 
  place in London, UK, owned and managed by Live Nation. From its inception i
  n 2005, the festival has brought many rap icons to perform...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Wireless Festival 2023
-UID:6d31b990-c375-4fd6-991f-eec20fbb6e84
+UID:1ca8a22c-4025-48dc-91e1-bdb37f9b013e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
+DTSTAMP:20230704T020432Z
 DESCRIPTION:It's been an exciting fixture in London's musical calendar sinc
  e 2013, and it's back with a line-up of some of the biggest stars on the pl
  anet. Taking place across weekends in June and July, Hyde...
-DTEND;VALUE=DATE:20230703
-DTSTART;VALUE=DATE:20230703
+DTEND;VALUE=DATE:20230704
+DTSTART;VALUE=DATE:20230704
 SUMMARY:Guns N' Roses
-UID:dc969956-f27b-4cf0-979a-4e014187491f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230703T020241Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20230707
-DTSTART;VALUE=DATE:20230707
-SUMMARY:Faded: R&B Sessions
-UID:c2297805-95c9-42d1-81b5-5d89f69f6cb2
+UID:fb838330-bab7-4e3f-8c5a-7865c732ed36
 END:VEVENT
 END:VCALENDAR
