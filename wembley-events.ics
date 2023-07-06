@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
+DTSTAMP:20230706T020602Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Ana Gabriel
-UID:7ee54335-e192-4bcb-9655-771e65f84ee0
+UID:854ebd19-0054-44f0-9a24-c63ed9c69f61
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
+DTSTAMP:20230706T020602Z
 DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
  re today for your exclusive VIP packages for this unmissable show.
 DTEND;VALUE=DATE:20230708
 DTSTART;VALUE=DATE:20230708
 SUMMARY:Blur
-UID:b3e6c5f7-666f-4dc0-989d-98ef799c0026
+UID:0b29b964-85ad-4a28-81bb-264735e537ca
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
+DTSTAMP:20230706T020602Z
 DESCRIPTION:Get notified whenever Black Sherif announces a live stream or 
  a concert in your area
 DTEND;VALUE=DATE:20230709
 DTSTART;VALUE=DATE:20230709
 SUMMARY:Popcaan @ Finsbury Park
-UID:e4d4122c-6702-4608-88ce-f02da5a1f974
+UID:56286530-267d-490e-a841-3535c9f3afca
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
+DTSTAMP:20230706T020602Z
 DESCRIPTION:Take That, P!nk, Bruce Springsteen and Lana Del Rey are among t
  he headliners confirmed for BST Hyde Park 2023. Here's who's playing and wh
  en
-DTEND;VALUE=DATE:20230705
-DTSTART;VALUE=DATE:20230705
+DTEND;VALUE=DATE:20230706
+DTSTART;VALUE=DATE:20230706
 SUMMARY:British Summer Time
-UID:57b051e3-bfa6-4937-9d91-1359b3eaa9a0
+UID:2ba11651-b909-42c3-bb0b-e25d71c46b59
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
+DTSTAMP:20230706T020602Z
 DESCRIPTION:London | Wembley Stadium connected by EE blur blur, Paul Weller
  , The Selecter, Steve Davis & Kavus Torabi (DJ)
 DTEND;VALUE=DATE:20230709
 DTSTART;VALUE=DATE:20230709
 SUMMARY:Blur
-UID:571ea19d-67a8-43a3-8899-84a9bdf14107
+UID:c2e1452a-4258-43fb-a802-8b85992e3cd1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
-DESCRIPTION:Kiss (often stylized as KIϟϟ) is an American rock band formed
-  in New York City in January 1973 by Paul Stanley, Gene Simmons, Ace Frehl
- ey, and Peter Criss. Well known for its members' face paint...
-DTEND;VALUE=DATE:20230705
-DTSTART;VALUE=DATE:20230705
-SUMMARY:Kiss
-UID:80aa49eb-4c1c-464b-b617-c2ba03bbf581
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
+DTSTAMP:20230706T020602Z
 DESCRIPTION:SEE FULL EVENT DAY GUIDE HERE Join us for the RunThrough Olympi
  c Park 5k & 10k on Saturday 8th July! Come and run a chip timed 5k or 10k t
  hrough the incredible grounds of the North Park in...
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:The Weeknd at London Stadium
-UID:fc30e8f0-42d9-4b15-b54d-86f9882b0c8a
+UID:74b2f82c-3bec-4294-a74a-3b736ced6e67
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
+DTSTAMP:20230706T020602Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:ecde4484-8b10-44f4-a78e-f279b629d295
+UID:929d26b6-c521-460f-b254-3600e9dd2ff2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
+DTSTAMP:20230706T020602Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent
-UID:247c44b1-0262-40b4-86d7-3e0610977565
+UID:6e0e4d6b-c02b-4204-8ec8-0171919b6e5a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230705T020228Z
+DTSTAMP:20230706T020602Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20230707
 DTSTART;VALUE=DATE:20230707
 SUMMARY:Faded: R&B Sessions
-UID:931da226-745a-4bea-8e8b-3d6c8105f5aa
+UID:d75ae07c-7baa-4d29-b259-8ceda22cb730
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230706T020602Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230812
+DTSTART;VALUE=DATE:20230812
+SUMMARY:Adnan Sami - Live in Concert
+UID:cf64f9ea-74f8-478b-8f97-8462d0417c02
 END:VEVENT
 END:VCALENDAR
