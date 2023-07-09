@@ -3,98 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
-DESCRIPTION:Blur takes the stage at London's Wembley Stadium in 2023. Enqui
- re today for your exclusive VIP packages for this unmissable show.
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Blur
-UID:891ec952-7a6f-47ef-a133-6c3913bddad5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
-DESCRIPTION:Mexican singer Ana Gabriel has had a long and distinguished car
- eer during which she has had hits in three distinctly different genres - La
- tin pop, rancheras and rock en Españo. Her climb to...
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Ana Gabriel @ OVO Arena Wembley
-UID:272f7cd4-51e0-4e06-ba70-4f5ee667618c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
-DESCRIPTION:SEE FULL EVENT DAY GUIDE HERE Join us for the RunThrough Olympi
- c Park 5k & 10k on Saturday 8th July! Come and run a chip timed 5k or 10k t
- hrough the incredible grounds of the North Park in...
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:The Weeknd at London Stadium
-UID:c691020a-d893-49cb-898a-c2ffff1c3d82
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
+DTSTAMP:20230709T021700Z
 DESCRIPTION:London | Wembley Stadium connected by EE blur blur, Paul Weller
  , The Selecter, Steve Davis & Kavus Torabi (DJ)
 DTEND;VALUE=DATE:20230709
 DTSTART;VALUE=DATE:20230709
 SUMMARY:Blur
-UID:f670e16c-2705-4841-88bf-ec545cedc2fc
+UID:78021b0b-2592-4d50-b087-894b45200785
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
+DTSTAMP:20230709T021700Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:The Weeknd: After Hours til Dawn Tour
-UID:f68cf4e8-c65b-4f93-9a08-2618cd2cd843
+UID:0ddc9cf0-6e42-4b68-9d3b-14cb37dec6fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
+DTSTAMP:20230709T021700Z
 DESCRIPTION:Wireless Festival VIP ticket to watch Travis Scott at the Wirel
  ess Festival. The ticket includes access to the festival via the VIP entran
  ce and to the Wireless VIP Village, where there will be...
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
+DTEND;VALUE=DATE:20230709
+DTSTART;VALUE=DATE:20230709
 SUMMARY:Wireless Festival | Travis Scott | Finsbury Park
-UID:9b49f32d-31eb-4123-966d-84a99ce302f5
+UID:1b05ce9e-f50b-4a8c-86b4-401f794562d2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20230708
-DTSTART;VALUE=DATE:20230708
-SUMMARY:Faded: R&B Sessions
-UID:07d97f40-5469-47a1-857b-060f5f0eb88b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
+DTSTAMP:20230709T021700Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais
-UID:57967f83-55e1-436a-84cc-c97ac0b69619
+UID:53127727-2c6b-42d6-8182-4e1981aeab43
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230812
-DTSTART;VALUE=DATE:20230812
-SUMMARY:Adnan Sami - Live in Concert
-UID:2aa6c7f4-8865-4ea5-a7be-58720694e63d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230708T020151Z
+DTSTAMP:20230709T021700Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230909
 DTSTART;VALUE=DATE:20230909
 SUMMARY:2023 (G)I-DLE World Tour (I am FREE-TY) in Europe
-UID:d5b0cd74-60b9-4d62-a941-fbbf8fc0a5c7
+UID:4a3b3023-f11c-437e-80db-0c1286c9c136
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230709T021700Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230812
+DTSTART;VALUE=DATE:20230812
+SUMMARY:Adnan Sami - Live in Concert
+UID:b5f9a623-3148-4e82-a5a5-5c8166372aea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230709T021700Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais - Armageddon
+UID:a5a0ac43-74df-4a38-91ad-23d470173152
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230709T021700Z
+DESCRIPTION:The Wireless Festival is a legendary annual music event taking 
+ place in London, UK, owned and managed by Live Nation. From its inception i
+ n 2005, the festival has brought many rap icons to perform...
+DTEND;VALUE=DATE:20230709
+DTSTART;VALUE=DATE:20230709
+SUMMARY:Wireless Festival 2023
+UID:8851c76f-b025-48d4-b8eb-84515924b422
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230709T021700Z
+DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
+ o gained fame when she reached the Top 6 on the US version of The Voice . B
+ orn in New York, she had also tried out on the MSG Varsity...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:Melanie Martinez - Portals Tour
+UID:49d9767a-eda2-4e73-a6e0-a8f2a6080db9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230709T021700Z
+DESCRIPTION:Learn Coding with fun using Scratch. Let your child build valua
+ ble skills for the future during our Coding Camp. 5 Interactive sessions fo
+ r 7+ year olds. For more details you can check below. Sign...
+DTEND;VALUE=DATE:20230709
+DTSTART;VALUE=DATE:20230709
+SUMMARY:Children Coding Camp In Wembley
+UID:c3e5d324-03d5-4b59-99d7-4863cfe1631a
 END:VEVENT
 END:VCALENDAR
