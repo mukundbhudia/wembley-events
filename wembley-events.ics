@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
-DESCRIPTION:We are thrilled to announce that AJS Events will be hosting th
- e official afterparty for the Sid Sriram concert in London. We are proud t
- o present a spectacular lineup of the top Tamil DJs from...
-DTEND;VALUE=DATE:20230714
-DTSTART;VALUE=DATE:20230714
-SUMMARY:Official Wembley Takeover
-UID:5a0cf80d-12c1-410b-b116-edc537367eb3
+DTSTAMP:20230711T015540Z
+DESCRIPTION:Our Resident DJs play the biggest and best tracks in Hip-Hop, E
+ lectronic, R&B, Pop and Disco every Saturday to guarantee you're dancing al
+ l day long! A﻿TRIUM DJS - 12pm-11pm B﻿EATBOX DJS - 8pm-1am...
+DTEND;VALUE=DATE:20230715
+DTSTART;VALUE=DATE:20230715
+SUMMARY:COORS PRESENTS: SATURDAY SESSIONS
+UID:f82afb0e-205c-4e7c-903d-a228eb07399b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
+DTSTAMP:20230711T015540Z
 DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
  d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
  D) Children under 5 enter for free and without a ticket...
 DTEND;VALUE=DATE:20230712
 DTSTART;VALUE=DATE:20230712
 SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for...
-UID:0a855b96-3cb1-4371-9ae5-e0409e40df3b
+UID:764a01bb-a03d-4b3d-ae7f-dbc85de53161
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
+DTSTAMP:20230711T015540Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:The Weeknd: After Hours til Dawn Tour
-UID:6589bde6-6c9d-421d-b3d0-2b508ef44e2b
+UID:c0ad1c2c-04a4-48c8-925e-5e4f049e8aa4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
+DTSTAMP:20230711T015540Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230712
 DTSTART;VALUE=DATE:20230712
 SUMMARY:Wembley Stadium Tour
-UID:fe7c57f8-57ca-40a8-9703-c00621f3fca1
+UID:fce4000e-eb3b-4718-ac50-41607dab0fcc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
+DTSTAMP:20230711T015540Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais
-UID:0167f9aa-f454-45a5-ba9f-795145458cb2
+UID:f785352e-3dd6-46c3-bdba-2f04bfd24ed6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
+DTSTAMP:20230711T015540Z
+DESCRIPTION:Plus support: Loathe Brand Of Sacrifice Tickets for this event 
+ are provided directly by the promoter and not printed by Ticketmaster and m
+ ay not be dispatched until ten days before the event. Show...
+DTEND;VALUE=DATE:20230713
+DTSTART;VALUE=DATE:20230713
+SUMMARY:SPIRITBOX
+UID:d9d78132-6af9-4a93-8965-1602a3d7285b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230711T015540Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230812
 DTSTART;VALUE=DATE:20230812
 SUMMARY:Adnan Sami - Live in Concert
-UID:ba5c23f4-dd9e-45a6-9b2b-da255e20b9ad
+UID:352e5aed-fcb3-4a32-8331-ba01bb6ab7db
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
+DTSTAMP:20230711T015540Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez - Portals Tour
-UID:1e79bb8d-7f73-4818-907f-bc8b6288093d
+UID:f33e236d-d3cb-4cfe-8140-21a9183b802f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
+DTSTAMP:20230711T015540Z
 DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
  wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230716
-DTSTART;VALUE=DATE:20230716
+DTEND;VALUE=DATE:20230713
+DTSTART;VALUE=DATE:20230713
 SUMMARY:Newsies
-UID:e1ea749c-770b-4e14-a9d5-212a03476bee
+UID:670f55d3-1ead-4977-9092-f3643d08317f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
+DTSTAMP:20230711T015540Z
 DESCRIPTION:The Who is an English rock band formed in 1964. Their classic l
  ine-up consisted of lead singer Roger Daltrey, guitarist and singer Pete To
  wnshend, bass guitarist John Entwistle, and drummer Keith...
 DTEND;VALUE=DATE:20230712
 DTSTART;VALUE=DATE:20230712
 SUMMARY:The WHO - HITS BACK!
-UID:65c9e580-8cfe-498a-a16f-886f483a912b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230710T020534Z
-DESCRIPTION:Reggaeton Superstar, Feid will be exercising his alter ego El F
- erxxo on his explosive, sold-out headlining tour FERXXO Nitro Jam, at Troxy
- , London, before it wraps up in Latin America. Join one of...
-DTEND;VALUE=DATE:20230713
-DTSTART;VALUE=DATE:20230713
-SUMMARY:Feid
-UID:82abccea-da14-4d5c-b727-e3c7c8ed2ce2
+UID:7cd70e7a-8f87-48ab-8adb-c48ffacfec67
 END:VEVENT
 END:VCALENDAR
