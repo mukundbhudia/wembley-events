@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
+DTSTAMP:20230712T020323Z
 DESCRIPTION:Our Resident DJs play the biggest and best tracks in Hip-Hop, E
  lectronic, R&B, Pop and Disco every Saturday to guarantee you're dancing al
  l day long! A﻿TRIUM DJS - 12pm-11pm B﻿EATBOX DJS - 8pm-1am...
 DTEND;VALUE=DATE:20230715
 DTSTART;VALUE=DATE:20230715
 SUMMARY:COORS PRESENTS: SATURDAY SESSIONS
-UID:f82afb0e-205c-4e7c-903d-a228eb07399b
+UID:aacf9ac1-3417-42ee-8838-d606bad2d4aa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
-DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
- d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
- D) Children under 5 enter for free and without a ticket...
-DTEND;VALUE=DATE:20230712
-DTSTART;VALUE=DATE:20230712
-SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for...
-UID:764a01bb-a03d-4b3d-ae7f-dbc85de53161
+DTSTAMP:20230712T020323Z
+DESCRIPTION:Plus support: Loathe Brand Of Sacrifice Tickets for this event 
+ are provided directly by the promoter and not printed by Ticketmaster and m
+ ay not be dispatched until ten days before the event. Show...
+DTEND;VALUE=DATE:20230713
+DTSTART;VALUE=DATE:20230713
+SUMMARY:Spiritbox
+UID:cced043e-6efd-443c-b857-676e92f9c99a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
+DTSTAMP:20230712T020323Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:The Weeknd: After Hours til Dawn Tour
-UID:c0ad1c2c-04a4-48c8-925e-5e4f049e8aa4
+UID:e9aefe87-9a24-437f-a843-061531f1d27b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
+DTSTAMP:20230712T020323Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230712
 DTSTART;VALUE=DATE:20230712
 SUMMARY:Wembley Stadium Tour
-UID:fce4000e-eb3b-4718-ac50-41607dab0fcc
+UID:0732231b-6ebd-4d84-bdf1-e2c48360b0e3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
+DTSTAMP:20230712T020323Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais
-UID:f785352e-3dd6-46c3-bdba-2f04bfd24ed6
+UID:d442f0eb-d8ed-4305-b76e-9d90d45ebf9f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
-DESCRIPTION:Plus support: Loathe Brand Of Sacrifice Tickets for this event 
- are provided directly by the promoter and not printed by Ticketmaster and m
- ay not be dispatched until ten days before the event. Show...
-DTEND;VALUE=DATE:20230713
-DTSTART;VALUE=DATE:20230713
-SUMMARY:SPIRITBOX
-UID:d9d78132-6af9-4a93-8965-1602a3d7285b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
+DTSTAMP:20230712T020323Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230812
 DTSTART;VALUE=DATE:20230812
 SUMMARY:Adnan Sami - Live in Concert
-UID:352e5aed-fcb3-4a32-8331-ba01bb6ab7db
+UID:1b071913-3211-4254-9621-9f0172ba6056
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
+DTSTAMP:20230712T020323Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez - Portals Tour
-UID:f33e236d-d3cb-4cfe-8140-21a9183b802f
+UID:e16a37ad-4d08-4064-8bbd-6e0540af4246
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
+DTSTAMP:20230712T020323Z
 DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
  wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230713
-DTSTART;VALUE=DATE:20230713
+DTEND;VALUE=DATE:20230716
+DTSTART;VALUE=DATE:20230716
 SUMMARY:Newsies
-UID:670f55d3-1ead-4977-9092-f3643d08317f
+UID:cfeed2f0-e9fb-4da3-873d-0334d2fb595e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230711T015540Z
+DTSTAMP:20230712T020323Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:6bf4ed68-443b-4bbf-8146-b23863c07ada
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230712T020323Z
 DESCRIPTION:The Who is an English rock band formed in 1964. Their classic l
  ine-up consisted of lead singer Roger Daltrey, guitarist and singer Pete To
  wnshend, bass guitarist John Entwistle, and drummer Keith...
 DTEND;VALUE=DATE:20230712
 DTSTART;VALUE=DATE:20230712
 SUMMARY:The WHO - HITS BACK!
-UID:7cd70e7a-8f87-48ab-8adb-c48ffacfec67
+UID:5c0e823d-8bec-45a3-896f-16c2ac6fcc90
 END:VEVENT
 END:VCALENDAR
