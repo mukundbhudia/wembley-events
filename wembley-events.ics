@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
+DTSTAMP:20230714T020548Z
 DESCRIPTION:Our Resident DJs play the biggest and best tracks in Hip-Hop, E
  lectronic, R&B, Pop and Disco every Saturday to guarantee you're dancing al
  l day long! A﻿TRIUM DJS - 12pm-11pm B﻿EATBOX DJS - 8pm-1am...
 DTEND;VALUE=DATE:20230715
 DTSTART;VALUE=DATE:20230715
 SUMMARY:COORS PRESENTS: SATURDAY SESSIONS
-UID:13ec90c1-cbc8-4576-9c65-72ef538a5050
+UID:69d558f4-1b7f-4e2c-91d9-0c4c003266c7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
-DESCRIPTION:Plus support: Loathe Brand Of Sacrifice Tickets for this event 
- are provided directly by the promoter and not printed by Ticketmaster and m
- ay not be dispatched until ten days before the event. Show...
-DTEND;VALUE=DATE:20230713
-DTSTART;VALUE=DATE:20230713
-SUMMARY:Spiritbox
-UID:51d97364-7608-484c-830a-f6bbd245adb4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
+DTSTAMP:20230714T020548Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:The Weeknd: After Hours til Dawn Tour
-UID:962015d7-7e9e-4586-a5c1-aa2ed49a924e
+UID:314f2822-5d72-4090-8eb6-b5a6edb54fa3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
+DTSTAMP:20230714T020548Z
+DESCRIPTION:Plus support: Loathe Brand Of Sacrifice Tickets for this event 
+ are provided directly by the promoter and not printed by Ticketmaster and m
+ ay not be dispatched until ten days before the event. Show...
+DTEND;VALUE=DATE:20230714
+DTSTART;VALUE=DATE:20230714
+SUMMARY:SPIRITBOX
+UID:3c6963b1-f26c-4f3b-b508-ef55d28d2b0e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230714T020548Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais
-UID:08e612c9-cf77-497b-bf95-6c1853da5cde
+UID:96524627-f294-42ad-880c-66dfebd4161b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
+DTSTAMP:20230714T020548Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230812
 DTSTART;VALUE=DATE:20230812
 SUMMARY:Adnan Sami - Live in Concert
-UID:dc5ca929-8a0e-4f1c-abaf-516eae9f021f
+UID:cf0baf07-c74f-496c-8022-4adf8db056c8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
-DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
- wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230716
-DTSTART;VALUE=DATE:20230716
-SUMMARY:Newsies
-UID:86e0748e-0ea2-4c13-b540-9a8dedc82c46
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
+DTSTAMP:20230714T020548Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:c16a473b-5c8c-4980-a05d-761839740cee
+UID:22765133-656c-47a0-8256-79a495085c77
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
+DTSTAMP:20230714T020548Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:f0018d46-c955-42c2-b39c-12ccc39a8815
+UID:08367940-b0f7-492d-b75b-c337a72b4b9a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
+DTSTAMP:20230714T020548Z
+DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
+ wsies tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20230715
+DTSTART;VALUE=DATE:20230715
+SUMMARY:Newsies
+UID:c73feadd-68aa-4a07-a354-39f581cafad9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230714T020548Z
 DESCRIPTION:Reggaeton Superstar, Feid will be exercising his alter ego El F
  erxxo on his explosive, sold-out headlining tour FERXXO Nitro Jam, at Troxy
  , London, before it wraps up in Latin America. Join one of...
-DTEND;VALUE=DATE:20230713
-DTSTART;VALUE=DATE:20230713
-SUMMARY:Feid
-UID:fa51338e-fcd8-4d51-a2d5-1044afcd3ab0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230713T020611Z
-DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
- wsies tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20230714
 DTSTART;VALUE=DATE:20230714
-SUMMARY:Newsies
-UID:ed8478ee-15be-4495-aa70-7d26adee33e7
+SUMMARY:Feid
+UID:702dc2cb-16e4-4072-849f-3f72f7a55cb8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230714T020548Z
+DESCRIPTION:You bought tickets for Rahat Fateh Ali Khan at Sunday, 16/07/20
+ 23 20:00 , Eventim Apollo, W6 9QH LONDON but don't have time to go? No prob
+ lem: with fanSALE you can simply, quickly and securely...
+DTEND;VALUE=DATE:20230716
+DTSTART;VALUE=DATE:20230716
+SUMMARY:Rahat Fateh Ali Khan
+UID:c0d3a133-cdf8-4d5a-9b44-a1958f22f68e
 END:VEVENT
 END:VCALENDAR
