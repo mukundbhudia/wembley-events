@@ -3,99 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
+DTSTAMP:20230718T021611Z
 DESCRIPTION:The Red Hot Chili Peppers is an American rock band formed in Lo
  s Angeles in 1983. Their music incorporates elements of alternative rock, f
  unk, punk rock and psychedelic rock. The band consists of...
 DTEND;VALUE=DATE:20230721
 DTSTART;VALUE=DATE:20230721
 SUMMARY:Red Hot Chili Peppers
-UID:eef21968-5521-4af3-a1d4-3b905ab694a3
+UID:f9dd359d-d00a-4f31-8ae0-1ad5e5b51aaf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
+DTSTAMP:20230718T021611Z
 DESCRIPTION:H DHAMI - JUGGY D - CAPS - MUKHI & HASEEB - ARMA- EZU- JJ ESKO 
  - SALONI PLUS MANY MORE
 DTEND;VALUE=DATE:20230723
 DTSTART;VALUE=DATE:20230723
 SUMMARY:WEMBLEY MELA
-UID:b85c36fe-a0a0-4291-b6fe-e76fabb1caea
+UID:9b3be77f-b23e-4cd6-84b9-3e16092b2ba1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:07bae453-f306-48eb-afc1-6a01db20f848
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
+DTSTAMP:20230718T021611Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230722
 DTSTART;VALUE=DATE:20230722
 SUMMARY:Wembley Stadium Tour
-UID:95b1361e-bdaf-424c-a493-7a472be4f5f8
+UID:326ed67b-e293-4a79-8ab6-bc8857987bfc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
+DTSTAMP:20230718T021611Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:4076a1a9-bef8-4f8e-996d-756865c9889d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230718T021611Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230812
 DTSTART;VALUE=DATE:20230812
 SUMMARY:Adnan Sami - Live in Concert
-UID:6db0b473-4223-4818-84b9-8f4ed4e8ef68
+UID:bf96348f-8de6-44aa-80b4-33d0a8b82e98
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
+DTSTAMP:20230718T021611Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20230720
+DTSTART;VALUE=DATE:20230720
+SUMMARY:Wembley Stadium Tour
+UID:6658dd8a-f7cd-44f0-99fc-fb2667c1a51d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230718T021611Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:08f01f62-8bee-4ea8-9685-4dea348c5abe
+UID:01470487-633f-4e95-a04a-6400dacd7f9c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20230720
-DTSTART;VALUE=DATE:20230720
-SUMMARY:Wembley Stadium Tour
-UID:248048a7-747f-411c-82b2-8064709b4945
+DTSTAMP:20230718T021611Z
+DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
+ o gained fame when she reached the Top 6 on the US version of The Voice . B
+ orn in New York, she had also tried out on the MSG Varsity...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:PORTALS TOUR
+UID:9c3d7950-39c7-4818-8339-f35ca860d9c9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
-DESCRIPTION:Live song requests from our HumanJukebox - Tony Bowen
-DTEND;VALUE=DATE:20230720
-DTSTART;VALUE=DATE:20230720
-SUMMARY:HumanJukebox at White Horse Wembley
-UID:3ee60ce8-d7cc-47c2-89f7-406e897d59ef
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:b3151782-0d30-4038-a8b9-e752541e3760
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230717T021004Z
+DTSTAMP:20230718T021611Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230721
 DTSTART;VALUE=DATE:20230721
 SUMMARY:Wembley Stadium Tour
-UID:46d95330-c055-4229-abb2-0aeb42ce5a22
+UID:68c1d3df-29aa-4dae-b0bc-a4056ce82783
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230718T021611Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:6ac9b729-1eff-4d07-9267-7c706091929e
 END:VEVENT
 END:VCALENDAR
