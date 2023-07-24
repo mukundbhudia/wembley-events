@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
-DESCRIPTION:Supplying all that good music and food for the soul. Each and e
- very Sunday at BOXPARK Wembley.
-DTEND;VALUE=DATE:20230723
-DTSTART;VALUE=DATE:20230723
-SUMMARY:SOULFUL SUNDAYS
-UID:618a112d-0006-42d2-a0c6-ce49ea0fccbf
+DTSTAMP:20230724T014435Z
+DESCRIPTION:Abundant with chart-topping albums, number one singles, Brit an
+ d Ivor Novello Awards, blur’s canon continues to resonate and inspire thr
+ ough the decades. Songs such as For Tomorrow, Girls & Boys...
+DTEND;VALUE=DATE:20230725
+DTSTART;VALUE=DATE:20230725
+SUMMARY:Blur
+UID:bf71ace0-2492-48c7-8462-52c94bff9a69
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
+DTSTAMP:20230724T014435Z
+DESCRIPTION:Enjoy exclusive corporate entertainment at Wizkid at Tottenham 
+ Hotspur Stadium, and experience this showpiece occasion in style.
+DTEND;VALUE=DATE:20230729
+DTSTART;VALUE=DATE:20230729
+SUMMARY:Maségo
+UID:0d60fd23-6489-4588-9a22-7ce6687f0c59
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230724T014435Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20230723
-DTSTART;VALUE=DATE:20230723
+DTEND;VALUE=DATE:20230729
+DTSTART;VALUE=DATE:20230729
 SUMMARY:Wembley Stadium Tour
-UID:09ca6ac2-376f-42a8-9b9a-c4775615dc1b
+UID:6d640b51-0fe8-45fc-b667-e91dd68f172b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
+DTSTAMP:20230724T014435Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:3f421eda-fb6c-450e-a38d-63844f54bba9
+UID:c2197f24-11d2-4dc1-91ec-727122b30aa1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
+DTSTAMP:20230724T014435Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230812
 DTSTART;VALUE=DATE:20230812
 SUMMARY:Adnan Sami
-UID:6391e106-5a5b-4d08-bbe8-f1a9de5640f1
+UID:04b3325c-07ac-4e55-821a-9cc7010bd440
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
+DTSTAMP:20230724T014435Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20230725
+DTSTART;VALUE=DATE:20230725
+SUMMARY:Wembley Stadium Tour
+UID:c119e897-36d6-44f3-8f06-b9189b9b21a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230724T014435Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:3e9d81d1-ab89-4fe4-8aa5-c51a5af42e48
+UID:e59a8960-25b4-4683-8c9c-532a8519a6dd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
+DTSTAMP:20230724T014435Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:66390a14-b57a-4afc-9c3e-a75fb0a33903
+UID:14275d9e-030b-472b-a45a-3d73a6c96b2e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
-DESCRIPTION:Buy Newsies tickets and sign-up for latest tour alerts. Find Ne
- wsies tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230723
-DTSTART;VALUE=DATE:20230723
-SUMMARY:Newsies
-UID:1974b952-abbe-4a96-8983-ebc76f02d88f
+DTSTAMP:20230724T014435Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20230728
+DTSTART;VALUE=DATE:20230728
+SUMMARY:Wembley Stadium Tour
+UID:98b9588b-4988-46fe-b385-a1c59fc1b49a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230909
-DTSTART;VALUE=DATE:20230909
-SUMMARY:2023 (G)I-DLE World Tour (I am FREE-TY) in Europe
-UID:063ba910-e13b-4d5d-8b4a-7354eea2ec1e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:dd63b3e3-cc3a-4c9a-a5ad-47838eb4f4e0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230723T015001Z
-DESCRIPTION:Revered for her songwriting, Brighton pop star Maisie Peters si
- gned with Ed Sheeran's Gingerbread Man Records, debuting at number 2 on th
- e UK Charts with her debut album You Signed Up for This in...
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:0a6808e0-3b30-44bf-8a36-547fb53af9cb
+DTSTAMP:20230724T014435Z
+DESCRIPTION:Enjoy Peter Kay's spectacular comeback tour from the best seat
+ s in the house with premium hospitality at the O2 on 29th July 2023
+DTEND;VALUE=DATE:20230729
+DTSTART;VALUE=DATE:20230729
+SUMMARY:Peter Kay
+UID:0da1595f-68d7-4bb3-a97d-3d0f7a4f14f1
 END:VEVENT
 END:VCALENDAR
