@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
+DTSTAMP:20230725T015516Z
 DESCRIPTION:Abundant with chart-topping albums, number one singles, Brit an
  d Ivor Novello Awards, blur’s canon continues to resonate and inspire thr
  ough the decades. Songs such as For Tomorrow, Girls & Boys...
 DTEND;VALUE=DATE:20230725
 DTSTART;VALUE=DATE:20230725
 SUMMARY:Blur
-UID:bf71ace0-2492-48c7-8462-52c94bff9a69
+UID:8585b2f3-d09d-46fb-a08f-8f29ba3e2799
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
+DTSTAMP:20230725T015516Z
 DESCRIPTION:Enjoy exclusive corporate entertainment at Wizkid at Tottenham 
  Hotspur Stadium, and experience this showpiece occasion in style.
 DTEND;VALUE=DATE:20230729
 DTSTART;VALUE=DATE:20230729
 SUMMARY:Maségo
-UID:0d60fd23-6489-4588-9a22-7ce6687f0c59
+UID:ff406f98-096a-49f7-856e-5f1649e08b4b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
+DTSTAMP:20230725T015516Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230729
 DTSTART;VALUE=DATE:20230729
 SUMMARY:Wembley Stadium Tour
-UID:6d640b51-0fe8-45fc-b667-e91dd68f172b
+UID:26346255-7ce0-459c-8c46-ff477d6d08d0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:c2197f24-11d2-4dc1-91ec-727122b30aa1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
+DTSTAMP:20230725T015516Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230812
 DTSTART;VALUE=DATE:20230812
-SUMMARY:Adnan Sami
-UID:04b3325c-07ac-4e55-821a-9cc7010bd440
+SUMMARY:Adnan Sami - Live in Concert
+UID:03d8972f-dd5c-4360-a454-94d1d4609e95
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
+DTSTAMP:20230725T015516Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:b3ad18d7-41d2-4bd0-a144-001e4ab6c984
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230725T015516Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230725
 DTSTART;VALUE=DATE:20230725
 SUMMARY:Wembley Stadium Tour
-UID:c119e897-36d6-44f3-8f06-b9189b9b21a5
+UID:ecab6b87-a1c2-418b-84a9-bfe03241a70d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
+DTSTAMP:20230725T015516Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:e59a8960-25b4-4683-8c9c-532a8519a6dd
+UID:1efb90d4-924f-4d9e-a827-19e07b801041
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
+DTSTAMP:20230725T015516Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:14275d9e-030b-472b-a45a-3d73a6c96b2e
+UID:ec8fd4e4-1f96-498a-a1e8-ecff301afd8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
+DTSTAMP:20230725T015516Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230728
 DTSTART;VALUE=DATE:20230728
 SUMMARY:Wembley Stadium Tour
-UID:98b9588b-4988-46fe-b385-a1c59fc1b49a
+UID:3f7898e5-f4ba-4419-897d-83655b6fa099
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230724T014435Z
+DTSTAMP:20230725T015516Z
 DESCRIPTION:Enjoy Peter Kay's spectacular comeback tour from the best seat
  s in the house with premium hospitality at the O2 on 29th July 2023
 DTEND;VALUE=DATE:20230729
 DTSTART;VALUE=DATE:20230729
 SUMMARY:Peter Kay
-UID:0da1595f-68d7-4bb3-a97d-3d0f7a4f14f1
+UID:0050b427-ee8a-4afc-a94c-4e81347a0b1f
 END:VEVENT
 END:VCALENDAR
