@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
-DESCRIPTION:Enjoy exclusive corporate entertainment at Wizkid at Tottenham 
- Hotspur Stadium, and experience this showpiece occasion in style.
-DTEND;VALUE=DATE:20230729
-DTSTART;VALUE=DATE:20230729
-SUMMARY:Maségo
-UID:746f3bf5-2bf1-4d2c-b429-7494c0edb249
+DTSTAMP:20230730T013857Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:The Weeknd @ Wembley Stadium
+UID:3db9ca2c-f0be-4bb3-baee-e1788fb4523f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20230729
-DTSTART;VALUE=DATE:20230729
-SUMMARY:Wembley Stadium Tour
-UID:92ca0adf-f842-4cc8-b042-7fc9d8eab590
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais
-UID:ced60b4f-59b5-42c5-922d-52858ee0e65c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230812
-DTSTART;VALUE=DATE:20230812
-SUMMARY:Adnan Sami
-UID:137b8c57-c9ff-49ad-8d0a-d7424778ce01
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
+DTSTAMP:20230730T013857Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230730
 DTSTART;VALUE=DATE:20230730
 SUMMARY:Wembley Stadium Tour
-UID:a357efe8-16f6-478d-bab3-5955bae8b541
+UID:9b7f7354-ae95-4d22-98f0-51237d634c6e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:07317014-1c3f-4568-9466-9812a3882574
+DTSTAMP:20230730T013857Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais
+UID:b2181d60-2871-4c87-a084-a42b3e55f0e8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
+DTSTAMP:20230730T013857Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230812
+DTSTART;VALUE=DATE:20230812
+SUMMARY:Adnan Sami
+UID:ffa6873c-7571-4cab-9a4d-774211a271ea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230730T013857Z
 DESCRIPTION:Enjoy Peter Kay's spectacular comeback tour from the best seat
  s in the house with premium hospitality at the O2 on 29th July 2023
-DTEND;VALUE=DATE:20230729
-DTSTART;VALUE=DATE:20230729
+DTEND;VALUE=DATE:20230730
+DTSTART;VALUE=DATE:20230730
 SUMMARY:Peter Kay
-UID:000120c7-7278-4d4b-9738-d232fd86624a
+UID:345669cf-8243-4d15-9834-5544c8e8ff96
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
+DTSTAMP:20230730T013857Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez - Portals Tour
-UID:5509f535-9ec6-44c7-b928-bd7519dd01fa
+UID:fc4a8dd9-dec6-498a-9221-8e7485b39df2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
+DTSTAMP:20230730T013857Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:33ea5761-ab7a-4f78-b9fa-49bf66fa78c9
+UID:21bd4a1d-40df-4c8d-8549-40178441daeb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230729T013509Z
-DESCRIPTION:Based on a true story, NEWSIES is set in New York City at the t
- urn of the 20th century. It’s the rousing tale of a ragged band of teenag
- e newspaper sellers, who dream of a better life far from the...
-DTEND;VALUE=DATE:20230729
-DTSTART;VALUE=DATE:20230729
-SUMMARY:Newsies
-UID:50eb5e67-32da-49a2-8f70-a7d6e35cf1e4
+DTSTAMP:20230730T013857Z
+DESCRIPTION:Newsies, Disney's hit Broadway musical, to open in November 202
+ 2 at London's Troubadour Wembley Park Theatre
+DTEND;VALUE=DATE:20230730
+DTSTART;VALUE=DATE:20230730
+SUMMARY:Disney's Newsies
+UID:f663e8d7-488c-49f8-a80c-e0dc0dbd7da9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230730T013857Z
+DESCRIPTION:Buy concert and gig tickets. Find out more about Communion Pres
+ ents tour dates.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:76934352-2f4f-4892-a71b-f930cf5377bd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230730T013857Z
+DESCRIPTION:Atlanta rapper, singer, songwriter, and record producer Lil Yac
+ hty incorporates psychedelic alternative rock into his music, inspired by m
+ ultiple psychedelic journeys and his longtime love of Pink...
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Lil Yachty
+UID:ede8cf59-1959-4bb0-abaa-0414d1168196
 END:VEVENT
 END:VCALENDAR
