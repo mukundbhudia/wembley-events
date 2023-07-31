@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:The Weeknd @ Wembley Stadium
-UID:3db9ca2c-f0be-4bb3-baee-e1788fb4523f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
+DTSTAMP:20230731T014034Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20230730
-DTSTART;VALUE=DATE:20230730
+DTEND;VALUE=DATE:20230802
+DTSTART;VALUE=DATE:20230802
 SUMMARY:Wembley Stadium Tour
-UID:9b7f7354-ae95-4d22-98f0-51237d634c6e
+UID:63585901-f6ec-4c9f-a424-96d91eaa9b1d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
+DTSTAMP:20230731T014034Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais
-UID:b2181d60-2871-4c87-a084-a42b3e55f0e8
+UID:0b90b374-ecc2-419e-b806-457d9571ae77
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230812
-DTSTART;VALUE=DATE:20230812
-SUMMARY:Adnan Sami
-UID:ffa6873c-7571-4cab-9a4d-774211a271ea
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
-DESCRIPTION:Enjoy Peter Kay's spectacular comeback tour from the best seat
- s in the house with premium hospitality at the O2 on 29th July 2023
-DTEND;VALUE=DATE:20230730
-DTSTART;VALUE=DATE:20230730
-SUMMARY:Peter Kay
-UID:345669cf-8243-4d15-9834-5544c8e8ff96
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
+DTSTAMP:20230731T014034Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez - Portals Tour
-UID:fc4a8dd9-dec6-498a-9221-8e7485b39df2
+UID:9ae7e6f7-3c60-4e5d-be9e-4af03fa9bc85
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
+DTSTAMP:20230731T014034Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20230804
+DTSTART;VALUE=DATE:20230804
+SUMMARY:Wembley Stadium Tour
+UID:cd655c93-54c8-446c-97ea-0416908202ed
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230731T014034Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20230804
+DTSTART;VALUE=DATE:20230804
+SUMMARY:BEATBOX at BOXPARK Wembley - Friday, 4th Aug 2023
+UID:5e4f4237-2f6d-4101-afe7-6ec67615b3b0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230731T014034Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:c272a0c1-3f4d-4cff-b72e-da72d33b132b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230731T014034Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20230801
+DTSTART;VALUE=DATE:20230801
+SUMMARY:Wembley Stadium Tour
+UID:989136d2-83de-4c4c-b3a9-4c94b4727d02
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230731T014034Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:21bd4a1d-40df-4c8d-8549-40178441daeb
+SUMMARY:Ricky Gervais - Armageddon
+UID:71d28d4a-2cb0-4f72-9e94-71b66d4fee0d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
-DESCRIPTION:Newsies, Disney's hit Broadway musical, to open in November 202
- 2 at London's Troubadour Wembley Park Theatre
-DTEND;VALUE=DATE:20230730
-DTSTART;VALUE=DATE:20230730
-SUMMARY:Disney's Newsies
-UID:f663e8d7-488c-49f8-a80c-e0dc0dbd7da9
+DTSTAMP:20230731T014034Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230812
+DTSTART;VALUE=DATE:20230812
+SUMMARY:Adnan Sami - Live in Concert
+UID:b0137cb3-a546-4c37-8a47-984b864f8637
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
-DESCRIPTION:Buy concert and gig tickets. Find out more about Communion Pres
- ents tour dates.
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:76934352-2f4f-4892-a71b-f930cf5377bd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230730T013857Z
-DESCRIPTION:Atlanta rapper, singer, songwriter, and record producer Lil Yac
- hty incorporates psychedelic alternative rock into his music, inspired by m
- ultiple psychedelic journeys and his longtime love of Pink...
-DTEND;VALUE=DATE:20231201
-DTSTART;VALUE=DATE:20231201
-SUMMARY:Lil Yachty
-UID:ede8cf59-1959-4bb0-abaa-0414d1168196
+DTSTAMP:20230731T014034Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20230731
+DTSTART;VALUE=DATE:20230731
+SUMMARY:Wembley Stadium Tour
+UID:415b23fb-cbc9-4e9a-a301-2bc07b41107d
 END:VEVENT
 END:VCALENDAR
