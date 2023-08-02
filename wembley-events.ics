@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
+DTSTAMP:20230802T013344Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230802
 DTSTART;VALUE=DATE:20230802
 SUMMARY:Wembley Stadium Tour
-UID:39c12350-761a-4199-9789-282fafc55f71
+UID:4dfd011b-263b-4da8-b120-db97bc9c8778
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
+DTSTAMP:20230802T013344Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais
-UID:8f4cf7f9-2d3c-4c1f-bd1e-29a0e1103a72
+UID:9438f35c-18a0-41a0-a9b0-c8a8e97f387e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
+DTSTAMP:20230802T013344Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez - Portals Tour
-UID:a9175654-6407-4c27-b99f-a403f3c9ed5f
+UID:ac66203d-5b8d-4680-8ce3-82ba45b3a454
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
+DTSTAMP:20230802T013344Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230804
 DTSTART;VALUE=DATE:20230804
 SUMMARY:Wembley Stadium Tour
-UID:596d14da-1f41-4563-afcf-f683aa2fc26c
+UID:fd0d1259-2c17-4078-875c-5398cbd5eac5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
+DTSTAMP:20230802T013344Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20230804
 DTSTART;VALUE=DATE:20230804
 SUMMARY:BEATBOX at BOXPARK Wembley - Friday, 4th Aug 2023
-UID:7d3df408-ab1a-474e-8286-256437b42e44
+UID:6e296903-3737-4fc4-9858-4bf42cfe2871
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
+DTSTAMP:20230802T013344Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:66e93650-6c63-418b-9c74-b4875bc4ab38
+UID:a5815680-b6fe-4aeb-83f5-8136b0967629
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20230801
-DTSTART;VALUE=DATE:20230801
-SUMMARY:Wembley Stadium Tour
-UID:6972e66a-ff2e-4602-9bd3-a5bd66351ea1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais - Armageddon
-UID:eee2dbae-cfdb-4678-8109-ed57a55169a5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230812
-DTSTART;VALUE=DATE:20230812
-SUMMARY:Adnan Sami - Live in Concert
-UID:7654b502-20ec-42f2-9aff-64f64ecccee4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230801T014743Z
+DTSTAMP:20230802T013344Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230803
 DTSTART;VALUE=DATE:20230803
 SUMMARY:Wembley Stadium Tour
-UID:76fb6067-9535-4cfe-a186-0adf64cc8bf1
+UID:0b83491d-5b21-4251-bc38-43bf58e15f0b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T013344Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais - Armageddon
+UID:425723fb-cbf2-476d-8bf3-905dc1a7d566
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T013344Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230812
+DTSTART;VALUE=DATE:20230812
+SUMMARY:Adnan Sami - Live in Concert
+UID:8118768d-a9b6-4449-b13e-229cd9437ada
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230802T013344Z
+DESCRIPTION:Grammy-nominated hip-hop legend and multi-platinum New York rap
+ per Pusha T - who rose to prominence as one-half of the 1990's hip hop duo 
+ Clipse - scored his biggest success in May 2022, topping...
+DTEND;VALUE=DATE:20230802
+DTSTART;VALUE=DATE:20230802
+SUMMARY:Pusha T
+UID:ee3305d6-959c-4373-beea-a8342ce8f0a1
 END:VEVENT
 END:VCALENDAR
