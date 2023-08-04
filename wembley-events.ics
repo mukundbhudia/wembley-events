@@ -3,99 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
+DTSTAMP:20230804T013821Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230804
 DTSTART;VALUE=DATE:20230804
 SUMMARY:Wembley Stadium Tour
-UID:b042b697-8b4b-44ce-b307-40c3ab80ff95
+UID:ae49eee1-5961-403d-8782-5b705ac3962e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
+DTSTAMP:20230804T013821Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais
-UID:64d54937-3f05-4369-ad7b-31f086de8eb2
+UID:8df001ff-cf5a-4220-ab69-b758f4878d28
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
+DTSTAMP:20230804T013821Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez - Portals Tour
-UID:0e350ea5-0672-4462-b5dd-eccac8f04b14
+UID:fea1c5bf-2a9d-45d6-856d-3cc27befd79b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20230803
-DTSTART;VALUE=DATE:20230803
-SUMMARY:Wembley Stadium Tour
-UID:3a52eab2-f7f7-48d5-8467-352f79146339
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20230804
-DTSTART;VALUE=DATE:20230804
-SUMMARY:BEATBOX at BOXPARK Wembley - Friday, 4th Aug 2023
-UID:eda4a52d-e212-4709-bb80-8b2626b4db76
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
+DTSTAMP:20230804T013821Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:157107b3-d1d5-4beb-b036-93a03e72aaa2
+UID:8b0cf250-ced4-43fe-b88f-b7098bd31ac2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
+DTSTAMP:20230804T013821Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais - Armageddon
-UID:0c88b1d2-c5a3-4473-a58d-b006b20c278e
+UID:e51d99b1-5859-489a-a6ae-1974dce7e7f5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
+DTSTAMP:20230804T013821Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:050685a9-35ea-48d9-b7db-ed60ad2fd576
+UID:94609666-483f-4d27-918e-e089af350761
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
+DTSTAMP:20230804T013821Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230812
 DTSTART;VALUE=DATE:20230812
 SUMMARY:Adnan Sami - Live in Concert
-UID:4053005b-4618-41eb-a5cf-27da1a5a2ca3
+UID:2f119c53-5014-4fbc-ba70-2eadce484f97
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230803T013618Z
-DESCRIPTION:Join Wembley Stadium at Harrow libraries to hear all about Wemb
- ley & explore the power of words!
-DTEND;VALUE=DATE:20230803
-DTSTART;VALUE=DATE:20230803
-SUMMARY:Stories from Wembley Stadium for 8-11 year olds
-UID:b7648c07-d360-4c87-bb6b-ee09c1488b7c
+DTSTAMP:20230804T013821Z
+DESCRIPTION:No music! Huh? His stories were amusing but come on man! Love H
+ enry anyway but I really wanted to see some action. Bought some cool memora
+ bilia.
+DTEND;VALUE=DATE:20230806
+DTSTART;VALUE=DATE:20230806
+SUMMARY:Henry Rollins
+UID:2877939f-88d5-4143-8e31-54d30ea4f1dc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230804T013821Z
+DESCRIPTION:Buy concert and gig tickets. Find out more about Communion Pres
+ ents tour dates.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:eb5aa306-affb-49ab-87bf-aea8972aa79f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230804T013821Z
+DESCRIPTION:Buy Flavour - Live in Concert tickets and sign-up for latest to
+ ur alerts. Find Flavour - Live in Concert tour dates, reviews, times and ev
+ ent details.
+DTEND;VALUE=DATE:20230805
+DTSTART;VALUE=DATE:20230805
+SUMMARY:Flavour - Live in Concert
+UID:da910a2b-32bf-4de0-96b7-a10d2412c804
 END:VEVENT
 END:VCALENDAR
