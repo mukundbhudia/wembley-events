@@ -3,101 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20230804
-DTSTART;VALUE=DATE:20230804
-SUMMARY:Wembley Stadium Tour
-UID:ae49eee1-5961-403d-8782-5b705ac3962e
+DTSTAMP:20230805T013453Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230812
+DTSTART;VALUE=DATE:20230812
+SUMMARY:Adnan Sami
+UID:c46fdbf9-c8ab-4729-8e64-a0f83977fd76
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
+DTSTAMP:20230805T013453Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais
-UID:8df001ff-cf5a-4220-ab69-b758f4878d28
+UID:8972ad4a-212e-4095-bd21-bab7b119d9d1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
+DTSTAMP:20230805T013453Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez - Portals Tour
-UID:fea1c5bf-2a9d-45d6-856d-3cc27befd79b
+UID:407556d6-2b4c-43c5-abad-931e8f404125
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
+DTSTAMP:20230805T013453Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:8b0cf250-ced4-43fe-b88f-b7098bd31ac2
+UID:f18d762d-beb9-45e8-8bcc-247df012da96
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
+DTSTAMP:20230805T013453Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais - Armageddon
-UID:e51d99b1-5859-489a-a6ae-1974dce7e7f5
+SUMMARY:Ricky Gervais
+UID:5c56ea4d-3414-4dfe-81ba-3fc1cf28297a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
+DTSTAMP:20230805T013453Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:94609666-483f-4d27-918e-e089af350761
+UID:57e5ccf5-f915-4997-9bfb-c80db54b4b39
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230812
-DTSTART;VALUE=DATE:20230812
-SUMMARY:Adnan Sami - Live in Concert
-UID:2f119c53-5014-4fbc-ba70-2eadce484f97
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
-DESCRIPTION:No music! Huh? His stories were amusing but come on man! Love H
- enry anyway but I really wanted to see some action. Bought some cool memora
- bilia.
-DTEND;VALUE=DATE:20230806
-DTSTART;VALUE=DATE:20230806
-SUMMARY:Henry Rollins
-UID:2877939f-88d5-4143-8e31-54d30ea4f1dc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
+DTSTAMP:20230805T013453Z
 DESCRIPTION:Buy concert and gig tickets. Find out more about Communion Pres
  ents tour dates.
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:eb5aa306-affb-49ab-87bf-aea8972aa79f
+UID:a9580744-d7eb-4399-b516-f711b7dba6c6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230804T013821Z
-DESCRIPTION:Buy Flavour - Live in Concert tickets and sign-up for latest to
- ur alerts. Find Flavour - Live in Concert tour dates, reviews, times and ev
- ent details.
-DTEND;VALUE=DATE:20230805
-DTSTART;VALUE=DATE:20230805
-SUMMARY:Flavour - Live in Concert
-UID:da910a2b-32bf-4de0-96b7-a10d2412c804
+DTSTAMP:20230805T013453Z
+DESCRIPTION:Buy Sleep Token tickets and sign-up for latest tour alerts. Fin
+ d Sleep Token tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20231216
+DTSTART;VALUE=DATE:20231216
+SUMMARY:Sleep Token
+UID:4a214196-9d42-448e-8124-3f8369ed3429
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230805T013453Z
+DESCRIPTION:Atlanta rapper, singer, songwriter, and record producer Lil Yac
+ hty incorporates psychedelic alternative rock into his music, inspired by m
+ ultiple psychedelic journeys and his longtime love of Pink...
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Lil Yachty
+UID:72a04c8c-7b89-4655-8757-450da41c3419
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230805T013453Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20230909
+DTSTART;VALUE=DATE:20230909
+SUMMARY:2023 (G)I-DLE World Tour (I am FREE-TY) in Europe
+UID:cd5cd7e4-2b71-4baa-a971-a8ca436184a0
 END:VEVENT
 END:VCALENDAR
