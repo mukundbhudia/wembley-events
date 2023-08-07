@@ -3,102 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:4baa6769-7fea-48a6-aca5-e08327831adb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:1621dbb3-2d09-4342-9701-23215d281fad
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
+DTSTAMP:20230807T013814Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230812
 DTSTART;VALUE=DATE:20230812
 SUMMARY:Adnan Sami
-UID:7c38447b-f805-4168-88a1-3ba17b372b7e
+UID:ebdff6a4-2737-4e44-8c57-a58c0ee340bb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
+DTSTAMP:20230807T013814Z
+DESCRIPTION:Limp Bizkit have announced their outside gig in London’s Gunn
+ ersbury Park! After a show at the capital’s Wembley Arena in April, the n
+ u-metal icons will return to London on August 13 to play the...
+DTEND;VALUE=DATE:20230813
+DTSTART;VALUE=DATE:20230813
+SUMMARY:Limp Bizkit + Pendulum, KennyHoopla, Joey Valence...
+UID:2fcbbfc5-6ba3-48d1-a91d-f25474cd7020
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230807T013814Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:201eeea1-d804-4a9a-bb7d-097c3e98c2ce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230807T013814Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:807d1a21-778c-4130-bfdc-6462d61eb5c6
+UID:6c8f6458-7281-46c3-b666-57a8818de8fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
+DTSTAMP:20230807T013814Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:f9b76230-33eb-46ed-b65f-e27cf7b28edc
+UID:5a2763e5-7713-49b9-9a3e-1e1b3cae80e3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
-DESCRIPTION:Revered for her songwriting, Brighton pop star Maisie Peters si
- gned with Ed Sheeran's Gingerbread Man Records, debuting at number 2 on th
- e UK Charts with her debut album You Signed Up for This in...
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:f636c719-818c-4150-b001-b6e5c5364389
+DTSTAMP:20230807T013814Z
+DESCRIPTION:⭐ Tarantino Live is a rock musical based on the Quentin Taran
+ tino Cinematic Universe. This show is a dynamic combination of Broadway-st
+ yle live action with rock 'n' roll music from QT's iconic...
+DTEND;VALUE=DATE:20230811
+DTSTART;VALUE=DATE:20230811
+SUMMARY:Tarantino Live
+UID:e2551bf6-fc3f-4ea8-9ecb-485852a9bdcb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
+DTSTAMP:20230807T013814Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:bba817af-94b4-4075-babe-994d1ec963e8
+UID:a0b71be9-a54a-4919-ad5a-06bc87c7c0e1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
+DTSTAMP:20230807T013814Z
+DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
+ ind Maisie Peters tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:b9444b5a-1b83-48e7-bf53-eec478b3cde1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230807T013814Z
 DESCRIPTION:Atlanta rapper, singer, songwriter, and record producer Lil Yac
  hty incorporates psychedelic alternative rock into his music, inspired by m
  ultiple psychedelic journeys and his longtime love of Pink...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:f1df4643-3c48-4668-a771-096c97202666
+UID:a263c35d-c1ba-4f05-85fc-1e4c0e88f795
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230909
-DTSTART;VALUE=DATE:20230909
-SUMMARY:2023 (G)I-DLE World Tour (I am FREE-TY) in Europe
-UID:964e35c9-74e1-4285-9f33-e506d3bac87e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230806T013016Z
-DESCRIPTION:Buy Henry Rollins: Good To See You (Night One) tickets and sign
- -up for latest tour alerts. Find Henry Rollins: Good To See You (Night One
- ) tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20230806
-DTSTART;VALUE=DATE:20230806
-SUMMARY:Henry Rollins
-UID:d810b907-86aa-4491-85fc-d77beb4673ae
+DTSTAMP:20230807T013814Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231213
+DTSTART;VALUE=DATE:20231213
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:8555b78c-0d3d-454d-92f1-0d1b170c2f28
 END:VEVENT
 END:VCALENDAR
