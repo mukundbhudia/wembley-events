@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
+DTSTAMP:20230812T011609Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20230812
 DTSTART;VALUE=DATE:20230812
 SUMMARY:Adnan Sami
-UID:f9d5d0c1-6326-4c4d-b8b0-f487ba82f6b7
+UID:9e3a7443-e062-47db-9306-8a2e2536d9ac
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
+DTSTAMP:20230812T011609Z
 DESCRIPTION:Limp Bizkit have announced their outside gig in London’s Gunn
  ersbury Park! After a show at the capital’s Wembley Arena in April, the n
  u-metal icons will return to London on August 13 to play the...
 DTEND;VALUE=DATE:20230813
 DTSTART;VALUE=DATE:20230813
 SUMMARY:Limp Bizkit + Pendulum, KennyHoopla, Joey Valence...
-UID:c2f85d0b-004d-4b9f-a7c6-099a088122f2
+UID:c7f44170-715f-4626-87df-0f546c04d5fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:3209d479-e24d-40ae-bd56-4b0581f00f61
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:9403ab0e-46d2-4a11-a7db-19c817b8e468
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
-DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
- o gained fame when she reached the Top 6 on the US version of The Voice . B
- orn in New York, she had also tried out on the MSG Varsity...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:PORTALS TOUR
-UID:3ddae44a-a713-45d9-b646-edd53001ca74
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
-DESCRIPTION:⭐ Tarantino Live is a rock musical based on the Quentin Taran
- tino Cinematic Universe. This show is a dynamic combination of Broadway-st
- yle live action with rock 'n' roll music from QT's iconic...
-DTEND;VALUE=DATE:20230811
-DTSTART;VALUE=DATE:20230811
-SUMMARY:Tarantino Live
-UID:b80e28bf-bd21-4484-89e4-38d28cc06dc5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
+DTSTAMP:20230812T011609Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:3871c12e-f3c4-4e87-893f-d2f325c857fe
+UID:a4f517af-9bbf-402a-bb9a-0bf3187860d1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
-DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
- ind Maisie Peters tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:ca797ff9-7b34-4173-a0e5-4adf3193d1b4
+DTSTAMP:20230812T011609Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:8a5f2f72-a689-4f86-bfb1-d1fc82d18504
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
-DESCRIPTION:Atlanta rapper, singer, songwriter, and record producer Lil Yac
- hty incorporates psychedelic alternative rock into his music, inspired by m
- ultiple psychedelic journeys and his longtime love of Pink...
+DTSTAMP:20230812T011609Z
+DESCRIPTION:After 30 years of ‘killin’ time,’ Clint Black is ready to
+  celebrate. The multi-million selling country icon is set to embark on a to
+ ur commemorating the 30th anniversary of his groundbreaking...
+DTEND;VALUE=DATE:20230928
+DTSTART;VALUE=DATE:20230928
+SUMMARY:Clint Black
+UID:87ebf358-a315-439b-8784-dd8347efda62
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230812T011609Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:df70bb4f-859e-4c71-8b08-7fcff28d7ecc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230812T011609Z
+DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
+ o gained fame when she reached the Top 6 on the US version of The Voice . B
+ orn in New York, she had also tried out on the MSG Varsity...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:PORTALS TOUR
+UID:88d6fd52-6d0a-41f8-883a-f58d6c65e118
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230812T011609Z
+DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
+  HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
+ Y Lil Yachty has announced a 39 stop global tour in support of...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:1ffe1121-16ee-4a1c-a42d-3a5919e8c717
+UID:234315fd-6769-42a0-b517-b6c3a60aa86a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230811T011706Z
+DTSTAMP:20230812T011609Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:7ea95b32-d3a5-49c0-afe5-df1a804bc6c7
+UID:930cb6ec-0d36-4153-b7b0-2aaead1b3b1f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230812T011609Z
+DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
+ ind Maisie Peters tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:c83016ef-6968-48dd-891f-0b7273157256
 END:VEVENT
 END:VCALENDAR
