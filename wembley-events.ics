@@ -3,101 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20230812
-DTSTART;VALUE=DATE:20230812
-SUMMARY:Adnan Sami
-UID:9e3a7443-e062-47db-9306-8a2e2536d9ac
+DTSTAMP:20230813T012100Z
+DESCRIPTION:The Awesome Trio Jasmine Sandlas Jasmine Kaur Sandlas is an Ind
+ ian-American singer, rapper, television personality, performer, songwriter 
+ who mainly sings Punjabi songs. She was also featured on...
+DTEND;VALUE=DATE:20230813
+DTSTART;VALUE=DATE:20230813
+SUMMARY:Punjab Thumakda
+UID:c6d6952e-19e8-410c-ae2d-3f461408961c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
+DTSTAMP:20230813T012100Z
 DESCRIPTION:Limp Bizkit have announced their outside gig in London’s Gunn
  ersbury Park! After a show at the capital’s Wembley Arena in April, the n
  u-metal icons will return to London on August 13 to play the...
 DTEND;VALUE=DATE:20230813
 DTSTART;VALUE=DATE:20230813
 SUMMARY:Limp Bizkit + Pendulum, KennyHoopla, Joey Valence...
-UID:c7f44170-715f-4626-87df-0f546c04d5fd
+UID:d24eb6b0-2f46-4a3c-9bfd-c7cac67baf52
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
+DTSTAMP:20230813T012100Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:a4f517af-9bbf-402a-bb9a-0bf3187860d1
+UID:b256a1c6-df46-4b8b-9774-0187cdfc61bd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
+DTSTAMP:20230813T012100Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:8a5f2f72-a689-4f86-bfb1-d1fc82d18504
+UID:b21e8146-43b1-4453-be3d-f0b934d09a56
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
-DESCRIPTION:After 30 years of ‘killin’ time,’ Clint Black is ready to
-  celebrate. The multi-million selling country icon is set to embark on a to
- ur commemorating the 30th anniversary of his groundbreaking...
-DTEND;VALUE=DATE:20230928
-DTSTART;VALUE=DATE:20230928
-SUMMARY:Clint Black
-UID:87ebf358-a315-439b-8784-dd8347efda62
+DTSTAMP:20230813T012100Z
+DESCRIPTION:The Sufi maestro is an internationally known, multi-talented so
+ ngwriter, singer, composer, poet and actor who remains at the forefront of 
+ his craft. Since he started performing in 1999, he has...
+DTEND;VALUE=DATE:20230828
+DTSTART;VALUE=DATE:20230828
+SUMMARY:Satinder Sartaaj
+UID:8d6c4779-2d71-4bbe-9e90-36b719dc7704
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
+DTSTAMP:20230813T012100Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:df70bb4f-859e-4c71-8b08-7fcff28d7ecc
+UID:3dab7622-3f12-497a-abe4-84c0559d23d9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
-DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
- o gained fame when she reached the Top 6 on the US version of The Voice . B
- orn in New York, she had also tried out on the MSG Varsity...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:PORTALS TOUR
-UID:88d6fd52-6d0a-41f8-883a-f58d6c65e118
+DTSTAMP:20230813T012100Z
+DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
+ icipated UK arena concert tour, featuring a full live band and an unforgett
+ able family show experience. Named one of the hottest...
+DTEND;VALUE=DATE:20231008
+DTSTART;VALUE=DATE:20231008
+SUMMARY:Ammy Virk @ OVO Arena Wembley
+UID:5d138699-8800-428b-9fe9-6c133ef281dd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
-DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
-  HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
- Y Lil Yachty has announced a 39 stop global tour in support of...
-DTEND;VALUE=DATE:20231201
-DTSTART;VALUE=DATE:20231201
-SUMMARY:Lil Yachty
-UID:234315fd-6769-42a0-b517-b6c3a60aa86a
+DTSTAMP:20230813T012100Z
+DESCRIPTION:After 30 years of ‘killin’ time,’ Clint Black is ready to
+  celebrate. The multi-million selling country icon is set to embark on a to
+ ur commemorating the 30th anniversary of his groundbreaking...
+DTEND;VALUE=DATE:20230928
+DTSTART;VALUE=DATE:20230928
+SUMMARY:Clint Black
+UID:c9e2ef50-4ea1-4457-899c-2b9039ae754d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:930cb6ec-0d36-4153-b7b0-2aaead1b3b1f
+DTSTAMP:20230813T012100Z
+DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
+ atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
+ rt of his ‘Saturno’ World Tour. The one night only Show is...
+DTEND;VALUE=DATE:20231001
+DTSTART;VALUE=DATE:20231001
+SUMMARY:Rauw Alejandro @ OVO Arena Wembley
+UID:13dd4f8f-4bc4-410f-872f-320578b96479
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230812T011609Z
-DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
- ind Maisie Peters tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:c83016ef-6968-48dd-891f-0b7273157256
+DTSTAMP:20230813T012100Z
+DESCRIPTION:Aaron Kwok returns after 9 years! Dance frenzy sets off in Lond
+ on! ‘Aaron Kwok Amazing Kode’ London Concert will be held at OVO Arena 
+ Wembley Aaron Kwok, one of Hong Kong's 'Four Heavenly Kings...
+DTEND;VALUE=DATE:20230924
+DTSTART;VALUE=DATE:20230924
+SUMMARY:Aaron Kwok
+UID:fcf99591-d039-4792-bf42-c0b47b18a6ba
 END:VEVENT
 END:VCALENDAR
