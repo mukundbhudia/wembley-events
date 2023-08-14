@@ -3,102 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
-DESCRIPTION:The Awesome Trio Jasmine Sandlas Jasmine Kaur Sandlas is an Ind
- ian-American singer, rapper, television personality, performer, songwriter 
- who mainly sings Punjabi songs. She was also featured on...
-DTEND;VALUE=DATE:20230813
-DTSTART;VALUE=DATE:20230813
-SUMMARY:Punjab Thumakda
-UID:c6d6952e-19e8-410c-ae2d-3f461408961c
+DTSTAMP:20230814T011828Z
+DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
+ National Express journeys from across the UK.
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
+UID:9f34f2de-74f8-4fea-b68c-48d83c2ca8cf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
+DTSTAMP:20230814T011828Z
 DESCRIPTION:Limp Bizkit have announced their outside gig in London’s Gunn
  ersbury Park! After a show at the capital’s Wembley Arena in April, the n
  u-metal icons will return to London on August 13 to play the...
-DTEND;VALUE=DATE:20230813
-DTSTART;VALUE=DATE:20230813
-SUMMARY:Limp Bizkit + Pendulum, KennyHoopla, Joey Valence...
-UID:d24eb6b0-2f46-4a3c-9bfd-c7cac67baf52
+DTEND;VALUE=DATE:20230814
+DTSTART;VALUE=DATE:20230814
+SUMMARY:Limp Bizkit
+UID:947b67ef-daa4-457f-ba4d-d400568bb4f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
+DTSTAMP:20230814T011828Z
+DESCRIPTION:Since its inception in 2018, All Points East has earned a reput
+ ation for a varied blend of musical styles and genres. Back in Vicky Park f
+ or another instalment, it's confirmed big-hitting...
+DTEND;VALUE=DATE:20230818
+DTSTART;VALUE=DATE:20230818
+SUMMARY:All Points East
+UID:8b7d5b17-7a05-4596-91f3-dc1051816a05
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230814T011828Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:b256a1c6-df46-4b8b-9774-0187cdfc61bd
+UID:79da94d7-ee56-4524-b768-b3840972cba8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:b21e8146-43b1-4453-be3d-f0b934d09a56
+DTSTAMP:20230814T011828Z
+DESCRIPTION:Asake will be playing a headline show at The O2 on 20th August 
+ 2023. Get in touch with our hospitality team to view our O2 packages.
+DTEND;VALUE=DATE:20230820
+DTSTART;VALUE=DATE:20230820
+SUMMARY:Asake
+UID:f6d65dd4-d283-433b-a0e9-d935c9f44677
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
-DESCRIPTION:The Sufi maestro is an internationally known, multi-talented so
- ngwriter, singer, composer, poet and actor who remains at the forefront of 
- his craft. Since he started performing in 1999, he has...
-DTEND;VALUE=DATE:20230828
-DTSTART;VALUE=DATE:20230828
-SUMMARY:Satinder Sartaaj
-UID:8d6c4779-2d71-4bbe-9e90-36b719dc7704
+DTSTAMP:20230814T011828Z
+DESCRIPTION:Tickets, info and places to stay for Rauw Alejandro at OVO Aren
+ a, Wembleyin London on Sun 1st October 2023. Ents24.com, the UK's biggest e
+ ntertainment guide
+DTEND;VALUE=DATE:20231001
+DTSTART;VALUE=DATE:20231001
+SUMMARY:Rauw Alejandro
+UID:51a8ed6e-9e80-41c5-b533-0c96c2513f7a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
+DTSTAMP:20230814T011828Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:3dab7622-3f12-497a-abe4-84c0559d23d9
+UID:37bc3ac6-59c5-4283-95a0-fdd6973a5d3e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
-DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
- icipated UK arena concert tour, featuring a full live band and an unforgett
- able family show experience. Named one of the hottest...
-DTEND;VALUE=DATE:20231008
-DTSTART;VALUE=DATE:20231008
-SUMMARY:Ammy Virk @ OVO Arena Wembley
-UID:5d138699-8800-428b-9fe9-6c133ef281dd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
+DTSTAMP:20230814T011828Z
 DESCRIPTION:After 30 years of ‘killin’ time,’ Clint Black is ready to
   celebrate. The multi-million selling country icon is set to embark on a to
  ur commemorating the 30th anniversary of his groundbreaking...
 DTEND;VALUE=DATE:20230928
 DTSTART;VALUE=DATE:20230928
 SUMMARY:Clint Black
-UID:c9e2ef50-4ea1-4457-899c-2b9039ae754d
+UID:60dca81c-db84-41d1-abca-783aa253483c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
-DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
- atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
- rt of his ‘Saturno’ World Tour. The one night only Show is...
-DTEND;VALUE=DATE:20231001
-DTSTART;VALUE=DATE:20231001
-SUMMARY:Rauw Alejandro @ OVO Arena Wembley
-UID:13dd4f8f-4bc4-410f-872f-320578b96479
+DTSTAMP:20230814T011828Z
+DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
+ tinder Sartaaj is set to grace the stage for a sublime tour. From performin
+ g all over the world and starring in top Punjabi films...
+DTEND;VALUE=DATE:20230828
+DTSTART;VALUE=DATE:20230828
+SUMMARY:Satinder Sartaaj
+UID:172eb679-06be-47ed-b4db-9b521e157810
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230813T012100Z
-DESCRIPTION:Aaron Kwok returns after 9 years! Dance frenzy sets off in Lond
- on! ‘Aaron Kwok Amazing Kode’ London Concert will be held at OVO Arena 
- Wembley Aaron Kwok, one of Hong Kong's 'Four Heavenly Kings...
-DTEND;VALUE=DATE:20230924
-DTSTART;VALUE=DATE:20230924
-SUMMARY:Aaron Kwok
-UID:fcf99591-d039-4792-bf42-c0b47b18a6ba
+DTSTAMP:20230814T011828Z
+DESCRIPTION:BOXPARK Wembley bring you a weekly festive dose of trivia, sill
+ iness and prizes.
+DTEND;VALUE=DATE:20230815
+DTSTART;VALUE=DATE:20230815
+SUMMARY:Big Fat Quizbox
+UID:9118e724-914a-4281-8a59-d2623fd16d54
 END:VEVENT
 END:VCALENDAR
