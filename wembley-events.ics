@@ -3,100 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
+DTSTAMP:20230817T011611Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:c060e063-378d-40b6-8ca3-4f3263ff9768
+UID:ce59ebee-f747-4fdd-9e1e-45d293cf2ae1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
+DTSTAMP:20230817T011611Z
 DESCRIPTION:Since its inception in 2018, All Points East has earned a reput
  ation for a varied blend of musical styles and genres. Back in Vicky Park f
  or another instalment, it's confirmed big-hitting...
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:All Points East
-UID:ddb36373-4f8d-4893-a54b-e99286c904f4
+UID:980cfc60-bca0-421b-85c8-f8bc7e1d6683
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
+DTSTAMP:20230817T011611Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:38718354-19a9-452a-9ecd-e04d35f14b30
+UID:98661699-a324-4c80-aa1d-17a340e90e28
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
-DESCRIPTION:Asake will be playing a headline show at The O2 on 20th August 
- 2023. Get in touch with our hospitality team to view our O2 packages.
+DTSTAMP:20230817T011611Z
+DESCRIPTION:The enterprise has the blessing of Tarantino. Let us please kee
+ p her family in our prayers. He is signed to YBNL Nation and Empire Distrib
+ ution. Tarantino Live is on at Londons Riverside Studios...
 DTEND;VALUE=DATE:20230820
 DTSTART;VALUE=DATE:20230820
 SUMMARY:Asake
-UID:21f0ff1c-333e-4d46-a561-bf577ba3b3dd
+UID:3976dba7-c885-4389-9756-2e46265914c5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
-DESCRIPTION:Tickets, info and places to stay for Rauw Alejandro at OVO Aren
- a, Wembleyin London on Sun 1st October 2023. Ents24.com, the UK's biggest e
- ntertainment guide
-DTEND;VALUE=DATE:20231001
-DTSTART;VALUE=DATE:20231001
-SUMMARY:Rauw Alejandro
-UID:5eda4d85-7d52-43ea-985a-94cf970431d4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:4e524f26-65f9-47b4-b77a-8423395eca19
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
-DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
- tinder Sartaaj is set to grace the stage for a sublime tour. From performin
- g all over the world and starring in top Punjabi films...
-DTEND;VALUE=DATE:20230828
-DTSTART;VALUE=DATE:20230828
-SUMMARY:Satinder Sartaaj
-UID:b1ee5208-8317-4a83-bb97-53438e90bbe0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
+DTSTAMP:20230817T011611Z
 DESCRIPTION:After 30 years of ‘killin’ time,’ Clint Black is ready to
   celebrate. The multi-million selling country icon is set to embark on a to
  ur commemorating the 30th anniversary of his groundbreaking...
 DTEND;VALUE=DATE:20230928
 DTSTART;VALUE=DATE:20230928
 SUMMARY:Clint Black
-UID:68cb0756-7111-4519-82fc-4e9e36a98531
+UID:7bf28821-cd3f-448e-b42b-44028cd4395e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
-DESCRIPTION:BOXPARK Wembley bring you a weekly festive dose of trivia, sill
- iness and prizes.
-DTEND;VALUE=DATE:20230815
-DTSTART;VALUE=DATE:20230815
-SUMMARY:Big Fat Quizbox
-UID:158d6014-c5cf-4f1b-81e3-c7ce0a7d6732
+DTSTAMP:20230817T011611Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:03a453b3-eede-4359-9ad7-57163dbb1baa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230815T011746Z
+DTSTAMP:20230817T011611Z
+DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
+ tinder Sartaaj is set to grace the stage for a sublime tour. From performin
+ g all over the world and starring in top Punjabi films...
+DTEND;VALUE=DATE:20230828
+DTSTART;VALUE=DATE:20230828
+SUMMARY:Satinder Sartaaj
+UID:0f6edb66-57a3-4f6e-97a5-54322771a980
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230817T011611Z
 DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
  icipated UK arena concert tour, featuring a full live band and an unforgett
  able family show experience. Named one of the hottest...
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:Ammy Virk @ OVO Arena Wembley
-UID:4e5f70cf-3fd3-4588-a61d-eebe6ac2db89
+UID:4633d790-ae69-435a-9146-1e41bc06d2b5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230817T011611Z
+DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
+ o gained fame when she reached the Top 6 on the US version of The Voice . B
+ orn in New York, she had also tried out on the MSG Varsity...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:PORTALS TOUR
+UID:7e16bfc2-c10a-432c-b35c-ccc52fe77712
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230817T011611Z
+DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
+  HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
+ Y Lil Yachty has announced a 39 stop global tour in support of...
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Lil Yachty
+UID:ba667ea3-8c07-42a4-ad6c-b5075f65969b
 END:VEVENT
 END:VCALENDAR
