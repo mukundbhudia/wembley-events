@@ -3,102 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
+DTSTAMP:20230818T011716Z
 DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
  National Express journeys from across the UK.
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:ce59ebee-f747-4fdd-9e1e-45d293cf2ae1
+UID:6b5d0668-9a16-4c01-9d2a-c27e6e59ffb6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
+DTSTAMP:20230818T011716Z
 DESCRIPTION:Since its inception in 2018, All Points East has earned a reput
  ation for a varied blend of musical styles and genres. Back in Vicky Park f
  or another instalment, it's confirmed big-hitting...
 DTEND;VALUE=DATE:20230818
 DTSTART;VALUE=DATE:20230818
 SUMMARY:All Points East
-UID:980cfc60-bca0-421b-85c8-f8bc7e1d6683
+UID:2b8876d5-8cfb-4955-b5e1-6b28d03b72ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
+DTSTAMP:20230818T011716Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:98661699-a324-4c80-aa1d-17a340e90e28
+UID:d10bd921-d399-46a9-aae1-2698ec8ad47b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
-DESCRIPTION:The enterprise has the blessing of Tarantino. Let us please kee
- p her family in our prayers. He is signed to YBNL Nation and Empire Distrib
- ution. Tarantino Live is on at Londons Riverside Studios...
-DTEND;VALUE=DATE:20230820
-DTSTART;VALUE=DATE:20230820
-SUMMARY:Asake
-UID:3976dba7-c885-4389-9756-2e46265914c5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
-DESCRIPTION:After 30 years of ‘killin’ time,’ Clint Black is ready to
-  celebrate. The multi-million selling country icon is set to embark on a to
- ur commemorating the 30th anniversary of his groundbreaking...
-DTEND;VALUE=DATE:20230928
-DTSTART;VALUE=DATE:20230928
-SUMMARY:Clint Black
-UID:7bf28821-cd3f-448e-b42b-44028cd4395e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:03a453b3-eede-4359-9ad7-57163dbb1baa
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
+DTSTAMP:20230818T011716Z
 DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
  tinder Sartaaj is set to grace the stage for a sublime tour. From performin
  g all over the world and starring in top Punjabi films...
 DTEND;VALUE=DATE:20230828
 DTSTART;VALUE=DATE:20230828
 SUMMARY:Satinder Sartaaj
-UID:0f6edb66-57a3-4f6e-97a5-54322771a980
+UID:b9956f1f-2d77-4355-9bb0-12e0f26ce690
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
-DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
- icipated UK arena concert tour, featuring a full live band and an unforgett
- able family show experience. Named one of the hottest...
-DTEND;VALUE=DATE:20231008
-DTSTART;VALUE=DATE:20231008
-SUMMARY:Ammy Virk @ OVO Arena Wembley
-UID:4633d790-ae69-435a-9146-1e41bc06d2b5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
-DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
- o gained fame when she reached the Top 6 on the US version of The Voice . B
- orn in New York, she had also tried out on the MSG Varsity...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:PORTALS TOUR
-UID:7e16bfc2-c10a-432c-b35c-ccc52fe77712
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230817T011611Z
+DTSTAMP:20230818T011716Z
 DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
   HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
  Y Lil Yachty has announced a 39 stop global tour in support of...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:ba667ea3-8c07-42a4-ad6c-b5075f65969b
+UID:cc172775-65c6-4721-befb-8587be29d683
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T011716Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:bf3f213b-064d-4141-928f-e277221e173b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T011716Z
+DESCRIPTION:After 30 years of ‘killin’ time,’ Clint Black is ready to
+  celebrate. The multi-million selling country icon is set to embark on a to
+ ur commemorating the 30th anniversary of his groundbreaking...
+DTEND;VALUE=DATE:20230928
+DTSTART;VALUE=DATE:20230928
+SUMMARY:Clint Black
+UID:b9bfa674-9b77-4b47-bda0-2e7e5090afc5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T011716Z
+DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
+ icipated UK arena concert tour, featuring a full live band and an unforgett
+ able family show experience. Named one of the hottest...
+DTEND;VALUE=DATE:20231008
+DTSTART;VALUE=DATE:20231008
+SUMMARY:Ammy Virk @ OVO Arena Wembley
+UID:a7a2bd61-34c8-432d-8c13-6b05da567d32
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T011716Z
+DESCRIPTION:Asake has undoubtedly staked his claim as a trailblazer in the 
+ Afro-Urban and Afrobeats genres, appealing to audiences globally. With a ne
+ w Album 'Work of Art' just released, Asake will be playing...
+DTEND;VALUE=DATE:20230820
+DTSTART;VALUE=DATE:20230820
+SUMMARY:Asake
+UID:03e83d2e-1b20-413b-9ce7-d4c8037f384c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230818T011716Z
+DESCRIPTION:Supplying all that good music and food for the soul. Each and e
+ very Sunday at BOXPARK Wembley.
+DTEND;VALUE=DATE:20230820
+DTSTART;VALUE=DATE:20230820
+SUMMARY:SOULFUL SUNDAYS
+UID:87c6b9bf-2925-4449-ba1c-8c22c88a6e44
 END:VEVENT
 END:VCALENDAR
