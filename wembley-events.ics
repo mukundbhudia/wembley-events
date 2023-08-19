@@ -3,101 +3,103 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
-DESCRIPTION:Catch The Weeknd live at Wembley Stadium, London by coach with 
- National Express journeys from across the UK.
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
-SUMMARY:Wembley Stadium Hospitality - The Weeknd: After...
-UID:6b5d0668-9a16-4c01-9d2a-c27e6e59ffb6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
+DTSTAMP:20230819T011509Z
 DESCRIPTION:Since its inception in 2018, All Points East has earned a reput
  ation for a varied blend of musical styles and genres. Back in Vicky Park f
  or another instalment, it's confirmed big-hitting...
-DTEND;VALUE=DATE:20230818
-DTSTART;VALUE=DATE:20230818
+DTEND;VALUE=DATE:20230819
+DTSTART;VALUE=DATE:20230819
 SUMMARY:All Points East
-UID:2b8876d5-8cfb-4955-b5e1-6b28d03b72ea
+UID:b4d6b1ef-646d-43ff-9c77-8685d0668bed
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
+DTSTAMP:20230819T011509Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:d10bd921-d399-46a9-aae1-2698ec8ad47b
+UID:fa7b68cf-87b0-4b26-bdf5-a5f877c0788d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
-DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
- tinder Sartaaj is set to grace the stage for a sublime tour. From performin
- g all over the world and starring in top Punjabi films...
-DTEND;VALUE=DATE:20230828
-DTSTART;VALUE=DATE:20230828
-SUMMARY:Satinder Sartaaj
-UID:b9956f1f-2d77-4355-9bb0-12e0f26ce690
+DTSTAMP:20230819T011509Z
+DESCRIPTION:Everyday People LONDON Music by: Donch, DJ Tara, Lion Dub & Ric
+ h Knight. Hosted by: Gitoo, Bernice, Donnie Sunshine & Maine. Food will be 
+ available on-site. All sales are final. #everydayppl...
+DTEND;VALUE=DATE:20230819
+DTSTART;VALUE=DATE:20230819
+SUMMARY:EVERYDAY PEOPLE LONDON: SATURDAY 19 August
+UID:d3042d26-1971-43c2-9370-f0ad8ac96e3a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
-DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
-  HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
- Y Lil Yachty has announced a 39 stop global tour in support of...
-DTEND;VALUE=DATE:20231201
-DTSTART;VALUE=DATE:20231201
-SUMMARY:Lil Yachty
-UID:cc172775-65c6-4721-befb-8587be29d683
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:bf3f213b-064d-4141-928f-e277221e173b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
+DTSTAMP:20230819T011509Z
 DESCRIPTION:After 30 years of ‘killin’ time,’ Clint Black is ready to
   celebrate. The multi-million selling country icon is set to embark on a to
  ur commemorating the 30th anniversary of his groundbreaking...
 DTEND;VALUE=DATE:20230928
 DTSTART;VALUE=DATE:20230928
 SUMMARY:Clint Black
-UID:b9bfa674-9b77-4b47-bda0-2e7e5090afc5
+UID:ea53105e-1fbc-4be3-ba97-3f0f64501712
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
+DTSTAMP:20230819T011509Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:af45ecc4-7ebf-4191-9747-6bf0ee7c89da
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230819T011509Z
+DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
+  HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
+ Y Lil Yachty has announced a 39 stop global tour in support of...
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Lil Yachty
+UID:2c2c7b5e-19d9-4370-bf95-16f5d20ebc4c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230819T011509Z
+DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
+ tinder Sartaaj is set to grace the stage for a sublime tour. From performin
+ g all over the world and starring in top Punjabi films...
+DTEND;VALUE=DATE:20230828
+DTSTART;VALUE=DATE:20230828
+SUMMARY:Satinder Sartaaj
+UID:28118bd4-1093-4b23-854b-e803b71e23e7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230819T011509Z
+DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
+ o gained fame when she reached the Top 6 on the US version of The Voice . B
+ orn in New York, she had also tried out on the MSG Varsity...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:PORTALS TOUR
+UID:e92327f9-f8aa-439a-8b55-8bf227da2823
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230819T011509Z
 DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
  icipated UK arena concert tour, featuring a full live band and an unforgett
  able family show experience. Named one of the hottest...
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:Ammy Virk @ OVO Arena Wembley
-UID:a7a2bd61-34c8-432d-8c13-6b05da567d32
+UID:b19f108c-8d2c-434e-ad8a-6295219ac837
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
+DTSTAMP:20230819T011509Z
 DESCRIPTION:Asake has undoubtedly staked his claim as a trailblazer in the 
  Afro-Urban and Afrobeats genres, appealing to audiences globally. With a ne
  w Album 'Work of Art' just released, Asake will be playing...
 DTEND;VALUE=DATE:20230820
 DTSTART;VALUE=DATE:20230820
 SUMMARY:Asake
-UID:03e83d2e-1b20-413b-9ce7-d4c8037f384c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230818T011716Z
-DESCRIPTION:Supplying all that good music and food for the soul. Each and e
- very Sunday at BOXPARK Wembley.
-DTEND;VALUE=DATE:20230820
-DTSTART;VALUE=DATE:20230820
-SUMMARY:SOULFUL SUNDAYS
-UID:87c6b9bf-2925-4449-ba1c-8c22c88a6e44
+UID:9830cd8b-aa17-47f0-b5b0-273dd8ccdecd
 END:VEVENT
 END:VCALENDAR
