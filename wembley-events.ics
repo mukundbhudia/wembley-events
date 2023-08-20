@@ -3,103 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
+DTSTAMP:20230820T012033Z
 DESCRIPTION:Since its inception in 2018, All Points East has earned a reput
  ation for a varied blend of musical styles and genres. Back in Vicky Park f
  or another instalment, it's confirmed big-hitting...
-DTEND;VALUE=DATE:20230819
-DTSTART;VALUE=DATE:20230819
+DTEND;VALUE=DATE:20230820
+DTSTART;VALUE=DATE:20230820
 SUMMARY:All Points East
-UID:b4d6b1ef-646d-43ff-9c77-8685d0668bed
+UID:88b9146a-cd03-473d-b412-cb9d50de517f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:fa7b68cf-87b0-4b26-bdf5-a5f877c0788d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
-DESCRIPTION:Everyday People LONDON Music by: Donch, DJ Tara, Lion Dub & Ric
- h Knight. Hosted by: Gitoo, Bernice, Donnie Sunshine & Maine. Food will be 
- available on-site. All sales are final. #everydayppl...
-DTEND;VALUE=DATE:20230819
-DTSTART;VALUE=DATE:20230819
-SUMMARY:EVERYDAY PEOPLE LONDON: SATURDAY 19 August
-UID:d3042d26-1971-43c2-9370-f0ad8ac96e3a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
-DESCRIPTION:After 30 years of ‘killin’ time,’ Clint Black is ready to
-  celebrate. The multi-million selling country icon is set to embark on a to
- ur commemorating the 30th anniversary of his groundbreaking...
-DTEND;VALUE=DATE:20230928
-DTSTART;VALUE=DATE:20230928
-SUMMARY:Clint Black
-UID:ea53105e-1fbc-4be3-ba97-3f0f64501712
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
+DTSTAMP:20230820T012033Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:af45ecc4-7ebf-4191-9747-6bf0ee7c89da
+UID:83a649a9-66d2-4653-a577-0e7b378bd546
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
+DTSTAMP:20230820T012033Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais
+UID:f1d3b22b-1647-4848-924e-cb7fbedc6fc1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230820T012033Z
+DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
+ o gained fame when she reached the Top 6 on the US version of The Voice . B
+ orn in New York, she had also tried out on the MSG Varsity...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:Melanie Martinez
+UID:cfe0c2ca-8820-472a-a0d5-3ee6f1ceec39
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230820T012033Z
 DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
   HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
  Y Lil Yachty has announced a 39 stop global tour in support of...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:2c2c7b5e-19d9-4370-bf95-16f5d20ebc4c
+UID:6de0fee4-7fa1-417c-9f1f-8a68de3691c1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
-DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
- tinder Sartaaj is set to grace the stage for a sublime tour. From performin
- g all over the world and starring in top Punjabi films...
-DTEND;VALUE=DATE:20230828
-DTSTART;VALUE=DATE:20230828
-SUMMARY:Satinder Sartaaj
-UID:28118bd4-1093-4b23-854b-e803b71e23e7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
-DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
- o gained fame when she reached the Top 6 on the US version of The Voice . B
- orn in New York, she had also tried out on the MSG Varsity...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:PORTALS TOUR
-UID:e92327f9-f8aa-439a-8b55-8bf227da2823
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
+DTSTAMP:20230820T012033Z
 DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
  icipated UK arena concert tour, featuring a full live band and an unforgett
  able family show experience. Named one of the hottest...
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
-SUMMARY:Ammy Virk @ OVO Arena Wembley
-UID:b19f108c-8d2c-434e-ad8a-6295219ac837
+SUMMARY:AMMY VIRK LIVE IN CONCERT
+UID:21d6fa0f-bc76-4ceb-a0ab-0bbcd62f60e7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230819T011509Z
-DESCRIPTION:Asake has undoubtedly staked his claim as a trailblazer in the 
- Afro-Urban and Afrobeats genres, appealing to audiences globally. With a ne
- w Album 'Work of Art' just released, Asake will be playing...
+DTSTAMP:20230820T012033Z
+DESCRIPTION:Supplying all that good music and food for the soul. Each and e
+ very Sunday at BOXPARK Wembley.
 DTEND;VALUE=DATE:20230820
 DTSTART;VALUE=DATE:20230820
-SUMMARY:Asake
-UID:9830cd8b-aa17-47f0-b5b0-273dd8ccdecd
+SUMMARY:SOULFUL SUNDAYS
+UID:63e062a7-c9e5-4c65-9501-6f79c8a96de8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230820T012033Z
+DESCRIPTION:Fresh from announcing her hotly anticipated new album, ‘The G
+ ood Witch’, which includes the brand new single 'Body Better', Maisie Pet
+ ers announces her biggest headline show to date at OVO Arena...
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:42e43cc4-73f0-4e4c-bf60-04d312f22a16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230820T012033Z
+DESCRIPTION:(G)I-DLE is a South Korean girl group formed by Cube Entertainm
+ ent in 2018. The group consists of five members: MIYEON, MINNIE, SOYEON, YU
+ QI and SHUHUA.
+DTEND;VALUE=DATE:20230909
+DTSTART;VALUE=DATE:20230909
+SUMMARY:2023 (G)I-DLE World Tour (I am FREE-TY) in Europe
+UID:643ad9ee-9b1f-4137-a910-fce81e4c9818
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230820T012033Z
+DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
+ tinder Sartaaj is set to grace the stage for a sublime tour. From performin
+ g all over the world and starring in top Punjabi films...
+DTEND;VALUE=DATE:20230828
+DTSTART;VALUE=DATE:20230828
+SUMMARY:Satinder Sartaaj Live
+UID:19ee7164-ee62-429c-883c-0644e873f335
 END:VEVENT
 END:VCALENDAR
