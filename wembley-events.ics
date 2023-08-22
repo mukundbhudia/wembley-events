@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
-DESCRIPTION:Since its inception in 2018, All Points East has earned a reput
- ation for a varied blend of musical styles and genres. Back in Vicky Park f
- or another instalment, it's confirmed big-hitting...
-DTEND;VALUE=DATE:20230821
-DTSTART;VALUE=DATE:20230821
-SUMMARY:All Points East
-UID:d07b3adc-20ec-4908-af78-00c689b8e3d1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
-DESCRIPTION:AEW’s hugely anticipated UK debut will take place at the ico
- nic Wembley Stadium on Sunday 27th August
+DTSTAMP:20230822T011843Z
+DESCRIPTION:We and our third party partners use cookies on our site to serv
+ e personalised content and ads, provide social media features and analyse s
+ ite traffic. If you click on "Accept All Cookies", you...
 DTEND;VALUE=DATE:20230827
 DTSTART;VALUE=DATE:20230827
 SUMMARY:AEW: All In London at Wembley Stadium
-UID:5e5c8569-6625-48fe-9025-cca397102010
+UID:df02f7b6-74c7-45ac-960b-679c3b37c6d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
+DTSTAMP:20230822T011843Z
+DESCRIPTION:Since its inception in 2018, All Points East has earned a reput
+ ation for a varied blend of musical styles and genres. Back in Vicky Park f
+ or another instalment, it's confirmed big-hitting...
+DTEND;VALUE=DATE:20230822
+DTSTART;VALUE=DATE:20230822
+SUMMARY:All Points East
+UID:ddf64379-dcf3-407d-97d3-77e33f900d7a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230822T011843Z
+DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
+ s in excess of this will be cancelled. Tickets must not be purchased with t
+ he intention of reselling them. If you can no longer use...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:345136a1-70c6-47e5-8e34-1921c22ab67d
+UID:1596e968-568d-4395-80ae-1ebd3577a6c9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
+DTSTAMP:20230822T011843Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais
-UID:9bba5dbd-1ed7-4306-a3a2-7e056519c5d6
+UID:1f5b941f-9b97-4d50-b9b9-18f2548a70c9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
-DESCRIPTION:Won’t Back Down (feat. YoungBoy Never Broke Again, Dermot Ken
- nedy & Bailey Zimmerman) (FAST X / Original Motion Picture Soundtrack)
-DTEND;VALUE=DATE:20230827
-DTSTART;VALUE=DATE:20230827
-SUMMARY:All Points East
-UID:9d48ffdb-c028-4106-b4ff-5943b175dda8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
+DTSTAMP:20230822T011843Z
 DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
   HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
  Y Lil Yachty has announced a 39 stop global tour in support of...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:219eb798-7ad6-4940-a92f-9e3f5a409e4b
+UID:47ff87ac-6dcc-4612-8fe3-5da25afce61b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
+DTSTAMP:20230822T011843Z
+DESCRIPTION:BOXPARK Wembley bring you a weekly festive dose of trivia, sill
+ iness and prizes.
+DTEND;VALUE=DATE:20230822
+DTSTART;VALUE=DATE:20230822
+SUMMARY:Big Fat Quizbox
+UID:1616e072-9434-4c8e-b43f-c83881dbfb6a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230822T011843Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez
-UID:a60e2033-8f37-4c5f-b37a-6c5e60143d5e
+UID:6b9ae8f7-4153-433e-bfb3-94768c0c1be9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
-DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
- icipated UK arena concert tour, featuring a full live band and an unforgett
- able family show experience. Named one of the hottest...
+DTSTAMP:20230822T011843Z
+DESCRIPTION:Get notified whenever Ammy Virk announces a live stream or a co
+ ncert in your area
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:91b41a5b-1549-42af-9cc8-cba2b7de394a
+UID:b9d0dc72-0ae6-46bb-919b-e1354e75a29a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
-DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
- ind Maisie Peters tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:e94979ad-d6c6-49c0-9197-62c4d715b69b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230821T011743Z
+DTSTAMP:20230822T011843Z
 DESCRIPTION:Spend an evening in Alexandra Palace Theatre in the extraordina
  ry company of Ricky Gervais . Creator and star of ‘The Office’ and ‘E
  xtras’, Ricky Gervais has won three Golden Globes, two Primetime...
-DTEND;VALUE=DATE:20230821
-DTSTART;VALUE=DATE:20230821
+DTEND;VALUE=DATE:20230822
+DTSTART;VALUE=DATE:20230822
 SUMMARY:Ricky Gervais
-UID:6d921f0a-5cd0-4dae-a06e-1359a3c44a88
+UID:303d882b-4411-4d39-b78b-3f79d6438169
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230822T011843Z
+DESCRIPTION:Fresh from announcing her hotly anticipated new album, ‘The G
+ ood Witch’, which includes the brand new single 'Body Better', Maisie Pet
+ ers announces her biggest headline show to date at OVO Arena...
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:e7e0a702-edc7-466d-a0ae-05de6fdeb5b5
 END:VEVENT
 END:VCALENDAR
