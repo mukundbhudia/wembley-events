@@ -3,101 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
+DTSTAMP:20230825T011925Z
 DESCRIPTION:AEW’s hugely anticipated UK debut will take place at the ico
  nic Wembley Stadium on Sunday 27th August
 DTEND;VALUE=DATE:20230827
 DTSTART;VALUE=DATE:20230827
 SUMMARY:AEW: All In London at Wembley Stadium
-UID:c4a783ab-6248-49f6-b07b-1683ef03b955
+UID:7ecafd23-bb71-4555-af8d-530e10667560
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais
-UID:9bf4dcae-5395-4b89-9ab6-09f2c6e0ef53
+DTSTAMP:20230825T011925Z
+DESCRIPTION:Won’t Back Down (feat. YoungBoy Never Broke Again, Dermot Ken
+ nedy & Bailey Zimmerman) (FAST X / Original Motion Picture Soundtrack)
+DTEND;VALUE=DATE:20230827
+DTSTART;VALUE=DATE:20230827
+SUMMARY:All Points East
+UID:9a05512d-e577-42ec-a24f-0838ffc7da44
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
+DTSTAMP:20230825T011925Z
 DESCRIPTION:It's carnival weekend so we have to pay homage the RECESS way..
  . the BeatBox will be dedicated to island sounds for the majority of the da
  y! As always, there's plenty of food available from...
 DTEND;VALUE=DATE:20230826
 DTSTART;VALUE=DATE:20230826
 SUMMARY:RECESS: Carnival Weekend
-UID:4de26d0a-b448-4ddb-812d-3cfa64e3ef66
+UID:2a44ed42-1034-4fea-a9f8-22ebc289eb41
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
-DESCRIPTION:Won’t Back Down (feat. YoungBoy Never Broke Again, Dermot Ken
- nedy & Bailey Zimmerman) (FAST X / Original Motion Picture Soundtrack)
-DTEND;VALUE=DATE:20230827
-DTSTART;VALUE=DATE:20230827
-SUMMARY:All Points East
-UID:15aecf8d-e713-4907-85ca-d8c10e7a1859
+DTSTAMP:20230825T011925Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais
+UID:f42414cd-b1fd-430b-9ee5-74d1392df1ec
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
+DTSTAMP:20230825T011925Z
 DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
  tinder Sartaaj is set to grace the stage for a sublime tour. From performin
  g all over the world and starring in top Punjabi films...
 DTEND;VALUE=DATE:20230828
 DTSTART;VALUE=DATE:20230828
 SUMMARY:Satinder Sartaaj
-UID:8f186800-480a-4e5f-b630-daf809643644
+UID:51244bee-c57b-4ade-b91b-ca4206256ec3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
-DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
- s in excess of this will be cancelled. Tickets must not be purchased with t
- he intention of reselling them. If you can no longer use...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais
-UID:67e71632-8ce7-4abf-b852-86cb416cfbfd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
+DTSTAMP:20230825T011925Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez
-UID:afdef1fd-f131-4b46-b688-b4dad249be93
+UID:1c6650a0-0290-4f20-a734-6ba7407161b1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
+DTSTAMP:20230825T011925Z
+DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
+ s in excess of this will be cancelled. Tickets must not be purchased with t
+ he intention of reselling them. If you can no longer use...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais
+UID:eecd22c2-4c1e-4793-a90d-b737891e2906
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230825T011925Z
 DESCRIPTION:Fresh from announcing her hotly anticipated new album, ‘The G
  ood Witch’, which includes the brand new single 'Body Better', Maisie Pet
  ers announces her biggest headline show to date at OVO Arena...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:ae4424d3-1e1d-443c-b1f7-d52dc3f161eb
+UID:fa7d07ba-37cc-4fb2-880d-c2314be38a7d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
-DESCRIPTION:(G)I-DLE is a South Korean girl group formed by Cube Entertainm
- ent in 2018. The group consists of five members: MIYEON, MINNIE, SOYEON, YU
- QI and SHUHUA.
+DTSTAMP:20230825T011925Z
+DESCRIPTION:Find tickets for (G)I-DLE at OVO Arena, Wembley in London on 9/
+ 9/2023 at 6:30 PM
 DTEND;VALUE=DATE:20230909
 DTSTART;VALUE=DATE:20230909
 SUMMARY:(G)I-DLE
-UID:3550bae3-6a0a-4b3e-a061-d179d8a828cb
+UID:3cd2e9ca-30f5-40e8-b61c-2c84e14f16d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230824T011729Z
-DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
- icipated UK arena concert tour, featuring a full live band and an unforgett
- able family show experience. Named one of the hottest...
+DTSTAMP:20230825T011925Z
+DESCRIPTION:Buy Ammy Virk tickets from Ticketmaster IE. Ammy Virk 2023-24 t
+ our dates, event details + much more.
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:2148acdb-6188-425d-95d4-6a75bb5e79fb
+UID:90179f96-e361-467f-8d47-4d9373fd675f
 END:VEVENT
 END:VCALENDAR
