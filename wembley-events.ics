@@ -3,99 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
+DTSTAMP:20230826T011608Z
 DESCRIPTION:AEW’s hugely anticipated UK debut will take place at the ico
  nic Wembley Stadium on Sunday 27th August
 DTEND;VALUE=DATE:20230827
 DTSTART;VALUE=DATE:20230827
 SUMMARY:AEW: All In London at Wembley Stadium
-UID:7ecafd23-bb71-4555-af8d-530e10667560
+UID:780a3c01-763a-4493-8825-8953df57d517
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
+DTSTAMP:20230826T011608Z
+DESCRIPTION:Since its inception in 2018, All Points East has earned a reput
+ ation for a varied blend of musical styles and genres. Back in Vicky Park f
+ or another instalment, it's confirmed big-hitting...
+DTEND;VALUE=DATE:20230826
+DTSTART;VALUE=DATE:20230826
+SUMMARY:The Strokes
+UID:a156a3a4-0406-4554-9f18-284496b45dd3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230826T011608Z
+DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
+ s in excess of this will be cancelled. Tickets must not be purchased with t
+ he intention of reselling them. If you can no longer use...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:02bcabc8-4160-4f08-8559-b8eae169322d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230826T011608Z
 DESCRIPTION:Won’t Back Down (feat. YoungBoy Never Broke Again, Dermot Ken
  nedy & Bailey Zimmerman) (FAST X / Original Motion Picture Soundtrack)
 DTEND;VALUE=DATE:20230827
 DTSTART;VALUE=DATE:20230827
 SUMMARY:All Points East
-UID:9a05512d-e577-42ec-a24f-0838ffc7da44
+UID:4b2b2ca5-60cf-47b7-82ed-be59da25f392
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
-DESCRIPTION:It's carnival weekend so we have to pay homage the RECESS way..
- . the BeatBox will be dedicated to island sounds for the majority of the da
- y! As always, there's plenty of food available from...
-DTEND;VALUE=DATE:20230826
-DTSTART;VALUE=DATE:20230826
-SUMMARY:RECESS: Carnival Weekend
-UID:2a44ed42-1034-4fea-a9f8-22ebc289eb41
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
+DTSTAMP:20230826T011608Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais
-UID:f42414cd-b1fd-430b-9ee5-74d1392df1ec
+UID:3bb6394d-317c-4e38-9a9b-28abcf069c88
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
+DTSTAMP:20230826T011608Z
 DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
  tinder Sartaaj is set to grace the stage for a sublime tour. From performin
  g all over the world and starring in top Punjabi films...
 DTEND;VALUE=DATE:20230828
 DTSTART;VALUE=DATE:20230828
 SUMMARY:Satinder Sartaaj
-UID:51244bee-c57b-4ade-b91b-ca4206256ec3
+UID:1dc58967-5ac2-4175-9c58-9869ffe88220
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
-DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
- o gained fame when she reached the Top 6 on the US version of The Voice . B
- orn in New York, she had also tried out on the MSG Varsity...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:Melanie Martinez
-UID:1c6650a0-0290-4f20-a734-6ba7407161b1
+DTSTAMP:20230826T011608Z
+DESCRIPTION:(G)I-DLE is a South Korean girl group formed by Cube Entertainm
+ ent in 2018. The group consists of five members: MIYEON, MINNIE, SOYEON, YU
+ QI and SHUHUA.
+DTEND;VALUE=DATE:20230909
+DTSTART;VALUE=DATE:20230909
+SUMMARY:(G)I-DLE
+UID:0ecc4e90-4279-418a-a356-d59fb70eac60
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
-DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
- s in excess of this will be cancelled. Tickets must not be purchased with t
- he intention of reselling them. If you can no longer use...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais
-UID:eecd22c2-4c1e-4793-a90d-b737891e2906
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
+DTSTAMP:20230826T011608Z
 DESCRIPTION:Fresh from announcing her hotly anticipated new album, ‘The G
  ood Witch’, which includes the brand new single 'Body Better', Maisie Pet
  ers announces her biggest headline show to date at OVO Arena...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:fa7d07ba-37cc-4fb2-880d-c2314be38a7d
+UID:278f693f-ee36-4963-8cf9-2f9e78c032b8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
-DESCRIPTION:Find tickets for (G)I-DLE at OVO Arena, Wembley in London on 9/
- 9/2023 at 6:30 PM
-DTEND;VALUE=DATE:20230909
-DTSTART;VALUE=DATE:20230909
-SUMMARY:(G)I-DLE
-UID:3cd2e9ca-30f5-40e8-b61c-2c84e14f16d7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230825T011925Z
-DESCRIPTION:Buy Ammy Virk tickets from Ticketmaster IE. Ammy Virk 2023-24 t
- our dates, event details + much more.
+DTSTAMP:20230826T011608Z
+DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
+ icipated UK arena concert tour, featuring a full live band and an unforgett
+ able family show experience. Named one of the hottest...
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:90179f96-e361-467f-8d47-4d9373fd675f
+UID:f6dbf80a-3e21-4272-80a6-e9c8eea889e7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230826T011608Z
+DESCRIPTION:Atlanta rapper, singer, songwriter, and record producer Lil Yac
+ hty incorporates psychedelic alternative rock into his music, inspired by m
+ ultiple psychedelic journeys and his longtime love of Pink...
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Lil Yachty
+UID:23d82d62-6606-4b57-a28d-1d92d2f9f198
 END:VEVENT
 END:VCALENDAR
