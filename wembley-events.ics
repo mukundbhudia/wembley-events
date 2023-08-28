@@ -3,101 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
-DESCRIPTION:Since its inception in 2018, All Points East has earned a reput
- ation for a varied blend of musical styles and genres. Back in Vicky Park f
- or another instalment, it's confirmed big-hitting...
-DTEND;VALUE=DATE:20230827
-DTSTART;VALUE=DATE:20230827
-SUMMARY:The Strokes
-UID:42cfe724-51da-4624-a322-c93cbefec602
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
-DESCRIPTION:AEW’s hugely anticipated UK debut will take place at the ico
- nic Wembley Stadium on Sunday 27th August
-DTEND;VALUE=DATE:20230827
-DTSTART;VALUE=DATE:20230827
-SUMMARY:AEW - All in London
-UID:39e882bd-5a74-4467-a0c0-b4c6b98240b1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
-DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
- s in excess of this will be cancelled. Tickets must not be purchased with t
- he intention of reselling them. If you can no longer use...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:b6fcef81-3245-44df-aab8-406e9233dba9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
-DESCRIPTION:Won’t Back Down (feat. YoungBoy Never Broke Again, Dermot Ken
- nedy & Bailey Zimmerman) (FAST X / Original Motion Picture Soundtrack)
-DTEND;VALUE=DATE:20230827
-DTSTART;VALUE=DATE:20230827
-SUMMARY:All Points East
-UID:0399be0b-2317-47ca-886c-65677dec9b25
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais
-UID:f6ee0604-6c65-4046-a8b2-38849e1092c9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
+DTSTAMP:20230828T011947Z
 DESCRIPTION:A multi-gifted songwriter, singer, composer, poet and actor, Sa
  tinder Sartaaj is set to grace the stage for a sublime tour. From performin
  g all over the world and starring in top Punjabi films...
 DTEND;VALUE=DATE:20230828
 DTSTART;VALUE=DATE:20230828
 SUMMARY:Satinder Sartaaj
-UID:8076139d-9476-434d-8af0-f320087016d8
+UID:44b9d217-00b1-4011-bc63-28d81f482a1b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
-DESCRIPTION:(G)I-DLE is a South Korean girl group formed by Cube Entertainm
- ent in 2018. The group consists of five members: MIYEON, MINNIE, SOYEON, YU
- QI and SHUHUA.
+DTSTAMP:20230828T011947Z
+DESCRIPTION:Hrithik Roshan is a Bollywood actor from Bombay, India. Hrithi
+ k Roshan will be performing 1 event in London on Friday 1st September 2023 
+ at the OVO Arena Wembley.
+DTEND;VALUE=DATE:20230901
+DTSTART;VALUE=DATE:20230901
+SUMMARY:Hrithik Roshan
+UID:4df12b9b-f986-41b6-99db-f1eb9b3f8e7c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230828T011947Z
+DESCRIPTION:AEW’s hugely anticipated UK debut will take place at the ico
+ nic Wembley Stadium on Sunday 27th August
+DTEND;VALUE=DATE:20230827
+DTSTART;VALUE=DATE:20230827
+SUMMARY:AEW - All in London
+UID:8f5d650a-f8ea-4a9e-8dc1-2866f456cea3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230828T011947Z
+DESCRIPTION:HAIM is performing at All Points East Festival in London, Engla
+ nd on Aug 28, 2023.
+DTEND;VALUE=DATE:20230828
+DTSTART;VALUE=DATE:20230828
+SUMMARY:All Points East
+UID:354308c2-25ff-4765-8058-27bc30b9764e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230828T011947Z
+DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
+ s in excess of this will be cancelled. Tickets must not be purchased with t
+ he intention of reselling them. If you can no longer use...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:411d4156-c25d-4bb0-8751-e845929731d2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230828T011947Z
+DESCRIPTION:FESTIVAL OVERVIEW After the magic of Soul Town Festival 2022, t
+ hey have been pulling out all the stops to make sure Soul Town 2023 is a we
+ ekend to remember. They will be bringing together the...
+DTEND;VALUE=DATE:20230902
+DTSTART;VALUE=DATE:20230902
+SUMMARY:Soul Town Festival 2023
+UID:0beb6ce7-60a2-4724-a8b4-0d6e442608f4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230828T011947Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais
+UID:74bb0473-1627-4204-8ca9-474cd0a02380
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230828T011947Z
+DESCRIPTION:Find tickets for (G)I-DLE at OVO Arena, Wembley in London on 9/
+ 9/2023 at 6:30 PM
 DTEND;VALUE=DATE:20230909
 DTSTART;VALUE=DATE:20230909
 SUMMARY:(G)I-DLE
-UID:1f527d12-44a9-499b-8c4e-ab862f51cf3e
+UID:0b633604-754a-4e2f-b4d9-946e9bf95d47
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
-DESCRIPTION:Fresh from announcing her hotly anticipated new album, ‘The G
- ood Witch’, which includes the brand new single 'Body Better', Maisie Pet
- ers announces her biggest headline show to date at OVO Arena...
+DTSTAMP:20230828T011947Z
+DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
+ ind Maisie Peters tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:b9241ebb-b0ec-48bc-9d43-550d7dbe723a
+UID:41e94c46-92cf-4ca6-a26e-8a7d95b47914
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
+DTSTAMP:20230828T011947Z
 DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
  icipated UK arena concert tour, featuring a full live band and an unforgett
  able family show experience. Named one of the hottest...
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:fdf48105-6fec-44c7-86e6-a81d74be234a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230827T012227Z
-DESCRIPTION:Atlanta rapper, singer, songwriter, and record producer Lil Yac
- hty incorporates psychedelic alternative rock into his music, inspired by m
- ultiple psychedelic journeys and his longtime love of Pink...
-DTEND;VALUE=DATE:20231201
-DTSTART;VALUE=DATE:20231201
-SUMMARY:Lil Yachty
-UID:afd990be-8f8d-4005-8849-3f50d3b292d9
+UID:57695cda-90fc-4f9e-a3cd-d6a0fb9ae1f8
 END:VEVENT
 END:VCALENDAR
