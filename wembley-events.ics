@@ -3,102 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
-DESCRIPTION:Hrithik Roshan is a Bollywood actor from Bombay, India. Hrithi
- k Roshan will be performing 1 event in London on Friday 1st September 2023 
- at the OVO Arena Wembley.
-DTEND;VALUE=DATE:20230901
-DTSTART;VALUE=DATE:20230901
-SUMMARY:Hrithik Roshan
-UID:b4a256d7-90a0-4481-88ea-3c3b89c63054
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
-DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
- dians from all over to test out material, and have fun with the audience. T
- he night will feature games & prizes, and food available...
-DTEND;VALUE=DATE:20230830
-DTSTART;VALUE=DATE:20230830
-SUMMARY:LAUGH IN THE BOX
-UID:6f4d4d94-aafa-4245-88d6-49ccdbd3f60b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
+DTSTAMP:20230831T011952Z
 DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
  s in excess of this will be cancelled. Tickets must not be purchased with t
  he intention of reselling them. If you can no longer use...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais
-UID:7f3b3095-eaf3-44d5-8098-194e1061292a
+UID:7e051519-4a76-4685-a631-8fb06ed40b36
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
-DESCRIPTION:FESTIVAL OVERVIEW After the magic of Soul Town Festival 2022, t
- hey have been pulling out all the stops to make sure Soul Town 2023 is a we
- ekend to remember. They will be bringing together the...
-DTEND;VALUE=DATE:20230902
-DTSTART;VALUE=DATE:20230902
-SUMMARY:Soul Town Festival 2023
-UID:8fb2e1c6-816b-4631-ab4b-41750d3d5866
+DTSTAMP:20230831T011952Z
+DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
+ s in excess of this will be cancelled. Tickets must not be purchased with t
+ he intention of reselling them. If you can no longer use...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:81fa557f-9e12-43a2-8d15-9ac50bef9148
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
+DTSTAMP:20230831T011952Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez
-UID:4cbc3e33-7c26-476b-a016-9e7b5ca141dd
+UID:10f908ee-0c46-4cfe-aff2-5c6d830fcbe0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
-DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
- s in excess of this will be cancelled. Tickets must not be purchased with t
- he intention of reselling them. If you can no longer use...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais
-UID:859cd4ba-d706-45e6-880e-a2287600f331
+DTSTAMP:20230831T011952Z
+DESCRIPTION:FESTIVAL OVERVIEW After the magic of Soul Town Festival 2022, t
+ hey have been pulling out all the stops to make sure Soul Town 2023 is a we
+ ekend to remember. They will be bringing together the...
+DTEND;VALUE=DATE:20230902
+DTSTART;VALUE=DATE:20230902
+SUMMARY:Soul Town Festival 2023
+UID:dcebb329-6c9d-439c-b7b8-4cab29b1e248
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
+DTSTAMP:20230831T011952Z
 DESCRIPTION:Find tickets for (G)I-DLE at OVO Arena, Wembley in London on 9/
  9/2023 at 6:30 PM
 DTEND;VALUE=DATE:20230909
 DTSTART;VALUE=DATE:20230909
 SUMMARY:(G)I-DLE
-UID:4da4b240-4fbe-4a81-b198-3d01d5f96e5c
+UID:caec0365-62a5-44e6-8e5e-235bfb571378
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
+DTSTAMP:20230831T011952Z
 DESCRIPTION:Fresh from announcing her hotly anticipated new album, ‘The G
  ood Witch’, which includes the brand new single 'Body Better', Maisie Pet
  ers announces her biggest headline show to date at OVO Arena...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:8d58cc01-d65a-4306-9e6e-6e02f79546eb
+UID:5ba0261a-fe16-45f0-be02-f49ecfeb2565
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
+DTSTAMP:20230831T011952Z
 DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
  icipated UK arena concert tour, featuring a full live band and an unforgett
  able family show experience. Named one of the hottest...
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:39d8f15e-0abc-492d-8b80-b6bca7dd3f07
+UID:c64e6930-4cd7-4a3b-8987-42ce63c6769c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230830T011916Z
-DESCRIPTION:Atlanta rapper, singer, songwriter, and record producer Lil Yac
- hty incorporates psychedelic alternative rock into his music, inspired by m
- ultiple psychedelic journeys and his longtime love of Pink...
+DTSTAMP:20230831T011952Z
+DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
+  HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
+ Y Lil Yachty has announced a 39 stop global tour in support of...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:da49380f-beb9-4be8-a1c7-e27be07f2daf
+UID:7d1fdbb4-ebde-4650-9964-a02284af7dfe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230831T011952Z
+DESCRIPTION:The Royal Philharmonic Orchestra returns to perform in Wembley 
+ Park and joins with local artists and performing groups for Wemba’s Dream
+ , a festival performance of music, dance, poetry and...
+DTEND;VALUE=DATE:20230903
+DTSTART;VALUE=DATE:20230903
+SUMMARY:Wemba’s Dream
+UID:1aeb0731-050f-4ea6-b7e8-cc5c6b3426f0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230831T011952Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20231013
+DTSTART;VALUE=DATE:20231013
+SUMMARY:Aya Nakamura
+UID:fdd8ee43-e304-43fe-a477-05fc63384f36
 END:VEVENT
 END:VCALENDAR
