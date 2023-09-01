@@ -3,100 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
-DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
- s in excess of this will be cancelled. Tickets must not be purchased with t
- he intention of reselling them. If you can no longer use...
+DTSTAMP:20230901T012945Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais
-UID:7e051519-4a76-4685-a631-8fb06ed40b36
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
-DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
- s in excess of this will be cancelled. Tickets must not be purchased with t
- he intention of reselling them. If you can no longer use...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:81fa557f-9e12-43a2-8d15-9ac50bef9148
+UID:6405e390-a3de-498f-b89a-f14938950305
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
-DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
- o gained fame when she reached the Top 6 on the US version of The Voice . B
- orn in New York, she had also tried out on the MSG Varsity...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:Melanie Martinez
-UID:10f908ee-0c46-4cfe-aff2-5c6d830fcbe0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
-DESCRIPTION:FESTIVAL OVERVIEW After the magic of Soul Town Festival 2022, t
- hey have been pulling out all the stops to make sure Soul Town 2023 is a we
- ekend to remember. They will be bringing together the...
-DTEND;VALUE=DATE:20230902
-DTSTART;VALUE=DATE:20230902
-SUMMARY:Soul Town Festival 2023
-UID:dcebb329-6c9d-439c-b7b8-4cab29b1e248
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
-DESCRIPTION:Find tickets for (G)I-DLE at OVO Arena, Wembley in London on 9/
- 9/2023 at 6:30 PM
-DTEND;VALUE=DATE:20230909
-DTSTART;VALUE=DATE:20230909
-SUMMARY:(G)I-DLE
-UID:caec0365-62a5-44e6-8e5e-235bfb571378
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
-DESCRIPTION:Fresh from announcing her hotly anticipated new album, ‘The G
- ood Witch’, which includes the brand new single 'Body Better', Maisie Pet
- ers announces her biggest headline show to date at OVO Arena...
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:5ba0261a-fe16-45f0-be02-f49ecfeb2565
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
-DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
- icipated UK arena concert tour, featuring a full live band and an unforgett
- able family show experience. Named one of the hottest...
-DTEND;VALUE=DATE:20231008
-DTSTART;VALUE=DATE:20231008
-SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:c64e6930-4cd7-4a3b-8987-42ce63c6769c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
+DTSTAMP:20230901T012945Z
 DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
   HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
  Y Lil Yachty has announced a 39 stop global tour in support of...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:7d1fdbb4-ebde-4650-9964-a02284af7dfe
+UID:2a71e907-9f0b-4c83-a7ca-40ac06beab51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
-DESCRIPTION:The Royal Philharmonic Orchestra returns to perform in Wembley 
- Park and joins with local artists and performing groups for Wemba’s Dream
- , a festival performance of music, dance, poetry and...
-DTEND;VALUE=DATE:20230903
-DTSTART;VALUE=DATE:20230903
-SUMMARY:Wemba’s Dream
-UID:1aeb0731-050f-4ea6-b7e8-cc5c6b3426f0
+DTSTAMP:20230901T012945Z
+DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
+ o gained fame when she reached the Top 6 on the US version of The Voice . B
+ orn in New York, she had also tried out on the MSG Varsity...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:Melanie Martinez
+UID:7cb5e5e8-026b-4dd1-a453-6499d36fdf2d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230831T011952Z
+DTSTAMP:20230901T012945Z
+DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
+ s in excess of this will be cancelled. Tickets must not be purchased with t
+ he intention of reselling them. If you can no longer use...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:33a95310-dcae-41b7-a680-e806d70c391f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230901T012945Z
+DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
+ ind Maisie Peters tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:c9461e3f-973b-49b4-a4e7-025cd0d032c1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230901T012945Z
+DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
+ icipated UK arena concert tour, featuring a full live band and an unforgett
+ able family show experience. Named one of the hottest...
+DTEND;VALUE=DATE:20231008
+DTSTART;VALUE=DATE:20231008
+SUMMARY:AMMY VIRK LIVE IN CONCERT
+UID:02370627-e34e-462c-a338-4e3548f94b38
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230901T012945Z
+DESCRIPTION:Find tickets for (G)I-DLE at OVO Arena, Wembley in London on 9/
+ 9/2023 at 6:30 PM
+DTEND;VALUE=DATE:20230909
+DTSTART;VALUE=DATE:20230909
+SUMMARY:(G)I-DLE
+UID:1cc9a9b9-c335-402f-8f95-13390992d625
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230901T012945Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20231013
 DTSTART;VALUE=DATE:20231013
 SUMMARY:Aya Nakamura
-UID:fdd8ee43-e304-43fe-a477-05fc63384f36
+UID:e9af0cdf-d4bf-4a02-94b0-682e0efe72f7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230901T012945Z
+DESCRIPTION:Presented by Wembley Park and the Royal Philharmonic Orchestra
+ . This September, the Royal Philharmonic Orchestra returns to perform in We
+ mbley Park . They will join with local artists and...
+DTEND;VALUE=DATE:20230903
+DTSTART;VALUE=DATE:20230903
+SUMMARY:Wemba’s Dream
+UID:0a455682-d35f-4f80-b474-7019471a59d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230901T012945Z
+DESCRIPTION:Heads Up! Tickets to 3rd Wembley on Sale Friday at 10am. #Armag
+ eddon https://t.co/oRz1UBHavD
+DTEND;VALUE=DATE:20231213
+DTSTART;VALUE=DATE:20231213
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:0f09b007-da68-400a-b0ba-0f5c145cc216
 END:VEVENT
 END:VCALENDAR
