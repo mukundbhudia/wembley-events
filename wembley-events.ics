@@ -3,102 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:Find tickets for (G)I-DLE at OVO Arena, Wembley in London on 9/
  9/2023 at 6:30 PM
 DTEND;VALUE=DATE:20230909
 DTSTART;VALUE=DATE:20230909
 SUMMARY:(G)I-DLE
-UID:aacce81b-a09e-4fbd-a429-a516494e8e19
+UID:7fea2bca-d4be-4c2b-8f2e-0c38945bfb72
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:Star of the UK’s most streamed Netflix comedy special of 2021
  , Jimmy is back on the road with brand new material for 2022 and 2023.Jimm
  y’s show contains jokes about all kinds of terrible things...
 DTEND;VALUE=DATE:20230910
 DTSTART;VALUE=DATE:20230910
 SUMMARY:Jimmy Carr
-UID:80302d03-f86c-4cef-ad9c-609b78113642
+UID:5c92b3b8-cf76-4064-83fe-d8eea48835b3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
  s in excess of this will be cancelled. Tickets must not be purchased with t
  he intention of reselling them. If you can no longer use...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais
-UID:6e49c043-5a80-498e-9745-7579904aedcd
+UID:8af85e02-f1c2-430a-899a-9d4bcd30be43
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230908
 DTSTART;VALUE=DATE:20230908
 SUMMARY:Wembley Stadium Tour
-UID:5d3ea879-dccf-42e6-a5a4-3585e8cd5cd3
+UID:a2535e3f-6cc9-498d-994f-9a29943f1705
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
  atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
  rt of his ‘Saturno’ World Tour. The one night only Show is...
 DTEND;VALUE=DATE:20231001
 DTSTART;VALUE=DATE:20231001
 SUMMARY:Rauw Alejandro
-UID:9530397d-447a-4210-b40a-fb0bcb3db5a6
+UID:e7c56026-b8f2-40c9-a890-a0daf0c150f3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais
-UID:becb706f-1494-456d-a29e-8663cdf2f0ca
+UID:fb3b0fd1-8a6d-431d-a731-93898b79d123
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230909
 DTSTART;VALUE=DATE:20230909
 SUMMARY:Wembley Stadium Tour
-UID:cbb16e81-93e6-4f84-a9f9-e9f983359fab
+UID:fbbe4a09-0147-4da1-b7b2-aba14fdb4eba
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
   HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
  Y Lil Yachty has announced a 39 stop global tour in support of...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:5ac45daa-1c7f-4828-ac83-a08f06fc9e16
+UID:04726319-7461-4a5e-aa23-a9f915df4297
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:02d150b2-e0b8-460d-886d-df383d1dc232
+UID:a42d8193-0425-4c73-8581-984b2c7d8f04
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230904T012020Z
+DTSTAMP:20230905T011819Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20230904
-DTSTART;VALUE=DATE:20230904
+DTEND;VALUE=DATE:20230907
+DTSTART;VALUE=DATE:20230907
 SUMMARY:Wembley Stadium Tour
-UID:46671b8c-6976-4376-bc35-3e32615839d2
+UID:54652cf6-530f-49cf-8c48-543bb46fe002
 END:VEVENT
 END:VCALENDAR
