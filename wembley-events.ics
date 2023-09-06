@@ -3,102 +3,103 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
+DTSTAMP:20230906T011929Z
 DESCRIPTION:Find tickets for (G)I-DLE at OVO Arena, Wembley in London on 9/
  9/2023 at 6:30 PM
 DTEND;VALUE=DATE:20230909
 DTSTART;VALUE=DATE:20230909
 SUMMARY:(G)I-DLE
-UID:7fea2bca-d4be-4c2b-8f2e-0c38945bfb72
+UID:17ec6626-4ef7-4345-8153-c38b3b2806e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
+DTSTAMP:20230906T011929Z
 DESCRIPTION:Star of the UK’s most streamed Netflix comedy special of 2021
  , Jimmy is back on the road with brand new material for 2022 and 2023.Jimm
  y’s show contains jokes about all kinds of terrible things...
 DTEND;VALUE=DATE:20230910
 DTSTART;VALUE=DATE:20230910
 SUMMARY:Jimmy Carr
-UID:5c92b3b8-cf76-4064-83fe-d8eea48835b3
+UID:596651d2-ca86-402d-a67a-46eb314cdff9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
+DTSTAMP:20230906T011929Z
 DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
  s in excess of this will be cancelled. Tickets must not be purchased with t
  he intention of reselling them. If you can no longer use...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais
-UID:8af85e02-f1c2-430a-899a-9d4bcd30be43
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:d2d55927-7b96-4e63-933d-e27a04ed13eb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
+DTSTAMP:20230906T011929Z
+DESCRIPTION:(G)I-DLE (Hangul: (여자)아이들) is a five-member South Kor
+ ean girl group under Cube Entertainment. The group currently consists of Je
+ on Soyeon (소연), Miyeon (미연), Minnie (민니), Yuqi (우기), and Sh
+ uhua...
+DTEND;VALUE=DATE:20230909
+DTSTART;VALUE=DATE:20230909
+SUMMARY:(G)I-DLE Neverland+ Upgrade
+UID:88723cc1-21ac-4132-b6b7-528d8a331da2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230906T011929Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230908
 DTSTART;VALUE=DATE:20230908
 SUMMARY:Wembley Stadium Tour
-UID:a2535e3f-6cc9-498d-994f-9a29943f1705
+UID:5b3a5689-6bcd-4c3c-8547-e2ddf20050ff
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
+DTSTAMP:20230906T011929Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:ba7916e7-d683-4762-8e7c-96d2166677d3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230906T011929Z
 DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
  atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
  rt of his ‘Saturno’ World Tour. The one night only Show is...
 DTEND;VALUE=DATE:20231001
 DTSTART;VALUE=DATE:20231001
 SUMMARY:Rauw Alejandro
-UID:e7c56026-b8f2-40c9-a890-a0daf0c150f3
+UID:8bb62270-aaa0-4a29-80a6-29552d496e2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais
-UID:fb3b0fd1-8a6d-431d-a731-93898b79d123
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
+DTSTAMP:20230906T011929Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20230909
 DTSTART;VALUE=DATE:20230909
 SUMMARY:Wembley Stadium Tour
-UID:fbbe4a09-0147-4da1-b7b2-aba14fdb4eba
+UID:a1a019ae-5cfa-43cb-9f4b-1d649515f27a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
+DTSTAMP:20230906T011929Z
 DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
   HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
  Y Lil Yachty has announced a 39 stop global tour in support of...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:04726319-7461-4a5e-aa23-a9f915df4297
+UID:4bbf4f21-d1d4-43e5-84da-d57c26cfbf05
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
+DTSTAMP:20230906T011929Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:a42d8193-0425-4c73-8581-984b2c7d8f04
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230905T011819Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20230907
-DTSTART;VALUE=DATE:20230907
-SUMMARY:Wembley Stadium Tour
-UID:54652cf6-530f-49cf-8c48-543bb46fe002
+UID:f9c4fbb3-431b-4866-b662-3fcfc42cf837
 END:VEVENT
 END:VCALENDAR
