@@ -3,101 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
-DESCRIPTION:Star of the UK’s most streamed Netflix comedy special of 2021
- , Jimmy is back on the road with brand new material for 2022 and 2023.Jimm
- y’s show contains jokes about all kinds of terrible things...
-DTEND;VALUE=DATE:20230911
-DTSTART;VALUE=DATE:20230911
-SUMMARY:Jimmy Carr
-UID:c14c65ea-ddbd-497a-8489-50f2d3aaa459
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
-DESCRIPTION:READY TO FEAST & PARTY? Join Tom Kerridge and his chef mates fo
- r the UK’s biggest celebration of food & music.
-DTEND;VALUE=DATE:20230911
-DTSTART;VALUE=DATE:20230911
-SUMMARY:Pub In The Park
-UID:b931a120-09a5-4036-b2ba-2ec5d4c4c154
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
-DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
- s in excess of this will be cancelled. Tickets must not be purchased with t
- he intention of reselling them. If you can no longer use...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais
-UID:41eb764e-2738-4cb6-b9fe-258cf3b3644e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
-DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
- ind Maisie Peters tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:a8029eec-c8e8-451f-b863-36521e279378
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
-DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
- atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
- rt of his ‘Saturno’ World Tour. The one night only Show is...
-DTEND;VALUE=DATE:20231001
-DTSTART;VALUE=DATE:20231001
-SUMMARY:Rauw Alejandro
-UID:981a646f-944b-48b0-b2ba-5dcd3741b0c5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
+DTSTAMP:20230912T011800Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20230915
 DTSTART;VALUE=DATE:20230915
 SUMMARY:Ricky Gervais - Armageddon
-UID:ad7d41e0-4cdb-401c-b806-206d1e8855ed
+UID:41cfccea-fac3-4293-9543-9c686c8d9efd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
+DTSTAMP:20230912T011800Z
+DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
+ s in excess of this will be cancelled. Tickets must not be purchased with t
+ he intention of reselling them. If you can no longer use...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:1e35e2eb-2024-4653-9925-3d83688b7698
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230912T011800Z
+DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
+ atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
+ rt of his ‘Saturno’ World Tour. The one night only Show is...
+DTEND;VALUE=DATE:20231001
+DTSTART;VALUE=DATE:20231001
+SUMMARY:Rauw Alejandro
+UID:6fd1fa2b-cd9a-48f5-baac-81145352c0d5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230912T011800Z
+DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
+ ind Maisie Peters tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:f1a52d71-55be-4556-8086-f34bb700ca1b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230912T011800Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:ef73a027-ad75-49b5-8086-2ac4dfe15f03
+UID:6c71d95b-d152-40bd-9f2b-d5593a128f30
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20230911
-DTSTART;VALUE=DATE:20230911
-SUMMARY:Wembley Stadium Tour
-UID:b06d453f-9090-48f6-83d9-fa26f62a8281
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
-DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
- o gained fame when she reached the Top 6 on the US version of The Voice . B
- orn in New York, she had also tried out on the MSG Varsity...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:Melanie Martinez
-UID:be0aa4bc-ba6a-4c41-bf22-d96e1596ddfd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230911T012037Z
+DTSTAMP:20230912T011800Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20230914
 DTSTART;VALUE=DATE:20230914
 SUMMARY:Ricky Gervais - Armageddon
-UID:7739869a-5e06-4d20-9724-e84ef26db785
+UID:98c6beca-dca4-4d9a-9473-9ae3cd849fa4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230912T011800Z
+DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
+ o gained fame when she reached the Top 6 on the US version of The Voice . B
+ orn in New York, she had also tried out on the MSG Varsity...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:Melanie Martinez
+UID:afc68185-975e-4e91-b0b0-15af9cc2dc6b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230912T011800Z
+DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
+  HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
+ Y Lil Yachty has announced a 39 stop global tour in support of...
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Lil Yachty
+UID:19fff6cc-a627-401d-b7b3-b0825caad7db
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230912T011800Z
+DESCRIPTION:Live Nation, the global leader in live entertainment, and Twent
+ y Eight Group , a full-service Chinese entertainment company focusing on C-
+ pop, have announced the launch of the world’s first...
+DTEND;VALUE=DATE:20231015
+DTSTART;VALUE=DATE:20231015
+SUMMARY:CCURRENTT
+UID:f1b82294-ec67-4f8b-8fb9-7ad1f33513f3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230912T011800Z
+DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
+ icipated UK arena concert tour, featuring a full live band and an unforgett
+ able family show experience. Named one of the hottest...
+DTEND;VALUE=DATE:20231008
+DTSTART;VALUE=DATE:20231008
+SUMMARY:Ammy Virk @ OVO Arena Wembley
+UID:1854ccbb-e68e-45c4-8baa-aba6b50a7b14
 END:VEVENT
 END:VCALENDAR
