@@ -3,102 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
+DTSTAMP:20230917T012657Z
 DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
  s in excess of this will be cancelled. Tickets must not be purchased with t
  he intention of reselling them. If you can no longer use...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:af2d5f75-ee22-440d-8f8a-70561ae35a62
+UID:0e23b309-fc74-4073-b365-f7d2dfce6516
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
-DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
- , and writer best known for creating and starring in the British TV hit ser
- ies The Office. His unique blend of brash satire and...
-DTEND;VALUE=DATE:20230916
-DTSTART;VALUE=DATE:20230916
-SUMMARY:Ricky Gervais - Armageddon
-UID:1dc30053-e564-438f-a460-644c7e999b2b
+DTSTAMP:20230917T012657Z
+DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
+ ind Maisie Peters tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:de0bd931-8412-47f5-97d4-c4ebcf1e0733
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
-DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
- atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
- rt of his ‘Saturno’ World Tour. The one night only Show is...
-DTEND;VALUE=DATE:20231001
-DTSTART;VALUE=DATE:20231001
-SUMMARY:Rauw Alejandro
-UID:5782a29c-464e-4a45-9173-830423d6ba3d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231006
-DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:6344cf66-aeb8-4372-8c7d-618020e6bcb3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
+DTSTAMP:20230917T012657Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez
-UID:708bbaf3-33f8-498b-9dea-f17e7ecc6a12
+UID:c74a94bc-9bc2-43ed-a0f2-41937f48b533
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
-DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
- ind Maisie Peters tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:b370d33c-8858-41e3-8760-c203860bcee6
+DTSTAMP:20230917T012657Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231006
+DTSTART;VALUE=DATE:20231006
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:b79035fb-bb0d-4a27-8344-ade4ac97e2f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
+DTSTAMP:20230917T012657Z
 DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
  icipated UK arena concert tour, featuring a full live band and an unforgett
  able family show experience. Named one of the hottest...
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:08be282a-10db-4509-a85e-c28fe48e489c
+UID:8a6ef577-7916-4bbb-acbe-2f9c531b73c1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
+DTSTAMP:20230917T012657Z
+DESCRIPTION:Tickets, info and places to stay for Russell Brand - Bipolarisa
+ tion at Wembley Park Theatrein London on Sat 16th September 2023. Ents24.co
+ m, the UK's biggest entertainment guide
+DTEND;VALUE=DATE:20230917
+DTSTART;VALUE=DATE:20230917
+SUMMARY:Russell Brand - Bipolarisation
+UID:4b4f4f41-30e7-41dc-a2c4-4d1f9cf800a0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230917T012657Z
+DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
+ atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
+ rt of his ‘Saturno’ World Tour. The one night only Show is...
+DTEND;VALUE=DATE:20231001
+DTSTART;VALUE=DATE:20231001
+SUMMARY:Rauw Alejandro @ OVO Arena Wembley
+UID:1f709db4-42ab-4f39-9867-0376acbcbd16
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230917T012657Z
 DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
   HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
  Y Lil Yachty has announced a 39 stop global tour in support of...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:ff46753d-c43b-4d24-82d5-15a361dd3c6d
+UID:57fb2802-b75a-4970-b1e8-4842db2778da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
+DTSTAMP:20230917T012657Z
 DESCRIPTION:(Repost from Jazzy Group’s official Facebook) Get ready to be
   dazzled by Aaron Kwok’s live concert in LONDON ! After 9 years, Aaron Kw
  ok is set to take the stage again in the vibrant city of...
 DTEND;VALUE=DATE:20230924
 DTSTART;VALUE=DATE:20230924
 SUMMARY:Aaron Kwok Tickets
-UID:67fda183-5382-4df9-a377-4aee6ba8e724
+UID:e6eef9fa-dca9-422f-977f-8478e8bcb08f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230916T011807Z
-DESCRIPTION:Tickets, info and places to stay for Russell Brand - Bipolarisa
- tion at Wembley Park Theatrein London on Sat 16th September 2023. Ents24.co
- m, the UK's biggest entertainment guide
-DTEND;VALUE=DATE:20230916
-DTSTART;VALUE=DATE:20230916
-SUMMARY:Russell Brand - Bipolarisation
-UID:1e54f6f6-09b1-4030-86a5-3b3fde443018
+DTSTAMP:20230917T012657Z
+DESCRIPTION:Adekunle Gold is a Nigerian born and bred singer-songwriter bas
+ ed between Lagos, Nigeria, and the US. Now signed to US label Def Jam, he g
+ ained recognition from his very first release, "Sade" a...
+DTEND;VALUE=DATE:20231105
+DTSTART;VALUE=DATE:20231105
+SUMMARY:Adekunle Gold @ OVO Arena Wembley
+UID:d4aace40-5836-4c57-b228-62b049b8ee6c
 END:VEVENT
 END:VCALENDAR
