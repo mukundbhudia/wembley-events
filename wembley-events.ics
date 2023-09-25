@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
-DESCRIPTION:Aaron Kwok returns after 9 years! Dance frenzy sets off in Lond
- on! ‘Aaron Kwok Amazing Kode’ London Concert will be held at OVO Arena 
- Wembley Aaron Kwok, one of Hong Kong's 'Four Heavenly Kings...
-DTEND;VALUE=DATE:20230924
-DTSTART;VALUE=DATE:20230924
-SUMMARY:Aaron Kwok Tickets
-UID:c888c4b2-baa4-47b2-ad7f-bc612dfc990b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
-DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
- s in excess of this will be cancelled. Tickets must not be purchased with t
- he intention of reselling them. If you can no longer use...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:3a4282e8-9a89-4c4e-b2f4-2075ea8c9b1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
+DTSTAMP:20230925T012110Z
 DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
  atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
  rt of his ‘Saturno’ World Tour. The one night only Show is...
 DTEND;VALUE=DATE:20231001
 DTSTART;VALUE=DATE:20231001
 SUMMARY:Rauw Alejandro
-UID:a219b7ff-6a06-47ba-8a70-2241184407db
+UID:7ccabe27-0cb4-4105-a3b9-de597dd14c33
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20230924
-DTSTART;VALUE=DATE:20230924
-SUMMARY:Wembley Stadium Tour
-UID:7ad7f98f-c14f-46f4-b895-bc7bb73e1c86
+DTSTAMP:20230925T012110Z
+DESCRIPTION:The Mozart of Madras, A R Rahman, is set to captivate The O2 wi
+ th his electrifying live concert. A R Rahman, the renowned Indian Music Dir
+ ector whose sensational tunes have mesmerized audiences...
+DTEND;VALUE=DATE:20230930
+DTSTART;VALUE=DATE:20230930
+SUMMARY:A R Rahman
+UID:78bbf4ca-a200-4cc3-b05a-0d3fbf3af1a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
+DTSTAMP:20230925T012110Z
+DESCRIPTION:Immerse yourself in freshers week and make a beeline for LDO’
+ s Student Festival this September! Get the date saved in your phone, our St
+ udent Festival takes place on Thursday 28th September from...
+DTEND;VALUE=DATE:20230928
+DTSTART;VALUE=DATE:20230928
+SUMMARY:Student Festival
+UID:22ee3dc0-26c7-4121-be28-1a954e80b600
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230925T012110Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:6596aeb6-7b3a-46db-a188-fb99ef9e1f10
+UID:7c98bbdf-232e-40d4-bdce-5d728c26ac6f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
-DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
- ind Maisie Peters tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:03d7b632-83d1-42e6-a273-9ae497703cf3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
-DESCRIPTION:Tiwa Savage, is a Nigerian singer, songwriter, performer and ac
- tress. div
-DTEND;VALUE=DATE:20231126
-DTSTART;VALUE=DATE:20231126
-SUMMARY:Tiwa Savage
-UID:4e455034-f33f-499a-9af8-9861cb2897bb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
-DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
- o gained fame when she reached the Top 6 on the US version of The Voice . B
- orn in New York, she had also tried out on the MSG Varsity...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:PORTALS TOUR
-UID:53643211-d818-4c1e-a690-922dd35c6565
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
+DTSTAMP:20230925T012110Z
 DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
  icipated UK arena concert tour, featuring a full live band and an unforgett
  able family show experience. Named one of the hottest...
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:13150c8b-e4c4-4dde-8308-eb7da860430c
+UID:255cef84-5273-4a5b-9608-654dfe436d76
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230924T012812Z
-DESCRIPTION:London are you ready? Badboy Badshah will be performing for th
- e very first time at OVO Arena Wembley London on Saturday 25th November 202
- 3. A party concert you dont want to miss. Get your party...
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:BADSHAH - LIVE IN CONCERT
-UID:b92a953a-e677-4fa4-bfbb-38728f4ae30d
+DTSTAMP:20230925T012110Z
+DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
+ ind Maisie Peters tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:c9919fc0-f7e8-4e1c-878a-f880ebffd0e9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230925T012110Z
+DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
+ s in excess of this will be cancelled. Tickets must not be purchased with t
+ he intention of reselling them. If you can no longer use...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:89b5e365-774a-434f-bceb-bf0a92631036
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230925T012110Z
+DESCRIPTION:Tiwa Savage, is a Nigerian singer, songwriter, performer and ac
+ tress. div
+DTEND;VALUE=DATE:20231126
+DTSTART;VALUE=DATE:20231126
+SUMMARY:Tiwa Savage
+UID:13d515fa-7897-4507-9750-144e9d74a3df
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230925T012110Z
+DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
+ o gained fame when she reached the Top 6 on the US version of The Voice . B
+ orn in New York, she had also tried out on the MSG Varsity...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:PORTALS TOUR
+UID:079fc366-d97d-4b7e-9c3f-d3163910b7e2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230925T012110Z
+DESCRIPTION:Live Nation, the global leader in live entertainment, and Twent
+ y Eight Group , a full-service Chinese entertainment company focusing on C-
+ pop, have announced the launch of the world’s first...
+DTEND;VALUE=DATE:20231015
+DTSTART;VALUE=DATE:20231015
+SUMMARY:CCURRENTT
+UID:5ac97ae8-b26c-4d03-86cc-aa31671c500c
 END:VEVENT
 END:VCALENDAR
