@@ -3,102 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
+DTSTAMP:20230928T012044Z
 DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
  atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
  rt of his ‘Saturno’ World Tour. The one night only Show is...
 DTEND;VALUE=DATE:20231001
 DTSTART;VALUE=DATE:20231001
 SUMMARY:Rauw Alejandro
-UID:341228cc-5b57-497d-8ee1-c542b5e03979
+UID:e27ad9ce-3e59-4f1f-9d3f-6c8e8df4055a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
+DTSTAMP:20230928T012044Z
 DESCRIPTION:The Jacksonville Jaguars have announced Country music star Clin
  t Black will headline at their inaugural country music festival Jags Countr
  y to be held at the OVO Arena Wembley, on Thursday...
 DTEND;VALUE=DATE:20230928
 DTSTART;VALUE=DATE:20230928
 SUMMARY:Clint Black @ OVO Arena Wembley
-UID:91203c36-1df8-40aa-9d0b-ec0b49659ba1
+UID:76b3175f-6b1f-4377-977e-f1001e3a0d98
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
+DTSTAMP:20230928T012044Z
 DESCRIPTION:The Mozart of Madras, A R Rahman, is set to captivate The O2 wi
  th his electrifying live concert. A R Rahman, the renowned Indian Music Dir
  ector whose sensational tunes have mesmerized audiences...
 DTEND;VALUE=DATE:20230930
 DTSTART;VALUE=DATE:20230930
 SUMMARY:A R Rahman
-UID:e3275831-e0f2-4672-be76-96fa4b4f94dc
+UID:e7400999-e496-4a24-832f-1cd9c9f02137
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
-DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
- dians from all over to test out material, and have fun with the audience. T
- he night will feature games & prizes, and food available...
-DTEND;VALUE=DATE:20230927
-DTSTART;VALUE=DATE:20230927
-SUMMARY:LAUGH IN THE BOX
-UID:f6d99299-5948-411e-adf1-ad59ea823fa6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
-DESCRIPTION:Immerse yourself in freshers week and make a beeline for LDO’
- s Student Festival this September! Get the date saved in your phone, our St
- udent Festival takes place on Thursday 28th September from...
-DTEND;VALUE=DATE:20230928
-DTSTART;VALUE=DATE:20230928
-SUMMARY:Student Festival
-UID:05772892-6194-4c64-8f79-b5d370317499
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
+DTSTAMP:20230928T012044Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:8bccc67c-e0fb-49a3-99b8-b298e5fc7f81
+UID:45a60625-0ec5-4ecc-9aff-691654da3b20
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
+DTSTAMP:20230928T012044Z
+DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
+ ind Maisie Peters tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:8590c8ad-a9e1-47c2-bce7-e81e39ee9773
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230928T012044Z
 DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
  icipated UK arena concert tour, featuring a full live band and an unforgett
  able family show experience. Named one of the hottest...
 DTEND;VALUE=DATE:20231008
 DTSTART;VALUE=DATE:20231008
 SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:2296cde7-2cdd-41fe-9a64-2608ea944e4a
+UID:f8099644-5e1a-4efb-be0a-a301344e52c6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
-DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
- ind Maisie Peters tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:76ccf2ca-1279-441d-97e8-9dedc2fe8b00
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
+DTSTAMP:20230928T012044Z
 DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
  s in excess of this will be cancelled. Tickets must not be purchased with t
  he intention of reselling them. If you can no longer use...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:7c71a547-51b2-4532-91ba-6618efef1f55
+UID:73902c7e-d61d-4490-abe2-3dd0416f3deb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230927T012107Z
+DTSTAMP:20230928T012044Z
+DESCRIPTION:London OVO Arena, Wembley Rewind Reloaded - Kumar Sanu, Udit Na
+ rayan & Abhijeet Bhattacharya
+DTEND;VALUE=DATE:20231202
+DTSTART;VALUE=DATE:20231202
+SUMMARY:Udit Narayan @ OVO Arena Wembley
+UID:18bf56bc-62ac-49dd-95e0-ca6c0b8b2c35
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230928T012044Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:573b46fd-b976-4178-8e1e-9cd14af76ac2
+UID:6bc2681a-5590-4e53-a230-2bfc6ea7776a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230928T012044Z
+DESCRIPTION:Tiwa Savage, is a Nigerian singer, songwriter, performer and ac
+ tress. div
+DTEND;VALUE=DATE:20231126
+DTSTART;VALUE=DATE:20231126
+SUMMARY:Tiwa Savage
+UID:f9e99aef-6392-4a95-8067-01e05e87b605
 END:VEVENT
 END:VCALENDAR
