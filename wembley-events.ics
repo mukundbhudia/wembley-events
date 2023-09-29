@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
-DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
- atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
- rt of his ‘Saturno’ World Tour. The one night only Show is...
-DTEND;VALUE=DATE:20231001
-DTSTART;VALUE=DATE:20231001
-SUMMARY:Rauw Alejandro
-UID:e27ad9ce-3e59-4f1f-9d3f-6c8e8df4055a
+DTSTAMP:20230929T012035Z
+DESCRIPTION:OVO Arena Wembley is set to host a spectacular night of classi
+ c R&B, bringing together some of the most influential and cherished names i
+ n the genre on Thursday, October 26th 2023. "R&B Block...
+DTEND;VALUE=DATE:20231026
+DTSTART;VALUE=DATE:20231026
+SUMMARY:702 @ OVO Arena Wembley
+UID:266b5ac4-beae-4597-821b-8d8080d26ebb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
-DESCRIPTION:The Jacksonville Jaguars have announced Country music star Clin
- t Black will headline at their inaugural country music festival Jags Countr
- y to be held at the OVO Arena Wembley, on Thursday...
-DTEND;VALUE=DATE:20230928
-DTSTART;VALUE=DATE:20230928
-SUMMARY:Clint Black @ OVO Arena Wembley
-UID:76b3175f-6b1f-4377-977e-f1001e3a0d98
+DTSTAMP:20230929T012035Z
+DESCRIPTION:<< Back to Events Wembley, London HA9 0WS www.countyweddingeven
+ ts.com/si... Dates: Sunday, 8 October 2023 Time: 11am - 4pm Tel: 01376 5140
+ 00 Email: info@countyweddingevents.com County Wedding...
+DTEND;VALUE=DATE:20231008
+DTSTART;VALUE=DATE:20231008
+SUMMARY:Signature Wedding Show at Wembley Stadium
+UID:df2b9a5c-7912-44f5-bb4c-1f6c43ebb517
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
-DESCRIPTION:The Mozart of Madras, A R Rahman, is set to captivate The O2 wi
- th his electrifying live concert. A R Rahman, the renowned Indian Music Dir
- ector whose sensational tunes have mesmerized audiences...
-DTEND;VALUE=DATE:20230930
-DTSTART;VALUE=DATE:20230930
-SUMMARY:A R Rahman
-UID:e7400999-e496-4a24-832f-1cd9c9f02137
+DTSTAMP:20230929T012035Z
+DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
+  biggest tour yet and first headline run since 2018’s Flicker World Tour.
+  He’ll be performing songs from all three of his solo albums...
+DTEND;VALUE=DATE:20230301
+DTSTART;VALUE=DATE:20230301
+SUMMARY:Niall Horan
+UID:d0a4b75e-aece-42f9-95b0-5ddbc4a8645e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
+DTSTAMP:20230929T012035Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:45a60625-0ec5-4ecc-9aff-691654da3b20
+UID:0e5646ea-631f-4aec-b78b-b13e8ca02ba0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
+DTSTAMP:20230929T012035Z
 DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
  ind Maisie Peters tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:8590c8ad-a9e1-47c2-bce7-e81e39ee9773
+UID:a567dd11-3a3e-484f-8ac9-a0b7e46a5a59
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
-DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
- icipated UK arena concert tour, featuring a full live band and an unforgett
- able family show experience. Named one of the hottest...
-DTEND;VALUE=DATE:20231008
-DTSTART;VALUE=DATE:20231008
-SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:f8099644-5e1a-4efb-be0a-a301344e52c6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
+DTSTAMP:20230929T012035Z
 DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
  s in excess of this will be cancelled. Tickets must not be purchased with t
  he intention of reselling them. If you can no longer use...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:73902c7e-d61d-4490-abe2-3dd0416f3deb
+UID:1cef0d8a-c630-4a11-8c08-9c6d6cd71661
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
+DTSTAMP:20230929T012035Z
+DESCRIPTION:EMMY® and GRAMMY® award-winning multi hyphenate, Curtis “50
+  Cent” Jackson , announced The Final Lap Tour , a global tour in celebra
+ tion of the 20th Anniversary of his game-changing debut album...
+DTEND;VALUE=DATE:20231117
+DTSTART;VALUE=DATE:20231117
+SUMMARY:50 Cent: The Final Lap Tour
+UID:1c12a1c6-c415-43f1-accc-d3e0c41bf646
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230929T012035Z
 DESCRIPTION:London OVO Arena, Wembley Rewind Reloaded - Kumar Sanu, Udit Na
  rayan & Abhijeet Bhattacharya
 DTEND;VALUE=DATE:20231202
 DTSTART;VALUE=DATE:20231202
 SUMMARY:Udit Narayan @ OVO Arena Wembley
-UID:18bf56bc-62ac-49dd-95e0-ca6c0b8b2c35
+UID:bdd303be-e7fe-4587-b6b2-40ada12b6078
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
-DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
- o gained fame when she reached the Top 6 on the US version of The Voice . B
- orn in New York, she had also tried out on the MSG Varsity...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:PORTALS TOUR
-UID:6bc2681a-5590-4e53-a230-2bfc6ea7776a
+DTSTAMP:20230929T012035Z
+DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
+ atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
+ rt of his ‘Saturno’ World Tour. The one night only Show is...
+DTEND;VALUE=DATE:20231001
+DTSTART;VALUE=DATE:20231001
+SUMMARY:Rauw Alejandro
+UID:c56f85d6-5079-4797-8111-7a1323b29bd0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230928T012044Z
-DESCRIPTION:Tiwa Savage, is a Nigerian singer, songwriter, performer and ac
- tress. div
-DTEND;VALUE=DATE:20231126
-DTSTART;VALUE=DATE:20231126
-SUMMARY:Tiwa Savage
-UID:f9e99aef-6392-4a95-8067-01e05e87b605
+DTSTAMP:20230929T012035Z
+DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
+ icipated UK arena concert tour, featuring a full live band and an unforgett
+ able family show experience. Named one of the hottest...
+DTEND;VALUE=DATE:20231008
+DTSTART;VALUE=DATE:20231008
+SUMMARY:AMMY VIRK LIVE IN CONCERT
+UID:27db1ec3-9c3c-4e9a-83c2-0acbc55edc33
 END:VEVENT
 END:VCALENDAR
