@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
+DTSTAMP:20231001T013518Z
 DESCRIPTION:On 1st October 2023 the OVO Arena Wembley welcomes the global L
  atin music Superstar that is Latin Grammy award winner Rauw Alejandro as pa
  rt of his ‘Saturno’ World Tour. The one night only Show is...
 DTEND;VALUE=DATE:20231001
 DTSTART;VALUE=DATE:20231001
 SUMMARY:Rauw Alejandro
-UID:b0a94913-e94d-44b5-9646-34a81f2c85ae
+UID:1762e8db-90b2-426f-8f47-ed96b117bb49
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
-DESCRIPTION:The Mozart of Madras, A R Rahman, is set to captivate The O2 wi
- th his electrifying live concert. A R Rahman, the renowned Indian Music Dir
- ector whose sensational tunes have mesmerized audiences...
-DTEND;VALUE=DATE:20230930
-DTSTART;VALUE=DATE:20230930
-SUMMARY:A R Rahman
-UID:e7dd7da7-257d-47d0-864b-5631241f7b8d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
-DESCRIPTION:A max of 6 tickets per person and per household applies. Ticket
- s in excess of this will be cancelled. Tickets must not be purchased with t
- he intention of reselling them. If you can no longer use...
+DTSTAMP:20231001T013518Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:4d6545dd-6e68-4a29-a099-0cc5067622eb
+UID:e9da8415-9223-4a81-b1e8-6ba6dd93ec3a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
-DESCRIPTION:Punjabi Singer and Film Star Ammy Virk announces his highly ant
- icipated UK arena concert tour, featuring a full live band and an unforgett
- able family show experience. Named one of the hottest...
-DTEND;VALUE=DATE:20231008
-DTSTART;VALUE=DATE:20231008
-SUMMARY:AMMY VIRK LIVE IN CONCERT
-UID:172525e0-9b0d-4ade-af7c-11ff709a814b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
-DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
- ind Maisie Peters tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:a087a344-fae6-49df-8588-b188532f14d3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
+DTSTAMP:20231001T013518Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231006
 DTSTART;VALUE=DATE:20231006
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:d479b12f-9cdb-4d2c-93e3-ed2a40bd0ba8
+SUMMARY:Ricky Gervais
+UID:363c2a31-c0be-4668-a836-05e425b62724
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
+DTSTAMP:20231001T013518Z
+DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
+ ind Maisie Peters tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20231103
+DTSTART;VALUE=DATE:20231103
+SUMMARY:Maisie Peters
+UID:9b9a3966-9fd1-47cc-af0e-3943f78bb952
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231001T013518Z
+DESCRIPTION:Find tickets for Ammy Virk at OVO Arena, Wembley in London on 1
+ 0/8/2023 at 6:30 PM
+DTEND;VALUE=DATE:20231008
+DTSTART;VALUE=DATE:20231008
+SUMMARY:AMMY VIRK LIVE IN CONCERT
+UID:687adcd3-e647-44d7-86fd-6406528b80ce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231001T013518Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:6c106cf6-4bcc-4c3a-aa3a-5b3c9a63cbbe
+UID:79d62ec3-94bb-4d09-b905-cdb9d600dfbc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
+DTSTAMP:20231001T013518Z
 DESCRIPTION:London are you ready? Badboy Badshah will be performing for th
  e very first time at OVO Arena Wembley London on Saturday 25th November 202
  3. A party concert you dont want to miss. Get your party...
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:BADSHAH - LIVE IN CONCERT
-UID:46535d9d-d52a-4dfd-a65b-a08099e394fe
+UID:a68cb44a-3618-45fe-9eb2-91a2db9371d0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
+DTSTAMP:20231001T013518Z
+DESCRIPTION:QC ARTIST WILL SUPPORT HIS HIGHLY ACCLAIMED ALBUM LET’S START
+  HERE. FOR 39 STOPS ACROSS THE GLOBE INCLUDING LONDON’S OVO ARENA WEMBLE
+ Y Lil Yachty has announced a 39 stop global tour in support of...
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Lil Yachty
+UID:fc7942cc-ea8b-4ad6-9092-e88e6841eab4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231001T013518Z
 DESCRIPTION:London OVO Arena, Wembley Rewind Reloaded - Kumar Sanu, Udit Na
  rayan & Abhijeet Bhattacharya
 DTEND;VALUE=DATE:20231202
 DTSTART;VALUE=DATE:20231202
-SUMMARY:Udit Narayan @ OVO Arena Wembley
-UID:cdfce377-3592-4a23-9976-bfcb466ba02a
+SUMMARY:Kumar Sanu
+UID:46453fb7-831f-483d-8e53-7266e56ea835
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230930T011909Z
+DTSTAMP:20231001T013518Z
 DESCRIPTION:Tiwa Savage, is a Nigerian singer, songwriter, performer and ac
  tress. div
 DTEND;VALUE=DATE:20231126
 DTSTART;VALUE=DATE:20231126
 SUMMARY:Tiwa Savage
-UID:e27e3e88-75dc-4f4b-ab31-8b15a0cd2822
+UID:91e778ce-f0b0-4e25-b2cf-36b16a848e5f
 END:VEVENT
 END:VCALENDAR
