@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:Jolin Tsai is a multi award-winning Taiwanese 'Mandopop' singer
  , dancer and actor, from Taipei. She is one of Taiwan's most successful ent
  ertainers, collecting many awards since her 1999 debut...
 DTEND;VALUE=DATE:20231015
 DTSTART;VALUE=DATE:20231015
 SUMMARY:Jolin Tsai
-UID:6738e3bc-bbef-4d11-8f99-636595dd18dc
+UID:e61954b1-03a5-447a-8206-081e95da516b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231020
 DTSTART;VALUE=DATE:20231020
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:a30894e0-cffd-4e02-ad4a-73198e5b6873
+UID:342ce98d-aa72-455f-8ad7-424d27e49445
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
  ind Maisie Peters tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:06b5e631-0a34-4956-aae7-109bd1b7a41e
+UID:28a800b2-87d3-47bd-8991-a5632b269aab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:Melanie Martinez (April 28, 1995) is an American pop singer wh
  o gained fame when she reached the Top 6 on the US version of The Voice . B
  orn in New York, she had also tried out on the MSG Varsity...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:96ae0e0f-9247-46ef-ab1c-2543ff3c5513
+UID:501c9554-c1e2-40c8-a5ee-28dde6273700
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:London are you ready? Badboy Badshah will be performing for th
  e very first time at OVO Arena Wembley London on Saturday 25th November 202
  3. A party concert you dont want to miss. Get your party...
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:BADSHAH - LIVE IN CONCERT
-UID:d69ff394-9266-4d16-8367-57629522e859
+UID:86458486-3089-4181-bd24-e11d2d0372fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:About Madonna is bringing ‘The Celebration Tour’, featuring
   four decades of greatest hits, to The O2 this October. Madonna announced t
  he tour in an iconic viral video with a wink to her...
 DTEND;VALUE=DATE:20231014
 DTSTART;VALUE=DATE:20231014
 SUMMARY:MADONNA: THE CELEBRATION TOUR
-UID:5daf7fb5-ab9b-4da4-9acc-a17054aa9452
+UID:bcb0ade3-19d9-42d9-a0d0-118c602f000a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:Buy Lil Yachty tickets and sign-up for latest tour alerts. Fin
  d Lil Yachty tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:5c26e06a-1174-438a-89bd-4329d0deeb8b
+UID:4cafda61-330d-4adb-b7fe-b64476525108
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:Get notified whenever Abhijeet Bhattacharya announces a live st
  ream or a concert in your area
 DTEND;VALUE=DATE:20231202
 DTSTART;VALUE=DATE:20231202
 SUMMARY:Kumar Sanu
-UID:99afc510-d3a1-4269-ae34-d6b8821d9b8d
+UID:48756521-1cda-4c5d-9771-9db86e070d41
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:Heads Up! Tickets to 3rd Wembley on Sale Friday at 10am. #Armag
  eddon https://t.co/oRz1UBHavD
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:e2cdc437-2569-47a4-b190-148bf517e696
+UID:19deb85b-83cb-4290-b23f-628ae7af97f4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231009T012055Z
+DTSTAMP:20231010T012037Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
   biggest tour yet and first headline run since 2018’s Flicker World Tour.
   He’ll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:1b53d50a-832b-40bc-9a0f-662cb9b49419
+UID:f11329a3-c191-4d6b-906e-af3bec8f9e2c
 END:VEVENT
 END:VCALENDAR
