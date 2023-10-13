@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
-DESCRIPTION:Ricky Gervais Friday, October 20, 2023 11:30 AM PDT OVO Arena W
- embley Arena Square Engineers Way, London, United Kingdom HA9 0AA
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais
-UID:557a318c-673b-4328-affc-be4f7a82ae16
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
+DTSTAMP:20231013T012314Z
 DESCRIPTION:About Madonna is bringing ‘The Celebration Tour’, featuring
   four decades of greatest hits, to The O2 this October. Madonna announced t
  he tour in an iconic viral video with a wink to her...
 DTEND;VALUE=DATE:20231014
 DTSTART;VALUE=DATE:20231014
-SUMMARY:Madonna: The Celebration Tour
-UID:e46fab46-1218-446c-911f-718aca65197c
+SUMMARY:MADONNA: THE CELEBRATION TOUR
+UID:103b5a59-bcd0-4500-941a-e6c692333dae
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
-DESCRIPTION:Buy Maisie Peters tickets and sign-up for latest tour alerts. F
- ind Maisie Peters tour dates, reviews, times and event details.
+DTSTAMP:20231013T012314Z
+DESCRIPTION:Ricky Gervais Friday, October 20, 2023 11:30 AM PDT OVO Arena W
+ embley Arena Square Engineers Way, London, United Kingdom HA9 0AA
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais
+UID:bc51be60-7c6b-4fcc-844a-24794769835c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231013T012314Z
+DESCRIPTION:Maisie Peters is a singer-songwriter from England who initiall
+ y gained recognition through YouTube. Since then, she has released popular 
+ singles like "Favourite Ex," "Worst of You," and "Place We...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:1c6b2605-f369-4257-80c6-73ed74fb3ac3
+UID:b1017482-fbb9-48f0-acd8-486c658716e0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
+DTSTAMP:20231013T012314Z
 DESCRIPTION:London are you ready? Badboy Badshah will be performing for th
  e very first time at OVO Arena Wembley London on Saturday 25th November 202
  3. A party concert you dont want to miss. Get your party...
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:BADSHAH - LIVE IN CONCERT
-UID:b5541d85-ebb8-4e98-819f-1376ac6f5119
+UID:f0ac1bc6-e773-449d-a3dc-89ae5f7caa9f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
+DTSTAMP:20231013T012314Z
 DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
  fame in 2012 after appearing on the American television talent show The Voi
  ce. Enjoy her incredible vocals and her creative and...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:4a63e496-9962-486b-a4a1-c8edc5e10821
+UID:94677b29-cdd4-475f-99d5-f3aa97509b8a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
+DTSTAMP:20231013T012314Z
 DESCRIPTION:Singer-songwriter Freya Ridings is bringing her 'Blood Orange' 
  Tour to Eventim Apollo this October. The 'Blood Orange' tour will represen
  t Freya's first full scale headline tour in four years...
 DTEND;VALUE=DATE:20231013
 DTSTART;VALUE=DATE:20231013
 SUMMARY:Freya Ridings
-UID:b839944a-5862-4e04-aeb1-fd24f2e3da2d
+UID:37ca637f-3bbb-47d6-bb6f-db65eab340ee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
+DTSTAMP:20231013T012314Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20231013
 DTSTART;VALUE=DATE:20231013
 SUMMARY:Ricky Gervais
-UID:dac18e8c-7550-4ed3-b1c2-525ec220e23d
+UID:172e1ef5-9b29-4445-b571-bad046973c65
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
+DTSTAMP:20231013T012314Z
+DESCRIPTION:Tiwa Savage, is a Nigerian singer, songwriter, performer and ac
+ tress. div
+DTEND;VALUE=DATE:20231126
+DTSTART;VALUE=DATE:20231126
+SUMMARY:Tiwa Savage @ OVO Arena Wembley
+UID:aad0a4df-03ce-49a6-bc2f-6b0fabfd7246
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231013T012314Z
+DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
+  biggest tour yet and first headline run since 2018’s Flicker World Tour.
+  He’ll be performing songs from all three of his solo albums...
+DTEND;VALUE=DATE:20230301
+DTSTART;VALUE=DATE:20230301
+SUMMARY:Niall Horan
+UID:24e78939-02ce-4c5e-b249-92fba63c65bb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231013T012314Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:16084429-dae3-4d88-8a18-8b8a584b72d0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
-DESCRIPTION:Tiwa Savage, is a Nigerian singer, songwriter, performer and ac
- tress. div
-DTEND;VALUE=DATE:20231126
-DTSTART;VALUE=DATE:20231126
-SUMMARY:Tiwa Savage
-UID:bf03e4d3-a06c-4a3f-a55a-6285466546cb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231011T012036Z
-DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
-  biggest tour yet and first headline run since 2018’s Flicker World Tour.
-  He’ll be performing songs from all three of his solo albums...
-DTEND;VALUE=DATE:20230301
-DTSTART;VALUE=DATE:20230301
-SUMMARY:Niall Horan @ Wembley OVO Arena
-UID:b2e3bfd6-47db-4fa5-aa79-477f67f3e409
+UID:5ae3dd85-a96f-4b6e-920d-fa3b5982eadb
 END:VEVENT
 END:VCALENDAR
