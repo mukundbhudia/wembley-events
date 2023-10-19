@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
-DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
- , and writer best known for creating and starring in the British TV hit ser
- ies The Office. His unique blend of brash satire and...
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:Ricky Gervais
-UID:d6f878aa-2e08-4bef-88af-340a8ccb7038
+DTSTAMP:20231019T012103Z
+DESCRIPTION:No under 5s at all will be permitted in the venue No under 14s 
+ on the pitch (Front Standing/General Admission Standing) All under 14s mus
+ t be seated and accompanied by an adult aged 18 or over...
+DTEND;VALUE=DATE:20230622
+DTSTART;VALUE=DATE:20230622
+SUMMARY:Taylor Swift
+UID:8124d93f-6767-484d-bb74-e328393a134d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
-DESCRIPTION:Find tickets for Dimension with Delta Heavy, Sota, Subsonic an
- d 1 more at OVO Arena Wembley, London in London on 10/21/2023 at 9:00 PM
-DTEND;VALUE=DATE:20231021
-DTSTART;VALUE=DATE:20231021
-SUMMARY:Dimension Live 3.0
-UID:454ef99d-2011-47a3-b49c-42e537a194f6
+DTSTAMP:20231019T012103Z
+DESCRIPTION:OVO Arena Wembley is set to host a spectacular night of classi
+ c R&B, bringing together some of the most influential and cherished names i
+ n the genre on Thursday, October 26th 2023. "R&B Block...
+DTEND;VALUE=DATE:20231026
+DTSTART;VALUE=DATE:20231026
+SUMMARY:R&B Block Party
+UID:169ca9ad-8714-45a1-ac45-63b2928fdc02
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
-DESCRIPTION:i O2 Arena, London Country superstar and reigning CMA Entertain
- er of the Year Luke Combs is bringing his world tour to London, and Teens U
- nite are invited! This will be an amazing night for any...
-DTEND;VALUE=DATE:20231019
-DTSTART;VALUE=DATE:20231019
-SUMMARY:Luke Combs
-UID:c99b7c9e-12d7-4016-b426-0c591806ad4c
+DTSTAMP:20231019T012103Z
+DESCRIPTION:London OVO Arena, Wembley Rewind Reloaded - Kumar Sanu, Udit Na
+ rayan & Abhijeet Bhattacharya
+DTEND;VALUE=DATE:20231202
+DTSTART;VALUE=DATE:20231202
+SUMMARY:Kumar Sanu
+UID:d413d57f-ed24-4b15-84d9-83655973635e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
-DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
- election of tracks to kickstart your weekend!
-DTEND;VALUE=DATE:20231020
-DTSTART;VALUE=DATE:20231020
-SUMMARY:FRIDAY FEELINGS
-UID:fba99d1e-de11-401f-9222-7a661785c1cb
+DTSTAMP:20231019T012103Z
+DESCRIPTION:Nothing But Thieves is a rock band from England formed in 2012
+ . Consisting of five members, they have released top three albums like Brok
+ en Machine and Moral Panic.
+DTEND;VALUE=DATE:20231111
+DTSTART;VALUE=DATE:20231111
+SUMMARY:Nothing But Thieves
+UID:1f687a6b-c72b-49d9-8ca6-2c242857ae3a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
-DESCRIPTION:Maisie Peters is a singer-songwriter from England who initiall
- y gained recognition through YouTube. Since then, she has released popular 
- singles like "Favourite Ex," "Worst of You," and "Place We...
-DTEND;VALUE=DATE:20231103
-DTSTART;VALUE=DATE:20231103
-SUMMARY:Maisie Peters
-UID:bb3c9d97-3194-405e-9e7e-5e5fa1d354ac
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
-DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
- fame in 2012 after appearing on the American television talent show The Voi
- ce. Enjoy her incredible vocals and her creative and...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:PORTALS TOUR
-UID:fa0dd41a-4e04-4ab5-8d7b-c9287e524f87
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
-DESCRIPTION:Tione Jayden Merritt, better known as Lil Tjay, is a rapper an
- d singer from New York with street-level lyrics and pop star energy. Along 
- with a charting album, True 2 Myself, he is known for...
-DTEND;VALUE=DATE:20231102
-DTSTART;VALUE=DATE:20231102
-SUMMARY:Lil Tjay
-UID:6e0f96d7-f70e-4952-af0f-4e5c39740ae1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
-DESCRIPTION:London are you ready? Badboy Badshah will be performing for th
- e very first time at OVO Arena Wembley London on Saturday 25th November 202
- 3. A party concert you dont want to miss. Get your party...
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Badshah
-UID:66f690d1-34d0-4b99-8e8e-d47548d918ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
+DTSTAMP:20231019T012103Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
   biggest tour yet and first headline run since 2018’s Flicker World Tour.
   He’ll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:4daff765-da55-40f0-9795-808cd563bc5c
+UID:b3fe95fc-43f0-4433-9d3c-e57aad8d30a0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231018T012141Z
-DESCRIPTION:Buy Tiwa Savage and Friends Live in London tickets and sign-up 
- for latest tour alerts. Find Tiwa Savage and Friends Live in London tour da
- tes, reviews, times and event details.
-DTEND;VALUE=DATE:20231126
-DTSTART;VALUE=DATE:20231126
-SUMMARY:Tiwa Savage @ OVO Arena Wembley
-UID:ec1df21b-2bf5-428e-98a6-3003b231280f
+DTSTAMP:20231019T012103Z
+DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
+ , and writer best known for creating and starring in the British TV hit ser
+ ies The Office. His unique blend of brash satire and...
+DTEND;VALUE=DATE:20231020
+DTSTART;VALUE=DATE:20231020
+SUMMARY:Ricky Gervais
+UID:6517d20c-bcbc-4a61-acb4-d7e9f743cc30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231019T012103Z
+DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
+ a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
+ a, he is considered to be one of the most successful and...
+DTEND;VALUE=DATE:20231117
+DTSTART;VALUE=DATE:20231117
+SUMMARY:50 Cent: The Final Lap Tour
+UID:83ea7d44-96e1-4337-95a4-225e5fe0853f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231019T012103Z
+DESCRIPTION:Find tickets for Dimension with Delta Heavy, Sota, Subsonic an
+ d 1 more at OVO Arena Wembley, London in London on 10/21/2023 at 9:00 PM
+DTEND;VALUE=DATE:20231021
+DTSTART;VALUE=DATE:20231021
+SUMMARY:Dimension Live 3.0
+UID:67a6e51c-b725-49fe-bc0a-8c5daa8b06c9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231019T012103Z
+DESCRIPTION:Nothing But Thieves is a rock band from England formed in 2012
+ . Consisting of five members, they have released top three albums like Brok
+ en Machine and Moral Panic.
+DTEND;VALUE=DATE:20231110
+DTSTART;VALUE=DATE:20231110
+SUMMARY:Nothing But Thieves
+UID:3359ccda-7977-43cb-89c0-0df4ac0558fa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231019T012103Z
+DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
+ fame in 2012 after appearing on the American television talent show The Voi
+ ce. Enjoy her incredible vocals and her creative and...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:PORTALS TOUR
+UID:404b070d-2bda-4a9d-ad74-b152a04d3f72
 END:VEVENT
 END:VCALENDAR
