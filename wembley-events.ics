@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
-DESCRIPTION:Find tickets for Dimension with Delta Heavy at Wembley Arena i
- n Wembley on 10/21/2023 at 9:00 PM
-DTEND;VALUE=DATE:20231021
-DTSTART;VALUE=DATE:20231021
-SUMMARY:Dimension Live 3.0
-UID:75597719-96ff-413a-9234-f0f7905582a0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
+DTSTAMP:20231022T013059Z
 DESCRIPTION:Maisie Peters is a singer-songwriter from England who initiall
  y gained recognition through YouTube. Since then, she has released popular 
  singles like "Favourite Ex," "Worst of You," and "Place We...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:451530db-d8fb-427a-b612-4a6b4b8d35ff
+UID:65b16b2a-d10f-48cf-9aa1-7ebc1593a3a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
-DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
- election of tracks to kickstart your weekend!
-DTEND;VALUE=DATE:20231021
-DTSTART;VALUE=DATE:20231021
-SUMMARY:FRIDAY FEELINGS
-UID:39219409-261d-4293-a9d6-a0aa4121a765
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
+DTSTAMP:20231022T013059Z
 DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
  fame in 2012 after appearing on the American television talent show The Voi
  ce. Enjoy her incredible vocals and her creative and...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:b4ee4e61-adbb-45b7-9d15-79c5548def6e
+UID:4fc5184e-97f8-41e2-8eba-10e7a6cb514a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
+DTSTAMP:20231022T013059Z
 DESCRIPTION:Tione Jayden Merritt, better known as Lil Tjay, is a rapper an
  d singer from New York with street-level lyrics and pop star energy. Along 
  with a charting album, True 2 Myself, he is known for...
 DTEND;VALUE=DATE:20231102
 DTSTART;VALUE=DATE:20231102
 SUMMARY:Lil Tjay
-UID:c82c5107-67bb-49f7-b536-00d791815366
+UID:e2d51973-626e-4e04-a962-541e26363559
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
+DTSTAMP:20231022T013059Z
 DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
  5/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:Badshah
-UID:6ba77eca-d274-416d-b9ba-37766f9a7b90
+UID:8bcf769c-69bb-4c45-bb84-da2b0bd1486d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
+DTSTAMP:20231022T013059Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
   biggest tour yet and first headline run since 2018’s Flicker World Tour.
   He’ll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:e36db651-807f-4b80-851c-056127aa1e2f
+UID:1ec4d125-2dee-4819-81ad-267fde156fef
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
+DTSTAMP:20231022T013059Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231022
 DTSTART;VALUE=DATE:20231022
 SUMMARY:Wembley Stadium Tour
-UID:c2d2cd0a-6a64-4bfa-8c9d-83d5ba6a978c
+UID:dfc633e3-0f64-4ed6-832d-0bd8c0d056fe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
+DTSTAMP:20231022T013059Z
 DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
  nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
  council estate. Gervais achieved mainstream fame with his...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:e08678df-5ba6-4373-9267-25d58729a89a
+UID:9424070d-b3f7-4a09-8584-d9e884b40cfb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231021T011856Z
+DTSTAMP:20231022T013059Z
 DESCRIPTION:Buy Tiwa Savage and Friends Live in London tickets and sign-up 
  for latest tour alerts. Find Tiwa Savage and Friends Live in London tour da
  tes, reviews, times and event details.
 DTEND;VALUE=DATE:20231126
 DTSTART;VALUE=DATE:20231126
 SUMMARY:Tiwa Savage
-UID:c51e494d-4ec5-4b7f-bbea-37e2bf5a5641
+UID:29d7cb94-cc1a-48db-b62c-54638a6ebabf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231022T013059Z
+DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
+ a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
+ a, he is considered to be one of the most successful and...
+DTEND;VALUE=DATE:20231117
+DTSTART;VALUE=DATE:20231117
+SUMMARY:50 Cent: The Final Lap Tour
+UID:753cd070-61e8-4695-82cf-2722f4fac7cf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231022T013059Z
+DESCRIPTION:No description
+DTEND;VALUE=DATE:20231022
+DTSTART;VALUE=DATE:20231022
+SUMMARY:Youphoria
+UID:c1b69f6f-06c9-40a2-a681-ce89bb07b3a8
 END:VEVENT
 END:VCALENDAR
