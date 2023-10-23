@@ -3,100 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
+DTSTAMP:20231023T012130Z
+DESCRIPTION:Blackstreet was an American R&B group founded in 1994 by Teddy 
+ Riley, a New Jack Swing pioneer known for his work as a member of Guy. The 
+ band members were: Teddy Riley, Chauncey Hannibal, Eric...
+DTEND;VALUE=DATE:20231026
+DTSTART;VALUE=DATE:20231026
+SUMMARY:R&B Block Party - Featuring: Dru Hill...
+UID:242d0774-67c1-4720-9438-5ebc4a1a8d32
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231023T012130Z
 DESCRIPTION:Maisie Peters is a singer-songwriter from England who initiall
  y gained recognition through YouTube. Since then, she has released popular 
  singles like "Favourite Ex," "Worst of You," and "Place We...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:65b16b2a-d10f-48cf-9aa1-7ebc1593a3a3
+UID:ca51556d-0544-4dde-ad23-c19f0de04a74
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
-DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
- fame in 2012 after appearing on the American television talent show The Voi
- ce. Enjoy her incredible vocals and her creative and...
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:PORTALS TOUR
-UID:4fc5184e-97f8-41e2-8eba-10e7a6cb514a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
+DTSTAMP:20231023T012130Z
 DESCRIPTION:Tione Jayden Merritt, better known as Lil Tjay, is a rapper an
  d singer from New York with street-level lyrics and pop star energy. Along 
  with a charting album, True 2 Myself, he is known for...
 DTEND;VALUE=DATE:20231102
 DTSTART;VALUE=DATE:20231102
 SUMMARY:Lil Tjay
-UID:e2d51973-626e-4e04-a962-541e26363559
+UID:ac1f0018-6139-4a98-8743-fde699bdd75d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
+DTSTAMP:20231023T012130Z
+DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
+ fame in 2012 after appearing on the American television talent show The Voi
+ ce. Enjoy her incredible vocals and her creative and...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:PORTALS TOUR
+UID:15aab5fa-f374-4469-8a15-49000d12303c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231023T012130Z
 DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
  5/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:Badshah
-UID:8bcf769c-69bb-4c45-bb84-da2b0bd1486d
+UID:87e884bf-d627-4f3f-bb7f-d46dad44a8d1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
+DTSTAMP:20231023T012130Z
+DESCRIPTION:The world's premier and most explosive wrestling organization, 
+ the global phenomenon WWE is the largest wrestling corporation in the world
+ , hosting more than 500 events per year.
+DTEND;VALUE=DATE:20231029
+DTSTART;VALUE=DATE:20231029
+SUMMARY:WWE
+UID:15599a34-d9de-44d1-9b88-b4c5c0817691
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231023T012130Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
   biggest tour yet and first headline run since 2018’s Flicker World Tour.
   He’ll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:1ec4d125-2dee-4819-81ad-267fde156fef
+UID:5a3d06ad-6280-4f58-9d7f-4b0182695281
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
+DTSTAMP:20231023T012130Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20231022
-DTSTART;VALUE=DATE:20231022
+DTEND;VALUE=DATE:20231029
+DTSTART;VALUE=DATE:20231029
 SUMMARY:Wembley Stadium Tour
-UID:dfc633e3-0f64-4ed6-832d-0bd8c0d056fe
+UID:fd530e89-cccb-450b-a61c-08615cffe3f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:9424070d-b3f7-4a09-8584-d9e884b40cfb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
+DTSTAMP:20231023T012130Z
 DESCRIPTION:Buy Tiwa Savage and Friends Live in London tickets and sign-up 
  for latest tour alerts. Find Tiwa Savage and Friends Live in London tour da
  tes, reviews, times and event details.
 DTEND;VALUE=DATE:20231126
 DTSTART;VALUE=DATE:20231126
 SUMMARY:Tiwa Savage
-UID:29d7cb94-cc1a-48db-b62c-54638a6ebabf
+UID:c53823a7-bc22-4fad-928c-111739f2c19a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
-DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
- a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
- a, he is considered to be one of the most successful and...
-DTEND;VALUE=DATE:20231117
-DTSTART;VALUE=DATE:20231117
-SUMMARY:50 Cent: The Final Lap Tour
-UID:753cd070-61e8-4695-82cf-2722f4fac7cf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231022T013059Z
-DESCRIPTION:No description
-DTEND;VALUE=DATE:20231022
-DTSTART;VALUE=DATE:20231022
-SUMMARY:Youphoria
-UID:c1b69f6f-06c9-40a2-a681-ce89bb07b3a8
+DTSTAMP:20231023T012130Z
+DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
+ nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
+ council estate. Gervais achieved mainstream fame with his...
+DTEND;VALUE=DATE:20231213
+DTSTART;VALUE=DATE:20231213
+SUMMARY:Ricky Gervais
+UID:b8c4449a-575a-457d-8d0e-5cfc17a2f5e6
 END:VEVENT
 END:VCALENDAR
