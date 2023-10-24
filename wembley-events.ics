@@ -3,102 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
-DESCRIPTION:Blackstreet was an American R&B group founded in 1994 by Teddy 
- Riley, a New Jack Swing pioneer known for his work as a member of Guy. The 
- band members were: Teddy Riley, Chauncey Hannibal, Eric...
-DTEND;VALUE=DATE:20231026
-DTSTART;VALUE=DATE:20231026
-SUMMARY:R&B Block Party - Featuring: Dru Hill...
-UID:242d0774-67c1-4720-9438-5ebc4a1a8d32
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
+DTSTAMP:20231024T012042Z
 DESCRIPTION:Maisie Peters is a singer-songwriter from England who initiall
  y gained recognition through YouTube. Since then, she has released popular 
  singles like "Favourite Ex," "Worst of You," and "Place We...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:ca51556d-0544-4dde-ad23-c19f0de04a74
+UID:0dee2cae-60fe-495e-aa86-f1f77f12f63c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
+DTSTAMP:20231024T012042Z
+DESCRIPTION:Blackstreet was an American R&B group founded in 1994 by Teddy 
+ Riley, a New Jack Swing pioneer known for his work as a member of Guy. The 
+ band members were: Teddy Riley, Chauncey Hannibal, Eric...
+DTEND;VALUE=DATE:20231026
+DTSTART;VALUE=DATE:20231026
+SUMMARY:R&B Block Party - Featuring: Dru Hill...
+UID:8ba3a434-7d4d-419e-82d5-c77a797206a0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231024T012042Z
 DESCRIPTION:Tione Jayden Merritt, better known as Lil Tjay, is a rapper an
  d singer from New York with street-level lyrics and pop star energy. Along 
  with a charting album, True 2 Myself, he is known for...
 DTEND;VALUE=DATE:20231102
 DTSTART;VALUE=DATE:20231102
 SUMMARY:Lil Tjay
-UID:ac1f0018-6139-4a98-8743-fde699bdd75d
+UID:12e77d86-0b94-4c26-8988-622acff6424b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
+DTSTAMP:20231024T012042Z
+DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
+ 5/2023 at 7:30 PM
+DTEND;VALUE=DATE:20231125
+DTSTART;VALUE=DATE:20231125
+SUMMARY:Badshah
+UID:cb43d149-f2ca-4314-8ee2-a3ba1583c3e1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231024T012042Z
 DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
  fame in 2012 after appearing on the American television talent show The Voi
  ce. Enjoy her incredible vocals and her creative and...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:15aab5fa-f374-4469-8a15-49000d12303c
+UID:5eb12e99-f1ca-41c7-be58-cff330d263fe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
-DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
- 5/2023 at 7:30 PM
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Badshah
-UID:87e884bf-d627-4f3f-bb7f-d46dad44a8d1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
+DTSTAMP:20231024T012042Z
 DESCRIPTION:The world's premier and most explosive wrestling organization, 
  the global phenomenon WWE is the largest wrestling corporation in the world
  , hosting more than 500 events per year.
 DTEND;VALUE=DATE:20231029
 DTSTART;VALUE=DATE:20231029
 SUMMARY:WWE
-UID:15599a34-d9de-44d1-9b88-b4c5c0817691
+UID:e57e4434-067e-4bd6-81e5-425adff2ba52
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
+DTSTAMP:20231024T012042Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
   biggest tour yet and first headline run since 2018’s Flicker World Tour.
   He’ll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:5a3d06ad-6280-4f58-9d7f-4b0182695281
+UID:36e0e108-4c4b-4437-9e40-c14e55075908
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
+DTSTAMP:20231024T012042Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231029
 DTSTART;VALUE=DATE:20231029
 SUMMARY:Wembley Stadium Tour
-UID:fd530e89-cccb-450b-a61c-08615cffe3f2
+UID:2ca28fb8-567c-4e14-a6a3-9f42cffee701
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
+DTSTAMP:20231024T012042Z
 DESCRIPTION:Buy Tiwa Savage and Friends Live in London tickets and sign-up 
  for latest tour alerts. Find Tiwa Savage and Friends Live in London tour da
  tes, reviews, times and event details.
 DTEND;VALUE=DATE:20231126
 DTSTART;VALUE=DATE:20231126
 SUMMARY:Tiwa Savage
-UID:c53823a7-bc22-4fad-928c-111739f2c19a
+UID:5c30c748-d441-41f0-a525-8afe4095ba82
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231023T012130Z
-DESCRIPTION:Ricky Gervais (born June 25, 1961) is an English comic writer a
- nd performer from Reading, Berkshire, England. He grew up in Whitley, on a 
- council estate. Gervais achieved mainstream fame with his...
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais
-UID:b8c4449a-575a-457d-8d0e-5cfc17a2f5e6
+DTSTAMP:20231024T012042Z
+DESCRIPTION:SHUBH STILL ROLLINUK are you ready? Introducing the young super
+ star Punjabi Rapper you have been waiting for.Rock On Music presents SHUBH 
+ “STILL ROLLIN” World Tour live in the UK for the very...
+DTEND;VALUE=DATE:20231029
+DTSTART;VALUE=DATE:20231029
+SUMMARY:Shubh
+UID:893d64f1-0427-4d30-b421-c8e749fd6282
 END:VEVENT
 END:VCALENDAR
