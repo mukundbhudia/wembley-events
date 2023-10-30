@@ -3,102 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
+DTSTAMP:20231030T012136Z
 DESCRIPTION:Maisie Peters is a singer-songwriter from England who initiall
  y gained recognition through YouTube. Since then, she has released popular 
  singles like "Favourite Ex," "Worst of You," and "Place We...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:164c4257-40eb-4415-9891-cba37e192e4f
+UID:af023639-f8a7-4ee8-8940-803c87621039
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
+DTSTAMP:20231030T012136Z
 DESCRIPTION:Tione Jayden Merritt, better known as Lil Tjay, is a rapper an
  d singer from New York with street-level lyrics and pop star energy. Along 
  with a charting album, True 2 Myself, he is known for...
 DTEND;VALUE=DATE:20231102
 DTSTART;VALUE=DATE:20231102
 SUMMARY:Lil Tjay
-UID:5c2de79d-b706-4ee1-af0b-8fb1d55b35ab
+UID:b4eae56e-e72a-4704-a931-047cbb9dab08
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
+DTSTAMP:20231030T012136Z
+DESCRIPTION:Find tickets for Charmaine Fong at OVO Arena Wembley in London 
+ on 10/30/2023 at 8:00 PM
+DTEND;VALUE=DATE:20231030
+DTSTART;VALUE=DATE:20231030
+SUMMARY:Charmaine Fong
+UID:cbb7215d-dd86-4dc1-8e1e-18aeef985bc4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231030T012136Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20231102
+DTSTART;VALUE=DATE:20231102
+SUMMARY:Lil Tjay - Beat The Odds Tour
+UID:068eab94-3b87-41d2-9366-5fa33722a9a6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231030T012136Z
 DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
  fame in 2012 after appearing on the American television talent show The Voi
  ce. Enjoy her incredible vocals and her creative and...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:83ff86eb-edb3-4c59-b0f8-7f6af41af104
+UID:f831c332-a799-4fb9-95e5-551c082661c1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
+DTSTAMP:20231030T012136Z
 DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
  5/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:Badshah
-UID:b2facaec-2941-4deb-a6ea-5d0e3fed050d
+UID:22ee2c25-4f2b-4af5-a6aa-09b991b5efbb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
-DESCRIPTION:SHUBH STILL ROLLINUK are you ready? Introducing the young super
- star Punjabi Rapper you have been waiting for.Rock On Music presents SHUBH 
- “STILL ROLLIN” World Tour live in the UK for the very...
-DTEND;VALUE=DATE:20231029
-DTSTART;VALUE=DATE:20231029
-SUMMARY:Shubh
-UID:6142fcdd-6c5b-4233-b83d-bb8c4f4f9519
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
-DESCRIPTION:The world's premier and most explosive wrestling organization, 
- the global phenomenon WWE is the largest wrestling corporation in the world
- , hosting more than 500 events per year.
-DTEND;VALUE=DATE:20231029
-DTSTART;VALUE=DATE:20231029
-SUMMARY:WWE Sunday Stunner Billets
-UID:e1b6f3d2-b6d3-4065-abe3-7d51d79ba250
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
-DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
- , and writer best known for creating and starring in the British TV hit ser
- ies The Office. His unique blend of brash satire and...
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais
-UID:88ed88b4-7a47-48ea-958c-27385e8cf38c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
-DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
-  biggest tour yet and first headline run since 2018’s Flicker World Tour.
-  He’ll be performing songs from all three of his solo albums...
-DTEND;VALUE=DATE:20230301
-DTSTART;VALUE=DATE:20230301
-SUMMARY:Niall Horan
-UID:fcb42a80-1a22-408a-98d8-3a07df95fc27
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
+DTSTAMP:20231030T012136Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20231029
-DTSTART;VALUE=DATE:20231029
+DTEND;VALUE=DATE:20231102
+DTSTART;VALUE=DATE:20231102
 SUMMARY:Wembley Stadium Tour
-UID:2c4b5ec1-5e84-4952-9fbe-2cb3328bd54f
+UID:b1af26b9-5dd9-4822-95e1-2061add82794
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231029T013004Z
+DTSTAMP:20231030T012136Z
 DESCRIPTION:Buy Tiwa Savage and Friends Live in London tickets and sign-up 
  for latest tour alerts. Find Tiwa Savage and Friends Live in London tour da
  tes, reviews, times and event details.
 DTEND;VALUE=DATE:20231126
 DTSTART;VALUE=DATE:20231126
 SUMMARY:Tiwa Savage
-UID:d743bca9-f995-4cb0-b5d4-244eefceb268
+UID:afc752b6-8144-4b76-9389-c64ed4cd217d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231030T012136Z
+DESCRIPTION:Find tickets for Kizz Daniel at OVO Arena Wembley in London on 
+ 11/12/2023 at 7:00 PM
+DTEND;VALUE=DATE:20231112
+DTSTART;VALUE=DATE:20231112
+SUMMARY:Kizz Daniel
+UID:f6785175-2c70-4bca-9a51-d6214b2c9991
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231030T012136Z
+DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024" – his
+  biggest tour yet and first headline run since 2018’s Flicker World Tour.
+  He’ll be performing songs from all three of his solo albums...
+DTEND;VALUE=DATE:20230301
+DTSTART;VALUE=DATE:20230301
+SUMMARY:Niall Horan
+UID:74c477e1-8e3d-49b1-9e75-d9b3b43449d5
 END:VEVENT
 END:VCALENDAR
