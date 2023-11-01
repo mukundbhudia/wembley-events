@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
+DTSTAMP:20231101T013124Z
 DESCRIPTION:Maisie Peters is a singer-songwriter from England who initiall
  y gained recognition through YouTube. Since then, she has released popular 
  singles like "Favourite Ex," "Worst of You," and "Place We...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:acaf38f5-e5a6-4603-9417-d9e7d95346ae
+UID:10f3d6cb-fe97-4542-9fbe-fa507a6ea916
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
-DESCRIPTION:Tione Jayden Merritt, better known as Lil Tjay, is a rapper an
- d singer from New York with street-level lyrics and pop star energy. Along 
- with a charting album, True 2 Myself, he is known for...
-DTEND;VALUE=DATE:20231102
-DTSTART;VALUE=DATE:20231102
-SUMMARY:Lil Tjay
-UID:ffc38104-6686-4c56-865d-cd152eeab0e7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
+DTSTAMP:20231101T013124Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20231102
 DTSTART;VALUE=DATE:20231102
 SUMMARY:Lil Tjay - Beat The Odds Tour
-UID:8b410a88-60f0-46aa-bb75-425e413c292d
+UID:46a14671-47cd-4874-8baf-53f7c12a9933
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
+DTSTAMP:20231101T013124Z
 DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
  fame in 2012 after appearing on the American television talent show The Voi
  ce. Enjoy her incredible vocals and her creative and...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:39b9689f-6001-4b3e-88f9-026ce74d2eeb
+UID:8a9593d6-3585-49b3-90da-94746a2b076a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
+DTSTAMP:20231101T013124Z
 DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
  5/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:Badshah
-UID:d638c6d5-80e1-46bb-b3de-0582046c8c75
+UID:50b32600-5925-4c51-9814-6a412caf3a0b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
+DTSTAMP:20231101T013124Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231102
 DTSTART;VALUE=DATE:20231102
 SUMMARY:Wembley Stadium Tour
-UID:1b3630d5-ca6e-4f58-bcb4-461f37e5e2bc
+UID:ee46fee9-19ed-4feb-940c-edb38fde7b9a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
-DESCRIPTION:Buy Tiwa Savage and Friends Live in London tickets and sign-up 
- for latest tour alerts. Find Tiwa Savage and Friends Live in London tour da
- tes, reviews, times and event details.
-DTEND;VALUE=DATE:20231126
-DTSTART;VALUE=DATE:20231126
-SUMMARY:Tiwa Savage
-UID:b864ec70-525e-4209-a6f1-5ef4193c2fe5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
-DESCRIPTION:Find tickets for Kizz Daniel at OVO Arena Wembley in London on 
- 11/12/2023 at 7:00 PM
-DTEND;VALUE=DATE:20231112
-DTSTART;VALUE=DATE:20231112
-SUMMARY:Kizz Daniel
-UID:94bf2c8e-d057-418e-ba10-c2937d6f9507
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
+DTSTAMP:20231101T013124Z
 DESCRIPTION:This is a fully customisable souvenir ticket for your Niall Hor
  an The Show Live On Tour 2024 show date!, In order to personalise this item
  , I need
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:8f97531d-b252-4788-9ef2-f727947ac35f
+UID:921d4c2c-e8f9-4053-aebd-d23adaede402
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231031T012150Z
+DTSTAMP:20231101T013124Z
+DESCRIPTION:Buy Tiwa Savage and Friends Live in London tickets and sign-up 
+ for latest tour alerts. Find Tiwa Savage and Friends Live in London tour da
+ tes, reviews, times and event details.
+DTEND;VALUE=DATE:20231126
+DTSTART;VALUE=DATE:20231126
+SUMMARY:Tiwa Savage
+UID:f1dc2b9d-670a-4ba6-b494-4e61de1f421e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231101T013124Z
+DESCRIPTION:Find tickets for Kizz Daniel at OVO Arena Wembley in London on 
+ 11/12/2023 at 7:00 PM
+DTEND;VALUE=DATE:20231112
+DTSTART;VALUE=DATE:20231112
+SUMMARY:Kizz Daniel
+UID:6ceee74b-48a3-49b8-be34-7d63cd2f14cf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231101T013124Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais
-UID:f40bdb33-081d-4295-b397-7f2e949e0b7f
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:bfa59938-d32c-4966-a285-c5dbe39a21dd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231101T013124Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231104
+DTSTART;VALUE=DATE:20231104
+SUMMARY:Wembley Stadium Tour
+UID:5142e1cc-45f6-44ec-a329-f56dbff6c3b5
 END:VEVENT
 END:VCALENDAR
