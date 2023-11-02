@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
+DTSTAMP:20231102T012114Z
 DESCRIPTION:Maisie Peters is a singer-songwriter from England who initiall
  y gained recognition through YouTube. Since then, she has released popular 
  singles like "Favourite Ex," "Worst of You," and "Place We...
 DTEND;VALUE=DATE:20231103
 DTSTART;VALUE=DATE:20231103
 SUMMARY:Maisie Peters
-UID:10f3d6cb-fe97-4542-9fbe-fa507a6ea916
+UID:a3d664f8-2e2b-4322-ace6-be54ca97878b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
-DESCRIPTION:
+DTSTAMP:20231102T012114Z
+DESCRIPTION:Tione Kenyon Jayden Merritt (born April 30, 2001), known profes
+ sionally as Lil Tjay, is an American rapper, singer, and songwriter from Ne
+ w York City. Born and raised in the Bronx, his musical...
 DTEND;VALUE=DATE:20231102
 DTSTART;VALUE=DATE:20231102
 SUMMARY:Lil Tjay - Beat The Odds Tour
-UID:46a14671-47cd-4874-8baf-53f7c12a9933
+UID:ed7566d5-293c-4f55-a583-126a58a344e1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
+DTSTAMP:20231102T012114Z
+DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
+ 5/2023 at 7:30 PM
+DTEND;VALUE=DATE:20231125
+DTSTART;VALUE=DATE:20231125
+SUMMARY:Badshah
+UID:b792171c-da65-4091-9adf-738a7e4b59c2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231102T012114Z
 DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
  fame in 2012 after appearing on the American television talent show The Voi
  ce. Enjoy her incredible vocals and her creative and...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:8a9593d6-3585-49b3-90da-94746a2b076a
+UID:3a1568e7-bc1c-4066-99a5-d96400861684
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
-DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
- 5/2023 at 7:30 PM
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Badshah
-UID:50b32600-5925-4c51-9814-6a412caf3a0b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
+DTSTAMP:20231102T012114Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231102
 DTSTART;VALUE=DATE:20231102
 SUMMARY:Wembley Stadium Tour
-UID:ee46fee9-19ed-4feb-940c-edb38fde7b9a
+UID:a601dbae-1b79-4637-86df-506e506fc585
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
+DTSTAMP:20231102T012114Z
 DESCRIPTION:This is a fully customisable souvenir ticket for your Niall Hor
  an The Show Live On Tour 2024 show date!, In order to personalise this item
  , I need
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:921d4c2c-e8f9-4053-aebd-d23adaede402
+UID:81ae3237-1ee2-459e-806c-edfd47e41bb7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
-DESCRIPTION:Buy Tiwa Savage and Friends Live in London tickets and sign-up 
- for latest tour alerts. Find Tiwa Savage and Friends Live in London tour da
- tes, reviews, times and event details.
-DTEND;VALUE=DATE:20231126
-DTSTART;VALUE=DATE:20231126
-SUMMARY:Tiwa Savage
-UID:f1dc2b9d-670a-4ba6-b494-4e61de1f421e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
+DTSTAMP:20231102T012114Z
 DESCRIPTION:Find tickets for Kizz Daniel at OVO Arena Wembley in London on 
  11/12/2023 at 7:00 PM
 DTEND;VALUE=DATE:20231112
 DTSTART;VALUE=DATE:20231112
 SUMMARY:Kizz Daniel
-UID:6ceee74b-48a3-49b8-be34-7d63cd2f14cf
+UID:ac79a1d0-43a7-41a6-b6f0-1c3ef6d5d9f5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
+DTSTAMP:20231102T012114Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:bfa59938-d32c-4966-a285-c5dbe39a21dd
+UID:ecd40a85-f320-4f98-aaa5-929439792f7f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231101T013124Z
+DTSTAMP:20231102T012114Z
+DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
+ r Xmas RnB festival on Sunday 17
+DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20231217
+SUMMARY:Xmas R&B Ball
+UID:6a66f5a6-7196-4d6f-a4e5-356b475b01ee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231102T012114Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231104
 DTSTART;VALUE=DATE:20231104
 SUMMARY:Wembley Stadium Tour
-UID:5142e1cc-45f6-44ec-a329-f56dbff6c3b5
+UID:c17feb92-9be3-45a2-80c7-184abf9fe363
 END:VEVENT
 END:VCALENDAR
