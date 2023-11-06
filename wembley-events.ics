@@ -3,100 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
-DESCRIPTION:Maisie Hannah Peters (born 28 May 2000) is an English singer-so
- ngwriter from West Sussex with a passion for storytelling through her songw
- riting. Mentored from youth by her mother, it was evident...
-DTEND;VALUE=DATE:20231104
-DTSTART;VALUE=DATE:20231104
-SUMMARY:Maisie Peters
-UID:7bc16f4b-f888-444e-a35a-fed5d62e5691
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
-DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
- 5/2023 at 7:30 PM
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Badshah
-UID:2de09367-f149-4567-a51d-a9084030fce6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
+DTSTAMP:20231106T013015Z
 DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
  fame in 2012 after appearing on the American television talent show The Voi
  ce. Enjoy her incredible vocals and her creative and...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:4d7ed8ac-37a5-43f2-b993-65b0313002e2
+UID:52818503-f9dc-45a2-906a-c306faaa400a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
-DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
- , and writer best known for creating and starring in the British TV hit ser
- ies The Office. His unique blend of brash satire and...
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:adf34e49-d32b-4a0a-829c-52ef46eda408
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
-DESCRIPTION:This is a fully customisable souvenir ticket for your Niall Hor
- an The Show Live On Tour 2024 show date!, In order to personalise this item
- , I need
-DTEND;VALUE=DATE:20230301
-DTSTART;VALUE=DATE:20230301
-SUMMARY:Niall Horan
-UID:b7e3c421-d3c8-425a-b17c-01611811f0a9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
+DTSTAMP:20231106T013015Z
 DESCRIPTION:Find tickets for Kizz Daniel at OVO Arena Wembley in London on 
  11/12/2023 at 7:00 PM
 DTEND;VALUE=DATE:20231112
 DTSTART;VALUE=DATE:20231112
 SUMMARY:Kizz Daniel
-UID:327271ee-c8f1-4e80-ae79-65f209ed2e50
+UID:0aa51bef-ee7a-48a6-b718-0f14c8342ef6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231104
-DTSTART;VALUE=DATE:20231104
-SUMMARY:Wembley Stadium Tour
-UID:835dccb7-b9fe-4c39-93a7-a59425b2e51a
+DTSTAMP:20231106T013015Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:London, United Kingdom
+UID:f5fc1dd3-018d-414c-84d4-dc684e5b62a5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
-DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
- r Xmas RnB festival on Sunday 17
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:R n B Xmas Ball
-UID:7b259ec7-2a2c-42f0-9401-09ed8aa5e705
+DTSTAMP:20231106T013015Z
+DESCRIPTION:Melanie Adele Martinez is an American singer-songwriter, artist
+ , director, actress, dancer, clothing designer, producer, and photographer
+ . Martinez's third studio album Portals was released on...
+DTEND;VALUE=DATE:20231109
+DTSTART;VALUE=DATE:20231109
+SUMMARY:Melanie Martinez - Portals Tour
+UID:8cbecd81-b4db-4471-ab9c-5de678090af4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
+DTSTAMP:20231106T013015Z
+DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
+ 5/2023 at 7:30 PM
+DTEND;VALUE=DATE:20231125
+DTSTART;VALUE=DATE:20231125
+SUMMARY:Badshah
+UID:90b3b185-320e-4707-bf1f-6e22aa5cc674
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231106T013015Z
+DESCRIPTION:Nothing But Thieves is an English alternative rock band, forme
+ d in 2012 in Southend-on-Sea, Essex. They consist of lead vocalist and guit
+ arist Conor Mason, guitarist Joe Langridge-Brown, guitarist...
+DTEND;VALUE=DATE:20231110
+DTSTART;VALUE=DATE:20231110
+SUMMARY:Nothing But Thieves - Welcome To The DCC World Tour
+UID:a9925bdd-98b5-4481-a95e-c2b6294e2107
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231106T013015Z
 DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
  a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
  a, he is considered to be one of the most successful and...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent: The Final Lap Tour
-UID:eebd6174-e78e-47b1-b125-eddab1fc5328
+UID:8d67b3fe-0ad1-45c8-82ca-ba2040c4aca0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231104T012043Z
+DTSTAMP:20231106T013015Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20231105
-DTSTART;VALUE=DATE:20231105
+DTEND;VALUE=DATE:20231108
+DTSTART;VALUE=DATE:20231108
 SUMMARY:Wembley Stadium Tour
-UID:d1a26ecd-497b-44c0-b192-912e45c60bcd
+UID:47e96b33-6f46-467d-a3dd-f1346d58ad88
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231106T013015Z
+DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
+ r Xmas RnB festival on Sunday 17
+DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20231217
+SUMMARY:112 @ OVO Arena Wembley
+UID:20a7c43d-d553-4eaa-ad01-d7ad256934fc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231106T013015Z
+DESCRIPTION:This is a fully customisable souvenir ticket for your Niall Hor
+ an The Show Live On Tour 2024 show date!, In order to personalise this item
+ , I need
+DTEND;VALUE=DATE:20230301
+DTSTART;VALUE=DATE:20230301
+SUMMARY:Niall Horan
+UID:4b418c6b-99d6-4a51-8b59-ddccadec606b
 END:VEVENT
 END:VCALENDAR
