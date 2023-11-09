@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
+DTSTAMP:20231109T012334Z
 DESCRIPTION:Melanie Martinez is a celebrated singer-songwriter who rose to 
  fame in 2012 after appearing on the American television talent show The Voi
  ce. Enjoy her incredible vocals and her creative and...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:PORTALS TOUR
-UID:001fd853-9286-4d52-b104-dee5cc86f49d
+UID:88e1f45a-095e-42f9-be61-902b66bc3f60
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
+DTSTAMP:20231109T012334Z
 DESCRIPTION:Find tickets for Kizz Daniel at OVO Arena Wembley in London on 
  11/12/2023 at 7:00 PM
 DTEND;VALUE=DATE:20231112
 DTSTART;VALUE=DATE:20231112
 SUMMARY:Kizz Daniel
-UID:5aff9176-a01b-4039-83c0-2cdcf8fe2ed0
+UID:62a185fd-d049-4284-a221-be0f6c6816b9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
+DTSTAMP:20231109T012334Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:London, United Kingdom
-UID:f7626d0f-db50-42fe-acb4-bbf9deaf85a6
+UID:3bde6f2b-fe1b-4666-b79e-697dc320ab6f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
+DTSTAMP:20231109T012334Z
 DESCRIPTION:Melanie Adele Martinez is an American singer-songwriter, artist
  , director, actress, dancer, clothing designer, producer, and photographer
  . Martinez's third studio album Portals was released on...
 DTEND;VALUE=DATE:20231109
 DTSTART;VALUE=DATE:20231109
 SUMMARY:Melanie Martinez - Portals Tour
-UID:3a596cc5-f24e-445b-bb72-b5ed242ad56c
+UID:641c2aa1-7d1c-4a8d-91fb-74ff4c3cc173
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
+DTSTAMP:20231109T012334Z
+DESCRIPTION:Nothing But Thieves is an English alternative rock band, forme
+ d in 2012 in Southend-on-Sea, Essex. They consist of lead vocalist and guit
+ arist Conor Mason, guitarist Joe Langridge-Brown, guitarist...
+DTEND;VALUE=DATE:20231111
+DTSTART;VALUE=DATE:20231111
+SUMMARY:Nothing But Thieves - Welcome To The DCC World Tour
+UID:2493648b-05f4-4cb4-910b-604d96857d6b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T012334Z
 DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
  5/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:Badshah
-UID:b201466d-21b5-4614-a9b6-a062a714ebd1
+UID:1d8b8571-6b23-4e7e-a75f-84b5d650fe9b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
+DTSTAMP:20231109T012334Z
+DESCRIPTION:Lil Yachty is an American rapper, singer, and songwriter who ga
+ ined widespread attention after the release of his hit single "One Night" i
+ n 2016. Known for his unique melodic style and catchy...
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Lil Yachty
+UID:b0cb3862-a204-4487-a501-d35988717ef2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T012334Z
+DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
+ y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
+ arch 31st 2024. This announcement comes with deep regret...
+DTEND;VALUE=DATE:20230331
+DTSTART;VALUE=DATE:20230331
+SUMMARY:R&B Block Party - RESCHEDULED
+UID:85214ec0-23f0-442a-83c0-5e5ab5c34820
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231109T012334Z
 DESCRIPTION:Nothing But Thieves is an English alternative rock band, forme
  d in 2012 in Southend-on-Sea, Essex. They consist of lead vocalist and guit
  arist Conor Mason, guitarist Joe Langridge-Brown, guitarist...
 DTEND;VALUE=DATE:20231110
 DTSTART;VALUE=DATE:20231110
 SUMMARY:Nothing But Thieves - Welcome To The DCC World Tour
-UID:78d3eb1c-9739-4400-bb28-e36cc9fe2580
+UID:a469fcc5-a4d1-49d7-9a3b-6cc33da421d1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231108
-DTSTART;VALUE=DATE:20231108
-SUMMARY:Wembley Stadium Tour
-UID:e85daca0-4653-40fa-b952-f24ace15c02e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
+DTSTAMP:20231109T012334Z
 DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
  a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
  a, he is considered to be one of the most successful and...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent: The Final Lap Tour
-UID:05f39dfc-843a-4b0e-938c-190330d6b704
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
-DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
- r Xmas RnB festival on Sunday 17
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:112 @ OVO Arena Wembley
-UID:03de7ccf-a093-4682-8646-a396d8c4b009
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231108T012235Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231109
-DTSTART;VALUE=DATE:20231109
-SUMMARY:Wembley Stadium Tour
-UID:2c5ccd09-af0c-4641-af9e-9b59f49ac4fc
+UID:794701c2-557a-4fa7-9147-f94aeeaf21f0
 END:VEVENT
 END:VCALENDAR
