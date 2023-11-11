@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
-DESCRIPTION:Don't miss Melanie Martinez at OVO Arena Wembley in undefined, 
- London, GB on Thu Nov 09 2023. Tickets on sale now.
-DTEND;VALUE=DATE:20231110
-DTSTART;VALUE=DATE:20231110
-SUMMARY:Melanie Martinez
-UID:f41b8e86-08bc-4151-a93b-327230bb9322
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
+DTSTAMP:20231111T021756Z
 DESCRIPTION:Nothing But Thieves is an English alternative rock band, forme
  d in 2012 in Southend-on-Sea, Essex. They consist of lead vocalist and guit
  arist Conor Mason, guitarist Joe Langridge-Brown, guitarist...
 DTEND;VALUE=DATE:20231111
 DTSTART;VALUE=DATE:20231111
 SUMMARY:Nothing But Thieves - Welcome To The DCC World Tour
-UID:f2154257-6308-4177-9444-d3a6b2a66285
+UID:a7e3ac01-dd40-41ca-bb62-afa2d158f909
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
+DTSTAMP:20231111T021756Z
 DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
  5/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:Badshah
-UID:71fb6339-520f-491a-a5ac-cf14faea7efc
+UID:4add921c-e1d2-4bc4-bc29-286a12a049b9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
+DTSTAMP:20231111T021756Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais - EXTRA DATE ADDED
-UID:c1613f00-66da-4411-b73f-037ea3f4e20e
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:da9c1600-f008-42fc-9bad-b151a9225888
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
+DTSTAMP:20231111T021756Z
 DESCRIPTION:Lil Yachty is an American rapper, singer, and songwriter who ga
  ined widespread attention after the release of his hit single "One Night" i
  n 2016. Known for his unique melodic style and catchy...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:2570c176-e04c-40fa-954a-095bbd1fec49
+UID:36344f0b-6bd7-40d2-b6e4-39f693d99a60
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
+DTSTAMP:20231111T021756Z
 DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
  y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
  arch 31st 2024. This announcement comes with deep regret...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:R&B Block Party - RESCHEDULED
-UID:448b764e-56f2-43e6-ae12-0fdd843f2b66
+UID:73123127-14ab-469c-9a51-033f367d243c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
-DESCRIPTION:Nothing But Thieves is an English alternative rock band, forme
- d in 2012 in Southend-on-Sea, Essex. They consist of lead vocalist and guit
- arist Conor Mason, guitarist Joe Langridge-Brown, guitarist...
-DTEND;VALUE=DATE:20231110
-DTSTART;VALUE=DATE:20231110
-SUMMARY:Nothing But Thieves - Welcome To The DCC World Tour
-UID:0b7983b9-2f69-417e-8961-2b02f908091c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
+DTSTAMP:20231111T021756Z
 DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
  a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
  a, he is considered to be one of the most successful and...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent: The Final Lap Tour
-UID:02d63a88-f172-4db9-8443-c599dcd5694d
+UID:23e8fdc2-9ab3-40f0-81a1-8072195173dd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
-DESCRIPTION:This is a fully customisable souvenir ticket for your Niall Hor
- an The Show Live On Tour 2024 show date!, In order to personalise this item
- , I need
+DTSTAMP:20231111T021756Z
+DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
+ is biggest tour yet and first headline run since 2018's Flicker World Tour.
+  He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:e1599974-671f-43e6-bbcc-25e11959d15d
+UID:84b68d0e-0959-4742-b731-580573c6660a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231110T012226Z
+DTSTAMP:20231111T021756Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231112
 DTSTART;VALUE=DATE:20231112
 SUMMARY:Wembley Stadium Tour
-UID:f89dc7ec-49f7-4736-9654-17acfc2066bf
+UID:af7d082f-14a8-496e-97ff-9987f6ee8282
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T021756Z
+DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
+ r Xmas RnB festival on Sunday 17
+DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20231217
+SUMMARY:SWV
+UID:7d60a604-ff8c-4625-bdfe-9c0ac87e5e59
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231111T021756Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20230215
+DTSTART;VALUE=DATE:20230215
+SUMMARY:Noah Kahan
+UID:059a3ae0-3a1f-4e4b-8ee8-df559adf33de
 END:VEVENT
 END:VCALENDAR
