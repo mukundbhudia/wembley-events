@@ -3,101 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
-DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
- 5/2023 at 7:30 PM
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Badshah
-UID:626af4de-27fa-4411-bcb6-ad4c47dd76a3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
-DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
- , and writer best known for creating and starring in the British TV hit ser
- ies The Office. His unique blend of brash satire and...
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:856e7107-8c88-42f5-8255-ba85709c8d5d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
-DESCRIPTION:Lil Yachty is an American rapper, singer, and songwriter who ga
- ined widespread attention after the release of his hit single "One Night" i
- n 2016. Known for his unique melodic style and catchy...
-DTEND;VALUE=DATE:20231201
-DTSTART;VALUE=DATE:20231201
-SUMMARY:Lil Yachty
-UID:631b3fde-31dc-4bfe-b4ac-697aa57fbe44
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
-DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
- y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
- arch 31st 2024. This announcement comes with deep regret...
-DTEND;VALUE=DATE:20230331
-DTSTART;VALUE=DATE:20230331
-SUMMARY:R&B Block Party - RESCHEDULED
-UID:40d4c73b-253f-4cd7-866b-8d7617dce46b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
+DTSTAMP:20231113T013025Z
 DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
  a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
  a, he is considered to be one of the most successful and...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent: The Final Lap Tour
-UID:952f8d81-9d82-41e4-8667-63715fa4d9c0
+UID:5d5114bf-2ab8-466b-bf12-0278bf17dad5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
+DTSTAMP:20231113T013025Z
+DESCRIPTION:With support: Mt. Joy In celebration of their much anticipated 
+ forthcoming third studio album Starcatcher —due July 21 on Lava/Republic 
+ Records —Grammy-winning rock band Greta Van Fleet
+DTEND;VALUE=DATE:20231114
+DTSTART;VALUE=DATE:20231114
+SUMMARY:Greta Van Fleet
+UID:c8fc8ff7-cc7d-4231-a0d9-bd47bd1553a2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231113T013025Z
+DESCRIPTION:Edward Christopher "Ed" Sheeran MBE (born 17 February 1991) is 
+ a singer songwriter currently signed under Atlantic (WMG). Ed Sheeran was b
+ orn in Halifax, West Yorkshire before moving to...
+DTEND;VALUE=DATE:20231119
+DTSTART;VALUE=DATE:20231119
+SUMMARY:Ed Sheeran
+UID:fb7f2a17-48a9-442f-b050-a23dd51e465a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231113T013025Z
+DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
+ 5/2023 at 7:30 PM
+DTEND;VALUE=DATE:20231125
+DTSTART;VALUE=DATE:20231125
+SUMMARY:Badshah
+UID:28b308aa-f72f-4a11-a77a-6f0336fe89da
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231113T013025Z
+DESCRIPTION:Formed in Frankenmuth, Michigan in 2012, GRETA VAN FLEET consis
+ ts of three brothers — vocalist Josh Kiszka, guitarist Jake Kiszka and ba
+ ssist/keyboardist Sam Kiszka — as well as drummer Danny...
+DTEND;VALUE=DATE:20231114
+DTSTART;VALUE=DATE:20231114
+SUMMARY:Greta Van Fleet - Starcatcher World Tour
+UID:bf2d5209-87c7-46b5-82c4-34b72d1ee1de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231113T013025Z
+DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
+ , and writer best known for creating and starring in the British TV hit ser
+ ies The Office. His unique blend of brash satire and...
+DTEND;VALUE=DATE:20231213
+DTSTART;VALUE=DATE:20231213
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:a5bb827f-7e74-4328-9ad2-85a863e2947a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231113T013025Z
+DESCRIPTION:Lil Yachty is an American rapper, singer, and songwriter who ga
+ ined widespread attention after the release of his hit single "One Night" i
+ n 2016. Known for his unique melodic style and catchy...
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:Lil Yachty
+UID:ebbc3fcd-1efb-4ad4-915e-731d1b5384f9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231113T013025Z
+DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
+ y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
+ arch 31st 2024. This announcement comes with deep regret...
+DTEND;VALUE=DATE:20230331
+DTSTART;VALUE=DATE:20230331
+SUMMARY:R&B Block Party - RESCHEDULED
+UID:a08d8797-b61a-462d-8b92-d0366e703de3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231113T013025Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:6bd071e5-07e3-4dd7-8ae5-b68ac1c34174
+UID:ce255f01-e2dc-4664-826e-0ceee49032d2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
+DTSTAMP:20231113T013025Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20231112
-DTSTART;VALUE=DATE:20231112
+DTEND;VALUE=DATE:20231115
+DTSTART;VALUE=DATE:20231115
 SUMMARY:Wembley Stadium Tour
-UID:dfa32754-aea6-44d1-b876-32eb14c708af
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
-DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
- r Xmas RnB festival on Sunday 17
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:SWV
-UID:8ecbddb0-9d41-40db-8479-f0b67c12ca7e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
-DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
-  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
- essing the urgent need for access to mental health services by...
-DTEND;VALUE=DATE:20230215
-DTSTART;VALUE=DATE:20230215
-SUMMARY:Noah Kahan
-UID:87ab7139-8c5b-43ca-a51e-8e78f38a3834
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231112T013301Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20230316
-DTSTART;VALUE=DATE:20230316
-SUMMARY:James Arthur
-UID:5c24e4c7-c938-4d11-8017-cfd4be158ff0
+UID:4f4cd25b-af4b-4d51-a2f9-9b175450da27
 END:VEVENT
 END:VCALENDAR
