@@ -3,102 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
+DTSTAMP:20231115T012953Z
 DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
  a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
  a, he is considered to be one of the most successful and...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent: The Final Lap Tour
-UID:699b562d-099f-4aaf-8099-9862c04712c4
+UID:faedd016-9b53-4331-aece-4e3e317d2b20
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
-DESCRIPTION:With support: Mt. Joy In celebration of their much anticipated 
- forthcoming third studio album Starcatcher —due July 21 on Lava/Republic 
- Records —Grammy-winning rock band Greta Van Fleet
-DTEND;VALUE=DATE:20231114
-DTSTART;VALUE=DATE:20231114
-SUMMARY:Greta Van Fleet
-UID:9e2e7ca9-8e08-4111-9ee2-4ef929717475
+DTSTAMP:20231115T012953Z
+DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
+ 5/2023 at 7:30 PM
+DTEND;VALUE=DATE:20231125
+DTSTART;VALUE=DATE:20231125
+SUMMARY:Badshah
+UID:d491d7a9-e9c9-4c6f-825d-7c3a6fd65973
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
+DTSTAMP:20231115T012953Z
 DESCRIPTION:Edward Christopher "Ed" Sheeran MBE (born 17 February 1991) is 
  a singer songwriter currently signed under Atlantic (WMG). Ed Sheeran was b
  orn in Halifax, West Yorkshire before moving to...
 DTEND;VALUE=DATE:20231119
 DTSTART;VALUE=DATE:20231119
 SUMMARY:Ed Sheeran
-UID:aa4f09fa-f545-49e9-a0c3-7159769127f4
+UID:35e8260e-9f90-48a2-9fd8-847d9974114e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
-DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
- 5/2023 at 7:30 PM
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Badshah
-UID:88cc527d-c886-4e07-b455-e6aa2de4854e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
-DESCRIPTION:Formed in Frankenmuth, Michigan in 2012, GRETA VAN FLEET consis
- ts of three brothers — vocalist Josh Kiszka, guitarist Jake Kiszka and ba
- ssist/keyboardist Sam Kiszka — as well as drummer Danny...
-DTEND;VALUE=DATE:20231114
-DTSTART;VALUE=DATE:20231114
-SUMMARY:Greta Van Fleet - Starcatcher World Tour
-UID:4c634a6c-ae9f-403d-b2fc-cc4ba25f869b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
+DTSTAMP:20231115T012953Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:dfc215f1-4f17-4667-a4c2-2469aef65356
+UID:898d54ff-f758-4f7a-a1ea-0a39777219fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
+DTSTAMP:20231115T012953Z
 DESCRIPTION:Lil Yachty is an American rapper, singer, and songwriter who ga
  ined widespread attention after the release of his hit single "One Night" i
  n 2016. Known for his unique melodic style and catchy...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:2a813db3-ce31-4c0e-8d4d-e7375c8acd9a
+UID:3381638d-8293-40cc-bf02-f3c620e6f05b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
+DTSTAMP:20231115T012953Z
 DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
  y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
  arch 31st 2024. This announcement comes with deep regret...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:R&B Block Party - RESCHEDULED
-UID:dac01c9a-3a8b-47b8-badc-df265e2e247e
+UID:af31cece-96ce-4441-8357-e39b8901c8a8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
+DTSTAMP:20231115T012953Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:bf2eb2f9-85e9-422a-8c57-d50e65935e0f
+UID:8d6a45e1-2d26-4046-ba2b-4c3e293d0f8a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231114T012314Z
+DTSTAMP:20231115T012953Z
+DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
+ r Xmas RnB festival on Sunday 17
+DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20231217
+SUMMARY:SWV
+UID:5572d821-c4cc-4799-afea-693482df9235
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231115T012953Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231115
 DTSTART;VALUE=DATE:20231115
 SUMMARY:Wembley Stadium Tour
-UID:a624c147-1492-41e5-bfbc-e1e095d7991f
+UID:ad19d229-b908-4cbd-bf53-be6136b70f80
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231115T012953Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20230215
+DTSTART;VALUE=DATE:20230215
+SUMMARY:Noah Kahan
+UID:05d4de68-73aa-4f78-b097-6226cd062b51
 END:VEVENT
 END:VCALENDAR
