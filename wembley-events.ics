@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
  a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
  a, he is considered to be one of the most successful and...
 DTEND;VALUE=DATE:20231117
 DTSTART;VALUE=DATE:20231117
 SUMMARY:50 Cent: The Final Lap Tour
-UID:faedd016-9b53-4331-aece-4e3e317d2b20
+UID:47cba421-d910-435b-bb19-ea1bdb4049c4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
  5/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:Badshah
-UID:d491d7a9-e9c9-4c6f-825d-7c3a6fd65973
+UID:1c4b9e6c-1e17-4d48-b30a-b664177f3213
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:Edward Christopher "Ed" Sheeran MBE (born 17 February 1991) is 
  a singer songwriter currently signed under Atlantic (WMG). Ed Sheeran was b
  orn in Halifax, West Yorkshire before moving to...
 DTEND;VALUE=DATE:20231119
 DTSTART;VALUE=DATE:20231119
 SUMMARY:Ed Sheeran
-UID:35e8260e-9f90-48a2-9fd8-847d9974114e
+UID:f6d009ba-ceb7-4794-8d81-5a4b5aa140cf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:898d54ff-f758-4f7a-a1ea-0a39777219fd
+UID:9e8cdee4-7710-4bc7-98c7-520690df51f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:Lil Yachty is an American rapper, singer, and songwriter who ga
  ined widespread attention after the release of his hit single "One Night" i
  n 2016. Known for his unique melodic style and catchy...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:3381638d-8293-40cc-bf02-f3c620e6f05b
+UID:6b55cb89-fed2-423e-9c42-89d0bb6ba612
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
  y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
  arch 31st 2024. This announcement comes with deep regret...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:R&B Block Party - RESCHEDULED
-UID:af31cece-96ce-4441-8357-e39b8901c8a8
+UID:826c805a-e240-4df5-a33d-129bf64d3595
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:8d6a45e1-2d26-4046-ba2b-4c3e293d0f8a
+UID:96e64ce2-c7fc-4eed-b0e2-763a0f58c034
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
  r Xmas RnB festival on Sunday 17
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:SWV
-UID:5572d821-c4cc-4799-afea-693482df9235
+UID:cfc53458-f6b9-4dd2-9ce1-5644c7ad15bf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20231115
-DTSTART;VALUE=DATE:20231115
+DTEND;VALUE=DATE:20231118
+DTSTART;VALUE=DATE:20231118
 SUMMARY:Wembley Stadium Tour
-UID:ad19d229-b908-4cbd-bf53-be6136b70f80
+UID:05c99b56-15a3-403f-9a81-5aa0c84772cd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231115T012953Z
+DTSTAMP:20231116T013116Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20230215
 DTSTART;VALUE=DATE:20230215
 SUMMARY:Noah Kahan
-UID:05d4de68-73aa-4f78-b097-6226cd062b51
+UID:bf2c0237-cff3-4ea5-b018-934beabcd61c
 END:VEVENT
 END:VCALENDAR
