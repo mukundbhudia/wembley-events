@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
-DESCRIPTION:Curtis James Jackson III, more popularly known as 50 Cent, is 
- a Grammy-winning rapper, actor, TV producer and TV director. Born in Jamaic
- a, he is considered to be one of the most successful and...
-DTEND;VALUE=DATE:20231117
-DTSTART;VALUE=DATE:20231117
-SUMMARY:50 Cent
-UID:fcc4d966-e536-4eae-94fc-85fe02ab71c8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
+DTSTAMP:20231118T012926Z
 DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
  5/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231125
 DTSTART;VALUE=DATE:20231125
 SUMMARY:Badshah
-UID:93fdb516-1c7b-4888-845c-be22508ef30f
+UID:a51b5445-a792-4f5f-991b-c81039465c3a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
+DTSTAMP:20231118T012926Z
 DESCRIPTION:Edward Christopher "Ed" Sheeran MBE (born 17 February 1991) is 
  a singer songwriter currently signed under Atlantic (WMG). Ed Sheeran was b
  orn in Halifax, West Yorkshire before moving to...
 DTEND;VALUE=DATE:20231119
 DTSTART;VALUE=DATE:20231119
 SUMMARY:Ed Sheeran
-UID:624688b8-714d-4672-8c5e-f4e3f64e01f9
+UID:30591bc4-1b1e-4b85-b2e5-6e5153da2e40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
-DESCRIPTION:Curtis James Jackson III (born July 6, 1975 in South Jamaica, Q
- ueens, New York), better known by his stage name 50 Cent, is a Grammy awar
- d nominated rapper, actor, singer, entrepreneur, author and...
-DTEND;VALUE=DATE:20231117
-DTSTART;VALUE=DATE:20231117
-SUMMARY:50 Cent: The Final Lap Tour
-UID:24aace56-184c-4af9-8795-85268f953cb5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
+DTSTAMP:20231118T012926Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:85fc555d-abfc-433d-a29a-27a4cac5260e
+UID:8edca5a9-7226-4ccc-8c7a-42ae21817bbe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
+DTSTAMP:20231118T012926Z
 DESCRIPTION:Lil Yachty is an American rapper, singer, and songwriter who ga
  ined widespread attention after the release of his hit single "One Night" i
  n 2016. Known for his unique melodic style and catchy...
 DTEND;VALUE=DATE:20231201
 DTSTART;VALUE=DATE:20231201
 SUMMARY:Lil Yachty
-UID:e01622d4-ada0-443c-a218-57e6e35bd7ff
+UID:e04c46c8-d758-427b-9607-3f072497202c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
+DTSTAMP:20231118T012926Z
 DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
  y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
  arch 31st 2024. This announcement comes with deep regret...
 DTEND;VALUE=DATE:20230331
 DTSTART;VALUE=DATE:20230331
 SUMMARY:R&B Block Party - RESCHEDULED
-UID:1341929b-1a24-484a-9e6c-e3851d96b912
+UID:bfae3454-4049-49ce-8110-3d8da27d1c2b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
+DTSTAMP:20231118T012926Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:fbb51e31-9dd7-40fb-9c45-c37990b687d0
+UID:5015a240-916c-4406-8938-14da0145bf6d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
+DTSTAMP:20231118T012926Z
 DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
  r Xmas RnB festival on Sunday 17
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:SWV
-UID:2107e8d4-568e-44ac-9c32-f70f65e68dfa
+UID:1a70a49e-0cde-4a0f-b59c-cbc683ed6a7f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231117T013101Z
+DTSTAMP:20231118T012926Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231118
 DTSTART;VALUE=DATE:20231118
 SUMMARY:Wembley Stadium Tour
-UID:06012966-0976-454f-8c09-6bcac6894348
+UID:c011b1e6-4247-4f4b-b3ce-198e07dad29f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231118T012926Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20230215
+DTSTART;VALUE=DATE:20230215
+SUMMARY:Noah Kahan
+UID:8b349e1e-07c8-474a-9e19-e5ba6d8394e2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231118T012926Z
+DESCRIPTION:TILL LINDEMANN ANNOUNCES OVO ARENA WEMBLEY HEADLINE SHOW SET T
+ O TAKE PLACE DECEMBER 12TH 2023 TILL LINDEMANN - industrial metal genius, f
+ rontman and voice of Rammstein , is going on tour again...
+DTEND;VALUE=DATE:20231212
+DTSTART;VALUE=DATE:20231212
+SUMMARY:Phantom Vision @ OVO Arena Wembley
+UID:5141d508-b39e-4813-835b-ca859d8967e4
 END:VEVENT
 END:VCALENDAR
