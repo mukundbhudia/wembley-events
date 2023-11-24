@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
-DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
- 5/2023 at 7:30 PM
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Badshah
-UID:52ca2a18-cb19-40d3-8423-88ac2dd88db7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
-DESCRIPTION:Rapper- Composer- Lyricist. The latest Star on the Indian Rap H
- orizon, the multi dimensional BADSHAH is the true representative of Rap on 
- the Hindi-Punjabi Music Scene, successfully bringing the...
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:BADSHAH - LIVE IN CONCERT
-UID:f2cc1391-ce28-4a20-bac9-fc21ba4872c2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
+DTSTAMP:20231124T012248Z
 DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
  election of tracks to kickstart your weekend!
 DTEND;VALUE=DATE:20231124
 DTSTART;VALUE=DATE:20231124
 SUMMARY:FRIDAY FEELINGS
-UID:c508f811-3ef4-4d81-86f5-456da607ee79
+UID:b5bc7f0d-56e7-4518-8048-bf2bf5ed4c30
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
-DESCRIPTION:Hello! Due to unforeseen circumstances, we’ve made the decis
- ion to move London’s BOOGIE show to a new venue. It’s still happening o
- n the same date of Friday 24th November, now in central London at...
-DTEND;VALUE=DATE:20231124
-DTSTART;VALUE=DATE:20231124
-SUMMARY:Hot Dub Time Machine
-UID:8d0c2ec5-eef6-46d4-bdbe-38800a4bc9e1
+DTSTAMP:20231124T012248Z
+DESCRIPTION:Rewind Reloaded at OVO Arena Wembley in Wembley Park! Kumar San
+ u, Unit Narayan & Abhijeet Bhattacharya.
+DTEND;VALUE=DATE:20231202
+DTSTART;VALUE=DATE:20231202
+SUMMARY:Rewind Reloaded - Kumar Sanu, Udit Narayan ...
+UID:4ffa17a2-bad7-4c5a-86e5-5650cb5a7e3d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
+DTSTAMP:20231124T012248Z
+DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
+ y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
+ arch 31st 2024. This announcement comes with deep regret...
+DTEND;VALUE=DATE:20230331
+DTSTART;VALUE=DATE:20230331
+SUMMARY:R&B Block Party - RESCHEDULED
+UID:2b31a80a-f975-4980-999e-c95d2c780590
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231124T012248Z
+DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
+ 5/2023 at 7:30 PM
+DTEND;VALUE=DATE:20231125
+DTSTART;VALUE=DATE:20231125
+SUMMARY:Badshah
+UID:c730313f-3b8c-4c07-a4dc-2f6b0aeb1e05
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231124T012248Z
+DESCRIPTION:African Superstar, and Congolese music sensation, Fally Ipupa i
+ s Live in London on the 8th of December 2023 for an electrifying concert a
+ t London's legendary OVO Arena, Wembley. Fally Ipupa is the...
+DTEND;VALUE=DATE:20231208
+DTSTART;VALUE=DATE:20231208
+SUMMARY:Fally Ipupa
+UID:75cc07f8-8ad2-407c-96c4-7119bab423d4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231124T012248Z
+DESCRIPTION:No under 5s at all will be permitted in the venue No under 14s 
+ on the pitch (Front Standing/General Admission Standing) All under 14s mus
+ t be seated and accompanied by an adult aged 18 or over...
+DTEND;VALUE=DATE:20230622
+DTSTART;VALUE=DATE:20230622
+SUMMARY:Taylor Swift
+UID:1221e5d1-db00-4f82-a6a3-d1f75a2c6fdd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231124T012248Z
+DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
+ r Xmas RnB festival on Sunday 17
+DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20231217
+SUMMARY:SWV
+UID:98303298-3186-485f-8574-fd5f9ffc21ac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231124T012248Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:f9b2e80e-13cf-48af-9a82-bd377124d8b4
+UID:ef933abd-ada5-4c04-b092-2988f06df167
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231123
-DTSTART;VALUE=DATE:20231123
-SUMMARY:Wembley Stadium Tour
-UID:eb130845-29db-436f-94c6-36520de0f27a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
-DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
- , and writer best known for creating and starring in the British TV hit ser
- ies The Office. His unique blend of brash satire and...
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais
-UID:72405874-a8fd-46bd-91da-5ecb2eaef0a2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
+DTSTAMP:20231124T012248Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20230215
 DTSTART;VALUE=DATE:20230215
 SUMMARY:Noah Kahan
-UID:5f99197a-34aa-45ad-aff3-4a097ff61d5c
+UID:e3c6b8ca-bd42-426c-b146-e109c8051a40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
+DTSTAMP:20231124T012248Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20231126
-DTSTART;VALUE=DATE:20231126
+DTEND;VALUE=DATE:20231127
+DTSTART;VALUE=DATE:20231127
 SUMMARY:Wembley Stadium Tour
-UID:8132ce21-df6b-4af8-9455-fe60c7562945
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231123T013016Z
-DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
- r Xmas RnB festival on Sunday 17
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:SWV
-UID:b8900869-afa0-4c48-8f96-38c04981081b
+UID:dcffa62f-2b8b-46f4-b066-9ab1e97eac2a
 END:VEVENT
 END:VCALENDAR
