@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
-DESCRIPTION:Find tickets for Badshah at OVO Arena Wembley in London on 11/2
- 5/2023 at 7:30 PM
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Badshah
-UID:af3f8a72-00f0-4bf9-bc82-ba5f77bae337
+DTSTAMP:20231126T013431Z
+DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
+ dians from all over to test out material, and have fun with the audience. T
+ he night will feature games & prizes, and food available...
+DTEND;VALUE=DATE:20231129
+DTSTART;VALUE=DATE:20231129
+SUMMARY:LAUGH IN THE BOX
+UID:db5b434f-0f9a-4d6e-8a60-8a6b89a1740a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
-DESCRIPTION:Rapper- Composer- Lyricist. The latest Star on the Indian Rap H
- orizon, the multi dimensional BADSHAH is the true representative of Rap on 
- the Hindi-Punjabi Music Scene, successfully bringing the...
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:BADSHAH - LIVE IN CONCERT
-UID:f5179112-e942-4a3d-8167-fbb5180021a3
+DTSTAMP:20231126T013431Z
+DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
+ y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
+ arch 31st 2024. This announcement comes with deep regret...
+DTEND;VALUE=DATE:20230331
+DTSTART;VALUE=DATE:20230331
+SUMMARY:R&B Block Party - RESCHEDULED
+UID:c4567ef0-4033-413d-ba86-82d8545bd06a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
-DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
- election of tracks to kickstart your weekend!
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:FRIDAY FEELINGS
-UID:72738bb9-fcf5-4ec7-9fc2-978c4acd106e
+DTSTAMP:20231126T013431Z
+DESCRIPTION:No under 5s at all will be permitted in the venue No under 14s 
+ on the pitch (Front Standing/General Admission Standing) All under 14s mus
+ t be seated and accompanied by an adult aged 18 or over...
+DTEND;VALUE=DATE:20230622
+DTSTART;VALUE=DATE:20230622
+SUMMARY:Taylor Swift
+UID:6c8736a9-97b6-48b5-a959-148b2e8981da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
-DESCRIPTION:Hello! Due to unforeseen circumstances, we’ve made the decis
- ion to move London’s BOOGIE show to a new venue. It’s still happening o
- n the same date of Friday 24th November, now in central London at...
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Hot Dub Time Machine
-UID:56056674-55b5-4e93-a693-f0be76222f6f
+DTSTAMP:20231126T013431Z
+DESCRIPTION:Rewind Reloaded at OVO Arena Wembley in Wembley Park! Kumar San
+ u, Unit Narayan & Abhijeet Bhattacharya.
+DTEND;VALUE=DATE:20231202
+DTSTART;VALUE=DATE:20231202
+SUMMARY:Kumar Sanu
+UID:e5942d19-6e33-4ce5-b473-10614bab72a1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
+DTSTAMP:20231126T013431Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:c68b01f2-8789-4638-b8d1-324ac9e7238e
+UID:97ca7b1f-68f1-4732-9fab-1df554aee953
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
+DTSTAMP:20231126T013431Z
+DESCRIPTION:African Superstar, and Congolese music sensation, Fally Ipupa i
+ s Live in London on the 8th of December 2023 for an electrifying concert a
+ t London's legendary OVO Arena, Wembley. Fally Ipupa is the...
+DTEND;VALUE=DATE:20231208
+DTSTART;VALUE=DATE:20231208
+SUMMARY:Fally Ipupa
+UID:17774951-1c68-4f33-ad24-01103e5fe1ea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T013431Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20230215
+DTSTART;VALUE=DATE:20230215
+SUMMARY:Noah Kahan
+UID:ddd10560-743b-4522-8168-ac188fac4c88
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231126T013431Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20231126
-DTSTART;VALUE=DATE:20231126
+DTEND;VALUE=DATE:20231127
+DTSTART;VALUE=DATE:20231127
 SUMMARY:Wembley Stadium Tour
-UID:009a7ba5-e84e-4847-a5a3-b1d46f05f389
+UID:e6cc3c73-962a-40e7-8189-1c7779e39334
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
-DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
- , and writer best known for creating and starring in the British TV hit ser
- ies The Office. His unique blend of brash satire and...
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais
-UID:970b2915-b9b0-4fc3-b3a9-e1da8dec6161
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
+DTSTAMP:20231126T013431Z
 DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
  r Xmas RnB festival on Sunday 17
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:R n B Xmas Ball
-UID:d5eb1909-270b-4d4d-a005-a8030180dfc5
+UID:39f940a6-2040-4857-9c24-e4d26db0acf9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231125
-DTSTART;VALUE=DATE:20231125
-SUMMARY:Wembley Stadium Tour
-UID:a27b1941-085c-4208-8d57-3fa14ce2989b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231125T012147Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20230316
-DTSTART;VALUE=DATE:20230316
-SUMMARY:James Arthur
-UID:633b078a-fcf3-40df-8344-53c91909422f
+DTSTAMP:20231126T013431Z
+DESCRIPTION:OVO Arena, Wembley We are pleased to announce that Teens Unite 
+ have been invited again to The National Lottery's Big Bash! Join us for a s
+ tar-studded celebration of the year's big moments! Hosted...
+DTEND;VALUE=DATE:20231206
+DTSTART;VALUE=DATE:20231206
+SUMMARY:The National Lottery's Big Bash
+UID:1df49e3f-ebd5-4fd0-bc27-80e97a948d4d
 END:VEVENT
 END:VCALENDAR
