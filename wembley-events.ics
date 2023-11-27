@@ -3,101 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
+DTSTAMP:20231127T013113Z
+DESCRIPTION:Rewind Reloaded at OVO Arena Wembley in Wembley Park! Kumar San
+ u, Unit Narayan & Abhijeet Bhattacharya.
+DTEND;VALUE=DATE:20231202
+DTSTART;VALUE=DATE:20231202
+SUMMARY:Kumar Sanu
+UID:95c444ad-f0a4-4074-aea4-5349899d5f79
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231127T013113Z
 DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
  dians from all over to test out material, and have fun with the audience. T
  he night will feature games & prizes, and food available...
 DTEND;VALUE=DATE:20231129
 DTSTART;VALUE=DATE:20231129
 SUMMARY:LAUGH IN THE BOX
-UID:db5b434f-0f9a-4d6e-8a60-8a6b89a1740a
+UID:ffeb743f-6519-4f01-a4c1-944495c21ccd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
-DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
- y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
- arch 31st 2024. This announcement comes with deep regret...
-DTEND;VALUE=DATE:20230331
-DTSTART;VALUE=DATE:20230331
-SUMMARY:R&B Block Party - RESCHEDULED
-UID:c4567ef0-4033-413d-ba86-82d8545bd06a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
-DESCRIPTION:No under 5s at all will be permitted in the venue No under 14s 
- on the pitch (Front Standing/General Admission Standing) All under 14s mus
- t be seated and accompanied by an adult aged 18 or over...
-DTEND;VALUE=DATE:20230622
-DTSTART;VALUE=DATE:20230622
-SUMMARY:Taylor Swift
-UID:6c8736a9-97b6-48b5-a959-148b2e8981da
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
-DESCRIPTION:Rewind Reloaded at OVO Arena Wembley in Wembley Park! Kumar San
- u, Unit Narayan & Abhijeet Bhattacharya.
-DTEND;VALUE=DATE:20231202
-DTSTART;VALUE=DATE:20231202
-SUMMARY:Kumar Sanu
-UID:e5942d19-6e33-4ce5-b473-10614bab72a1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
-DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
- is biggest tour yet and first headline run since 2018's Flicker World Tour.
-  He'll be performing songs from all three of his solo albums...
-DTEND;VALUE=DATE:20230301
-DTSTART;VALUE=DATE:20230301
-SUMMARY:Niall Horan
-UID:97ca7b1f-68f1-4732-9fab-1df554aee953
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
-DESCRIPTION:African Superstar, and Congolese music sensation, Fally Ipupa i
- s Live in London on the 8th of December 2023 for an electrifying concert a
- t London's legendary OVO Arena, Wembley. Fally Ipupa is the...
-DTEND;VALUE=DATE:20231208
-DTSTART;VALUE=DATE:20231208
-SUMMARY:Fally Ipupa
-UID:17774951-1c68-4f33-ad24-01103e5fe1ea
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
-DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
-  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
- essing the urgent need for access to mental health services by...
-DTEND;VALUE=DATE:20230215
-DTSTART;VALUE=DATE:20230215
-SUMMARY:Noah Kahan
-UID:ddd10560-743b-4522-8168-ac188fac4c88
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
+DTSTAMP:20231127T013113Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231127
 DTSTART;VALUE=DATE:20231127
 SUMMARY:Wembley Stadium Tour
-UID:e6cc3c73-962a-40e7-8189-1c7779e39334
+UID:30bfdd37-12a9-4a52-908e-89d41045f3ca
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
-DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
- r Xmas RnB festival on Sunday 17
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:R n B Xmas Ball
-UID:39f940a6-2040-4857-9c24-e4d26db0acf9
+DTSTAMP:20231127T013113Z
+DESCRIPTION:African Superstar, and Congolese music sensation, Fally Ipupa i
+ s Live in London on the 8th of December 2023 for an electrifying concert a
+ t London's legendary OVO Arena, Wembley. Fally Ipupa is the...
+DTEND;VALUE=DATE:20231208
+DTSTART;VALUE=DATE:20231208
+SUMMARY:Fally Ipupa
+UID:de57ce81-7bc5-44b1-8dcf-1d53e9250a0c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231126T013431Z
-DESCRIPTION:OVO Arena, Wembley We are pleased to announce that Teens Unite 
- have been invited again to The National Lottery's Big Bash! Join us for a s
- tar-studded celebration of the year's big moments! Hosted...
-DTEND;VALUE=DATE:20231206
-DTSTART;VALUE=DATE:20231206
-SUMMARY:The National Lottery's Big Bash
-UID:1df49e3f-ebd5-4fd0-bc27-80e97a948d4d
+DTSTAMP:20231127T013113Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20231202
+DTSTART;VALUE=DATE:20231202
+SUMMARY:Rewind Reloaded - Kumar Sanu, Udit Narayan ...
+UID:c01fd945-47ee-4f6e-8d32-71dd9a20ffc5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231127T013113Z
+DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
+ is biggest tour yet and first headline run since 2018's Flicker World Tour.
+  He'll be performing songs from all three of his solo albums...
+DTEND;VALUE=DATE:20230301
+DTSTART;VALUE=DATE:20230301
+SUMMARY:Niall Horan
+UID:26d11ffd-6aa0-4cbf-bae7-d5718a75ffdf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231127T013113Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231202
+DTSTART;VALUE=DATE:20231202
+SUMMARY:Wembley Stadium Tour
+UID:da263e47-f432-42c3-909b-2660fb295577
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231127T013113Z
+DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
+ , and writer best known for creating and starring in the British TV hit ser
+ ies The Office. His unique blend of brash satire and...
+DTEND;VALUE=DATE:20231213
+DTSTART;VALUE=DATE:20231213
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:18b95e50-3e07-4dc5-b5af-b2aef3e040a3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231127T013113Z
+DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
+ the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
+ n’t Let Go’ in his stunning live shows.
+DTEND;VALUE=DATE:20230316
+DTSTART;VALUE=DATE:20230316
+SUMMARY:James Arthur
+UID:6accc93c-83df-4851-94fb-7eb549f9072b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231127T013113Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231128
+DTSTART;VALUE=DATE:20231128
+SUMMARY:Wembley Stadium Tour
+UID:3c80c011-4fa2-4201-8a81-f6d697d469dd
 END:VEVENT
 END:VCALENDAR
