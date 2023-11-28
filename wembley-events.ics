@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
+DTSTAMP:20231128T013154Z
 DESCRIPTION:Rewind Reloaded at OVO Arena Wembley in Wembley Park! Kumar San
  u, Unit Narayan & Abhijeet Bhattacharya.
 DTEND;VALUE=DATE:20231202
 DTSTART;VALUE=DATE:20231202
 SUMMARY:Kumar Sanu
-UID:95c444ad-f0a4-4074-aea4-5349899d5f79
+UID:4e6e2a1c-0fa5-43eb-ba4b-60557de6d0db
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
+DTSTAMP:20231128T013154Z
 DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
  dians from all over to test out material, and have fun with the audience. T
  he night will feature games & prizes, and food available...
 DTEND;VALUE=DATE:20231129
 DTSTART;VALUE=DATE:20231129
 SUMMARY:LAUGH IN THE BOX
-UID:ffeb743f-6519-4f01-a4c1-944495c21ccd
+UID:af97741a-bc19-4434-a3fe-a01403553d0f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231127
-DTSTART;VALUE=DATE:20231127
-SUMMARY:Wembley Stadium Tour
-UID:30bfdd37-12a9-4a52-908e-89d41045f3ca
+DTSTAMP:20231128T013154Z
+DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
+ election of tracks to kickstart your weekend!
+DTEND;VALUE=DATE:20231201
+DTSTART;VALUE=DATE:20231201
+SUMMARY:FRIDAY FEELINGS
+UID:b65dfd49-4222-4aa8-86bf-932f68adadc5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
+DTSTAMP:20231128T013154Z
 DESCRIPTION:African Superstar, and Congolese music sensation, Fally Ipupa i
  s Live in London on the 8th of December 2023 for an electrifying concert a
  t London's legendary OVO Arena, Wembley. Fally Ipupa is the...
 DTEND;VALUE=DATE:20231208
 DTSTART;VALUE=DATE:20231208
 SUMMARY:Fally Ipupa
-UID:de57ce81-7bc5-44b1-8dcf-1d53e9250a0c
+UID:dffc050a-b6ea-43d1-ac02-779b20292ab9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
+DTSTAMP:20231128T013154Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20231202
 DTSTART;VALUE=DATE:20231202
 SUMMARY:Rewind Reloaded - Kumar Sanu, Udit Narayan ...
-UID:c01fd945-47ee-4f6e-8d32-71dd9a20ffc5
+UID:6b56f49d-ad69-4f73-bc94-19bbfa416620
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
+DTSTAMP:20231128T013154Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:26d11ffd-6aa0-4cbf-bae7-d5718a75ffdf
+UID:5032a378-67a9-404a-98fe-037f56255931
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
+DTSTAMP:20231128T013154Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231202
 DTSTART;VALUE=DATE:20231202
 SUMMARY:Wembley Stadium Tour
-UID:da263e47-f432-42c3-909b-2660fb295577
+UID:0b034173-217c-4bfd-b4ab-3e1cd7ca5424
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
+DTSTAMP:20231128T013154Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:18b95e50-3e07-4dc5-b5af-b2aef3e040a3
+UID:5236c85e-4704-43bf-9b54-507b5faff9b3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
+DTSTAMP:20231128T013154Z
 DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
  the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
  n’t Let Go’ in his stunning live shows.
 DTEND;VALUE=DATE:20230316
 DTSTART;VALUE=DATE:20230316
 SUMMARY:James Arthur
-UID:6accc93c-83df-4851-94fb-7eb549f9072b
+UID:d1d354e3-eb6b-433d-be30-27ba9fa9a396
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231127T013113Z
+DTSTAMP:20231128T013154Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231128
 DTSTART;VALUE=DATE:20231128
 SUMMARY:Wembley Stadium Tour
-UID:3c80c011-4fa2-4201-8a81-f6d697d469dd
+UID:5a88318a-d401-47a3-b02b-045baa2a04d2
 END:VEVENT
 END:VCALENDAR
