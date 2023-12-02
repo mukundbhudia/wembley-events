@@ -3,98 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
+DTSTAMP:20231202T012154Z
 DESCRIPTION:Rewind Reloaded at OVO Arena Wembley in Wembley Park! Kumar San
  u, Unit Narayan & Abhijeet Bhattacharya.
 DTEND;VALUE=DATE:20231202
 DTSTART;VALUE=DATE:20231202
 SUMMARY:Kumar Sanu
-UID:6741520d-a835-475f-b76f-e0e8b41252ad
+UID:c273c523-5060-40bf-a425-b1b517b21b18
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
+DTSTAMP:20231202T012154Z
 DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
  election of tracks to kickstart your weekend!
-DTEND;VALUE=DATE:20231201
-DTSTART;VALUE=DATE:20231201
+DTEND;VALUE=DATE:20231202
+DTSTART;VALUE=DATE:20231202
 SUMMARY:FRIDAY FEELINGS
-UID:e411f8d1-952d-4ed0-b00a-7c18a06544d1
+UID:58320d83-08aa-498d-ad06-f1d9b4c13211
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
+DTSTAMP:20231202T012154Z
 DESCRIPTION:African Superstar, and Congolese music sensation, Fally Ipupa i
  s Live in London on the 8th of December 2023 for an electrifying concert a
  t London's legendary OVO Arena, Wembley. Fally Ipupa is the...
 DTEND;VALUE=DATE:20231208
 DTSTART;VALUE=DATE:20231208
 SUMMARY:Fally Ipupa
-UID:7ef81f3c-a0d8-450d-9397-cb7b25f91daa
+UID:39c6a9f8-b0ec-4cde-ac95-1e02dab74345
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20231202
-DTSTART;VALUE=DATE:20231202
-SUMMARY:Rewind Reloaded - Kumar Sanu, Udit Narayan ...
-UID:24a55742-4cb0-4bc3-8e27-3969c34985d7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
+DTSTAMP:20231202T012154Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:4d5768a5-fd44-41bd-ad34-ceb9c3ccf144
+UID:1a18c3a5-c763-4444-9ffc-f9f226fe15e6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
+DTSTAMP:20231202T012154Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231202
 DTSTART;VALUE=DATE:20231202
 SUMMARY:Wembley Stadium Tour
-UID:0e2c4bfc-58df-4384-a791-7ac63f38a827
+UID:621102f2-d43d-4a39-b86e-19521211f0c5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
+DTSTAMP:20231202T012154Z
 DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
  r Xmas RnB festival on Sunday 17
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:R n B Xmas Ball
-UID:93dcab2d-ee52-4953-a99d-b56c2fc3c94e
+UID:b29c34a6-3273-4d46-b705-f1234c69e5e8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
+DTSTAMP:20231202T012154Z
 DESCRIPTION:Ricky Gervais is an English comedian, actor, director, producer
  , and writer best known for creating and starring in the British TV hit ser
  ies The Office. His unique blend of brash satire and...
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais
-UID:71d0000d-a443-4d74-bde9-fa26f50af317
+UID:d12337e7-2761-4327-bb0a-c3ce2d16cc08
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
+DTSTAMP:20231202T012154Z
 DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
  the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
  n’t Let Go’ in his stunning live shows.
 DTEND;VALUE=DATE:20230316
 DTSTART;VALUE=DATE:20230316
 SUMMARY:James Arthur
-UID:ebed38c6-310e-4b18-a99b-7513c76fd41d
+UID:723573da-3ab4-4069-bc3d-04aec72ce98a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231201T013805Z
+DTSTAMP:20231202T012154Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20230215
 DTSTART;VALUE=DATE:20230215
 SUMMARY:Noah Kahan
-UID:d5cb9468-b249-4027-81b5-d2b413331b7d
+UID:3f3a894c-b968-4055-8fa9-eac04c9a3d87
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231202T012154Z
+DESCRIPTION:AGE RESTRICTION - STRICTLY 18+ ONLY TILL LINDEMANN - industria
+ l metal genius, singer of Rammstein, is going on tour again this year, taki
+ ng place in London‘s, OVO Arena Wembley come Winter. In his...
+DTEND;VALUE=DATE:20231212
+DTSTART;VALUE=DATE:20231212
+SUMMARY:Till Lindemann
+UID:f2610f8e-5f10-452c-89e5-a21652318f84
 END:VEVENT
 END:VCALENDAR
