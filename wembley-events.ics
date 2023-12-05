@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
+DTSTAMP:20231205T013239Z
 DESCRIPTION:African Superstar, and Congolese music sensation, Fally Ipupa i
  s Live in London on the 8th of December 2023 for an electrifying concert a
  t London's legendary OVO Arena, Wembley. Fally Ipupa is the...
 DTEND;VALUE=DATE:20231208
 DTSTART;VALUE=DATE:20231208
-SUMMARY:Fally Ipupa
-UID:064d5dd3-54b2-4071-acbf-2e23dc81777c
+SUMMARY:Fally Ipupa at OVO Arena (December 8, 2023)
+UID:833e34ef-6bd8-43c5-ad1b-4cefce78a82b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
+DTSTAMP:20231205T013239Z
 DESCRIPTION:Halestorm is a rock band from Red Lion, Pennsylvania. They rele
  ased their debut album on April 28, 2009. The band is signed to Atlantic re
  cords. They won a Grammy in 2013 for their song, "Love...
 DTEND;VALUE=DATE:20231209
 DTSTART;VALUE=DATE:20231209
 SUMMARY:Halestorm
-UID:053c9c25-e8b9-49da-91e3-a5707413c160
+UID:de386b48-3faa-448e-bf62-7dbde2956969
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
+DTSTAMP:20231205T013239Z
 DESCRIPTION:This is a fully customisable souvenir ticket for your Niall Hor
  an The Show Live On Tour 2024 show date!, In order to personalise this item
  , I need
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:cffb910d-3615-4477-b6de-63842ade49da
+UID:16b272b9-5922-4671-a125-7a9ffc908dff
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
+DTSTAMP:20231205T013239Z
 DESCRIPTION:The full line-up for Capital's Jingle Bell Ball with Barclaycar
  d includes Take That and S Club this year. The event takes place over two n
  ights this December at The O2 in London. Confirmed for...
 DTEND;VALUE=DATE:20231209
 DTSTART;VALUE=DATE:20231209
 SUMMARY:It’s a Take That and S Club party vibe for...
-UID:789c4025-ba0c-4ffa-9fb7-b2f2aa79b1bc
+UID:02391f41-771f-44ed-a3f9-dc7dd53038ab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
+DTSTAMP:20231205T013239Z
+DESCRIPTION:About Madonna is bringing ‘The Celebration Tour’, featuring
+  four decades of greatest hits, to The O2 this October. Madonna announced t
+ he tour in an iconic viral video with a wink to her...
+DTEND;VALUE=DATE:20231205
+DTSTART;VALUE=DATE:20231205
+SUMMARY:Madonna
+UID:7edbb5e3-3b82-41c3-a8d0-b038d495a600
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231205T013239Z
 DESCRIPTION:Everyone's fan favourite is back! Hip Hop Karaoke returns to Bo
  xpark Wembley bigger and better! Make sure to come live out your rap fantas
  ies! Expect a FREE drink with every perfromance! We'll...
 DTEND;VALUE=DATE:20231208
 DTSTART;VALUE=DATE:20231208
 SUMMARY:HIP HOP KARAOKE DOES BIG FRIDAYS
-UID:bb259b5f-2009-46ba-9e92-ef08b4e655f3
+UID:23d1fc9a-c66e-4fcc-ba83-443125f1f9d3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
+DTSTAMP:20231205T013239Z
 DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
  r Xmas RnB festival on Sunday 17
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:R n B Xmas Ball
-UID:f6c60b30-4bcb-45a5-97d1-93986cb6456a
+UID:adf15a17-3b96-4270-8ff4-fdaf95cc30d8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
+DTSTAMP:20231205T013239Z
 DESCRIPTION:Find tickets for Ricky Gervais at OVO Arena Wembley in London o
  n 12/13/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais
-UID:6dc9bb06-f7bc-4ac0-9f63-a52c83aa606c
+UID:2f2175bc-25e6-49a3-9318-3a36e2c19293
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
+DTSTAMP:20231205T013239Z
 DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
  the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
  n’t Let Go’ in his stunning live shows.
 DTEND;VALUE=DATE:20230316
 DTSTART;VALUE=DATE:20230316
 SUMMARY:James Arthur
-UID:e8ca2f8a-b966-4b63-89b4-b29d9ca02208
+UID:1789d627-2b3e-4c15-8ff4-91965f4ce198
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
+DTSTAMP:20231205T013239Z
 DESCRIPTION:AGE RESTRICTION - STRICTLY 18+ ONLY TILL LINDEMANN - industria
  l metal genius, singer of Rammstein, is going on tour again this year, taki
  ng place in London‘s, OVO Arena Wembley come Winter. In his...
 DTEND;VALUE=DATE:20231212
 DTSTART;VALUE=DATE:20231212
 SUMMARY:Till Lindemann
-UID:00756b8b-f69f-4526-9716-c384368d2fc3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231204T013211Z
-DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 3
- /29/2024 at 8:00 PM
-DTEND;VALUE=DATE:20230329
-DTSTART;VALUE=DATE:20230329
-SUMMARY:Sonu Nigam Live
-UID:3f6bb53a-d0d3-4b05-9a11-67326f0165c6
+UID:2ddee72f-37ad-4954-be6e-11226baf825d
 END:VEVENT
 END:VCALENDAR
