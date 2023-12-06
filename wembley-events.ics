@@ -3,101 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
+DTSTAMP:20231206T013146Z
 DESCRIPTION:African Superstar, and Congolese music sensation, Fally Ipupa i
  s Live in London on the 8th of December 2023 for an electrifying concert a
  t London's legendary OVO Arena, Wembley. Fally Ipupa is the...
 DTEND;VALUE=DATE:20231208
 DTSTART;VALUE=DATE:20231208
 SUMMARY:Fally Ipupa at OVO Arena (December 8, 2023)
-UID:833e34ef-6bd8-43c5-ad1b-4cefce78a82b
+UID:6ca0f142-1569-441b-8b26-5b6e27ec680e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
-DESCRIPTION:Halestorm is a rock band from Red Lion, Pennsylvania. They rele
- ased their debut album on April 28, 2009. The band is signed to Atlantic re
- cords. They won a Grammy in 2013 for their song, "Love...
+DTSTAMP:20231206T013146Z
+DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
+ election of tracks to kickstart your weekend!
+DTEND;VALUE=DATE:20231208
+DTSTART;VALUE=DATE:20231208
+SUMMARY:FRIDAY FEELINGS
+UID:2217c371-fa8b-4f94-bf0a-3d2c3c505fa3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231206T013146Z
+DESCRIPTION:London | OVO Arena Wembley Halestorm Halestorm, Black Veil Brid
+ es, Mothica div
 DTEND;VALUE=DATE:20231209
 DTSTART;VALUE=DATE:20231209
 SUMMARY:Halestorm
-UID:de386b48-3faa-448e-bf62-7dbde2956969
+UID:1c3b9b6d-a93e-4e04-bca1-f243f7aca1dd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
+DTSTAMP:20231206T013146Z
 DESCRIPTION:This is a fully customisable souvenir ticket for your Niall Hor
  an The Show Live On Tour 2024 show date!, In order to personalise this item
  , I need
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:16b272b9-5922-4671-a125-7a9ffc908dff
+UID:b188ef90-3bf8-400a-bf4a-68810dd4c471
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
+DTSTAMP:20231206T013146Z
 DESCRIPTION:The full line-up for Capital's Jingle Bell Ball with Barclaycar
  d includes Take That and S Club this year. The event takes place over two n
  ights this December at The O2 in London. Confirmed for...
 DTEND;VALUE=DATE:20231209
 DTSTART;VALUE=DATE:20231209
 SUMMARY:It’s a Take That and S Club party vibe for...
-UID:02391f41-771f-44ed-a3f9-dc7dd53038ab
+UID:728ef012-23ef-4d80-a878-fdb7fd11bc05
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
-DESCRIPTION:About Madonna is bringing ‘The Celebration Tour’, featuring
-  four decades of greatest hits, to The O2 this October. Madonna announced t
- he tour in an iconic viral video with a wink to her...
-DTEND;VALUE=DATE:20231205
-DTSTART;VALUE=DATE:20231205
-SUMMARY:Madonna
-UID:7edbb5e3-3b82-41c3-a8d0-b038d495a600
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
+DTSTAMP:20231206T013146Z
 DESCRIPTION:Everyone's fan favourite is back! Hip Hop Karaoke returns to Bo
  xpark Wembley bigger and better! Make sure to come live out your rap fantas
  ies! Expect a FREE drink with every perfromance! We'll...
 DTEND;VALUE=DATE:20231208
 DTSTART;VALUE=DATE:20231208
 SUMMARY:HIP HOP KARAOKE DOES BIG FRIDAYS
-UID:23d1fc9a-c66e-4fcc-ba83-443125f1f9d3
+UID:8894dd16-2b9e-4f63-9cf0-1d4f1f7bbdd1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
+DTSTAMP:20231206T013146Z
 DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
  r Xmas RnB festival on Sunday 17
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:R n B Xmas Ball
-UID:adf15a17-3b96-4270-8ff4-fdaf95cc30d8
+UID:9b7bf267-553b-43cf-a9b4-a77cfd628801
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
+DTSTAMP:20231206T013146Z
 DESCRIPTION:Find tickets for Ricky Gervais at OVO Arena Wembley in London o
  n 12/13/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais
-UID:2f2175bc-25e6-49a3-9318-3a36e2c19293
+UID:500543aa-246b-47fd-9a6c-25eef965fc94
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20230316
-DTSTART;VALUE=DATE:20230316
-SUMMARY:James Arthur
-UID:1789d627-2b3e-4c15-8ff4-91965f4ce198
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231205T013239Z
+DTSTAMP:20231206T013146Z
 DESCRIPTION:AGE RESTRICTION - STRICTLY 18+ ONLY TILL LINDEMANN - industria
  l metal genius, singer of Rammstein, is going on tour again this year, taki
  ng place in London‘s, OVO Arena Wembley come Winter. In his...
 DTEND;VALUE=DATE:20231212
 DTSTART;VALUE=DATE:20231212
 SUMMARY:Till Lindemann
-UID:2ddee72f-37ad-4954-be6e-11226baf825d
+UID:d51fbf13-01c1-44e6-aaca-c5fb45904570
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231206T013146Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20230215
+DTSTART;VALUE=DATE:20230215
+SUMMARY:Noah Kahan
+UID:e2ad7ee4-a767-47ec-8081-59a3e167c016
 END:VEVENT
 END:VCALENDAR
