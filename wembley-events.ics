@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
+DTSTAMP:20231207T013131Z
 DESCRIPTION:African Superstar, and Congolese music sensation, Fally Ipupa i
  s Live in London on the 8th of December 2023 for an electrifying concert a
  t London's legendary OVO Arena, Wembley. Fally Ipupa is the...
 DTEND;VALUE=DATE:20231208
 DTSTART;VALUE=DATE:20231208
 SUMMARY:Fally Ipupa at OVO Arena (December 8, 2023)
-UID:6ca0f142-1569-441b-8b26-5b6e27ec680e
+UID:2e6f1a11-ff73-45c0-af48-c70fbffe33e7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
+DTSTAMP:20231207T013131Z
 DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
  election of tracks to kickstart your weekend!
 DTEND;VALUE=DATE:20231208
 DTSTART;VALUE=DATE:20231208
 SUMMARY:FRIDAY FEELINGS
-UID:2217c371-fa8b-4f94-bf0a-3d2c3c505fa3
+UID:990d62e4-be50-44eb-8de5-d286f7eb5afe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
+DTSTAMP:20231207T013131Z
 DESCRIPTION:London | OVO Arena Wembley Halestorm Halestorm, Black Veil Brid
  es, Mothica div
 DTEND;VALUE=DATE:20231209
 DTSTART;VALUE=DATE:20231209
 SUMMARY:Halestorm
-UID:1c3b9b6d-a93e-4e04-bca1-f243f7aca1dd
+UID:2f609149-8478-42f3-9d74-73d1f5ca5fad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
+DTSTAMP:20231207T013131Z
 DESCRIPTION:This is a fully customisable souvenir ticket for your Niall Hor
  an The Show Live On Tour 2024 show date!, In order to personalise this item
  , I need
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:b188ef90-3bf8-400a-bf4a-68810dd4c471
+UID:aa75b252-ceec-4bca-a991-2b2e25409ad4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
-DESCRIPTION:The full line-up for Capital's Jingle Bell Ball with Barclaycar
- d includes Take That and S Club this year. The event takes place over two n
- ights this December at The O2 in London. Confirmed for...
-DTEND;VALUE=DATE:20231209
-DTSTART;VALUE=DATE:20231209
-SUMMARY:It’s a Take That and S Club party vibe for...
-UID:728ef012-23ef-4d80-a878-fdb7fd11bc05
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
+DTSTAMP:20231207T013131Z
 DESCRIPTION:Everyone's fan favourite is back! Hip Hop Karaoke returns to Bo
  xpark Wembley bigger and better! Make sure to come live out your rap fantas
  ies! Expect a FREE drink with every perfromance! We'll...
 DTEND;VALUE=DATE:20231208
 DTSTART;VALUE=DATE:20231208
 SUMMARY:HIP HOP KARAOKE DOES BIG FRIDAYS
-UID:8894dd16-2b9e-4f63-9cf0-1d4f1f7bbdd1
+UID:174fa6d0-2289-43f4-bb75-f044acdf1d6b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
+DTSTAMP:20231207T013131Z
 DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
  r Xmas RnB festival on Sunday 17
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
-SUMMARY:R n B Xmas Ball
-UID:9b7bf267-553b-43cf-a9b4-a77cfd628801
+SUMMARY:SWV
+UID:25a14536-3aab-4402-965b-52f88db5c5ac
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
+DTSTAMP:20231207T013131Z
 DESCRIPTION:Find tickets for Ricky Gervais at OVO Arena Wembley in London o
  n 12/13/2023 at 7:30 PM
 DTEND;VALUE=DATE:20231213
 DTSTART;VALUE=DATE:20231213
 SUMMARY:Ricky Gervais
-UID:500543aa-246b-47fd-9a6c-25eef965fc94
+UID:b6cf2142-2e17-484f-936c-a2fee3b8b82f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
-DESCRIPTION:AGE RESTRICTION - STRICTLY 18+ ONLY TILL LINDEMANN - industria
- l metal genius, singer of Rammstein, is going on tour again this year, taki
- ng place in London‘s, OVO Arena Wembley come Winter. In his...
-DTEND;VALUE=DATE:20231212
-DTSTART;VALUE=DATE:20231212
-SUMMARY:Till Lindemann
-UID:d51fbf13-01c1-44e6-aaca-c5fb45904570
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231206T013146Z
+DTSTAMP:20231207T013131Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20230215
 DTSTART;VALUE=DATE:20230215
 SUMMARY:Noah Kahan
-UID:e2ad7ee4-a767-47ec-8081-59a3e167c016
+UID:c17e566f-65ca-4241-a27b-d3734c0a24bf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T013131Z
+DESCRIPTION:AGE RESTRICTION - STRICTLY 18+ ONLY TILL LINDEMANN - industria
+ l metal genius, singer of Rammstein, is going on tour again this year, taki
+ ng place in London‘s, OVO Arena Wembley come Winter. In his...
+DTEND;VALUE=DATE:20231212
+DTSTART;VALUE=DATE:20231212
+SUMMARY:Phantom Vision @ OVO Arena Wembley
+UID:ace8c532-5bc3-42cb-9ab6-cde1f0c00cfb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231207T013131Z
+DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
+ lanta native, a Grammy-nominated singer, rapper, producer, creative designe
+ r, branding genius and fashion icon. Currently Yachty is on the...
+DTEND;VALUE=DATE:20230429
+DTSTART;VALUE=DATE:20230429
+SUMMARY:Lil Yachty: The Field Trip Tour
+UID:d1027500-1a6b-4374-b010-dd81c67c8312
 END:VEVENT
 END:VCALENDAR
