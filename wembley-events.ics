@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
+DTSTAMP:20231211T013230Z
+DESCRIPTION:Find tickets for Ricky Gervais at OVO Arena Wembley in London o
+ n 12/13/2023 at 7:30 PM
+DTEND;VALUE=DATE:20231213
+DTSTART;VALUE=DATE:20231213
+SUMMARY:Ricky Gervais @ OVO Arena Wembley
+UID:3f71fbe7-b199-4a96-adc7-3041b697f3d6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T013230Z
+DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
+ r Xmas RnB festival on Sunday 17
+DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20231217
+SUMMARY:R n B Xmas Ball
+UID:4dc1ea19-fec9-48ef-a93c-bba5515eef7f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T013230Z
+DESCRIPTION:Book tickets to see Till Lindemann at OVO Arena, Wembley
+DTEND;VALUE=DATE:20231212
+DTSTART;VALUE=DATE:20231212
+SUMMARY:Till Lindemann
+UID:c27677a2-f183-40cd-b292-8d9d9fff59d2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T013230Z
+DESCRIPTION:Andrew Hozier-Byrne (born 17 March 1990), known mononymously a
+ s Hozier, is an Irish musician and singer-songwriter from Bray, County Wick
+ low, Ireland. In 2013 he released his debut EP, featuring...
+DTEND;VALUE=DATE:20231215
+DTSTART;VALUE=DATE:20231215
+SUMMARY:Hozier - Unreal Unearth Tour
+UID:2a8870bf-2542-4243-97f9-d90903fc6444
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T013230Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231216
+DTSTART;VALUE=DATE:20231216
+SUMMARY:Wembley Stadium Tour
+UID:5bdff743-ec6e-4689-9208-87c32b1d089a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T013230Z
+DESCRIPTION:Noel Gallagher is back — but not as you know him. “I playe
+ d The Right Stuff to a mate of mine,” says Gallagher, mentioning one of t
+ he most out-there tracks on an already out-there album. “And he...
+DTEND;VALUE=DATE:20231214
+DTSTART;VALUE=DATE:20231214
+SUMMARY:Noel Gallagher's High Flying Birds
+UID:d32d6676-a7e9-4f80-acc9-b83b926966e0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T013230Z
+DESCRIPTION:O'Shea Jackson Sr. (born June 15, 1969), known professionally a
+ s Ice Cube, is an American rapper and actor. He began his career as a membe
+ r of the hip-hop group C.I.A. and later joined the seminal...
+DTEND;VALUE=DATE:20231211
+DTSTART;VALUE=DATE:20231211
+SUMMARY:Ice Cube + Cypress Hill + The Game
+UID:8ce1a149-a3b2-435c-ba6f-ef85313e324b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T013230Z
+DESCRIPTION:Guns N' Roses | London, Wembley Stadium -----------------------
+ ------------------- This huge news comes alongside confirmation that the bi
+ ggest stadium rock tour of 2023! Axl, Slash and Duff have...
+DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20231217
+SUMMARY:Guns N' Roses | London, Wembley Stadium
+UID:41d54986-4a53-4b82-a10f-87468c9fe424
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T013230Z
+DESCRIPTION:With fan worship more intense than ever, and worldwide interes
+ t and intrigue growing at runaway speed, Sleep Token will reach bold new he
+ ights with their third album, Take Me Back To Eden , set...
+DTEND;VALUE=DATE:20231216
+DTSTART;VALUE=DATE:20231216
+SUMMARY:Sleep Token
+UID:5062a954-48f9-44d2-a6fd-b202b3e0cb08
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231211T013230Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:8fb30a8f-2633-42b5-baf9-e8c6e82e8edd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
-DESCRIPTION:Find tickets for Ricky Gervais at OVO Arena Wembley in London o
- n 12/13/2023 at 7:30 PM
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:bf580b30-3936-423f-96fe-8f7dd0da04eb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
-DESCRIPTION:As the flagship artist for producer Irv Gotti's Def Jam-affilia
- ted Murder Inc. label, Ja Rule became one of the rap industry's most commer
- cially successful artists during the early 2000s, working...
-DTEND;VALUE=DATE:20230302
-DTSTART;VALUE=DATE:20230302
-SUMMARY:Ja Rule @ OVO Arena Wembley
-UID:4d8bfb41-e838-40ff-8abd-0fe565143e21
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
-DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
-  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
- essing the urgent need for access to mental health services by...
-DTEND;VALUE=DATE:20230215
-DTSTART;VALUE=DATE:20230215
-SUMMARY:Noah Kahan
-UID:51310768-fe99-440b-bed6-da3b6c6004ff
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
-DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
- r Xmas RnB festival on Sunday 17
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:R n B Xmas Ball
-UID:a608719f-7698-45fd-8ded-55183b7ab398
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
-DESCRIPTION:Book tickets to see Till Lindemann at OVO Arena, Wembley
-DTEND;VALUE=DATE:20231212
-DTSTART;VALUE=DATE:20231212
-SUMMARY:Till Lindemann
-UID:e0c3bd08-aa01-4758-bc06-5141ac2a2b91
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
-DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
- ke light through a film projector. At the core of the music’s upbeat ene
- rgy and unfiltered lyrics, you’ll hear who he was before and...
-DTEND;VALUE=DATE:20230214
-DTSTART;VALUE=DATE:20230214
-SUMMARY:Noah Kahan
-UID:bcf54fe7-ae49-4b6b-b3d8-97a653d14f79
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
-DESCRIPTION:Aside from her illustrious Bollywood career, as a solo artist S
- hreya Ghoshal has released over sixteen studio albums in a range of dialect
- s which has seen her travel across the globe performing in...
-DTEND;VALUE=DATE:20230209
-DTSTART;VALUE=DATE:20230209
-SUMMARY:Shreya Ghoshal
-UID:c8b20d85-dbf9-42e8-816e-f90af66ab759
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
-DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
- lanta native, a Grammy-nominated singer, rapper, producer, creative designe
- r, branding genius and fashion icon. Currently Yachty is on the...
-DTEND;VALUE=DATE:20230429
-DTSTART;VALUE=DATE:20230429
-SUMMARY:Lil Yachty: The Field Trip Tour
-UID:111168f8-9f76-4ec1-8e7d-47ed077b1694
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231210T013602Z
-DESCRIPTION:Due to unforeseen circumstances the R&B Block Party, originall
- y scheduled for Thursday 26th October, has now been rescheduled to Sunday M
- arch 31st 2024. This announcement comes with deep regret...
-DTEND;VALUE=DATE:20230331
-DTSTART;VALUE=DATE:20230331
-SUMMARY:R&B Block Party - RESCHEDULED
-UID:4da6d228-24b6-45ee-88e1-790ad2d216a1
+UID:ace43a56-76f0-4594-aa86-3be3fc5b382e
 END:VEVENT
 END:VCALENDAR
