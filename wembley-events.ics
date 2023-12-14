@@ -3,101 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
-DESCRIPTION:Find tickets for Ricky Gervais at OVO Arena Wembley in London o
- n 12/13/2023 at 7:30 PM
-DTEND;VALUE=DATE:20231213
-DTSTART;VALUE=DATE:20231213
-SUMMARY:Ricky Gervais @ OVO Arena Wembley
-UID:e88630d0-741b-4072-b32a-f11ec10b27ab
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
+DTSTAMP:20231214T013021Z
 DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
  r Xmas RnB festival on Sunday 17
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:R n B Xmas Ball
-UID:e37197f8-a798-45e8-9d7e-1918d5ff6701
+UID:bdc349a3-1644-4e46-9ce8-d47e40b9f7a2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
+DTSTAMP:20231214T013021Z
+DESCRIPTION:Andrew Hozier-Byrne (born 17 March 1990), known mononymously a
+ s Hozier, is an Irish musician and singer-songwriter from Bray, County Wick
+ low, Ireland. In 2013 he released his debut EP, featuring...
+DTEND;VALUE=DATE:20231215
+DTSTART;VALUE=DATE:20231215
+SUMMARY:Hozier - Unreal Unearth Tour
+UID:cdfe2316-4fc5-4fec-963e-fcf2db19760b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231214T013021Z
 DESCRIPTION:Noel Gallagher is back — but not as you know him. “I playe
  d The Right Stuff to a mate of mine,” says Gallagher, mentioning one of t
  he most out-there tracks on an already out-there album. “And he...
 DTEND;VALUE=DATE:20231214
 DTSTART;VALUE=DATE:20231214
-SUMMARY:Noel Gallagher's High Flying Birds
-UID:e08d98b7-a4a9-41f7-b678-b41648db32cc
+SUMMARY:Tom Meighan @ OVO Arena Wembley
+UID:bdd73ab2-68ee-43b4-b06c-c5abac347715
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231216
-DTSTART;VALUE=DATE:20231216
-SUMMARY:Wembley Stadium Tour
-UID:d7983afb-68fb-43ad-b2ea-0b5e9973f356
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
-DESCRIPTION:Find Joe London tickets, appearing at OVO Arena Wembley in Unit
- ed Kingdom along with Monica, SWV, 112, and more on Dec 17, 2023 at 6:00 pm
- .
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:Joe - London - OVO Arena Wembley - Dec 17, 2023
-UID:d3c03b5a-19f5-48bd-82dd-2a9b4238939d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
+DTSTAMP:20231214T013021Z
 DESCRIPTION:With fan worship more intense than ever, and worldwide interes
  t and intrigue growing at runaway speed, Sleep Token will reach bold new he
  ights with their third album, Take Me Back To Eden , set...
 DTEND;VALUE=DATE:20231216
 DTSTART;VALUE=DATE:20231216
 SUMMARY:Sleep Token
-UID:80015745-aa61-4320-b23d-f50f45e29a8e
+UID:57568ed0-8b42-4892-9d28-5690ef134233
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
+DTSTAMP:20231214T013021Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231216
+DTSTART;VALUE=DATE:20231216
+SUMMARY:Wembley Stadium Tour
+UID:75d082e1-f839-45b6-851b-c6d8c76aa4e9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231214T013021Z
+DESCRIPTION:Find Joe London tickets, appearing at OVO Arena Wembley in Unit
+ ed Kingdom along with Monica, SWV, 112, and more on Dec 17, 2023 at 6:00 pm
+ .
+DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20231217
+SUMMARY:Joe - London - OVO Arena Wembley - Dec 17, 2023
+UID:f6b135be-7650-44b4-abd9-759235053770
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231214T013021Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:c7698d17-0795-44de-a63e-f963f8456db6
+UID:b03fcb42-9243-4ece-8b2c-d4f781c1f4ab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
-DESCRIPTION:Guns N' Roses | London, Wembley Stadium -----------------------
- ------------------- This huge news comes alongside confirmation that the bi
- ggest stadium rock tour of 2023! Axl, Slash and Duff have...
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:Guns N' Roses | London, Wembley Stadium
-UID:b65bf54b-a20d-431d-a0b0-dbe9754ab420
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
+DTSTAMP:20231214T013021Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:Wembley Stadium Tour
-UID:b8e529d7-a4dd-4b2d-a0f2-68595443985d
+UID:32c03ae0-5a3a-4645-ab5f-4df30ca59d5e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231213T013123Z
+DTSTAMP:20231214T013021Z
 DESCRIPTION:As the flagship artist for producer Irv Gotti's Def Jam-affilia
  ted Murder Inc. label, Ja Rule became one of the rap industry's most commer
  cially successful artists during the early 2000s, working...
 DTEND;VALUE=DATE:20230302
 DTSTART;VALUE=DATE:20230302
 SUMMARY:Ja Rule @ OVO Arena Wembley
-UID:fafb48b8-5d0a-41d2-8222-6c0ec78cf3ec
+UID:c3cce97b-9a83-4133-96a9-9e6bdcfc61c1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231214T013021Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20230215
+DTSTART;VALUE=DATE:20230215
+SUMMARY:Noah Kahan
+UID:53440ad1-3c77-4cd7-9048-5035d4521e72
 END:VEVENT
 END:VCALENDAR
