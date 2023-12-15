@@ -3,102 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
-DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
- r Xmas RnB festival on Sunday 17
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:R n B Xmas Ball
-UID:bdc349a3-1644-4e46-9ce8-d47e40b9f7a2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
-DESCRIPTION:Andrew Hozier-Byrne (born 17 March 1990), known mononymously a
- s Hozier, is an Irish musician and singer-songwriter from Bray, County Wick
- low, Ireland. In 2013 he released his debut EP, featuring...
-DTEND;VALUE=DATE:20231215
-DTSTART;VALUE=DATE:20231215
-SUMMARY:Hozier - Unreal Unearth Tour
-UID:cdfe2316-4fc5-4fec-963e-fcf2db19760b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
-DESCRIPTION:Noel Gallagher is back — but not as you know him. “I playe
- d The Right Stuff to a mate of mine,” says Gallagher, mentioning one of t
- he most out-there tracks on an already out-there album. “And he...
-DTEND;VALUE=DATE:20231214
-DTSTART;VALUE=DATE:20231214
-SUMMARY:Tom Meighan @ OVO Arena Wembley
-UID:bdd73ab2-68ee-43b4-b06c-c5abac347715
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
+DTSTAMP:20231215T013221Z
 DESCRIPTION:With fan worship more intense than ever, and worldwide interes
  t and intrigue growing at runaway speed, Sleep Token will reach bold new he
  ights with their third album, Take Me Back To Eden , set...
 DTEND;VALUE=DATE:20231216
 DTSTART;VALUE=DATE:20231216
 SUMMARY:Sleep Token
-UID:57568ed0-8b42-4892-9d28-5690ef134233
+UID:4d39bb77-cf5f-4e0c-96a2-1aaaf65fbd3a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
+DTSTAMP:20231215T013221Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231216
 DTSTART;VALUE=DATE:20231216
 SUMMARY:Wembley Stadium Tour
-UID:75d082e1-f839-45b6-851b-c6d8c76aa4e9
+UID:5905861d-cd5e-4a93-b2e4-3ab88b0b9bec
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
+DTSTAMP:20231215T013221Z
+DESCRIPTION:TCO and Geestar Empire announce RnB Xmas Ball , their first eve
+ r Xmas RnB festival on Sunday 17
+DTEND;VALUE=DATE:20231217
+DTSTART;VALUE=DATE:20231217
+SUMMARY:R n B Xmas Ball
+UID:d678027e-cf65-4682-a824-421c5b5271d1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231215T013221Z
 DESCRIPTION:Find Joe London tickets, appearing at OVO Arena Wembley in Unit
  ed Kingdom along with Monica, SWV, 112, and more on Dec 17, 2023 at 6:00 pm
  .
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:Joe - London - OVO Arena Wembley - Dec 17, 2023
-UID:f6b135be-7650-44b4-abd9-759235053770
+UID:9e639b88-6887-40a0-b8c0-e92aa65da3d0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
+DTSTAMP:20231215T013221Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:b03fcb42-9243-4ece-8b2c-d4f781c1f4ab
+UID:f1f8eeea-a5c9-4ffa-a065-c78aa0090b76
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
+DTSTAMP:20231215T013221Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231217
 DTSTART;VALUE=DATE:20231217
 SUMMARY:Wembley Stadium Tour
-UID:32c03ae0-5a3a-4645-ab5f-4df30ca59d5e
+UID:90d4b77d-efc9-49e3-8518-f7338df74f81
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
+DTSTAMP:20231215T013221Z
 DESCRIPTION:As the flagship artist for producer Irv Gotti's Def Jam-affilia
  ted Murder Inc. label, Ja Rule became one of the rap industry's most commer
  cially successful artists during the early 2000s, working...
 DTEND;VALUE=DATE:20230302
 DTSTART;VALUE=DATE:20230302
 SUMMARY:Ja Rule @ OVO Arena Wembley
-UID:c3cce97b-9a83-4133-96a9-9e6bdcfc61c1
+UID:e53faf91-0679-4e53-ab9b-94bda83e2e46
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231214T013021Z
+DTSTAMP:20231215T013221Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20230215
 DTSTART;VALUE=DATE:20230215
 SUMMARY:Noah Kahan
-UID:53440ad1-3c77-4cd7-9048-5035d4521e72
+UID:9901424d-dafd-466c-ac4a-49b45206273a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231215T013221Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231215
+DTSTART;VALUE=DATE:20231215
+SUMMARY:Wembley Stadium Tour
+UID:5286fc92-4951-40f1-a9f6-82884dd964ec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231215T013221Z
+DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
+ lanta native, a Grammy-nominated singer, rapper, producer, creative designe
+ r, branding genius and fashion icon. Currently Yachty is on the...
+DTEND;VALUE=DATE:20230429
+DTSTART;VALUE=DATE:20230429
+SUMMARY:Lil Yachty
+UID:332272cb-2d5c-4fa3-ae20-a07cf069f9cc
 END:VEVENT
 END:VCALENDAR
