@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
-DESCRIPTION:Find Joe London tickets, appearing at OVO Arena Wembley in Unit
- ed Kingdom along with Monica, SWV, 112, and more on Dec 17, 2023 at 6:00 pm
- .
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
-SUMMARY:Joe - London - OVO Arena Wembley - Dec 17, 2023
-UID:6e1fb0c9-4994-45f1-9cc8-84db23b88063
+DTSTAMP:20231218T013211Z
+DESCRIPTION:Jack Whitehall is an award-winning comedian, actor, presenter a
+ nd writer. He most recently starred alongside Dwayne Johnson and Emily Blun
+ t in Disney’s Jungle Cruise, and in Clifford The Big Red...
+DTEND;VALUE=DATE:20231221
+DTSTART;VALUE=DATE:20231221
+SUMMARY:Jack Whitehall
+UID:f79372d5-0bc3-4012-8a84-311a18ea6706
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
+DTSTAMP:20231218T013211Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:6a2fc43c-6d63-4d06-a310-050f1adeebc4
+UID:57ccd281-133d-4d32-8159-93cffb79bbb6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
+DTSTAMP:20231218T013211Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20231217
-DTSTART;VALUE=DATE:20231217
+DTEND;VALUE=DATE:20231224
+DTSTART;VALUE=DATE:20231224
 SUMMARY:Wembley Stadium Tour
-UID:80615926-b80e-418c-b21a-4bf429b8a674
+UID:ab196e68-774c-42f0-825c-6369fab4bc22
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
+DTSTAMP:20231218T013211Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20230215
 DTSTART;VALUE=DATE:20230215
 SUMMARY:Noah Kahan
-UID:b248cdb2-181f-4a2e-b62e-c5c291f63ed1
+UID:7c50c68b-7078-4f9f-84d4-3338466474f5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
+DTSTAMP:20231218T013211Z
 DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
  lanta native, a Grammy-nominated singer, rapper, producer, creative designe
  r, branding genius and fashion icon. Currently Yachty is on the...
 DTEND;VALUE=DATE:20230429
 DTSTART;VALUE=DATE:20230429
 SUMMARY:Lil Yachty
-UID:d56a7cb1-31b9-48f5-9093-f8b52f94455f
+UID:0bff2cb6-f06c-48df-af02-1752eb006536
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
+DTSTAMP:20231218T013211Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231220
+DTSTART;VALUE=DATE:20231220
+SUMMARY:Wembley Stadium Tour
+UID:81503819-bad1-4c79-a41c-ce54ae54d560
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231218T013211Z
 DESCRIPTION:As the flagship artist for producer Irv Gotti's Def Jam-affilia
  ted Murder Inc. label, Ja Rule became one of the rap industry's most commer
  cially successful artists during the early 2000s, working...
 DTEND;VALUE=DATE:20230302
 DTSTART;VALUE=DATE:20230302
 SUMMARY:Lloyd @ OVO Arena Wembley
-UID:2235a88e-7c5c-457a-b53e-3a0cbd90a4a9
+UID:eb69e29c-46ca-4ada-bd2c-030823fcd885
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
+DTSTAMP:20231218T013211Z
 DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
  ke light through a film projector. At the core of the music’s upbeat ene
  rgy and unfiltered lyrics, you’ll hear who he was before and...
 DTEND;VALUE=DATE:20230214
 DTSTART;VALUE=DATE:20230214
 SUMMARY:Noah Kahan
-UID:ef1cae47-9bad-490c-8133-e13726e21a3a
+UID:ed9fd396-6094-46d1-9b63-660dc1f21cc8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
-DESCRIPTION:Aside from her illustrious Bollywood career, as a solo artist S
- hreya Ghoshal has released over sixteen studio albums in a range of dialect
- s which has seen her travel across the globe performing in...
-DTEND;VALUE=DATE:20230209
-DTSTART;VALUE=DATE:20230209
-SUMMARY:Shreya Ghoshal
-UID:ccaba958-f210-4af6-94cc-3e223cb40e95
+DTSTAMP:20231218T013211Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231223
+DTSTART;VALUE=DATE:20231223
+SUMMARY:Wembley Stadium Tour
+UID:ff897a04-4931-41a6-be24-ca8af8e03e19
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
+DTSTAMP:20231218T013211Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20230428
 DTSTART;VALUE=DATE:20230428
 SUMMARY:Bear Grylls
-UID:71ce517c-1837-4bbf-a114-e4a13e9df247
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231217T013554Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20230316
-DTSTART;VALUE=DATE:20230316
-SUMMARY:James Arthur
-UID:5bedbf7e-5854-4bc9-9a42-e4716100f05c
+UID:f1dada78-960b-46fd-8273-bcbc4c1c403d
 END:VEVENT
 END:VCALENDAR
