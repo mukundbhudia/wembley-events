@@ -3,101 +3,103 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
+DTSTAMP:20231220T011015Z
 DESCRIPTION:Jack Whitehall is an award-winning comedian, actor, presenter a
  nd writer. He most recently starred alongside Dwayne Johnson and Emily Blun
  t in Disney’s Jungle Cruise, and in Clifford The Big Red...
 DTEND;VALUE=DATE:20231221
 DTSTART;VALUE=DATE:20231221
 SUMMARY:Jack Whitehall
-UID:810f1230-3ba1-4164-a28b-df1ec011d172
+UID:5d5809ea-ad72-43ee-b987-ae6fb2ae9ba9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
+DTSTAMP:20231220T011015Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:30bec772-13ce-419c-80ce-85327f213901
+UID:5b4e43df-b3cb-4e40-be20-750376fed5da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
+DTSTAMP:20231220T011015Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231224
 DTSTART;VALUE=DATE:20231224
 SUMMARY:Wembley Stadium Tour
-UID:1de7363c-b130-4a25-8e42-c4adf0a32478
+UID:215b1194-a6af-4013-ba1c-1e048b1ec6d8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
+DTSTAMP:20231220T011015Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20230215
 DTSTART;VALUE=DATE:20230215
 SUMMARY:Noah Kahan
-UID:362a8049-fad0-40fa-a8d1-794f1fa0ed5b
+UID:76d9f865-eed0-467e-ac8f-33433627a26d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
+DTSTAMP:20231220T011015Z
 DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
  lanta native, a Grammy-nominated singer, rapper, producer, creative designe
  r, branding genius and fashion icon. Currently Yachty is on the...
 DTEND;VALUE=DATE:20230429
 DTSTART;VALUE=DATE:20230429
 SUMMARY:Lil Yachty
-UID:fcf31342-5295-479a-862f-d2fe5dcdb905
+UID:8701c76a-12b0-4746-91dd-7553546ba202
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231220
-DTSTART;VALUE=DATE:20231220
-SUMMARY:Wembley Stadium Tour
-UID:d90bc7d9-f854-446d-8822-7263b0b586de
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
-DESCRIPTION:As the flagship artist for producer Irv Gotti's Def Jam-affilia
- ted Murder Inc. label, Ja Rule became one of the rap industry's most commer
- cially successful artists during the early 2000s, working...
-DTEND;VALUE=DATE:20230302
-DTSTART;VALUE=DATE:20230302
-SUMMARY:Lloyd @ OVO Arena Wembley
-UID:6f10ae87-f14a-471e-9570-307a8e3c6d3e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
-DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
- ke light through a film projector. At the core of the music’s upbeat ene
- rgy and unfiltered lyrics, you’ll hear who he was before and...
-DTEND;VALUE=DATE:20230214
-DTSTART;VALUE=DATE:20230214
-SUMMARY:Noah Kahan
-UID:f070e4b3-0b84-4f12-8e00-6241f163e70f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
+DTSTAMP:20231220T011015Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231223
 DTSTART;VALUE=DATE:20231223
 SUMMARY:Wembley Stadium Tour
-UID:9cc0a778-4843-42a3-8c6f-f127685eafd2
+UID:515a8a6d-bd3b-4e0c-8d2f-2065478713c1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231219T013037Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20230428
-DTSTART;VALUE=DATE:20230428
-SUMMARY:Bear Grylls
-UID:df75cfc5-5fa3-4c1f-9947-66a2ee474a36
+DTSTAMP:20231220T011015Z
+DESCRIPTION:As the flagship artist for producer Irv Gotti's Def Jam-affilia
+ ted Murder Inc. label, Ja Rule became one of the rap industry's most commer
+ cially successful artists during the early 2000s, working...
+DTEND;VALUE=DATE:20230302
+DTSTART;VALUE=DATE:20230302
+SUMMARY:Lloyd @ OVO Arena Wembley
+UID:41b2e43d-d1fc-4ca5-ba90-10c603266bf5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231220T011015Z
+DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
+ ke light through a film projector. At the core of the music’s upbeat ene
+ rgy and unfiltered lyrics, you’ll hear who he was before and...
+DTEND;VALUE=DATE:20230214
+DTSTART;VALUE=DATE:20230214
+SUMMARY:Noah Kahan
+UID:5907f8ed-e629-4e85-a6b8-14855fbbf992
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231220T011015Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231220
+DTSTART;VALUE=DATE:20231220
+SUMMARY:Wembley Stadium Tour
+UID:57c62879-67c9-4ac6-8a36-6a90c51c2342
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231220T011015Z
+DESCRIPTION:Aside from her illustrious Bollywood career, as a solo artist S
+ hreya Ghoshal has released over sixteen studio albums in a range of dialect
+ s which has seen her travel across the globe performing in...
+DTEND;VALUE=DATE:20230209
+DTSTART;VALUE=DATE:20230209
+SUMMARY:Shreya Ghoshal
+UID:1ec57bfe-052a-4147-bc3b-a1a545f76c45
 END:VEVENT
 END:VCALENDAR
