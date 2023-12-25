@@ -3,101 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
+DTSTAMP:20231225T013103Z
+DESCRIPTION:Defected NYE at OVO Arena Wembley in Wembley Park. Defected NY
+ E at OVO Arena Wembley in Wembley Park.
+DTEND;VALUE=DATE:20231231
+DTSTART;VALUE=DATE:20231231
+SUMMARY:Defected NYE
+UID:30b45a74-2610-4b09-a90e-467abcc68164
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231225T013103Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231227
+DTSTART;VALUE=DATE:20231227
+SUMMARY:Wembley Stadium Tour
+UID:c8aff656-8d51-4d6b-b6d7-7f4f434ef10f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231225T013103Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:e8b79cfa-c558-44b1-a54d-25b7aa3eb9d0
+UID:f0e29360-dc9b-4029-a11a-5885acc1c987
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231224
-DTSTART;VALUE=DATE:20231224
-SUMMARY:Wembley Stadium Tour
-UID:4b8eb561-4619-4821-9aa8-2db29f1e4ba8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
+DTSTAMP:20231225T013103Z
 DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
  lanta native, a Grammy-nominated singer, rapper, producer, creative designe
  r, branding genius and fashion icon. Currently Yachty is on the...
 DTEND;VALUE=DATE:20230429
 DTSTART;VALUE=DATE:20230429
 SUMMARY:Lil Yachty
-UID:f5e59058-558d-4668-ab35-d9effe0646bc
+UID:9278bf42-3232-4da4-9559-2b84646c532d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
+DTSTAMP:20231225T013103Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231231
+DTSTART;VALUE=DATE:20231231
+SUMMARY:Wembley Stadium Tour
+UID:2d044c9d-2265-4592-91af-58ab5f6b0d8a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231225T013103Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20230215
 DTSTART;VALUE=DATE:20230215
 SUMMARY:Noah Kahan
-UID:cde90ce8-d674-48e0-96e6-4cbde9511b77
+UID:de99ff9b-d4bf-44c7-a9d1-a783e17f8774
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
+DTSTAMP:20231225T013103Z
 DESCRIPTION:As the flagship artist for producer Irv Gotti's Def Jam-affilia
  ted Murder Inc. label, Ja Rule became one of the rap industry's most commer
  cially successful artists during the early 2000s, working...
 DTEND;VALUE=DATE:20230302
 DTSTART;VALUE=DATE:20230302
 SUMMARY:Lloyd @ OVO Arena Wembley
-UID:caf44df1-5779-481a-a025-18855353ce94
+UID:1eb0fba2-957e-4d69-aaa3-0f3be43cb3f3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20230428
-DTSTART;VALUE=DATE:20230428
-SUMMARY:Bear Grylls
-UID:097a8a3f-a952-42ca-a31d-d8280ab75f5d
+DTSTAMP:20231225T013103Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231229
+DTSTART;VALUE=DATE:20231229
+SUMMARY:Wembley Stadium Tour
+UID:63926980-d8b7-45f1-b1c0-55f3c4ff55d2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
+DTSTAMP:20231225T013103Z
+DESCRIPTION:No under 5s at all will be permitted in the venue No under 14s 
+ on the pitch (Front Standing/General Admission Standing) All under 14s mus
+ t be seated and accompanied by an adult aged 18 or over...
+DTEND;VALUE=DATE:20230623
+DTSTART;VALUE=DATE:20230623
+SUMMARY:Taylor Swift
+UID:94627922-c133-4c84-9259-4802cf521968
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231225T013103Z
 DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
  ke light through a film projector. At the core of the music’s upbeat ene
  rgy and unfiltered lyrics, you’ll hear who he was before and...
 DTEND;VALUE=DATE:20230214
 DTSTART;VALUE=DATE:20230214
 SUMMARY:Noah Kahan
-UID:ae2558c0-0a4a-4c9d-9954-48b92d6a0218
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
-DESCRIPTION:Objective: Googoosh is desiring to portray that Iranian people 
- are different from the Iranian Government and their policies. The majority 
- of Iranians are unhappy with the current regime. As an...
-DTEND;VALUE=DATE:20230328
-DTSTART;VALUE=DATE:20230328
-SUMMARY:Googoosh Live In Concert
-UID:7b018255-51a8-4eef-96c4-a7b0f80f49c8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
-DESCRIPTION:Aside from her illustrious Bollywood career, as a solo artist S
- hreya Ghoshal has released over sixteen studio albums in a range of dialect
- s which has seen her travel across the globe performing in...
-DTEND;VALUE=DATE:20230209
-DTSTART;VALUE=DATE:20230209
-SUMMARY:Shreya Ghoshal
-UID:f5e1e7da-c3e1-4d56-9898-0762868b9a40
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231224T013357Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20230316
-DTSTART;VALUE=DATE:20230316
-SUMMARY:James Arthur
-UID:4365d589-a5b5-4e5e-b5a7-859abcf5f0e8
+UID:03c60169-31e2-4c89-9e99-99e1897d9200
 END:VEVENT
 END:VCALENDAR
