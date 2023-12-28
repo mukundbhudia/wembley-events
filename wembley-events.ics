@@ -3,102 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
+DTSTAMP:20231228T012217Z
+DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
+ election of tracks to kickstart your weekend!
+DTEND;VALUE=DATE:20231229
+DTSTART;VALUE=DATE:20231229
+SUMMARY:FRIDAY FEELINGS
+UID:890333ba-da37-4118-8ebb-fe8daf9187f8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231228T012217Z
 DESCRIPTION:Defected NYE at OVO Arena Wembley in Wembley Park. Defected NY
  E at OVO Arena Wembley in Wembley Park.
 DTEND;VALUE=DATE:20231231
 DTSTART;VALUE=DATE:20231231
 SUMMARY:Defected NYE
-UID:3884234c-faa8-49e5-a489-6767c971a8f6
+UID:e7067255-baf2-4865-ba11-0d802f9d1d5f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231227
-DTSTART;VALUE=DATE:20231227
-SUMMARY:Wembley Stadium Tour
-UID:b0be0dc1-0730-4f71-b25a-a6eaf7addfc0
+DTSTAMP:20231228T012217Z
+DESCRIPTION:RECESS Location: Boxpark Wembley Sat 30 Dec 4pm — 11pm
+DTEND;VALUE=DATE:20231230
+DTSTART;VALUE=DATE:20231230
+SUMMARY:RECESS
+UID:8986d27c-3ad4-40e9-a516-38be5a4af145
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
+DTSTAMP:20231228T012217Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:f51fcd71-dc98-4c77-95bf-e7bfe345dfd3
+UID:a056c97f-85d4-496c-a53c-b22992af1424
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
-DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
- lanta native, a Grammy-nominated singer, rapper, producer, creative designe
- r, branding genius and fashion icon. Currently Yachty is on the...
-DTEND;VALUE=DATE:20230429
-DTSTART;VALUE=DATE:20230429
-SUMMARY:Lil Yachty
-UID:b2a4ccb5-b9b1-4b1a-9ad6-ae89d416a79e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
+DTSTAMP:20231228T012217Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231231
 DTSTART;VALUE=DATE:20231231
 SUMMARY:Wembley Stadium Tour
-UID:ada2d0a2-cc24-40bb-8c13-025a68ef845b
+UID:1841a294-f058-4c74-a781-9ecc586f20fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
+DTSTAMP:20231228T012217Z
+DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
+ lanta native, a Grammy-nominated singer, rapper, producer, creative designe
+ r, branding genius and fashion icon. Currently Yachty is on the...
+DTEND;VALUE=DATE:20230429
+DTSTART;VALUE=DATE:20230429
+SUMMARY:Lil Yachty
+UID:4cd8d687-1c95-4d96-8bc2-8ff8ce7a8779
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231228T012217Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20230215
 DTSTART;VALUE=DATE:20230215
 SUMMARY:Noah Kahan
-UID:3892ebbf-5c57-4ee1-833d-f5e2cf694e6e
+UID:96a0b850-8589-4aeb-acee-0b68f059dd69
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
+DTSTAMP:20231228T012217Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20231229
+DTSTART;VALUE=DATE:20231229
+SUMMARY:Wembley Stadium Tour
+UID:cc3adf7c-eded-47fd-9127-688943359d31
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231228T012217Z
 DESCRIPTION:As the flagship artist for producer Irv Gotti's Def Jam-affilia
  ted Murder Inc. label, Ja Rule became one of the rap industry's most commer
  cially successful artists during the early 2000s, working...
 DTEND;VALUE=DATE:20230302
 DTSTART;VALUE=DATE:20230302
 SUMMARY:Lloyd @ OVO Arena Wembley
-UID:8c306e8b-5558-4f00-8fe9-6b7636b44235
+UID:233a5eec-3c0f-4678-a82d-9af7b385f63a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231228
-DTSTART;VALUE=DATE:20231228
-SUMMARY:Wembley Stadium Tour
-UID:e3a68717-5273-412b-9d0c-467a384af3d9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
-DESCRIPTION:No under 5s at all will be permitted in the venue No under 14s 
- on the pitch (Front Standing/General Admission Standing) All under 14s mus
- t be seated and accompanied by an adult aged 18 or over...
-DTEND;VALUE=DATE:20230623
-DTSTART;VALUE=DATE:20230623
-SUMMARY:Taylor Swift
-UID:d61d07eb-8ae0-43d1-b5d2-65186aac9cb1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231227T012158Z
+DTSTAMP:20231228T012217Z
 DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
  ke light through a film projector. At the core of the music’s upbeat ene
  rgy and unfiltered lyrics, you’ll hear who he was before and...
 DTEND;VALUE=DATE:20230214
 DTSTART;VALUE=DATE:20230214
 SUMMARY:Noah Kahan
-UID:46676964-e49a-40f8-bd00-2918b3d5ebdf
+UID:8b6fc102-bec9-4682-bb2a-1d825e9fa660
 END:VEVENT
 END:VCALENDAR
