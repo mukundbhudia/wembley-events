@@ -3,99 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
-DESCRIPTION:Friday Feelings. We're back with our resident DJs providing a s
- election of tracks to kickstart your weekend!
-DTEND;VALUE=DATE:20231230
-DTSTART;VALUE=DATE:20231230
-SUMMARY:FRIDAY FEELINGS
-UID:8a0f8c43-0aa7-4d09-9700-7f1efcd41151
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
+DTSTAMP:20231231T013454Z
 DESCRIPTION:Defected NYE at OVO Arena Wembley in Wembley Park. Defected NY
  E at OVO Arena Wembley in Wembley Park.
 DTEND;VALUE=DATE:20231231
 DTSTART;VALUE=DATE:20231231
-SUMMARY:Defected - NYE 2023
-UID:67d3e358-01f6-4fb7-b100-562b120ac1e9
+SUMMARY:Defected NYE
+UID:45927179-5f84-4e9e-ae1f-048478f60041
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
-DESCRIPTION:RECESS Location: Boxpark Wembley Sat 30 Dec 4pm — 11pm
-DTEND;VALUE=DATE:20231230
-DTSTART;VALUE=DATE:20231230
-SUMMARY:RECESS
-UID:a45b48d0-082d-4011-878e-1acbc6789729
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
+DTSTAMP:20231231T013454Z
 DESCRIPTION:As the flagship artist for producer Irv Gotti's Def Jam-affilia
  ted Murder Inc. label, Ja Rule became one of the rap industry's most commer
  cially successful artists during the early 2000s, working...
 DTEND;VALUE=DATE:20230302
 DTSTART;VALUE=DATE:20230302
 SUMMARY:Ja Rule, Keri Hilson, Lloyd & Mya + more TBA
-UID:dfa0ae95-5325-4d24-91f9-24622864d18f
+UID:72e172a2-b80a-4f75-a2c6-20c2e0e854fb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
-DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
- lanta native, a Grammy-nominated singer, rapper, producer, creative designe
- r, branding genius and fashion icon. Currently Yachty is on the...
-DTEND;VALUE=DATE:20230429
-DTSTART;VALUE=DATE:20230429
-SUMMARY:Lil Yachty
-UID:f54e8fa6-de1f-456a-868f-63a03e28a195
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
+DTSTAMP:20231231T013454Z
 DESCRIPTION:Niall Horan announces “THE SHOW” LIVE ON TOUR 2024″ – h
  is biggest tour yet and first headline run since 2018's Flicker World Tour.
   He'll be performing songs from all three of his solo albums...
 DTEND;VALUE=DATE:20230301
 DTSTART;VALUE=DATE:20230301
 SUMMARY:Niall Horan
-UID:6cf3f345-fe0f-49f5-902a-d349acb72c00
+UID:d5d38a46-02d6-4576-bec0-6a613a3c0ad8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
+DTSTAMP:20231231T013454Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20231231
 DTSTART;VALUE=DATE:20231231
 SUMMARY:Wembley Stadium Tour
-UID:c0d0b3e4-9543-4432-a94c-9605df930552
+UID:c4caae1c-67f2-4afb-92d4-5bbd85a639ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
+DTSTAMP:20231231T013454Z
+DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
+ lanta native, a Grammy-nominated singer, rapper, producer, creative designe
+ r, branding genius and fashion icon. Currently Yachty is on the...
+DTEND;VALUE=DATE:20230429
+DTSTART;VALUE=DATE:20230429
+SUMMARY:Lil Yachty
+UID:7b502ebc-7942-402b-87e3-37a6c54fee45
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231231T013454Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20230215
+DTSTART;VALUE=DATE:20230215
+SUMMARY:Noah Kahan
+UID:15d57146-6552-4748-8080-5b0e72986f17
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231231T013454Z
+DESCRIPTION:Objective: Googoosh is desiring to portray that Iranian people 
+ are different from the Iranian Government and their policies. The majority 
+ of Iranians are unhappy with the current regime. As an...
+DTEND;VALUE=DATE:20230328
+DTSTART;VALUE=DATE:20230328
+SUMMARY:Googoosh Live In Concert
+UID:7f484c7a-b1a4-4f54-bcf5-b68217a588cb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231231T013454Z
+DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 3
+ /29/2024 at 8:00 PM
+DTEND;VALUE=DATE:20230329
+DTSTART;VALUE=DATE:20230329
+SUMMARY:Sonu Nigam Live
+UID:9bc7d044-051b-4928-952b-527f79da96a3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231231T013454Z
 DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
  ke light through a film projector. At the core of the music’s upbeat ene
  rgy and unfiltered lyrics, you’ll hear who he was before and...
 DTEND;VALUE=DATE:20230214
 DTSTART;VALUE=DATE:20230214
 SUMMARY:Noah Kahan
-UID:277e2819-d9c7-4882-840d-3ed375eb9b92
+UID:9564306c-50a5-4709-a470-a586a33cdc71
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
+DTSTAMP:20231231T013454Z
 DESCRIPTION:Aside from her illustrious Bollywood career, as a solo artist S
  hreya Ghoshal has released over sixteen studio albums in a range of dialect
  s which has seen her travel across the globe performing in...
 DTEND;VALUE=DATE:20230209
 DTSTART;VALUE=DATE:20230209
 SUMMARY:Shreya Ghoshal
-UID:952fa821-02a4-4cef-9a3c-c669461fd02d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20231230T012136Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20231230
-DTSTART;VALUE=DATE:20231230
-SUMMARY:Wembley Stadium Tour
-UID:7ec5b674-f67f-4457-9688-cc62408c8ff8
+UID:8b39c291-7598-4dc2-a87e-e0a12002ca7b
 END:VEVENT
 END:VCALENDAR
