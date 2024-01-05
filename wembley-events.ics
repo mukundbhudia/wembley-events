@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
+DTSTAMP:20240105T013107Z
 DESCRIPTION:*please note all prices include t-shirt featuring "Taylor Swif
  t The Eras Tour" and photos printed on front with "Taylor Swift The Eras
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Paramore @ Wembley Stadium
-UID:54fca281-6ee1-43f7-a459-25031302322f
+UID:91e10679-2a64-4016-89c4-07c1daa92ecd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
+DTSTAMP:20240105T013107Z
 DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
  lanta native, a Grammy-nominated singer, rapper, producer, creative designe
  r, branding genius and fashion icon. Currently Yachty is on the...
 DTEND;VALUE=DATE:20240429
 DTSTART;VALUE=DATE:20240429
 SUMMARY:Lil Yachty
-UID:dc9a7c88-0674-4e88-97de-1521318d0413
+UID:9ccec505-715a-41b5-b36d-6c3b95b7b102
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240104
-DTSTART;VALUE=DATE:20240104
-SUMMARY:Wembley Stadium Tour
-UID:d19b5627-476c-4a68-8d3b-47755ba76a28
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
-DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
- ke light through a film projector. At the core of the music’s upbeat ene
- rgy and unfiltered lyrics, you’ll hear who he was before and...
-DTEND;VALUE=DATE:20240214
-DTSTART;VALUE=DATE:20240214
-SUMMARY:Noah Kahan
-UID:a45aecbc-6930-414d-a230-3e2d4a92dd0f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
-DESCRIPTION:It’s been a decade since Slash Featuring Myles Kennedy and Th
- e Conspirators released their debut album together, 2012’s landmark Apoca
- lyptic Love . Ever since, the band – which, in addition to
-DTEND;VALUE=DATE:20240405
-DTSTART;VALUE=DATE:20240405
-SUMMARY:Slash
-UID:df76f22f-29e5-4f81-aada-aafa066a5da6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
+DTSTAMP:20240105T013107Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240105
 DTSTART;VALUE=DATE:20240105
 SUMMARY:Wembley Stadium Tour
-UID:a5e38480-6571-47a7-94c1-ab500788f4b9
+UID:6681e1c2-8c1a-4b6c-8b7d-738c47ec5d55
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
-DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
-  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
- essing the urgent need for access to mental health services by...
-DTEND;VALUE=DATE:20240215
-DTSTART;VALUE=DATE:20240215
+DTSTAMP:20240105T013107Z
+DESCRIPTION:I've been a Swiftie since the singer's self-titled debut album 
+ came out in 2006. My appreciation for Taylor Swift makes sense, given that 
+ I grew up in Franklin, Tennessee, just 20 minutes outside...
+DTEND;VALUE=DATE:20240622
+DTSTART;VALUE=DATE:20240622
+SUMMARY:Taylor Swift
+UID:9edb436b-d9a6-4add-b18f-f20e4f5bec83
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240105T013107Z
+DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
+ ke light through a film projector. At the core of the music’s upbeat ene
+ rgy and unfiltered lyrics, you’ll hear who he was before and...
+DTEND;VALUE=DATE:20240214
+DTSTART;VALUE=DATE:20240214
 SUMMARY:Noah Kahan
-UID:25326ef1-aa95-4906-9770-2ca730d8de5b
+UID:2a4b2c30-d1b1-4449-af9d-8a6aa3683c0c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
+DTSTAMP:20240105T013107Z
 DESCRIPTION:Originally from Mullingar, Ireland, Horan has sold over 80 mill
  ion records and toured the globe multiple times as part of the iconic One D
  irection . With his full-length solo debut Flicker
 DTEND;VALUE=DATE:20240301
 DTSTART;VALUE=DATE:20240301
 SUMMARY:Niall Horan
-UID:93153e8c-2c25-4024-a25c-d6a2037cf250
+UID:5df9f7e4-fc64-4cfb-ac34-6de528c53bad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
+DTSTAMP:20240105T013107Z
 DESCRIPTION:Green Day The Saviors Tour 2024 Tickets | Saturday 29 June 2024
  , 18:30 | Wembley Stadium, London
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day
-UID:c9c17f31-0505-46c9-8b95-6a1d6a9f61bd
+UID:7a6829a5-3dd6-465e-9cb4-f911628b1266
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240104T013011Z
+DTSTAMP:20240105T013107Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20240215
+DTSTART;VALUE=DATE:20240215
+SUMMARY:Noah Kahan
+UID:c47748d5-a0cc-4327-8e63-cb5b2265e0ae
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240105T013107Z
 DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
  the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
  n’t Let Go’ in his stunning live shows.
 DTEND;VALUE=DATE:20240316
 DTSTART;VALUE=DATE:20240316
 SUMMARY:James Arthur
-UID:e02b4246-e839-4500-8e5d-a7194b08e352
+UID:7326f26f-ee11-4803-9327-e7b361e1c972
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240105T013107Z
+DESCRIPTION:Aside from her illustrious Bollywood career, as a solo artist S
+ hreya Ghoshal has released over sixteen studio albums in a range of dialect
+ s which has seen her travel across the globe performing in...
+DTEND;VALUE=DATE:20240209
+DTSTART;VALUE=DATE:20240209
+SUMMARY:Shreya Ghoshal
+UID:028340f4-4369-4e3f-9b6c-85ebdc18a81d
 END:VEVENT
 END:VCALENDAR
