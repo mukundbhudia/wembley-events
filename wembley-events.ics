@@ -3,101 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
-DESCRIPTION:The List | A guide to arts & entertainment in the UK. Event lis
- tings, gig guide, cinema times, restaurant reviews, tour dates.
-DTEND;VALUE=DATE:20240113
-DTSTART;VALUE=DATE:20240113
-SUMMARY:Devi Sri Prasad
-UID:ae4ac46a-7050-4106-9555-a75e916c6182
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
+DTSTAMP:20240114T013752Z
 DESCRIPTION:Originally from Mullingar, Ireland, Horan has sold over 80 mill
  ion records and toured the globe multiple times as part of the iconic One D
  irection . With his full-length solo debut Flicker
 DTEND;VALUE=DATE:20240301
 DTSTART;VALUE=DATE:20240301
 SUMMARY:Niall Horan
-UID:914991b0-f3f0-4a22-84ec-2fce688e0c22
+UID:49374186-c7f5-4239-a279-1380cb4b2d05
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
+DTSTAMP:20240114T013752Z
 DESCRIPTION:21 June 2024 - 23 June 2024 21 June 2024 - 23 June 2024 22 Jun
  e 2024 – Book Now 23 June 2024 – Book Now 15 August 2024 – Book Now 1
  6 August 2024 – Book Now 17 August 2024 – Book Now Taylor Swift...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Paramore @ Wembley Stadium
-UID:2a8c1d05-f6a9-4863-842f-18406ab70371
+UID:15932ed1-3e98-4acb-a550-3fea5f16cf0a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
+DTSTAMP:20240114T013752Z
+DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
+ ational Express journeys from across the UK.
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Green Day at Wembley
+UID:26b86606-cdd2-4de0-9b9c-238fef1e295a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240114T013752Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240114
 DTSTART;VALUE=DATE:20240114
 SUMMARY:Wembley Stadium Tour
-UID:12232788-58f7-42a7-8673-308e34e00d9e
+UID:5ffff9b4-5909-425a-a0fd-8cf6bee0b259
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
-DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
- ational Express journeys from across the UK.
-DTEND;VALUE=DATE:20240629
-DTSTART;VALUE=DATE:20240629
-SUMMARY:Green Day @ Wembley Stadium
-UID:1e9ecacd-47fa-4d91-abd1-01b0479b0c21
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
+DTSTAMP:20240114T013752Z
 DESCRIPTION:Ja Rule, one of the rap industry's most commercially successfu
  l artists will be taking to the stage at OVO Arena Wembley next year alongs
  ide special guests Keri Hilson, Lloyd and Mya.
 DTEND;VALUE=DATE:20240302
 DTSTART;VALUE=DATE:20240302
 SUMMARY:Ja Rule, Keri Hilson, Lloyd & Mya + more TBA
-UID:2b731066-0b4c-4678-a077-8d24d3f060b4
+UID:739726d5-704c-49b5-8abd-45f71b401b00
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240113
-DTSTART;VALUE=DATE:20240113
-SUMMARY:Wembley Stadium Tour
-UID:437b6f71-12a1-4d02-8e8c-dd1c2b2f05bf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
-DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
- actress. She is known for her contributions to Iranian pop music, but also 
- starred in a variety of movies. She achieved the pinnacle of her...
-DTEND;VALUE=DATE:20240328
-DTSTART;VALUE=DATE:20240328
-SUMMARY:Googoosh
-UID:c1ab48db-5d68-4ce8-b844-52968357948a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
+DTSTAMP:20240114T013752Z
 DESCRIPTION:No under 5s at all will be permitted in the venue No under 14s 
  on the pitch (Front Standing/General Admission Standing) All under 14s mus
  t be seated and accompanied by an adult aged 18 or over...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Taylor Swift
-UID:4c81d3d1-4ca2-4d39-8c66-4da3885cd1f1
+UID:c06409c0-62ba-49c1-a17f-426176551db9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240113T013117Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20240316
-DTSTART;VALUE=DATE:20240316
-SUMMARY:James Arthur
-UID:443acae7-3715-4dc6-a28c-916a10738262
+DTSTAMP:20240114T013752Z
+DESCRIPTION:Aside from her illustrious Bollywood career, as a solo artist S
+ hreya Ghoshal has released over sixteen studio albums in a range of dialect
+ s which has seen her travel across the globe performing in...
+DTEND;VALUE=DATE:20240209
+DTSTART;VALUE=DATE:20240209
+SUMMARY:Shreya Ghoshal
+UID:cfaf388b-c4f6-416f-ac95-07f068d1f996
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240114T013752Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20240428
+DTSTART;VALUE=DATE:20240428
+SUMMARY:Bear Grylls
+UID:17140698-00de-42db-82e9-be14a294ace6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240114T013752Z
+DESCRIPTION:Fish Leong is renowned for her unique musical talent, heartfel
+ t singing, and emotional lyrics. Since her debut in the music industry, he
+ r songs have accompanied countless individuals through...
+DTEND;VALUE=DATE:20240116
+DTSTART;VALUE=DATE:20240116
+SUMMARY:Fish Leong
+UID:4ba65854-b21b-4f50-b6ef-16df1df79404
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240114T013752Z
+DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 3
+ /29/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240329
+DTSTART;VALUE=DATE:20240329
+SUMMARY:Sonu Nigam Live
+UID:b92b79c1-9415-432a-88a7-634142e8cbcf
 END:VEVENT
 END:VCALENDAR
