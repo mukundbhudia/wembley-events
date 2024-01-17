@@ -3,99 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
-DESCRIPTION:21 June 2024 - 23 June 2024 21 June 2024 - 23 June 2024 22 Jun
- e 2024 – Book Now 23 June 2024 – Book Now 15 August 2024 – Book Now 1
- 6 August 2024 – Book Now 17 August 2024 – Book Now Taylor Swift...
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Paramore @ Wembley Stadium
-UID:f00db0cb-0bcd-4469-8ded-7bd44547150c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
+DTSTAMP:20240117T013255Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day at Wembley
-UID:2b720644-57f4-4772-909f-01748063e612
+UID:5a3a0390-f18d-46e8-8269-e5d33676bf22
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
+DTSTAMP:20240117T013255Z
+DESCRIPTION:21 June 2024 - 23 June 2024 21 June 2024 - 23 June 2024 22 Jun
+ e 2024 – Book Now 23 June 2024 – Book Now 15 August 2024 – Book Now 1
+ 6 August 2024 – Book Now 17 August 2024 – Book Now Taylor Swift...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Taylor Swift
+UID:d4a0d7b4-bac6-4f1b-a97b-80bb01e4f391
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240117T013255Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240119
 DTSTART;VALUE=DATE:20240119
 SUMMARY:Wembley Stadium Tour
-UID:fc5dba9b-76df-4377-8f95-7aa9651cd22f
+UID:01d3d23a-7342-4e4f-9b69-322b78fa32ec
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
+DTSTAMP:20240117T013255Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20240215
 DTSTART;VALUE=DATE:20240215
 SUMMARY:Noah Kahan
-UID:daa4db17-2a32-472e-8ac5-e89691bd374b
+UID:d0fc69ef-c577-4eb1-b218-6afdb9d1ed2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
+DTSTAMP:20240117T013255Z
 DESCRIPTION:No under 5s at all will be permitted in the venue No under 14s 
  on the pitch (Front Standing/General Admission Standing) All under 14s mus
  t be seated and accompanied by an adult aged 18 or over...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Taylor Swift
-UID:62f7ee82-a7f2-4f00-bd8e-1d981f1ac898
+UID:7254091e-304a-4ce7-a0d7-fb5f00acaea7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
+DTSTAMP:20240117T013255Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240120
 DTSTART;VALUE=DATE:20240120
 SUMMARY:Wembley Stadium Tour
-UID:88484e27-4e8b-4f65-bc2f-3cf3e9a3673d
+UID:6a177d61-9dbf-4073-b4be-ff9d72c1e350
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
+DTSTAMP:20240117T013255Z
 DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
  ke light through a film projector. At the core of the music’s upbeat ene
  rgy and unfiltered lyrics, you’ll hear who he was before and...
 DTEND;VALUE=DATE:20240214
 DTSTART;VALUE=DATE:20240214
 SUMMARY:Noah Kahan
-UID:acb17456-9c53-40de-a804-23c51f709b1e
+UID:8077eef6-61aa-4d91-9245-f9ece3138d2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20240428
-DTSTART;VALUE=DATE:20240428
-SUMMARY:Bear Grylls
-UID:94cd9a81-4115-4d7c-8a7f-9d75ba9fb30c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240116
-DTSTART;VALUE=DATE:20240116
-SUMMARY:Wembley Stadium Tour
-UID:1d143c9f-d86b-448b-8b71-60251129461b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240116T013230Z
+DTSTAMP:20240117T013255Z
 DESCRIPTION:Buy Tito Nieves tickets from Ticketmaster IE. Tito Nieves 2024-
  25 tour dates, event details + much more.
 DTEND;VALUE=DATE:20240120
 DTSTART;VALUE=DATE:20240120
 SUMMARY:Tito Nieves
-UID:25e65690-429a-487f-a544-eba4ef4e28f8
+UID:423532cf-3a6e-4b43-b100-681b5042a0cc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240117T013255Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240117
+DTSTART;VALUE=DATE:20240117
+SUMMARY:Wembley Stadium Tour
+UID:23cb0bb3-8aaa-4355-927e-f3603b69060a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240117T013255Z
+DESCRIPTION:Information related to purchasing tickets to and attending the 
+ concert of Taylor Swift, Paramore and The Eras Tour at Wembley Stadium on S
+ at, Jun 22, 2024
+DTEND;VALUE=DATE:20240622
+DTSTART;VALUE=DATE:20240622
+SUMMARY:Taylor Swift, Paramore and The Eras Tour at...
+UID:3178cace-dc74-40f5-ac46-533242cad306
 END:VEVENT
 END:VCALENDAR
