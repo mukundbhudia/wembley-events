@@ -3,101 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
+DTSTAMP:20240122T013636Z
+DESCRIPTION:Having garnered worldwide attention with their versatile musica
+ l sound and powerful dance performances, super -pop rookie boy group xiker
+ s are set to bring their incredible stage show to London...
+DTEND;VALUE=DATE:20240128
+DTSTART;VALUE=DATE:20240128
+SUMMARY:xikers
+UID:6b35239e-0f05-4bc8-8e04-f14c4755b5c2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240122T013636Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20240126
+SUMMARY:Wembley Stadium Tour
+UID:366d033b-6cfe-4f95-9e2e-e673e92a876f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240122T013636Z
 DESCRIPTION:21 June 2024 - 23 June 2024 21 June 2024 - 23 June 2024 22 Jun
  e 2024 – Book Now 23 June 2024 – Book Now 15 August 2024 – Book Now 1
  6 August 2024 – Book Now 17 August 2024 – Book Now Taylor Swift...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Taylor Swift
-UID:02d33007-bbbe-48a0-bdfe-314538c136a8
+UID:7560a0ee-0502-496b-87f4-1b1aa60e523b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
+DTSTAMP:20240122T013636Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20240215
 DTSTART;VALUE=DATE:20240215
 SUMMARY:Noah Kahan
-UID:0109129d-4fe7-4871-bc5a-4875b0289151
+UID:5ded891c-2536-4543-9103-8f0ea1b7f5c3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
+DTSTAMP:20240122T013636Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20240121
-DTSTART;VALUE=DATE:20240121
+DTEND;VALUE=DATE:20240124
+DTSTART;VALUE=DATE:20240124
 SUMMARY:Wembley Stadium Tour
-UID:f77ce611-39a0-4453-ae96-4b248bb82968
+UID:aeb9ee1b-bf68-447c-9488-5b124b6eb4fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
+DTSTAMP:20240122T013636Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day at Wembley
-UID:faa8f022-97cb-44f9-bce8-7b31c253ecb9
+UID:5d718c07-f33f-44d5-9477-88eb34e64869
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
+DTSTAMP:20240122T013636Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20240214
 DTSTART;VALUE=DATE:20240214
 SUMMARY:Noah Kahan
-UID:e038b600-8cd9-4778-bd7e-51e5fcc7472d
+UID:d6146b47-d063-46ff-a9ee-c45e6c16d072
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
+DTSTAMP:20240122T013636Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240125
+DTSTART;VALUE=DATE:20240125
+SUMMARY:Wembley Stadium Tour
+UID:7c022106-81b9-4dad-8a3e-20c156b701be
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240122T013636Z
+DESCRIPTION:G FLIP \+ Special Guests The KOKO venue has limited space for a
+ ccessibility. Accessibility tickets are only purchasable through the KOKO w
+ ebsite and once these tickets have been sold, we cannot...
+DTEND;VALUE=DATE:20240124
+DTSTART;VALUE=DATE:20240124
+SUMMARY:G Flip
+UID:020756bb-f742-4df3-a68e-7a6f1330545a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240122T013636Z
 DESCRIPTION:No under 5s at all will be permitted in the venue No under 14s 
  on the pitch (Front Standing/General Admission Standing) All under 14s mus
  t be seated and accompanied by an adult aged 18 or over...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Taylor Swift
-UID:e481dc56-1d1d-44a6-96e9-e4cd2b611bfe
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
-DESCRIPTION:Buy Bruce Springsteen & The E Street Band tickets and sign-up f
- or latest tour alerts. Find Bruce Springsteen & The E Street Band tour date
- s, reviews, times and event details.
-DTEND;VALUE=DATE:20240725
-DTSTART;VALUE=DATE:20240725
-SUMMARY:Bruce Springsteen & The E Street Band
-UID:b2d8a608-f23f-4f00-8b6c-4c337acc08e0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
-DESCRIPTION:The Mother Mother show due to take place at OVO Arena Wembley o
- n 29 Feb 2024 has moved venues and will now be taking place at Troxy on th
- e same date. Statement below Due to logistical and...
-DTEND;VALUE=DATE:20240229
-DTSTART;VALUE=DATE:20240229
-SUMMARY:Mother Mother
-UID:4bb4f90c-344d-409b-a7b7-d22c807a690b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
-DESCRIPTION:Buy Bring Me The Horizon tickets and sign-up for latest tour al
- erts. Find Bring Me The Horizon tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240121
-DTSTART;VALUE=DATE:20240121
-SUMMARY:Cassyette
-UID:805c64e9-a0c5-4447-a7aa-25c74e5adf01
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240121T013808Z
-DESCRIPTION:Find tickets for Fridayy at KOKO in London on 1/21/2024 at 7:0
- 0 PM
-DTEND;VALUE=DATE:20240121
-DTSTART;VALUE=DATE:20240121
-SUMMARY:Fridayy
-UID:92b26a1b-ed12-403d-959c-42c1cecdf74d
+UID:52c9fbed-1855-4ff6-b912-e9ddbd47f5d1
 END:VEVENT
 END:VCALENDAR
