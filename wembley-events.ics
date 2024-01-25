@@ -3,102 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
+DTSTAMP:20240125T013424Z
 DESCRIPTION:Having garnered worldwide attention with their versatile musica
  l sound and powerful dance performances, super -pop rookie boy group xiker
  s are set to bring their incredible stage show to London...
 DTEND;VALUE=DATE:20240128
 DTSTART;VALUE=DATE:20240128
 SUMMARY:xikers
-UID:9a612e7b-bfe2-4296-a058-1e415133c1c7
+UID:5efd8369-1146-4316-8499-cec4509b51e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
+DTSTAMP:20240125T013424Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240126
 DTSTART;VALUE=DATE:20240126
 SUMMARY:Wembley Stadium Tour
-UID:82f77fa5-ba81-40b9-92d4-d52306331b95
+UID:afcb23a9-a96e-4286-9186-dde1323140b2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
-DESCRIPTION:21 June 2024 - 23 June 2024 21 June 2024 - 23 June 2024 22 Jun
- e 2024 – Book Now 23 June 2024 – Book Now 15 August 2024 – Book Now 1
- 6 August 2024 – Book Now 17 August 2024 – Book Now Taylor Swift...
+DTSTAMP:20240125T013424Z
+DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
+ y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
+ t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
-SUMMARY:Taylor Swift
-UID:0a280304-3880-44b3-a617-8a3824f6b636
+SUMMARY:Paramore @ Wembley Stadium
+UID:d10b1666-2e37-4a44-9169-c71d65bfddf4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
-DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
-  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
- essing the urgent need for access to mental health services by...
-DTEND;VALUE=DATE:20240215
-DTSTART;VALUE=DATE:20240215
-SUMMARY:Noah Kahan
-UID:4c810fee-eabf-4596-a4eb-85602bc4d98d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240124
-DTSTART;VALUE=DATE:20240124
-SUMMARY:Wembley Stadium Tour
-UID:e3a000b3-c282-49a3-b41c-4691b43c1608
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
-DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
- ational Express journeys from across the UK.
+DTSTAMP:20240125T013424Z
+DESCRIPTION:Green Day is one of the world's best-selling bands of all time
+ , with more than 75 million records sold worldwide and 10 billion cumulativ
+ e audio/visual streams. The five-time Grammy Award-winning...
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
-SUMMARY:Green Day at Wembley
-UID:553d8f6d-8788-4e24-b838-57ec450e87f3
+SUMMARY:Green Day - The Saviors Tour
+UID:93fd44af-9f9f-44a8-bae8-d3d2d62898a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
-DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
-  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
- essing the urgent need for access to mental health services by...
-DTEND;VALUE=DATE:20240214
-DTSTART;VALUE=DATE:20240214
-SUMMARY:Noah Kahan
-UID:7dcfb343-aca6-4045-a3bb-d5b481a01667
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
+DTSTAMP:20240125T013424Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240125
 DTSTART;VALUE=DATE:20240125
 SUMMARY:Wembley Stadium Tour
-UID:c8fffaf1-7a17-4c48-98a6-fe5ef162b989
+UID:874bcdfa-4c92-4b57-b796-3430952cae0d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
+DTSTAMP:20240125T013424Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20240215
+DTSTART;VALUE=DATE:20240215
+SUMMARY:Noah Kahan
+UID:6b672911-8eed-47cd-82c6-51eee7a2ddfd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240125T013424Z
+DESCRIPTION:Home meta Taylor Swift – 22nd June 2024 meta
+DTEND;VALUE=DATE:20240622
+DTSTART;VALUE=DATE:20240622
+SUMMARY:Taylor Swift
+UID:c76ebc37-dd1f-4264-937b-79e37b0b4ccd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240125T013424Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240128
+DTSTART;VALUE=DATE:20240128
+SUMMARY:Wembley Stadium Tour
+UID:4a1ec831-a600-4308-9b32-ab230db4fa92
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240125T013424Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20240214
+DTSTART;VALUE=DATE:20240214
+SUMMARY:Noah Kahan
+UID:d0e45f63-1dde-4a24-b8d7-f8711d973c5e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240125T013424Z
 DESCRIPTION:G FLIP \+ Special Guests The KOKO venue has limited space for a
  ccessibility. Accessibility tickets are only purchasable through the KOKO w
  ebsite and once these tickets have been sold, we cannot...
-DTEND;VALUE=DATE:20240124
-DTSTART;VALUE=DATE:20240124
+DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20240126
 SUMMARY:G Flip
-UID:2c1eebca-65e5-437d-ab8e-66922ae7e9ea
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240124T013349Z
-DESCRIPTION:The Taylor Swift Eras Tour comes to Wembley Stadium for 8 night
- s in 2024. The Eras Tour is a highly anticipated concert series which come
- s to the UK in 2024. Renowned for her chart-topping hits...
-DTEND;VALUE=DATE:20240623
-DTSTART;VALUE=DATE:20240623
-SUMMARY:Taylor Swift
-UID:54a0e516-65b3-410a-9abf-d6e7b0cc4392
+UID:1dbe2152-1226-4329-8087-8a56107b74b4
 END:VEVENT
 END:VCALENDAR
