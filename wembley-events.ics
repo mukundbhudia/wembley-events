@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
-DESCRIPTION:Laugh In The Box sees host Aurie Styla brings a handful of come
- dians from all over to test out material, and have fun with the audience. T
- he night will feature games & prizes, and food available...
-DTEND;VALUE=DATE:20240131
-DTSTART;VALUE=DATE:20240131
-SUMMARY:LAUGH IN THE BOX
-UID:657d3f73-19f9-45b1-9075-4e28bd870756
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240131
-DTSTART;VALUE=DATE:20240131
-SUMMARY:Wembley Stadium Tour
-UID:f4b41151-fd61-42a3-b79c-95bc2ec4a26b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
-DESCRIPTION:Radio X presents Nothing But Thieves at this exclusive gig for 
- fans at O2 Forum Kentish Town. One of the biggest indie-rock bands in the U
- K, they are singer Conor Mason, guitarist Joe...
-DTEND;VALUE=DATE:20240131
-DTSTART;VALUE=DATE:20240131
-SUMMARY:Radio X Presents Nothing But Thieves
-UID:2e849690-4312-49e9-825a-cad3cb208de5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
-DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
- y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
- t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Paramore @ Wembley Stadium
-UID:f0029805-a923-4d0e-b0b1-a6caa8a05f70
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
+DTSTAMP:20240201T012936Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240202
 DTSTART;VALUE=DATE:20240202
 SUMMARY:Wembley Stadium Tour
-UID:1041697d-e9f7-4da3-8bb7-8b138565a372
+UID:b6022a42-6f6e-4a92-8203-d39429535d8b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
+DTSTAMP:20240201T012936Z
+DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
+ y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
+ t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Paramore @ Wembley Stadium
+UID:03ee295e-f338-406f-b558-44ed9c94553a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T012936Z
 DESCRIPTION:Green Day is one of the world's best-selling bands of all time
  , with more than 75 million records sold worldwide and 10 billion cumulativ
  e audio/visual streams. The five-time Grammy Award-winning...
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:8a20c8a5-a88e-4482-b757-385a3efda070
+UID:39c971e6-6ad5-4542-9c66-c058d7b8c9ae
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
-DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
-  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
- essing the urgent need for access to mental health services by...
-DTEND;VALUE=DATE:20240215
-DTSTART;VALUE=DATE:20240215
-SUMMARY:Noah Kahan
-UID:1212a697-3368-40c3-ad95-993328263acd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
+DTSTAMP:20240201T012936Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240201
 DTSTART;VALUE=DATE:20240201
 SUMMARY:Wembley Stadium Tour
-UID:dbc095c7-4079-4427-9159-f4d781351b27
+UID:cbb4ce70-736d-4061-8f62-31373d3a076e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
+DTSTAMP:20240201T012936Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20240215
+DTSTART;VALUE=DATE:20240215
+SUMMARY:Noah Kahan
+UID:bc474910-d569-4be9-b1d5-b1eaa0f11603
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T012936Z
 DESCRIPTION:Home meta Taylor Swift – 22nd June 2024 meta
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
 SUMMARY:Taylor Swift
-UID:3f93bb10-bce7-450e-8ec6-2f349899830e
+UID:ac2ffe38-9974-4ef3-936e-5cdf022683b7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240131T012036Z
+DTSTAMP:20240201T012936Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240204
+DTSTART;VALUE=DATE:20240204
+SUMMARY:Wembley Stadium Tour
+UID:33d236a6-41eb-4835-850c-6ccc5b683734
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T012936Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20240214
 DTSTART;VALUE=DATE:20240214
 SUMMARY:Noah Kahan
-UID:253a10b9-30bb-45a2-968d-3987a8666f2b
+UID:467e96ff-70e3-4526-8221-0353846e7848
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T012936Z
+DESCRIPTION:‘DANIEL SLOSS - CAN’T is the all-new, 12th solo show by Sco
+ tland’s international comedy superstar and we are delighted to welcome Da
+ niel back to Edinburgh Playhouse
+DTEND;VALUE=DATE:20240203
+DTSTART;VALUE=DATE:20240203
+SUMMARY:Daniel Sloss: Can't
+UID:7dd614c6-c953-4644-b1fb-5f83623dc6d5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T012936Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240203
+DTSTART;VALUE=DATE:20240203
+SUMMARY:Wembley Stadium Tour
+UID:37340fb7-e1d2-478c-abd7-db6fd54c0bae
 END:VEVENT
 END:VCALENDAR
