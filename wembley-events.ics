@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
-DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
- y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
- t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Paramore @ Wembley Stadium
-UID:cec5051f-77aa-4618-b540-d92fe5ecc577
+DTSTAMP:20240205T012230Z
+DESCRIPTION:Bring Your Own Bars Poetry is back again ! This is an 18+ even
+ t with photo ID required and an open mic sign up on the door. Hosted by res
+ ident poet extraordinaire Rohan Samuel, our night of bars...
+DTEND;VALUE=DATE:20240205
+DTSTART;VALUE=DATE:20240205
+SUMMARY:BRING YOUR OWN BARS
+UID:16931861-0fff-4617-a73b-d166667fde1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
-DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
-  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
- essing the urgent need for access to mental health services by...
+DTSTAMP:20240205T012230Z
+DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
+ ke light through a film projector. At the core of the music’s upbeat ene
+ rgy and unfiltered lyrics, you’ll hear who he was before and...
 DTEND;VALUE=DATE:20240214
 DTSTART;VALUE=DATE:20240214
 SUMMARY:Noah Kahan
-UID:ebc13d27-fb81-4660-b378-e096c653b553
+UID:14c97f16-2192-4022-8250-ce21d7f6dbd4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
+DTSTAMP:20240205T012230Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20240204
-DTSTART;VALUE=DATE:20240204
+DTEND;VALUE=DATE:20240207
+DTSTART;VALUE=DATE:20240207
 SUMMARY:Wembley Stadium Tour
-UID:fe760de4-3cd3-4d17-9a05-21285f0121a7
+UID:68df0ac3-f8d6-4386-95c8-023aebdd9720
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
+DTSTAMP:20240205T012230Z
 DESCRIPTION:Green Day is one of the world's best-selling bands of all time
  , with more than 75 million records sold worldwide and 10 billion cumulativ
  e audio/visual streams. The five-time Grammy Award-winning...
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:7e174b6b-24c3-4979-bc71-4b8f127fe49b
+UID:4c0c5bae-f704-4b5b-b11a-95777f8d3127
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
+DTSTAMP:20240205T012230Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20240215
 DTSTART;VALUE=DATE:20240215
 SUMMARY:Noah Kahan
-UID:7f67fbd9-7337-46f9-a40a-b7cad9d202fb
+UID:38960795-0e2a-46a1-9116-c60531751cfb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
+DTSTAMP:20240205T012230Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240208
+DTSTART;VALUE=DATE:20240208
+SUMMARY:Wembley Stadium Tour
+UID:fab953b5-813c-4b74-9105-3e4e88636cd9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240205T012230Z
+DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
+ y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
+ t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Paramore @ Wembley Stadium
+UID:b5584c15-fb08-48fd-b5ec-b34f99d92726
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240205T012230Z
 DESCRIPTION:Home meta Taylor Swift – 22nd June 2024 meta
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
 SUMMARY:Taylor Swift
-UID:9c32bb95-cf98-42e1-afa2-855a1563757a
+UID:f5cf6f22-7ebc-4d0f-920a-c3737f214983
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
-DESCRIPTION:Tickets, info and places to stay for Bryson Tiller at OVO Arena
- , Wembleyin London on Tue 16th April 2024. Ents24.com, the UK's biggest ent
- ertainment guide
-DTEND;VALUE=DATE:20240416
-DTSTART;VALUE=DATE:20240416
-SUMMARY:Bryson Tiller
-UID:c0cf5b52-9045-4028-8a89-100c0267d198
+DTSTAMP:20240205T012230Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240206
+DTSTART;VALUE=DATE:20240206
+SUMMARY:Wembley Stadium Tour
+UID:959908a6-1ce0-43e5-a68a-10850c791638
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
+DTSTAMP:20240205T012230Z
 DESCRIPTION:A private box for all Wembley events, located at West End - blo
  ck 229. Seats may be sold in any quantity. 3-course dining and soft drinks 
  are included. Book the full box? Contact us!
 DTEND;VALUE=DATE:20240727
 DTSTART;VALUE=DATE:20240727
-SUMMARY:Bruce Springsteen London Tickets
-UID:47c54db0-f0ca-4f2a-97f9-fccb6398dc9c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
-DESCRIPTION:D-Block Europe (abbreviated to "DBE") are a British hip-hop col
- lective with origins in Lewisham, South East London. The collective current
- ly consists of Adam Nathaniel Williams and Ricky Earl...
-DTEND;VALUE=DATE:20240204
-DTSTART;VALUE=DATE:20240204
-SUMMARY:D-Block Europe
-UID:65431983-c047-44f2-bdcb-26a0b840abab
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240204T013001Z
-DESCRIPTION:Don't miss James Arthur at OVO Arena Wembley in undefined, Lond
- on, GB on Sat Mar 16 2024. Tickets on sale now.
-DTEND;VALUE=DATE:20240317
-DTSTART;VALUE=DATE:20240317
-SUMMARY:James Arthur
-UID:5fc1a9c0-52f9-426c-a446-0e5fae92edbc
+SUMMARY:Bruce Springsteen
+UID:32c5b4eb-65fb-4446-bd62-6877c4102a66
 END:VEVENT
 END:VCALENDAR
