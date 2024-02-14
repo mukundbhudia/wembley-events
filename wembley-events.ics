@@ -3,102 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
-DESCRIPTION:As Noah Kahan changes, he casts those experiences onto songs li
- ke light through a film projector. At the core of the music’s upbeat ene
- rgy and unfiltered lyrics, you’ll hear who he was before and...
+DTSTAMP:20240214T012017Z
+DESCRIPTION:Noah Kahan (born January 1, 1997) is an American singer-songwri
+ ter of folk-infused pop who signed to Republic Records in 2017. Kahan relea
+ sed his first single, "Young Blood" in January 2017 and...
 DTEND;VALUE=DATE:20240214
 DTSTART;VALUE=DATE:20240214
 SUMMARY:Noah Kahan
-UID:0961dd83-458f-4511-8b6a-21aa52d60e6c
+UID:50bf5da4-90ef-41b0-8115-e7c1d7c47037
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
+DTSTAMP:20240214T012017Z
+DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
+  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
+ essing the urgent need for access to mental health services by...
+DTEND;VALUE=DATE:20240215
+DTSTART;VALUE=DATE:20240215
+SUMMARY:Noah Kahan @ OVO Arena Wembley
+UID:81f521d2-f6d1-4b5b-b109-2c93e10ac2e7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240214T012017Z
 DESCRIPTION:Rhymes and riffs incite more change than bullets and bombs eve
  r could. Not long after the Vietnam War, Bad Brains rallied a Rastafarian p
  unk spirit against the international blight of apartheid...
 DTEND;VALUE=DATE:20240217
 DTSTART;VALUE=DATE:20240217
 SUMMARY:FEVER 333
-UID:4ac751e9-812c-4720-90f6-ea8f8e3a4e15
+UID:79a73101-543d-438c-9959-f6fd8e855d6d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
+DTSTAMP:20240214T012017Z
+DESCRIPTION:Don't miss Noah Kahan at OVO Arena Wembley in undefined, London
+ , GB on Thu Feb 15 2024. Tickets on sale now.
+DTEND;VALUE=DATE:20240216
+DTSTART;VALUE=DATE:20240216
+SUMMARY:Noah Kahan
+UID:add8644a-00e8-48e3-879a-5ef1b30b7ad1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240214T012017Z
 DESCRIPTION:Originally from Mullingar, Ireland, Horan has sold over 80 mill
  ion records and toured the globe multiple times as part of the iconic One D
  irection . With his full-length solo debut Flicker
 DTEND;VALUE=DATE:20240301
 DTSTART;VALUE=DATE:20240301
 SUMMARY:Niall Horan
-UID:0c47e328-1f22-4207-9b20-662d7c90fc6a
+UID:cba7a5a4-7eb6-4a53-8d1b-5c59fe95b45e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
-DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
-  support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
- essing the urgent need for access to mental health services by...
-DTEND;VALUE=DATE:20240215
-DTSTART;VALUE=DATE:20240215
-SUMMARY:Noah Kahan
-UID:7e030911-c882-40d2-97a6-f3f4b3629756
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
+DTSTAMP:20240214T012017Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240214
 DTSTART;VALUE=DATE:20240214
 SUMMARY:Wembley Stadium Tour
-UID:b83d703f-77a6-417d-a592-9e2f91d76a49
+UID:066cdaa0-dcc1-49b8-9926-ed761f4a3eff
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
+DTSTAMP:20240214T012017Z
 DESCRIPTION:Even as they progress, Five Finger Death Punch consistently rem
  ain one of the most explosive live acts on the planet. They're a mainstage 
  attraction at international festivals, and ultimately...
 DTEND;VALUE=DATE:20240523
 DTSTART;VALUE=DATE:20240523
 SUMMARY:Five Finger Death Punch
-UID:cd53ed24-6a15-45ef-858c-9bb30a7553d6
+UID:a9348879-5049-428a-8af2-c88ebf0e4936
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
+DTSTAMP:20240214T012017Z
 DESCRIPTION:Ja Rule, one of the rap industry's most commercially successfu
  l artists will be taking to the stage at OVO Arena Wembley next year alongs
  ide special guests Keri Hilson, Lloyd and Mya.
 DTEND;VALUE=DATE:20240302
 DTSTART;VALUE=DATE:20240302
 SUMMARY:Ja Rule, Keri Hilson, Lloyd & Mya + more TBA
-UID:bbba766a-6b44-4a4b-9b9d-7a87f49878d9
+UID:88ccb1fb-2d8d-4697-96e9-3d6feac06887
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
+DTSTAMP:20240214T012017Z
 DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
  lanta native, a Grammy-nominated singer, rapper, producer, creative designe
  r, branding genius and fashion icon. Currently Yachty is on the...
 DTEND;VALUE=DATE:20240429
 DTSTART;VALUE=DATE:20240429
 SUMMARY:Lil Yachty: The Field Trip Tour
-UID:0c98fb3c-8ee7-452e-b30d-4c85334b9284
+UID:a518d015-c986-4aea-a9e8-94ba5a53094f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
+DTSTAMP:20240214T012017Z
 DESCRIPTION:Buy Bryson Tiller tickets and sign-up for latest tour alerts. F
  ind Bryson Tiller tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20240418
 DTSTART;VALUE=DATE:20240418
-SUMMARY:Bryson Tiller
-UID:e67aae70-3712-4385-902f-788c00a76b11
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240213T012018Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240216
-DTSTART;VALUE=DATE:20240216
-SUMMARY:Wembley Stadium Tour
-UID:3b5d0503-0a1f-4981-8df6-24081f38c050
+SUMMARY:Bryson Tiller - EXTRA DATE ADDED
+UID:84a8ad95-545c-43b0-9bea-6ddcb22a66dc
 END:VEVENT
 END:VCALENDAR
