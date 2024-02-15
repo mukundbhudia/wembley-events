@@ -3,101 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
-DESCRIPTION:Noah Kahan (born January 1, 1997) is an American singer-songwri
- ter of folk-infused pop who signed to Republic Records in 2017. Kahan relea
- sed his first single, "Young Blood" in January 2017 and...
-DTEND;VALUE=DATE:20240214
-DTSTART;VALUE=DATE:20240214
-SUMMARY:Noah Kahan
-UID:50bf5da4-90ef-41b0-8115-e7c1d7c47037
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
+DTSTAMP:20240215T011946Z
 DESCRIPTION:Noah Kahan has partnered with PLUS1 so that £1/€‎1 goes to
   support the PLUS1 x The Busyhead Project Fund, which is dedicated to addr
  essing the urgent need for access to mental health services by...
 DTEND;VALUE=DATE:20240215
 DTSTART;VALUE=DATE:20240215
-SUMMARY:Noah Kahan @ OVO Arena Wembley
-UID:81f521d2-f6d1-4b5b-b109-2c93e10ac2e7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
-DESCRIPTION:Rhymes and riffs incite more change than bullets and bombs eve
- r could. Not long after the Vietnam War, Bad Brains rallied a Rastafarian p
- unk spirit against the international blight of apartheid...
-DTEND;VALUE=DATE:20240217
-DTSTART;VALUE=DATE:20240217
-SUMMARY:FEVER 333
-UID:79a73101-543d-438c-9959-f6fd8e855d6d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
-DESCRIPTION:Don't miss Noah Kahan at OVO Arena Wembley in undefined, London
- , GB on Thu Feb 15 2024. Tickets on sale now.
-DTEND;VALUE=DATE:20240216
-DTSTART;VALUE=DATE:20240216
 SUMMARY:Noah Kahan
-UID:add8644a-00e8-48e3-879a-5ef1b30b7ad1
+UID:5c6e5915-dbd8-446f-9837-8dad2bf911a1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
+DTSTAMP:20240215T011946Z
 DESCRIPTION:Originally from Mullingar, Ireland, Horan has sold over 80 mill
  ion records and toured the globe multiple times as part of the iconic One D
  irection . With his full-length solo debut Flicker
 DTEND;VALUE=DATE:20240301
 DTSTART;VALUE=DATE:20240301
 SUMMARY:Niall Horan
-UID:cba7a5a4-7eb6-4a53-8d1b-5c59fe95b45e
+UID:6c3111b4-b573-4404-828a-b616e2b9e69f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240214
-DTSTART;VALUE=DATE:20240214
-SUMMARY:Wembley Stadium Tour
-UID:066cdaa0-dcc1-49b8-9926-ed761f4a3eff
+DTSTAMP:20240215T011946Z
+DESCRIPTION:Rhymes and riffs incite more change than bullets and bombs eve
+ r could. Not long after the Vietnam War, Bad Brains rallied a Rastafarian p
+ unk spirit against the international blight of apartheid...
+DTEND;VALUE=DATE:20240217
+DTSTART;VALUE=DATE:20240217
+SUMMARY:FEVER 333
+UID:c076e8e8-d6c8-49fd-8714-a049304589ba
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
-DESCRIPTION:Even as they progress, Five Finger Death Punch consistently rem
- ain one of the most explosive live acts on the planet. They're a mainstage 
- attraction at international festivals, and ultimately...
-DTEND;VALUE=DATE:20240523
-DTSTART;VALUE=DATE:20240523
-SUMMARY:Five Finger Death Punch
-UID:a9348879-5049-428a-8af2-c88ebf0e4936
+DTSTAMP:20240215T011946Z
+DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
+ y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
+ t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Paramore @ Wembley Stadium
+UID:d393b514-13ab-4d2d-bfdd-3c3972077bb7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
-DESCRIPTION:Ja Rule, one of the rap industry's most commercially successfu
- l artists will be taking to the stage at OVO Arena Wembley next year alongs
- ide special guests Keri Hilson, Lloyd and Mya.
-DTEND;VALUE=DATE:20240302
-DTSTART;VALUE=DATE:20240302
-SUMMARY:Ja Rule, Keri Hilson, Lloyd & Mya + more TBA
-UID:88ccb1fb-2d8d-4697-96e9-3d6feac06887
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
+DTSTAMP:20240215T011946Z
 DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
  lanta native, a Grammy-nominated singer, rapper, producer, creative designe
  r, branding genius and fashion icon. Currently Yachty is on the...
 DTEND;VALUE=DATE:20240429
 DTSTART;VALUE=DATE:20240429
 SUMMARY:Lil Yachty: The Field Trip Tour
-UID:a518d015-c986-4aea-a9e8-94ba5a53094f
+UID:203869e2-a43f-4040-a3c5-4562b834b0ce
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240214T012017Z
+DTSTAMP:20240215T011946Z
+DESCRIPTION:Ja Rule, one of the rap industry's most commercially successfu
+ l artists will be taking to the stage at OVO Arena Wembley next year alongs
+ ide special guests Keri Hilson, Lloyd and Mya.
+DTEND;VALUE=DATE:20240302
+DTSTART;VALUE=DATE:20240302
+SUMMARY:Ja Rule, Keri Hilson, Lloyd & Mya + more TBA
+UID:d9bcb1de-c736-4900-9381-b81ec84a3447
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240215T011946Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240217
+DTSTART;VALUE=DATE:20240217
+SUMMARY:Wembley Stadium Tour
+UID:eb4523b9-2088-4512-9f59-711279fec876
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240215T011946Z
 DESCRIPTION:Buy Bryson Tiller tickets and sign-up for latest tour alerts. F
  ind Bryson Tiller tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240418
-DTSTART;VALUE=DATE:20240418
-SUMMARY:Bryson Tiller - EXTRA DATE ADDED
-UID:84a8ad95-545c-43b0-9bea-6ddcb22a66dc
+DTEND;VALUE=DATE:20240417
+DTSTART;VALUE=DATE:20240417
+SUMMARY:Bryson Tiller
+UID:e38093cf-ebd9-4461-98c4-a06ddd3d429b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240215T011946Z
+DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
+ actress. She is known for her contributions to Iranian pop music, but also 
+ starred in a variety of movies. She achieved the pinnacle of her...
+DTEND;VALUE=DATE:20240328
+DTSTART;VALUE=DATE:20240328
+SUMMARY:Googoosh
+UID:0eea8923-37e7-4e53-b9a4-e007f40bfaa7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240215T011946Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240215
+DTSTART;VALUE=DATE:20240215
+SUMMARY:Wembley Stadium Tour
+UID:bb4d0905-c0a2-47d7-927a-fbdfae0e692a
 END:VEVENT
 END:VCALENDAR
