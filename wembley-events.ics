@@ -3,103 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
+DTSTAMP:20240218T012902Z
 DESCRIPTION:Rhymes and riffs incite more change than bullets and bombs eve
  r could. Not long after the Vietnam War, Bad Brains rallied a Rastafarian p
  unk spirit against the international blight of apartheid...
-DTEND;VALUE=DATE:20240217
-DTSTART;VALUE=DATE:20240217
+DTEND;VALUE=DATE:20240218
+DTSTART;VALUE=DATE:20240218
 SUMMARY:FEVER 333
-UID:e6ec88be-612f-423e-ae67-436ce5efd217
+UID:5794353f-bbea-4dcb-ad92-08752500a8b2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
-DESCRIPTION:Originally from Mullingar, Ireland, Horan has sold over 80 mill
- ion records and toured the globe multiple times as part of the iconic One D
- irection . With his full-length solo debut Flicker
-DTEND;VALUE=DATE:20240301
-DTSTART;VALUE=DATE:20240301
-SUMMARY:Niall Horan
-UID:9a8ddc59-cbbb-4849-b4e5-61cf69478159
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
+DTSTAMP:20240218T012902Z
 DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
  y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
  t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Paramore @ Wembley Stadium
-UID:58922a40-959c-4dec-8544-a0b77f201b03
+UID:739ce69d-2233-444e-81f9-dcdcba16797e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
-DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
- lanta native, a Grammy-nominated singer, rapper, producer, creative designe
- r, branding genius and fashion icon. Currently Yachty is on the...
-DTEND;VALUE=DATE:20240429
-DTSTART;VALUE=DATE:20240429
-SUMMARY:Lil Yachty: The Field Trip Tour
-UID:d50fa97d-cf88-4025-9acf-5c6076fead12
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240217
-DTSTART;VALUE=DATE:20240217
-SUMMARY:Wembley Stadium Tour
-UID:89368373-5457-4287-a087-e821a457afb7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
-DESCRIPTION:Friday nights. On a whole new level. We are going BIG on Friday
- s to give you the best night out, full of spectacular entertainment, surpri
- ses, sing-a-longs and some seriously good dance moves...
-DTEND;VALUE=DATE:20240217
-DTSTART;VALUE=DATE:20240217
-SUMMARY:Noasis (Tribute) @ Boxpark Wembley
-UID:8d9df170-24cb-4bb6-809a-58f93f94a3b1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20240316
-DTSTART;VALUE=DATE:20240316
-SUMMARY:James Arthur
-UID:ca778943-c2cd-4350-bcb0-ac924b2b143d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240218
-DTSTART;VALUE=DATE:20240218
-SUMMARY:Wembley Stadium Tour
-UID:1c475c69-2250-4ea1-aa8c-2633236b1379
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
+DTSTAMP:20240218T012902Z
 DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
  actress. She is known for her contributions to Iranian pop music, but also 
  starred in a variety of movies. She achieved the pinnacle of her...
 DTEND;VALUE=DATE:20240328
 DTSTART;VALUE=DATE:20240328
 SUMMARY:Googoosh
-UID:44c684cf-a992-49e0-b64f-6e92cb290bbb
+UID:5fc3b9ed-44a7-4030-b350-73e43d3e1e8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240217T011911Z
+DTSTAMP:20240218T012902Z
+DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
+ lanta native, a Grammy-nominated singer, rapper, producer, creative designe
+ r, branding genius and fashion icon. Currently Yachty is on the...
+DTEND;VALUE=DATE:20240429
+DTSTART;VALUE=DATE:20240429
+SUMMARY:Lil Yachty: The Field Trip Tour
+UID:6cd8980e-a405-4df5-afe3-f1220466ce73
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240218T012902Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240218
+DTSTART;VALUE=DATE:20240218
+SUMMARY:Wembley Stadium Tour
+UID:10fcf09f-0d1e-413b-8a64-3e2474b780e2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240218T012902Z
+DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
+ the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
+ n’t Let Go’ in his stunning live shows.
+DTEND;VALUE=DATE:20240316
+DTSTART;VALUE=DATE:20240316
+SUMMARY:James Arthur
+UID:7ee44411-eb58-424c-a19a-0dad17cd818e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240218T012902Z
+DESCRIPTION:Even as they progress, Five Finger Death Punch consistently rem
+ ain one of the most explosive live acts on the planet. They're a mainstage 
+ attraction at international festivals, and ultimately...
+DTEND;VALUE=DATE:20240523
+DTSTART;VALUE=DATE:20240523
+SUMMARY:Five Finger Death Punch
+UID:6c7789d5-697c-414b-905e-910c96fbbf86
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240218T012902Z
+DESCRIPTION:Bought to audiences by AEG Live and Harvey Goldsmith, Endeavou
+ r is a ground breaking action-packed two hour show that will visit 13 venue
+ s across the UK and Ireland, kicking off in London on 7...
+DTEND;VALUE=DATE:20240428
+DTSTART;VALUE=DATE:20240428
+SUMMARY:Bear Grylls
+UID:0f965468-4dac-45db-a340-8e488b1fee48
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240218T012902Z
 DESCRIPTION:Clinching the No. 1 spot on the Billboard 200 chart with the re
  lease of his sophomore album True to Self, Bryson Tiller continues to capti
  vate fans following the success of his 2015 album, T R A P...
 DTEND;VALUE=DATE:20240416
 DTSTART;VALUE=DATE:20240416
 SUMMARY:Bryson Tiller
-UID:a7b1c92d-a489-4787-84db-9a3badddc127
+UID:3f4849b4-3018-49df-bbc9-e0cf5e9c28ee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240218T012902Z
+DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 3
+ /29/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240329
+DTSTART;VALUE=DATE:20240329
+SUMMARY:Sonu Nigam Live
+UID:b5131234-00ac-40d8-8917-03d635dea3e6
 END:VEVENT
 END:VCALENDAR
