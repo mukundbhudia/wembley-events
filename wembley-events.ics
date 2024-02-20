@@ -3,102 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
-DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
- actress. She is known for her contributions to Iranian pop music, but also 
- starred in a variety of movies. She achieved the pinnacle of her...
-DTEND;VALUE=DATE:20240328
-DTSTART;VALUE=DATE:20240328
-SUMMARY:Googoosh
-UID:2eebe6cb-5f43-4ac9-a332-6fa42cfceaa1
+DTSTAMP:20240220T011836Z
+DESCRIPTION:Ja Rule, one of the rap industry's most commercially successfu
+ l artists will be taking to the stage at OVO Arena Wembley next year alongs
+ ide special guests Keri Hilson, Lloyd and Mya.
+DTEND;VALUE=DATE:20240302
+DTSTART;VALUE=DATE:20240302
+SUMMARY:Ja Rule - The Sunrise Tour
+UID:ce268b9e-6696-43f6-a9f0-58e90614fe26
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
-DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
- lanta native, a Grammy-nominated singer, rapper, producer, creative designe
- r, branding genius and fashion icon. Currently Yachty is on the...
-DTEND;VALUE=DATE:20240429
-DTSTART;VALUE=DATE:20240429
-SUMMARY:Lil Yachty: The Field Trip Tour
-UID:ddcd9722-e825-4707-b4ca-0cdb566e80fe
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240222
-DTSTART;VALUE=DATE:20240222
-SUMMARY:Wembley Stadium Tour
-UID:1e8bf64d-546d-452b-bb14-709ffb25877a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
+DTSTAMP:20240220T011836Z
 DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
  y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
  t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Paramore @ Wembley Stadium
-UID:7dd67acf-19c1-4ddd-88a5-2315f8dc4388
+UID:9ef8cbe9-d40c-4620-804a-e9b44a2215ad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
+DTSTAMP:20240220T011836Z
+DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
+ actress. She is known for her contributions to Iranian pop music, but also 
+ starred in a variety of movies. She achieved the pinnacle of her...
+DTEND;VALUE=DATE:20240328
+DTSTART;VALUE=DATE:20240328
+SUMMARY:Googoosh
+UID:bf47d659-7dfc-4433-a538-544c866742e2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240220T011836Z
+DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
+ lanta native, a Grammy-nominated singer, rapper, producer, creative designe
+ r, branding genius and fashion icon. Currently Yachty is on the...
+DTEND;VALUE=DATE:20240429
+DTSTART;VALUE=DATE:20240429
+SUMMARY:Lil Yachty: The Field Trip Tour
+UID:d30bc9e2-99de-47d5-bd0a-5a3d453bb75b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240220T011836Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240222
+DTSTART;VALUE=DATE:20240222
+SUMMARY:Wembley Stadium Tour
+UID:c422bd97-91bf-4daf-ae36-1d40cc45accc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240220T011836Z
 DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
  the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
  n’t Let Go’ in his stunning live shows.
 DTEND;VALUE=DATE:20240316
 DTSTART;VALUE=DATE:20240316
 SUMMARY:James Arthur
-UID:6bd06e61-6882-4353-8a87-c24b41138196
+UID:f2549dbd-e0da-4b0c-b3c9-68fdabb2ea31
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
+DTSTAMP:20240220T011836Z
+DESCRIPTION:Bought to audiences by AEG Live and Harvey Goldsmith, Endeavou
+ r is a ground breaking action-packed two hour show that will visit 13 venue
+ s across the UK and Ireland, kicking off in London on 7...
+DTEND;VALUE=DATE:20240428
+DTSTART;VALUE=DATE:20240428
+SUMMARY:Bear Grylls
+UID:b8f52e46-30b3-4c48-ba4f-e88534869b55
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240220T011836Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240221
 DTSTART;VALUE=DATE:20240221
 SUMMARY:Wembley Stadium Tour
-UID:fb9db073-a3c3-4033-9df0-cc092d0f47a6
+UID:9dd45512-38d9-4310-9aa0-0c2cf7f09896
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
-DESCRIPTION:Even as they progress, Five Finger Death Punch consistently rem
- ain one of the most explosive live acts on the planet. They're a mainstage 
- attraction at international festivals, and ultimately...
-DTEND;VALUE=DATE:20240523
-DTSTART;VALUE=DATE:20240523
-SUMMARY:Five Finger Death Punch
-UID:5bce5cce-dd04-4fe1-a40a-50b02fd9b50d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
-DESCRIPTION:Clinching the No. 1 spot on the Billboard 200 chart with the re
- lease of his sophomore album True to Self, Bryson Tiller continues to capti
- vate fans following the success of his 2015 album, T R A P...
-DTEND;VALUE=DATE:20240416
-DTSTART;VALUE=DATE:20240416
-SUMMARY:Bryson Tiller
-UID:25fa7bdf-ac14-4554-a43e-32ef634d8254
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240220
-DTSTART;VALUE=DATE:20240220
-SUMMARY:Wembley Stadium Tour
-UID:9ac94353-2018-48fd-9b5a-74357cef07e5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240219T012102Z
+DTSTAMP:20240220T011836Z
 DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 3
  /29/2024 at 8:00 PM
 DTEND;VALUE=DATE:20240329
 DTSTART;VALUE=DATE:20240329
 SUMMARY:Sonu Nigam Live
-UID:9ac4e797-ee76-4b79-9a0e-082cfc404b07
+UID:517eeb89-af16-41b2-895b-2072b6e0e559
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240220T011836Z
+DESCRIPTION:Buy Five Finger Death Punch tickets from Ticketmaster IE. Five 
+ Finger Death Punch 2024-25 tour dates, event details + much more.
+DTEND;VALUE=DATE:20240523
+DTSTART;VALUE=DATE:20240523
+SUMMARY:Five Finger Death Punch
+UID:7bca9ae7-a513-4836-8cdf-79f30372edcb
 END:VEVENT
 END:VCALENDAR
