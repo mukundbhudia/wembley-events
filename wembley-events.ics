@@ -3,102 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
-DESCRIPTION:Ja Rule, one of the rap industry's most commercially successfu
- l artists will be taking to the stage at OVO Arena Wembley next year alongs
- ide special guests Keri Hilson, Lloyd and Mya.
-DTEND;VALUE=DATE:20240302
-DTSTART;VALUE=DATE:20240302
-SUMMARY:Ja Rule - The Sunrise Tour
-UID:f8e4dc5a-520b-49b3-a334-3155d7864157
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
-DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
- actress. She is known for her contributions to Iranian pop music, but also 
- starred in a variety of movies. She achieved the pinnacle of her...
-DTEND;VALUE=DATE:20240328
-DTSTART;VALUE=DATE:20240328
-SUMMARY:Googoosh
-UID:ad7a6901-4703-400d-98cd-85db4f21d807
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
-DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
- lanta native, a Grammy-nominated singer, rapper, producer, creative designe
- r, branding genius and fashion icon. Currently Yachty is on the...
-DTEND;VALUE=DATE:20240429
-DTSTART;VALUE=DATE:20240429
-SUMMARY:Lil Yachty: The Field Trip Tour
-UID:ee888418-7e49-43c7-8afd-e0db0c96276b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
-DESCRIPTION:Bought to audiences by AEG Live and Harvey Goldsmith, Endeavou
- r is a ground breaking action-packed two hour show that will visit 13 venue
- s across the UK and Ireland, kicking off in London on 7...
-DTEND;VALUE=DATE:20240428
-DTSTART;VALUE=DATE:20240428
-SUMMARY:Bear Grylls
-UID:9524e7f4-4a00-4f89-9607-174701e7b5e6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20240316
-DTSTART;VALUE=DATE:20240316
-SUMMARY:James Arthur
-UID:3b6cbac3-3f1b-497e-8d22-a05ab3daf5af
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
-DESCRIPTION:This special edition, collector's edition of Time Magazine feat
- ures Taylor Swift as Person of the Year for December The publication showca
- ses a
-DTEND;VALUE=DATE:20240622
-DTSTART;VALUE=DATE:20240622
-SUMMARY:Taylor Swift
-UID:23932368-5330-4c31-8c17-6802ba66fa00
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
+DTSTAMP:20240224T011653Z
 DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
  y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
  t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Paramore @ Wembley Stadium
-UID:59c09b46-5cea-49ba-8ff2-bd56a86af693
+UID:13538163-ef95-4d2d-8823-847483a7faa5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
+DTSTAMP:20240224T011653Z
+DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
+ actress. She is known for her contributions to Iranian pop music, but also 
+ starred in a variety of movies. She achieved the pinnacle of her...
+DTEND;VALUE=DATE:20240328
+DTSTART;VALUE=DATE:20240328
+SUMMARY:Googoosh
+UID:edd3c51e-6464-49ae-babe-c01d953f3de8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240224T011653Z
+DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
+ lanta native, a Grammy-nominated singer, rapper, producer, creative designe
+ r, branding genius and fashion icon. Currently Yachty is on the...
+DTEND;VALUE=DATE:20240429
+DTSTART;VALUE=DATE:20240429
+SUMMARY:Lil Yachty: The Field Trip Tour
+UID:3ba61f3b-e2a5-42fa-8859-1a54a34bbd09
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240224T011653Z
+DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
+ the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
+ n’t Let Go’ in his stunning live shows.
+DTEND;VALUE=DATE:20240316
+DTSTART;VALUE=DATE:20240316
+SUMMARY:James Arthur
+UID:f7fedb09-8db2-4a10-9f1a-79cc342b66eb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240224T011653Z
+DESCRIPTION:This special edition, collector's edition of Time Magazine feat
+ ures Taylor Swift as Person of the Year for December The publication showca
+ ses a
+DTEND;VALUE=DATE:20240622
+DTSTART;VALUE=DATE:20240622
+SUMMARY:Taylor Swift
+UID:483a3501-536f-4b3c-ab83-b416923b095f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240224T011653Z
 DESCRIPTION:Australian singer songwriter Troye Sivan, whose debut EP TRXYE 
  hit #1 on iTunes in 66 countries, has become known for his signature brand 
  of moody yet melodic dark-pop songs. The 20-year-old will...
 DTEND;VALUE=DATE:20240627
 DTSTART;VALUE=DATE:20240627
 SUMMARY:Troye Sivan
-UID:5b5e868c-2531-45d2-bab1-b69ec61b46e2
+UID:80e690cc-5aa8-45aa-b0c2-0a2cc4ff209a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
-DESCRIPTION:Arenacross is a high-octane mix of indoor Motocross racing and 
- Freestyle Motocross, carefully choreographed into a three-hour live perform
- ance that includes lasers, pyrotechnics and unscripted...
-DTEND;VALUE=DATE:20240224
-DTSTART;VALUE=DATE:20240224
-SUMMARY:Arenacross
-UID:7779cefc-3c1d-49db-b0b5-e1170fe9308d
+DTSTAMP:20240224T011653Z
+DESCRIPTION:Bought to audiences by AEG Live and Harvey Goldsmith, Endeavou
+ r is a ground breaking action-packed two hour show that will visit 13 venue
+ s across the UK and Ireland, kicking off in London on 7...
+DTEND;VALUE=DATE:20240428
+DTSTART;VALUE=DATE:20240428
+SUMMARY:Bear Grylls
+UID:3db74e95-f466-41d6-956f-d544f7745a12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240223T011829Z
+DTSTAMP:20240224T011653Z
 DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 3
  /29/2024 at 8:00 PM
 DTEND;VALUE=DATE:20240329
 DTSTART;VALUE=DATE:20240329
 SUMMARY:Sonu Nigam Live
-UID:ca094037-7891-46e0-8366-e81adf55aa37
+UID:93a5760d-4f23-4b6f-87d3-dca8cb5c098d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240224T011653Z
+DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
+ ational Express journeys from across the UK.
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Green Day - The Saviors Tour
+UID:374f6e59-c8e0-44bd-a3ed-7a798ecc5e0a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240224T011653Z
+DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
+ n 4/18/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240418
+DTSTART;VALUE=DATE:20240418
+SUMMARY:Bryson Tiller - EXTRA DATE ADDED
+UID:6909c827-8d93-4c34-9d87-f13a4e974d2b
 END:VEVENT
 END:VCALENDAR
