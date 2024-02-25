@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
+DTSTAMP:20240225T012827Z
 DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
  y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
  t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Paramore @ Wembley Stadium
-UID:13538163-ef95-4d2d-8823-847483a7faa5
+UID:2dfbcd88-a3c5-4851-94c5-13d1b0f0eec0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
+DTSTAMP:20240225T012827Z
 DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
  actress. She is known for her contributions to Iranian pop music, but also 
  starred in a variety of movies. She achieved the pinnacle of her...
 DTEND;VALUE=DATE:20240328
 DTSTART;VALUE=DATE:20240328
 SUMMARY:Googoosh
-UID:edd3c51e-6464-49ae-babe-c01d953f3de8
+UID:e473ebd6-2cec-4471-86aa-79b5b54dd20a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
+DTSTAMP:20240225T012827Z
 DESCRIPTION:Lil Yachty, aka Lil Boat, aka “King of the Teens” is an At
  lanta native, a Grammy-nominated singer, rapper, producer, creative designe
  r, branding genius and fashion icon. Currently Yachty is on the...
 DTEND;VALUE=DATE:20240429
 DTSTART;VALUE=DATE:20240429
 SUMMARY:Lil Yachty: The Field Trip Tour
-UID:3ba61f3b-e2a5-42fa-8859-1a54a34bbd09
+UID:2da4464e-182b-4a4c-acee-c3273b112747
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20240316
-DTSTART;VALUE=DATE:20240316
-SUMMARY:James Arthur
-UID:f7fedb09-8db2-4a10-9f1a-79cc342b66eb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
+DTSTAMP:20240225T012827Z
 DESCRIPTION:This special edition, collector's edition of Time Magazine feat
  ures Taylor Swift as Person of the Year for December The publication showca
  ses a
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
 SUMMARY:Taylor Swift
-UID:483a3501-536f-4b3c-ab83-b416923b095f
+UID:0cb8512d-cf36-477e-810d-a3d3a61734a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
+DTSTAMP:20240225T012827Z
 DESCRIPTION:Australian singer songwriter Troye Sivan, whose debut EP TRXYE 
  hit #1 on iTunes in 66 countries, has become known for his signature brand 
  of moody yet melodic dark-pop songs. The 20-year-old will...
 DTEND;VALUE=DATE:20240627
 DTSTART;VALUE=DATE:20240627
 SUMMARY:Troye Sivan
-UID:80e690cc-5aa8-45aa-b0c2-0a2cc4ff209a
+UID:5f1f9f19-2e6c-456b-9ec9-edc8ab1e2ea0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
+DTSTAMP:20240225T012827Z
+DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
+ the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
+ n’t Let Go’ in his stunning live shows.
+DTEND;VALUE=DATE:20240316
+DTSTART;VALUE=DATE:20240316
+SUMMARY:James Arthur
+UID:6c08fe21-8673-460b-b394-7c536a2c52c2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240225T012827Z
+DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 3
+ /29/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240329
+DTSTART;VALUE=DATE:20240329
+SUMMARY:Sonu Nigam Live
+UID:41a3d23d-3d30-4e53-835f-edec718f019f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240225T012827Z
 DESCRIPTION:Bought to audiences by AEG Live and Harvey Goldsmith, Endeavou
  r is a ground breaking action-packed two hour show that will visit 13 venue
  s across the UK and Ireland, kicking off in London on 7...
 DTEND;VALUE=DATE:20240428
 DTSTART;VALUE=DATE:20240428
 SUMMARY:Bear Grylls
-UID:3db74e95-f466-41d6-956f-d544f7745a12
+UID:8de16a60-08d7-4f95-8678-fa966cd0733e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
-DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 3
- /29/2024 at 8:00 PM
-DTEND;VALUE=DATE:20240329
-DTSTART;VALUE=DATE:20240329
-SUMMARY:Sonu Nigam Live
-UID:93a5760d-4f23-4b6f-87d3-dca8cb5c098d
+DTSTAMP:20240225T012827Z
+DESCRIPTION:Find tickets for Boyz II Men at OVO Arena Wembley in London on 
+ 4/20/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240420
+DTSTART;VALUE=DATE:20240420
+SUMMARY:Boyz II Men
+UID:c36b15fc-f78f-4bbe-b8e3-c12abf91b0c2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
-DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
- ational Express journeys from across the UK.
-DTEND;VALUE=DATE:20240629
-DTSTART;VALUE=DATE:20240629
-SUMMARY:Green Day - The Saviors Tour
-UID:374f6e59-c8e0-44bd-a3ed-7a798ecc5e0a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240224T011653Z
-DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
- n 4/18/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240418
-DTSTART;VALUE=DATE:20240418
-SUMMARY:Bryson Tiller - EXTRA DATE ADDED
-UID:6909c827-8d93-4c34-9d87-f13a4e974d2b
+DTSTAMP:20240225T012827Z
+DESCRIPTION:Even as they progress, Five Finger Death Punch consistently rem
+ ain one of the most explosive live acts on the planet. They're a mainstage 
+ attraction at international festivals, and ultimately...
+DTEND;VALUE=DATE:20240523
+DTSTART;VALUE=DATE:20240523
+SUMMARY:Five Finger Death Punch
+UID:ce431c58-af74-4b78-8c87-204e5a2d30e7
 END:VEVENT
 END:VCALENDAR
