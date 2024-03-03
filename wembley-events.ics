@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
-DESCRIPTION:Ja Rule, one of the rap industry's most commercially successfu
- l artists will be taking to the stage at OVO Arena Wembley next year alongs
- ide special guests Keri Hilson, Lloyd and Mya.
-DTEND;VALUE=DATE:20240302
-DTSTART;VALUE=DATE:20240302
-SUMMARY:Ja Rule - The Sunrise Tour
-UID:51a048c1-9643-4561-aac1-e38d728bff47
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
-DESCRIPTION:Don't miss Niall Horan at OVO Arena Wembley in undefined, Londo
- n, GB on Fri Mar 01 2024. Tickets on sale now.
-DTEND;VALUE=DATE:20240302
-DTSTART;VALUE=DATE:20240302
-SUMMARY:Niall Horan
-UID:c6e04697-658c-45b0-bd80-5e4d26027f8c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
+DTSTAMP:20240303T012325Z
 DESCRIPTION:Attention all music lovers! Get ready to be blown away by the t
  alented Nigerian singer, songwriter and graphic designer, Adekunle Gold, a
  s he takes London by storm with his electrifying concert on...
 DTEND;VALUE=DATE:20240303
 DTSTART;VALUE=DATE:20240303
 SUMMARY:Adekunle Gold
-UID:f8f49329-a432-4b07-88ab-2c1a61dfe153
+UID:bb6c4558-41a5-46db-8ac6-58c071557ffb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
-DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
- y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
- t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Taylor Swift
-UID:338708cd-47ea-48e1-9f17-b34ae08ec856
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240302
-DTSTART;VALUE=DATE:20240302
-SUMMARY:Wembley Stadium Tour
-UID:c74d6f81-3865-4f84-83d3-aac611da3655
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
+DTSTAMP:20240303T012325Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240303
 DTSTART;VALUE=DATE:20240303
 SUMMARY:Wembley Stadium Tour
-UID:3c09fbb5-eb47-4def-87c4-f32ff1d3fa4e
+UID:fc83d688-c8a9-47f7-96d5-7a80e9f963c4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
-DESCRIPTION:Find tickets for James Arthur at OVO Arena Wembley in London o
- n 3/16/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240316
-DTSTART;VALUE=DATE:20240316
-SUMMARY:James Arthur
-UID:8b654106-badb-453f-b533-16b7907e3032
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
-DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
- n 4/17/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240417
-DTSTART;VALUE=DATE:20240417
-SUMMARY:Bryson Tiller
-UID:a9076d57-e882-458f-a3fd-29472adb1b6f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
+DTSTAMP:20240303T012325Z
 DESCRIPTION:Bought to audiences by AEG Live and Harvey Goldsmith, Endeavou
  r is a ground breaking action-packed two hour show that will visit 13 venue
  s across the UK and Ireland, kicking off in London on 7...
 DTEND;VALUE=DATE:20240428
 DTSTART;VALUE=DATE:20240428
 SUMMARY:Bear Grylls
-UID:fc816592-d9dc-435f-a595-cff44cff88e2
+UID:a4c26b92-913a-4919-a7da-c0b8378b07ad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240302T011731Z
+DTSTAMP:20240303T012325Z
+DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
+ n 4/17/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240417
+DTSTART;VALUE=DATE:20240417
+SUMMARY:Bryson Tiller
+UID:ea5a2fba-9f54-40ce-ae11-7b2d71317fc5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240303T012325Z
+DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
+ the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
+ n’t Let Go’ in his stunning live shows.
+DTEND;VALUE=DATE:20240316
+DTSTART;VALUE=DATE:20240316
+SUMMARY:James Arthur
+UID:536db180-6b1f-456c-b4d6-5a86ebc352ad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240303T012325Z
+DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
+ actress. She is known for her contributions to Iranian pop music, but also 
+ starred in a variety of movies. She achieved the pinnacle of her...
+DTEND;VALUE=DATE:20240328
+DTSTART;VALUE=DATE:20240328
+SUMMARY:Googoosh
+UID:4a0060d7-eb3d-4273-9ab5-95934f99b158
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240303T012325Z
 DESCRIPTION:Clinching the No. 1 spot on the Billboard 200 chart with the re
  lease of his sophomore album True to Self, Bryson Tiller continues to capti
  vate fans following the success of his 2015 album, T R A P...
 DTEND;VALUE=DATE:20240416
 DTSTART;VALUE=DATE:20240416
 SUMMARY:Bryson Tiller
-UID:302f818b-83d3-44ba-9e18-8e9bf59d57ef
+UID:f33158c2-7222-46b1-8fab-f0e283984825
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240303T012325Z
+DESCRIPTION:Find tickets for Simi with DJ James, YEMI ALADE (Featuring DJ A
+ RAFAT) and DJ Ayo at OVO Arena Wembley in London on 3/3/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240303
+DTSTART;VALUE=DATE:20240303
+SUMMARY:Simi @ OVO Arena Wembley
+UID:9fd8a8a2-72e0-45b7-97a1-2619b3d31b53
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240303T012325Z
+DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
+ y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
+ t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Taylor Swift
+UID:c9ad4094-32a6-4e62-8b8b-b38f0ad1eba7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240303T012325Z
+DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
+ n 4/18/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240418
+DTSTART;VALUE=DATE:20240418
+SUMMARY:Bryson Tiller - EXTRA DATE ADDED
+UID:ea3e1c5e-d686-47b6-9352-7d4914fbfb90
 END:VEVENT
 END:VCALENDAR
