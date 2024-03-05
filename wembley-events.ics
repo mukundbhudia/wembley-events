@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
-DESCRIPTION:Attention all music lovers! Get ready to be blown away by the t
- alented Nigerian singer, songwriter and graphic designer, Adekunle Gold, a
- s he takes London by storm with his electrifying concert on...
-DTEND;VALUE=DATE:20240304
-DTSTART;VALUE=DATE:20240304
-SUMMARY:Adekunle Gold
-UID:70a39048-bbf7-42c9-8e3f-9a0ad574b86a
+DTSTAMP:20240305T011848Z
+DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
+ y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
+ t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Taylor Swift
+UID:b54cbc9f-a179-4f73-bb7c-ba7ba8d96442
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
+DTSTAMP:20240305T011848Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240310
 DTSTART;VALUE=DATE:20240310
 SUMMARY:Wembley Stadium Tour
-UID:f174d10e-9c65-4f56-9a5d-ccae599e7e1e
+UID:3e100177-323e-4a74-b40a-60a3605748a8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240307
-DTSTART;VALUE=DATE:20240307
-SUMMARY:Wembley Stadium Tour
-UID:c1ccf003-45ff-49e5-8e68-c8f1a16b99f9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240305
-DTSTART;VALUE=DATE:20240305
-SUMMARY:Wembley Stadium Tour
-UID:2ff39144-0e37-4c45-b3e8-9a1ab91dae03
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
-DESCRIPTION:Disney on Ice Presents Dream Big at OVO Arena Wembley in Wemble
- y Park on the 7th, 8th, 9th, 10th and 12th of March 2024!
-DTEND;VALUE=DATE:20240308
-DTSTART;VALUE=DATE:20240308
-SUMMARY:Disney On Ice presents Dream Big
-UID:f600f8d3-8f45-43e9-8540-0b048b3d8b35
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
-DESCRIPTION:Join us for a night of soulful vibes at the Blue Check Restaura
- nt in Wembley!
-DTEND;VALUE=DATE:20240309
-DTSTART;VALUE=DATE:20240309
-SUMMARY:Body Fusion
-UID:69322f34-1209-4d98-bb6f-1d4fd4471ce1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
-DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
- the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
- n’t Let Go’ in his stunning live shows.
-DTEND;VALUE=DATE:20240316
-DTSTART;VALUE=DATE:20240316
-SUMMARY:James Arthur
-UID:34af80b0-0d7f-4770-90b6-1ab3aeacb6dd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
-DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
- y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
- t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Taylor Swift: The Eras Tour
-UID:bbcaa2d1-a638-4e83-a06f-080b0d4c5dea
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
-DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
- n 4/17/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240417
-DTSTART;VALUE=DATE:20240417
-SUMMARY:Bryson Tiller
-UID:53638b29-0de9-413e-8fd6-796365b99d93
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240304T012016Z
+DTSTAMP:20240305T011848Z
 DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
  actress. She is known for her contributions to Iranian pop music, but also 
  starred in a variety of movies. She achieved the pinnacle of her...
 DTEND;VALUE=DATE:20240328
 DTSTART;VALUE=DATE:20240328
 SUMMARY:Googoosh
-UID:77fcc553-1013-4327-aa7f-083ae3ed3947
+UID:3d3d02c3-eeb7-4012-b627-d5789a975609
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240305T011848Z
+DESCRIPTION:Disney on Ice Presents Dream Big at OVO Arena Wembley in Wemble
+ y Park on the 7th, 8th, 9th, 10th and 12th of March 2024!
+DTEND;VALUE=DATE:20240308
+DTSTART;VALUE=DATE:20240308
+SUMMARY:Disney On Ice presents Dream Big
+UID:df8e0755-f34b-4426-8bbc-8db53a044b8b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240305T011848Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240307
+DTSTART;VALUE=DATE:20240307
+SUMMARY:Wembley Stadium Tour
+UID:baadef7d-6cc8-4e24-8661-0b126f7f0135
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240305T011848Z
+DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
+ the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
+ n’t Let Go’ in his stunning live shows.
+DTEND;VALUE=DATE:20240316
+DTSTART;VALUE=DATE:20240316
+SUMMARY:James Arthur
+UID:01e51afa-a828-493a-9073-53d2e00701f4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240305T011848Z
+DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
+ n 4/17/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240417
+DTSTART;VALUE=DATE:20240417
+SUMMARY:Bryson Tiller
+UID:d17a7737-02a3-4aac-820c-89a81eebe8bd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240305T011848Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240305
+DTSTART;VALUE=DATE:20240305
+SUMMARY:Wembley Stadium Tour
+UID:c6626eb5-0124-455b-a4f5-950772b33715
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240305T011848Z
+DESCRIPTION:Join us for a night of soulful vibes at the Blue Check Restaura
+ nt in Wembley!
+DTEND;VALUE=DATE:20240309
+DTSTART;VALUE=DATE:20240309
+SUMMARY:Body Fusion
+UID:039383c5-08b5-4864-922c-153c31f764ab
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240305T011848Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240308
+DTSTART;VALUE=DATE:20240308
+SUMMARY:Wembley Stadium Tour
+UID:12ba1daf-407a-44c1-b769-d3d0197414fc
 END:VEVENT
 END:VCALENDAR
