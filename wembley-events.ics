@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240307
-DTSTART;VALUE=DATE:20240307
-SUMMARY:Wembley Stadium Tour
-UID:0d6b56a7-4035-4a96-8d91-ba9f8fc2dc4d
+DTSTAMP:20240307T010605Z
+DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
+ y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
+ t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Paramore @ Wembley Stadium
+UID:9bf1e7b1-1c15-400f-b0fd-c5c17f42e192
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240310
-DTSTART;VALUE=DATE:20240310
-SUMMARY:Wembley Stadium Tour
-UID:557d3ff4-b5a3-49e7-8230-dfbeb25cb9e7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
-DESCRIPTION:Disney on Ice Presents Dream Big at OVO Arena Wembley in Wemble
- y Park on the 7th, 8th, 9th, 10th and 12th of March 2024!
-DTEND;VALUE=DATE:20240308
-DTSTART;VALUE=DATE:20240308
-SUMMARY:Disney On Ice presents Dream Big
-UID:95829e63-0a9a-4805-aa34-ddd71a7f1d4f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240308
-DTSTART;VALUE=DATE:20240308
-SUMMARY:Wembley Stadium Tour
-UID:6dcb13ab-6ca1-46c8-859b-f05f21a3c18c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
+DTSTAMP:20240307T010605Z
 DESCRIPTION:Find tickets for Michael McIntyre at OVO Arena Wembley in Londo
  n on 5/10/2024 at 8:00 PM
 DTEND;VALUE=DATE:20240510
 DTSTART;VALUE=DATE:20240510
 SUMMARY:Michael McIntyre
-UID:d3efe3fa-1825-4d60-8391-22918581d464
+UID:0e076dfb-0490-466f-b3ec-935b98eafeda
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
+DTSTAMP:20240307T010605Z
 DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
  the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
  n’t Let Go’ in his stunning live shows.
 DTEND;VALUE=DATE:20240316
 DTSTART;VALUE=DATE:20240316
 SUMMARY:James Arthur
-UID:dca2c44b-2fbe-474e-88a7-f0911c67924d
+UID:f14c815f-80a0-4ea9-8dfb-6082db1f62e8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
+DTSTAMP:20240307T010605Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240307
+DTSTART;VALUE=DATE:20240307
+SUMMARY:Wembley Stadium Tour
+UID:c381d61f-a2e8-4c0e-95ef-eb538053a9b2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240307T010605Z
+DESCRIPTION:Disney on Ice Presents Dream Big at OVO Arena Wembley in Wemble
+ y Park on the 7th, 8th, 9th, 10th and 12th of March 2024!
+DTEND;VALUE=DATE:20240308
+DTSTART;VALUE=DATE:20240308
+SUMMARY:Disney On Ice presents Dream Big
+UID:c5457508-f182-4bbd-ba4d-d984a7422fc0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240307T010605Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240310
+DTSTART;VALUE=DATE:20240310
+SUMMARY:Wembley Stadium Tour
+UID:fd8346e5-5314-4f93-ad3c-8d080499c27e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240307T010605Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240308
+DTSTART;VALUE=DATE:20240308
+SUMMARY:Wembley Stadium Tour
+UID:47c4a65a-9e05-46e8-83c0-6bad89f5a798
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240307T010605Z
+DESCRIPTION:Michael McIntyre is back on stage with his brand new show MACNI
+ FICENT! Much has happened in the five years since his last tour and Michae
+ l will be making mirth from the madness of it all. Michael...
+DTEND;VALUE=DATE:20240511
+DTSTART;VALUE=DATE:20240511
+SUMMARY:Michael McIntyre
+UID:42eae640-3ed1-4c0a-ad34-1cbc1479d9c0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240307T010605Z
 DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
  n 4/17/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240417
 DTSTART;VALUE=DATE:20240417
 SUMMARY:Bryson Tiller
-UID:1abb4299-d57b-4d40-9412-c21910b1b0a7
+UID:f1a96fab-f3b8-460a-b709-34eae6b2bd2d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
-DESCRIPTION:Bought to audiences by AEG Live and Harvey Goldsmith, Endeavou
- r is a ground breaking action-packed two hour show that will visit 13 venue
- s across the UK and Ireland, kicking off in London on 7...
-DTEND;VALUE=DATE:20240428
-DTSTART;VALUE=DATE:20240428
-SUMMARY:Bear Grylls
-UID:24e174b0-3e76-4d31-a80f-55aab4956147
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
+DTSTAMP:20240307T010605Z
 DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
  actress. She is known for her contributions to Iranian pop music, but also 
  starred in a variety of movies. She achieved the pinnacle of her...
 DTEND;VALUE=DATE:20240328
 DTSTART;VALUE=DATE:20240328
 SUMMARY:Googoosh
-UID:300d15d8-26c4-4913-9130-d464ab2add54
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240306T011938Z
-DESCRIPTION:Clinching the No. 1 spot on the Billboard 200 chart with the re
- lease of his sophomore album True to Self, Bryson Tiller continues to capti
- vate fans following the success of his 2015 album, T R A P...
-DTEND;VALUE=DATE:20240416
-DTSTART;VALUE=DATE:20240416
-SUMMARY:Bryson Tiller
-UID:d3f7cc5b-a966-406b-92ba-e2bcf3e2ec65
+UID:77388b16-05ff-437d-b4f7-f5dea2f4d5c5
 END:VEVENT
 END:VCALENDAR
