@@ -3,100 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
-DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
- y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
- t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Taylor Swift
-UID:d5992910-596f-4f15-bddb-17394463915a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240310
-DTSTART;VALUE=DATE:20240310
-SUMMARY:Wembley Stadium Tour
-UID:46da7595-9800-4e6e-973c-2cf5c36b5915
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
-DESCRIPTION:Michael is the host of two of the BBC's most successful enterta
- inment shows, the BAFTA-winning Michael McIntyre’s Big Show and The Wheel
- , which he devised and also hosts for NBC in America. His...
-DTEND;VALUE=DATE:20240510
-DTSTART;VALUE=DATE:20240510
-SUMMARY:Michael McIntyre
-UID:633c5f7d-2619-4f5f-b319-f37f1e9a89ab
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
-DESCRIPTION:Don't miss Country 2 Country 2024 Festival Pass at The O2 Aren
- a London in undefined, London, GB on Fri Mar 08 2024. Tickets on sale now.
-DTEND;VALUE=DATE:20240310
-DTSTART;VALUE=DATE:20240310
-SUMMARY:Country 2 Country 2024 Festival Pass
-UID:2bb47824-e49a-4928-ab7e-e5e72f4a1d90
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
+DTSTAMP:20240311T012018Z
 DESCRIPTION:James Arthur is well and truly back, on top of his game. Catch 
  the man behind such worldwide hits as ‘Impossible’ and ‘Say You Wo
  n’t Let Go’ in his stunning live shows.
 DTEND;VALUE=DATE:20240316
 DTSTART;VALUE=DATE:20240316
 SUMMARY:James Arthur
-UID:ea7ae4f1-e673-4ea5-a83e-f17e17cc6f93
+UID:3844ae84-9332-4ee3-9be4-873c0b38dac6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
+DTSTAMP:20240311T012018Z
+DESCRIPTION:RAGGA PUNK METAL! Skindred is quite simply unlike anything you'
+ ve heard. Elements of Metal, Dancehall, Punk, and Drum & Bass, all swirlin
+ g into a concoction of lethal addictiveness. Their debut CD...
+DTEND;VALUE=DATE:20240315
+DTSTART;VALUE=DATE:20240315
+SUMMARY:Skindred
+UID:597f0fd2-020d-4ea3-8827-fe86803c420d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240311T012018Z
+DESCRIPTION:Find tickets for Zdob si Zdub at Wembley Stadium in London on 3
+ /17/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240317
+DTSTART;VALUE=DATE:20240317
+SUMMARY:Zdob si Zdub
+UID:effe9760-7ea0-40ab-a058-1a8a942a4443
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240311T012018Z
+DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
+ y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
+ t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Taylor Swift
+UID:cef6d906-1cb9-42eb-af97-cf2a7f5d9d30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240311T012018Z
+DESCRIPTION:Michael is the host of two of the BBC's most successful enterta
+ inment shows, the BAFTA-winning Michael McIntyre’s Big Show and The Wheel
+ , which he devised and also hosts for NBC in America. His...
+DTEND;VALUE=DATE:20240510
+DTSTART;VALUE=DATE:20240510
+SUMMARY:Michael McIntyre
+UID:7789cb2a-6943-4f9d-9d2d-223a33df94a2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240311T012018Z
+DESCRIPTION:Andra concert in London, General Onsale on Thu, 21 Dec 2023, 10
+ :00, is a concert which takes place on the 03/17/2024 at 17:30 in SSE Wembl
+ ey Arena, London, United Kingdom. Its music style is...
+DTEND;VALUE=DATE:20240317
+DTSTART;VALUE=DATE:20240317
+SUMMARY:Andra Traditional 2
+UID:a001a277-8e5c-48b2-9006-1c334c94498e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240311T012018Z
 DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
  actress. She is known for her contributions to Iranian pop music, but also 
  starred in a variety of movies. She achieved the pinnacle of her...
 DTEND;VALUE=DATE:20240328
 DTSTART;VALUE=DATE:20240328
 SUMMARY:Googoosh
-UID:4c23b9ce-9b69-43d3-9ad9-62cd5d97f1ef
+UID:53333d73-ed0a-40f8-a807-30adb9c51298
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
+DTSTAMP:20240311T012018Z
 DESCRIPTION:Michael McIntyre is back on stage with his brand new show MACNI
  FICENT! Much has happened in the five years since his last tour and Michae
  l will be making mirth from the madness of it all. Michael...
 DTEND;VALUE=DATE:20240511
 DTSTART;VALUE=DATE:20240511
 SUMMARY:Michael McIntyre
-UID:ce7309f4-694f-4d5d-8721-30c3959d411a
+UID:0819b632-57b3-49be-abf3-f7a31a6b17dd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
-DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
- n 4/17/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240417
-DTSTART;VALUE=DATE:20240417
-SUMMARY:Bryson Tiller
-UID:a0294ace-3acc-49f2-82f2-6ac0b534345a
+DTSTAMP:20240311T012018Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240315
+DTSTART;VALUE=DATE:20240315
+SUMMARY:Wembley Stadium Tour
+UID:026fce45-fd20-49bd-b0e4-72eaebb1e09a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
+DTSTAMP:20240311T012018Z
 DESCRIPTION:Clinching the No. 1 spot on the Billboard 200 chart with the re
  lease of his sophomore album True to Self, Bryson Tiller continues to capti
  vate fans following the success of his 2015 album, T R A P...
 DTEND;VALUE=DATE:20240416
 DTSTART;VALUE=DATE:20240416
 SUMMARY:Bryson Tiller
-UID:f63462e0-bdc0-4ec6-8a94-6da772b85a4f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240310T012926Z
-DESCRIPTION:Join us for a night of soulful vibes at the Blue Check Restaura
- nt in Wembley!
-DTEND;VALUE=DATE:20240310
-DTSTART;VALUE=DATE:20240310
-SUMMARY:Body Fusion
-UID:9e9cc192-aead-49c7-8aab-1e78e9aac4bc
+UID:ea198505-6f64-45f0-85f7-30212faf4540
 END:VEVENT
 END:VCALENDAR
