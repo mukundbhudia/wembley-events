@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
+DTSTAMP:20240319T012013Z
 DESCRIPTION:There are few heavy metal bands that have managed to scale the 
  heights that Judas Priest have during their nearly 50-year career. Their pr
  esence and influence remains at an all­-time high as...
 DTEND;VALUE=DATE:20240321
 DTSTART;VALUE=DATE:20240321
 SUMMARY:Judas Priest
-UID:c9cae778-c566-4681-bff5-1b5ca1543126
+UID:84b3372e-94b6-4dce-a1c1-5d869608b9e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
-DESCRIPTION:Find tickets for Zdob si Zdub at Wembley Stadium in London on 3
- /17/2024 at 8:00 PM
-DTEND;VALUE=DATE:20240318
-DTSTART;VALUE=DATE:20240318
-SUMMARY:Zdob si Zdub
-UID:92e94938-2f43-423f-853c-44ee581c176f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
+DTSTAMP:20240319T012013Z
 DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
  y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
  t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Taylor Swift
-UID:682c7c01-a282-42f4-afad-5fdefd014277
+UID:b53d22dc-93cf-4ff0-9e29-157de421ec0a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
+DTSTAMP:20240319T012013Z
 DESCRIPTION:Electronic music’s most iconic duo The Chemical Brothers will
   make their first performance for Teenage Cancer Trust.
 DTEND;VALUE=DATE:20240323
 DTSTART;VALUE=DATE:20240323
 SUMMARY:The Chemical Brothers
-UID:286bbac6-8189-4ba2-9b1e-5f96a64ac5f2
+UID:eb7fbe31-97d5-4076-b76e-0f0715d56099
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
+DTSTAMP:20240319T012013Z
 DESCRIPTION:Michael McIntyre is back on stage with his brand new show MACNI
  FICENT! Much has happened in the five years since his last tour and Michae
  l will be making mirth from the madness of it all. Michael...
 DTEND;VALUE=DATE:20240511
 DTSTART;VALUE=DATE:20240511
 SUMMARY:Michael McIntyre: MACNIFICENT
-UID:affe429c-2c7f-4e44-8e61-eb68aa1ec4a2
+UID:baadd029-a36e-4a1d-acc8-7e031f5a7cdd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
+DTSTAMP:20240319T012013Z
 DESCRIPTION:Fightstar are proud to announce their brand new album Behind Th
  e Devils Back, set for release 16 October via the band’s own record label
  . This is their first since 2009's Be Human. The album will...
 DTEND;VALUE=DATE:20240322
 DTSTART;VALUE=DATE:20240322
 SUMMARY:Fightstar
-UID:129f95cb-faaf-458a-974a-0440ff844388
+UID:5273d57e-dd82-4683-b54a-3be8eed257cc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
+DTSTAMP:20240319T012013Z
 DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
  actress. She is known for her contributions to Iranian pop music, but also 
  starred in a variety of movies. She achieved the pinnacle of her...
 DTEND;VALUE=DATE:20240328
 DTSTART;VALUE=DATE:20240328
 SUMMARY:Googoosh
-UID:5896e0a1-c3a0-46d8-a702-bf6aba4463ad
+UID:0e825fa3-69ab-4721-9b96-32630a9cb0d2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
+DTSTAMP:20240319T012013Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:deae1e35-7055-43ad-9bf3-e042136a09ef
+UID:11697740-97a5-4103-8275-d0c1bc87213b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
+DTSTAMP:20240319T012013Z
 DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
  n 4/17/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240417
 DTSTART;VALUE=DATE:20240417
 SUMMARY:Bryson Tiller
-UID:f6f90842-597f-49b0-ac26-d7857185418d
+UID:2aabf20e-03ff-4c2e-808f-2dce1de67504
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240318T012032Z
+DTSTAMP:20240319T012013Z
 DESCRIPTION:Find tickets for Troye Sivan at OVO Arena Wembley in London on 
  6/27/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240627
 DTSTART;VALUE=DATE:20240627
 SUMMARY:Troye Sivan
-UID:4c3abf21-515f-4f0c-9aaa-ad5b2ec93c6e
+UID:df4b7fc4-1c76-4731-9764-056ae518a719
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240319T012013Z
+DESCRIPTION:The Taylor Swift Eras Tour comes to Wembley Stadium for 8 night
+ s in 2024. The Eras Tour is a highly anticipated concert series which come
+ s to the UK in 2024. Renowned for her chart-topping hits...
+DTEND;VALUE=DATE:20240623
+DTSTART;VALUE=DATE:20240623
+SUMMARY:Taylor Swift
+UID:ed22a3eb-d311-4af4-bb10-5c7f64e21b3d
 END:VEVENT
 END:VCALENDAR
