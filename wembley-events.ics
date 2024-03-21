@@ -3,99 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
-DESCRIPTION:There are few heavy metal bands that have managed to scale the 
- heights that Judas Priest have during their nearly 50-year career. Their pr
- esence and influence remains at an all­-time high as...
-DTEND;VALUE=DATE:20240321
-DTSTART;VALUE=DATE:20240321
-SUMMARY:Judas Priest
-UID:a14cb827-28a1-46ba-b3c6-6e4e57afccb4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
+DTSTAMP:20240321T012100Z
 DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
  y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
  t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Taylor Swift
-UID:904479f5-4e65-4dcf-bc03-0217e8daf3e6
+UID:1b5f242d-945d-40b4-bfc6-4c3f0ba2b828
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
-DESCRIPTION:Electronic music’s most iconic duo The Chemical Brothers will
-  make their first performance for Teenage Cancer Trust.
-DTEND;VALUE=DATE:20240323
-DTSTART;VALUE=DATE:20240323
-SUMMARY:Chemical Brothers
-UID:df97d97f-920d-4745-8480-bdbfc61ee678
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
+DTSTAMP:20240321T012100Z
 DESCRIPTION:Michael McIntyre is back on stage with his brand new show MACNI
  FICENT! Much has happened in the five years since his last tour and Michae
  l will be making mirth from the madness of it all. Michael...
 DTEND;VALUE=DATE:20240511
 DTSTART;VALUE=DATE:20240511
 SUMMARY:Michael McIntyre: MACNIFICENT
-UID:cddf87f7-18a4-4f3e-acae-34455badb6e7
+UID:f76965e4-5465-4600-a55b-1d4e69017b10
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
+DTSTAMP:20240321T012100Z
 DESCRIPTION:Googoosh (Persian: گوگوش‎‎), is an Iranian singer and 
  actress. She is known for her contributions to Iranian pop music, but also 
  starred in a variety of movies. She achieved the pinnacle of her...
 DTEND;VALUE=DATE:20240328
 DTSTART;VALUE=DATE:20240328
 SUMMARY:Googoosh
-UID:bca7fb78-adda-4261-b4f9-a26ee1ba8c59
+UID:6053c06b-ca1a-4e11-9553-bfdba7969384
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
+DTSTAMP:20240321T012100Z
+DESCRIPTION:Electronic music’s most iconic duo The Chemical Brothers will
+  make their first performance for Teenage Cancer Trust.
+DTEND;VALUE=DATE:20240323
+DTSTART;VALUE=DATE:20240323
+SUMMARY:Chemical Brothers
+UID:82b46eea-8f40-4a38-904b-96a1992bb964
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240321T012100Z
 DESCRIPTION:Fightstar are proud to announce their brand new album Behind Th
  e Devils Back, set for release 16 October via the band’s own record label
  . This is their first since 2009's Be Human. The album will...
 DTEND;VALUE=DATE:20240322
 DTSTART;VALUE=DATE:20240322
 SUMMARY:Fightstar
-UID:5708f534-6766-494a-ae52-37239f6267b6
+UID:1cafe691-98f1-4d66-bf7c-bce2ba4ea422
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
+DTSTAMP:20240321T012100Z
+DESCRIPTION:Find tickets for Goran Bregović at indigo at The O2 in London 
+ on 3/20/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240321
+DTSTART;VALUE=DATE:20240321
+SUMMARY:Goran Bregović
+UID:c16f52ab-d2a4-4ea1-972b-48ecef754f99
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240321T012100Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:f35c24a0-846e-4c9c-b478-be37e600b50b
+UID:8f73cd65-cb9b-4026-950f-62c2a9499ba2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
-DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
- n 4/17/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240417
-DTSTART;VALUE=DATE:20240417
+DTSTAMP:20240321T012100Z
+DESCRIPTION:Clinching the No. 1 spot on the Billboard 200 chart with the re
+ lease of his sophomore album True to Self, Bryson Tiller continues to capti
+ vate fans following the success of his 2015 album, T R A P...
+DTEND;VALUE=DATE:20240416
+DTSTART;VALUE=DATE:20240416
 SUMMARY:Bryson Tiller
-UID:bfa4879c-3b72-40b5-a936-dc3fe724ac3e
+UID:13a55906-8709-46a3-b593-ec62e5b6cdee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
+DTSTAMP:20240321T012100Z
 DESCRIPTION:Find tickets for Troye Sivan at OVO Arena Wembley in London on 
  6/27/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240627
 DTSTART;VALUE=DATE:20240627
 SUMMARY:Troye Sivan
-UID:5cae0f68-8633-474e-b0c0-a680c23f6efd
+UID:f419ae4b-725c-4af9-906d-7996cec99aad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T011942Z
-DESCRIPTION:The Taylor Swift Eras Tour comes to Wembley Stadium for 8 night
- s in 2024. The Eras Tour is a highly anticipated concert series which come
- s to the UK in 2024. Renowned for her chart-topping hits...
-DTEND;VALUE=DATE:20240623
-DTSTART;VALUE=DATE:20240623
-SUMMARY:Taylor Swift
-UID:987f4fc7-af67-4746-8468-4e0529d8035d
+DTSTAMP:20240321T012100Z
+DESCRIPTION:Find tickets for James Arthur with Dean Lewis at The O2 in Lond
+ on on 3/22/2024 at 6:30 PM
+DTEND;VALUE=DATE:20240322
+DTSTART;VALUE=DATE:20240322
+SUMMARY:James Arthur
+UID:e010ee0c-05f8-4cf7-aee8-02e809af76c6
 END:VEVENT
 END:VCALENDAR
