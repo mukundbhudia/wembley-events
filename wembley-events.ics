@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
-DESCRIPTION:Find tickets for Michael McIntyre at OVO Arena Wembley in Londo
- n on 5/11/2024 at 8:00 PM
+DTSTAMP:20240401T013321Z
+DESCRIPTION:It’s been a decade since Slash Featuring Myles Kennedy and Th
+ e Conspirators released their debut album together, 2012’s landmark Apoca
+ lyptic Love . Ever since, the band – which, in addition to
+DTEND;VALUE=DATE:20240405
+DTSTART;VALUE=DATE:20240405
+SUMMARY:Slash @ OVO Arena Wembley
+UID:464be851-5299-4105-8ef0-ec857ee1ec42
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240401T013321Z
+DESCRIPTION:Bright7 Proudly presents the return of music icon Anirudh for t
+ he HUKUM WORLD TOUR – Alapaara Kelapparom Concert. Anirudh, renowned for 
+ groundbreaking hits such as ‘Why This Kolaveri Di’, ‘Pathala...
+DTEND;VALUE=DATE:20240401
+DTSTART;VALUE=DATE:20240401
+SUMMARY:Anirudh
+UID:db490a22-711e-4cd5-a951-6709fe3cd7c8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240401T013321Z
+DESCRIPTION:Michael McIntyre is back on stage with his brand new show MACNI
+ FICENT! Much has happened in the five years since his last tour and Michae
+ l will be making mirth from the madness of it all. Michael...
 DTEND;VALUE=DATE:20240511
 DTSTART;VALUE=DATE:20240511
 SUMMARY:Michael McIntyre: MACNIFICENT
-UID:6d688106-6204-49e0-9442-c1aea52099f9
+UID:4082807b-04d3-44aa-9a4d-e100b1b43f5d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
-DESCRIPTION:ADDITIONAL DATES NOW ADDED! COACH TRAVEL ONLY – DEPARTURE TI
- MES ARE ESTIMATES AT PRESENT AND MAY BE ADJUSTED SLIGHTLY ONCE THE FULL SHO
- W PROGRAMME AND TIMING IS ANNOUNCED
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Paramore @ Wembley Stadium
-UID:f82085ce-0016-465f-bfb3-8562b91e9cff
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
+DTSTAMP:20240401T013321Z
 DESCRIPTION:iEarl The Era's Tour 🫶🏻 on X: "RUMOR❗️ Taylor Swift i
  s said to bring her ERAS TOUR to the UK and rest of EUROPE in 2023/mid Prem
  iere Events UK
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
 SUMMARY:Paramore @ Wembley Stadium
-UID:56d0dd70-b984-4b72-94ee-f4bbe27ab68e
+UID:a97cc447-7805-4576-a5a6-f952735443d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240331
-DTSTART;VALUE=DATE:20240331
-SUMMARY:Wembley Stadium Tour
-UID:b34d03b5-97cc-4159-ba3c-2b9b1dc4accf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
-DESCRIPTION:Find tickets for Troye Sivan at OVO Arena Wembley in London on 
- 6/27/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240627
-DTSTART;VALUE=DATE:20240627
-SUMMARY:Troye Sivan
-UID:f8418463-a8a0-4561-9562-5e4c83169aa0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
+DTSTAMP:20240401T013321Z
 DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
  n 4/16/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240416
 DTSTART;VALUE=DATE:20240416
 SUMMARY:Bryson Tiller
-UID:775f575f-9100-4533-8c66-862b25b289ca
+UID:aeea146c-8521-4374-826e-0033f6e591d4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
+DTSTAMP:20240401T013321Z
 DESCRIPTION:The Taylor Swift Eras Tour comes to Wembley Stadium for 8 night
  s in 2024. The Eras Tour is a highly anticipated concert series which come
  s to the UK in 2024. Renowned for her chart-topping hits...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Taylor Swift
-UID:65443c16-6da6-4772-835d-d88d5c1993ce
+UID:d592182b-9869-47e4-baf9-92d1b2f5a9c2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
+DTSTAMP:20240401T013321Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:ca90a6d9-875a-44d6-88b3-5115bad2d205
+UID:c6c9fc7c-8639-4f76-ad44-99143ecbda66
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
+DTSTAMP:20240401T013321Z
+DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
+ n 4/18/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240418
+DTSTART;VALUE=DATE:20240418
+SUMMARY:Bryson Tiller - EXTRA DATE ADDED
+UID:96468b52-bff9-4a2d-a998-2e039c455ace
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240401T013321Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC – 7 July 2024
-UID:8b976c9e-34ad-496a-a3c2-dce067685f3e
+UID:aa2fb314-34c0-4039-8a9c-704c4f9ff971
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240331T013217Z
-DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
- n 4/18/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240418
-DTSTART;VALUE=DATE:20240418
-SUMMARY:Bryson Tiller - EXTRA DATE ADDED
-UID:a8653031-6064-4ba9-b656-9ac780644143
+DTSTAMP:20240401T013321Z
+DESCRIPTION:The cultural phenomenon continues as pop icon Taylor Swift perf
+ orms hit songs in a once-in-a-lifetime concert experience.
+DTEND;VALUE=DATE:20240820
+DTSTART;VALUE=DATE:20240820
+SUMMARY:Paramore
+UID:8e09ca97-60cb-4c21-a1dd-58ffd61c9159
 END:VEVENT
 END:VCALENDAR
