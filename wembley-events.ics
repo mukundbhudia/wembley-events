@@ -3,96 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
+DTSTAMP:20240410T012028Z
+DESCRIPTION:Find tickets for A-Mei Chang at OVO Arena Wembley in London on 
+ 4/10/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240410
+DTSTART;VALUE=DATE:20240410
+SUMMARY:A-Mei
+UID:6fdf6ad8-4659-413f-92e9-548310526c63
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240410T012028Z
 DESCRIPTION:Supplying all that good music and food for the soul. Each and e
  very Sunday at BOXPARK Wembley.
 DTEND;VALUE=DATE:20240414
 DTSTART;VALUE=DATE:20240414
 SUMMARY:Soulful Sundays 14 April
-UID:10ef9d91-2c8b-4079-9946-2b9a9fef0e62
+UID:9153169e-ef13-4220-b2e9-ee60da57e7a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
+DTSTAMP:20240410T012028Z
+DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
+ /19/2024 at 4:00 PM
+DTEND;VALUE=DATE:20240819
+DTSTART;VALUE=DATE:20240819
+SUMMARY:Taylor Swift
+UID:5cdf5113-b52f-4aac-8a56-d4aaf0e6f16f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240410T012028Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
-SUMMARY:Paramore @ Wembley Stadium
-UID:dc5a8746-9953-4699-b082-5af77ad37ef5
+SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – SATURDAY 22ND JUNE – COACH ONL
+ Y
+UID:b319c49a-e69c-41ef-86eb-a258a17a08df
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
+DTSTAMP:20240410T012028Z
 DESCRIPTION:Petrolheadonism Underground returns to Wembley Park's Coach Par
  ks to host an Automotive Spectacular featuring over 35 Showcases including 
  over 1000 show cars from across all genre of vehicles from...
 DTEND;VALUE=DATE:20240414
 DTSTART;VALUE=DATE:20240414
 SUMMARY:Petrolheadonism Underground
-UID:f69b730c-5170-4d3e-be26-0b7fa39dec9f
+UID:a660f9e1-1646-444f-9050-8fcb9c1d59a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
-DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
- ational Express journeys from across the UK.
-DTEND;VALUE=DATE:20240629
-DTSTART;VALUE=DATE:20240629
-SUMMARY:Green Day - The Saviors Tour
-UID:45e3805a-4e15-4d70-a356-685a13fe8e9f
+DTSTAMP:20240410T012028Z
+DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
+ n 4/16/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240416
+DTSTART;VALUE=DATE:20240416
+SUMMARY:Bryson Tiller
+UID:d33a729f-d49e-4e60-b3d4-472d3ae8bcea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
-DESCRIPTION:Taylor Swift the Eras Tour puzzle is a perfect gift for any Swi
- ftie! Choose from sizes: 110, 252, or 500 piece puzzle for Taylor Swift fan
- s! 100%
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Taylor Swift
-UID:b8b051a7-ff27-43b8-9d3c-c19104bdf956
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
+DTSTAMP:20240410T012028Z
 DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
  n 4/17/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240417
 DTSTART;VALUE=DATE:20240417
 SUMMARY:Bryson Tiller
-UID:26cb753d-ffb4-4ff1-b914-571ded7f443a
+UID:98fe7d84-45cc-4822-b3df-cd0ca7c667a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
-DESCRIPTION:Enjoy Taylor Swifts 2024 tour in style with VIP tickets in prem
- ium hospitality lounges across Wembley stadium.
-DTEND;VALUE=DATE:20240623
-DTSTART;VALUE=DATE:20240623
-SUMMARY:Taylor Swift & Paramore
-UID:03266694-c5fd-4d04-824a-5eec9315608f
+DTSTAMP:20240410T012028Z
+DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
+ ational Express journeys from across the UK.
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Green Day - The Saviors Tour
+UID:23643579-6b92-45e9-aa8e-3a85fab724f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
+DTSTAMP:20240410T012028Z
 DESCRIPTION:Find tickets for Boyz II Men at OVO Arena, Wembley in London o
  n 4/19/2024 at 5:00 PM
 DTEND;VALUE=DATE:20240420
 DTSTART;VALUE=DATE:20240420
 SUMMARY:Boyz II Men
-UID:e23813d9-5b39-4dcb-bdc7-1485f5b53b3d
+UID:5f47aca1-87a5-490c-be26-8f9eb091c879
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
-DESCRIPTION:The cultural phenomenon continues as pop icon Taylor Swift perf
- orms hit songs in a once-in-a-lifetime concert experience.
-DTEND;VALUE=DATE:20240820
-DTSTART;VALUE=DATE:20240820
-SUMMARY:Paramore
-UID:fa865209-3d24-4162-b605-c7c0b66d954d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240409T012133Z
-DESCRIPTION:Find tickets for Bruce Springsteen at Wembley Stadium in Londo
- n on 7/27/2024 at 7:00 PM
-DTEND;VALUE=DATE:20240727
-DTSTART;VALUE=DATE:20240727
-SUMMARY:Bruce Springsteen
-UID:5a2f6735-88de-4037-85a1-ef663fbebd74
+DTSTAMP:20240410T012028Z
+DESCRIPTION:The Taylor Swift Eras Tour comes to Wembley Stadium for 8 night
+ s in 2024. The Eras Tour is a highly anticipated concert series which come
+ s to the UK in 2024. Renowned for her chart-topping hits...
+DTEND;VALUE=DATE:20240623
+DTSTART;VALUE=DATE:20240623
+SUMMARY:Taylor Swift & Paramore
+UID:3fc3255c-425e-40b7-ac32-ce81070d4a32
 END:VEVENT
 END:VCALENDAR
