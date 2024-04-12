@@ -3,96 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
+DTSTAMP:20240412T012143Z
 DESCRIPTION:Supplying all that good music and food for the soul. Each and e
  very Sunday at BOXPARK Wembley.
 DTEND;VALUE=DATE:20240414
 DTSTART;VALUE=DATE:20240414
 SUMMARY:Soulful Sundays 14 April
-UID:02a5159a-8057-4b01-94b8-7232bf637e4d
+UID:d47e46de-1e32-45cc-a614-f7a539a18043
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
-DESCRIPTION:Taylor Swift the Eras Tour puzzle is a perfect gift for any Swi
- ftie! Choose from sizes: 110, 252, or 500 piece puzzle for Taylor Swift fan
- s! 100%
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Taylor Swift
-UID:425bae49-331e-4541-acdc-e4785a7f76b2
+DTSTAMP:20240412T012143Z
+DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
+ Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
+ t Organisers | Cookie Policy | Pick Up Locations | Gift...
+DTEND;VALUE=DATE:20240622
+DTSTART;VALUE=DATE:20240622
+SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – SATURDAY 22ND JUNE – COACH ONL
+ Y
+UID:7d6e121a-1415-4785-b612-93c77c54feea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
+DTSTAMP:20240412T012143Z
 DESCRIPTION:Petrolheadonism Underground returns to Wembley Park's Coach Par
  ks to host an Automotive Spectacular featuring over 35 Showcases including 
  over 1000 show cars from across all genre of vehicles from...
 DTEND;VALUE=DATE:20240414
 DTSTART;VALUE=DATE:20240414
 SUMMARY:Petrolheadonism Underground
-UID:ff2f097c-85a4-4a43-b040-59dea398c210
+UID:10dde659-d4b1-4c67-a8fd-5fd889cf478e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
+DTSTAMP:20240412T012143Z
 DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
  n 4/16/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240416
 DTSTART;VALUE=DATE:20240416
 SUMMARY:Bryson Tiller
-UID:1652865d-ef26-4302-a79e-c876dd3e8ae8
+UID:eadd6b74-67de-4c90-bc61-c67c0300839a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
-DESCRIPTION:Find tickets for Bryson Tiller at OVO Arena Wembley in London o
- n 4/17/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240417
-DTSTART;VALUE=DATE:20240417
-SUMMARY:Bryson Tiller
-UID:4c389f39-47e4-430b-a33b-b0c581c1b2a3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
+DTSTAMP:20240412T012143Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:63651aa5-90d1-46aa-b3ff-629d36629052
+UID:a1ac4c9b-2c2f-4f4e-b234-6fb9c8e6fb73
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
+DTSTAMP:20240412T012143Z
 DESCRIPTION:Find tickets for Boyz II Men at OVO Arena, Wembley in London o
  n 4/19/2024 at 5:00 PM
 DTEND;VALUE=DATE:20240420
 DTSTART;VALUE=DATE:20240420
 SUMMARY:Boyz II Men
-UID:bec595c2-31fc-47be-b940-255ad430c790
+UID:8eb0e565-62a0-4a1c-a65a-0f5e8f56c1b9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
+DTSTAMP:20240412T012143Z
 DESCRIPTION:The Taylor Swift Eras Tour comes to Wembley Stadium for 8 night
  s in 2024. The Eras Tour is a highly anticipated concert series which come
  s to the UK in 2024. Renowned for her chart-topping hits...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Taylor Swift & Paramore
-UID:f0b49840-f8cf-4144-91b4-aea919a4a8a6
+UID:c2a2395a-ae43-4a3b-b825-7705de00d7a0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
+DTSTAMP:20240412T012143Z
 DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
  /19/2024 at 4:00 PM
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Taylor Swift
-UID:2d9dffd3-f87f-4ea2-938d-29fc0c466684
+UID:b7870961-60ba-4a39-83c9-0de87e52b695
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240411T012216Z
+DTSTAMP:20240412T012143Z
 DESCRIPTION:The cultural phenomenon continues as pop icon Taylor Swift perf
  orms hit songs in a once-in-a-lifetime concert experience.
 DTEND;VALUE=DATE:20240820
 DTSTART;VALUE=DATE:20240820
 SUMMARY:Paramore
-UID:50259273-1c66-4078-a17c-8217d239d2ad
+UID:fb7adb2e-4f09-4df7-a524-5e421639edb2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240412T012143Z
+DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
+ h more than 140 million records sold around the globe and more than 70 mill
+ ion in the United States, Bruce Springsteen is one of the...
+DTEND;VALUE=DATE:20240725
+DTSTART;VALUE=DATE:20240725
+SUMMARY:Bruce Springsteen
+UID:847ff588-6f92-46d9-a7ff-55f04fe1e669
 END:VEVENT
 END:VCALENDAR
