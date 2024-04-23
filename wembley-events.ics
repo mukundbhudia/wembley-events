@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
+DTSTAMP:20240423T012438Z
 DESCRIPTION:Find tickets for ITZY at OVO Arena Wembley in London on 4/24/20
  24 at 8:00 PM
 DTEND;VALUE=DATE:20240424
 DTSTART;VALUE=DATE:20240424
-SUMMARY:ITZY
-UID:b5df6cf8-67eb-4554-a41a-e52adef9eb9b
+SUMMARY:ITZY 2ND WORLD TOUR <BORN TO BE>
+UID:d05f869d-5230-47f7-8b88-f05d020fa595
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
+DTSTAMP:20240423T012438Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – FRIDAY 21ST JUNE – COACH ONLY
-UID:0373c3e2-5f00-462d-ae85-389b4a80de6c
+UID:33a68c25-b049-4053-b79f-bd84c5d71843
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
+DTSTAMP:20240423T012438Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – SUNDAY 23RD JUNE – COACH ONLY
-UID:af02cf0a-5c17-4759-8045-3fef872b88bd
+UID:52a2b0a1-7d1b-40d1-8f5d-3693f5970631
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
+DTSTAMP:20240423T012438Z
 DESCRIPTION:Wedding fairs are a brilliant wedding planning tool no matter w
  hat stage of the wedding planning process you're at. If you're just engage
  d or your 2024 wedding is fast approaching, there's no...
 DTEND;VALUE=DATE:20240428
 DTSTART;VALUE=DATE:20240428
 SUMMARY:Signature Event - Wembley Stadium
-UID:db6c9468-2a33-4ec8-a9c3-af19f6d52182
+UID:5016d42a-5d1d-4e60-b28c-7df08b9aaf4a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
+DTSTAMP:20240423T012438Z
 DESCRIPTION:Find tickets for Jubin Nautiyal at OVO Arena Wembley in London 
  on 5/5/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240505
 DTSTART;VALUE=DATE:20240505
 SUMMARY:Jubin Nautiyal Live
-UID:9931ae53-205f-4c61-a2a6-35dbd3715ded
+UID:c8053991-8010-480b-914e-707797bd3b40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
+DTSTAMP:20240423T012438Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240820
 DTSTART;VALUE=DATE:20240820
 SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – TUESDAY 20TH AUG – COACH ONLY
-UID:0d4fccb9-9c78-4bf7-9f68-af9e3b75e1d2
+UID:c9617a9b-53c6-4d9a-a4ee-94d60687f113
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
+DTSTAMP:20240423T012438Z
 DESCRIPTION:Don't miss Taylor Swift | The Eras Tour at Wembley Stadium in u
  ndefined, London, GB on Sun Jun 23 2024. Tickets on sale now.
 DTEND;VALUE=DATE:20240624
 DTSTART;VALUE=DATE:20240624
 SUMMARY:Taylor Swift | The Eras Tour
-UID:f84600d7-d804-45e9-8f19-9cf7cfcf0413
+UID:e2dd67e5-634a-46f3-b9dd-d7c4d2a4fe39
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
+DTSTAMP:20240423T012438Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:8c19b9c1-9614-484e-9b17-c1a1644863f4
+UID:b3047dcf-b110-4a2c-b55f-c8efe1a01f11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
-DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
- h more than 140 million records sold around the globe and more than 70 mill
- ion in the United States, Bruce Springsteen is one of the...
-DTEND;VALUE=DATE:20240725
-DTSTART;VALUE=DATE:20240725
-SUMMARY:Bruce Springsteen
-UID:a4b2bf92-603b-48bc-83ba-35b6b3540605
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240422T013054Z
+DTSTAMP:20240423T012438Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240424
 DTSTART;VALUE=DATE:20240424
 SUMMARY:Wembley Stadium Tour
-UID:73b27738-9d4d-4786-a66d-d862bfb485f4
+UID:0e03d844-d28d-469b-82ac-c50aaeca2535
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240423T012438Z
+DESCRIPTION:Find tickets for Bruce Springsteen at Wembley Stadium in Londo
+ n on 7/27/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240727
+DTSTART;VALUE=DATE:20240727
+SUMMARY:Bruce Springsteen
+UID:38a5249a-ece5-497c-89cd-e2a91c74587f
 END:VEVENT
 END:VCALENDAR
