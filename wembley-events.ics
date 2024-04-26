@@ -3,99 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
-DESCRIPTION:Find tickets for ITZY at OVO Arena Wembley in London on 4/24/20
- 24 at 8:00 PM
-DTEND;VALUE=DATE:20240425
-DTSTART;VALUE=DATE:20240425
-SUMMARY:ITZY London Tickets
-UID:bd3de890-ee4c-4cee-a9ef-7456f5b61368
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
-DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
- Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
- t Organisers | Cookie Policy | Pick Up Locations | Gift...
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – FRIDAY 21ST JUNE – COACH ONLY
-UID:81de34fe-a319-48dd-8d09-9014a0888431
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
+DTSTAMP:20240426T012353Z
 DESCRIPTION:Wedding fairs are a brilliant wedding planning tool no matter w
  hat stage of the wedding planning process you're at. If you're just engage
  d or your 2024 wedding is fast approaching, there's no...
 DTEND;VALUE=DATE:20240428
 DTSTART;VALUE=DATE:20240428
 SUMMARY:Signature Event - Wembley Stadium
-UID:8b1bba4e-3db5-4504-98d5-370811eea0bc
+UID:c6eb7a06-8dd9-4666-8d63-ecf1f482efdf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
-DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
- Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
- t Organisers | Cookie Policy | Pick Up Locations | Gift...
-DTEND;VALUE=DATE:20240623
-DTSTART;VALUE=DATE:20240623
-SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – SUNDAY 23RD JUNE – COACH ONLY
-UID:ae5bd9b9-a24b-4e73-ac46-0a5cd6bb1df4
+DTSTAMP:20240426T012353Z
+DESCRIPTION:1st Sunday - Holy Communion Other Sundays - Morning Prayer
+DTEND;VALUE=DATE:20240428
+DTSTART;VALUE=DATE:20240428
+SUMMARY:Sunday 10.30am
+UID:1458a7d4-c105-4f04-a38f-6c7e0a2a43e4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
-DESCRIPTION:Find tickets for Jubin Nautiyal at OVO Arena Wembley in London 
- on 5/5/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240505
-DTSTART;VALUE=DATE:20240505
-SUMMARY:Jubin Nautiyal Live
-UID:889d93fe-92d7-4faf-ab32-e48afd490f28
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
-DESCRIPTION:Don't miss Taylor Swift | The Eras Tour at Wembley Stadium in u
- ndefined, London, GB on Sun Jun 23 2024. Tickets on sale now.
-DTEND;VALUE=DATE:20240624
-DTSTART;VALUE=DATE:20240624
-SUMMARY:Taylor Swift | The Eras Tour
-UID:7c35a1aa-7f8b-4971-8647-4ed322afd922
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
-DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 5
- /25/2024 at 8:00 PM
-DTEND;VALUE=DATE:20240525
-DTSTART;VALUE=DATE:20240525
-SUMMARY:Sonu Nigam
-UID:8a9af991-3beb-4107-bf9e-95e8269a7454
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
-DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
- Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
- t Organisers | Cookie Policy | Pick Up Locations | Gift...
-DTEND;VALUE=DATE:20240820
-DTSTART;VALUE=DATE:20240820
-SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – TUESDAY 20TH AUG – COACH ONLY
-UID:61eb46dd-65dd-4335-bfd6-604afbeea3ce
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
-DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
- h more than 140 million records sold around the globe and more than 70 mill
- ion in the United States, Bruce Springsteen is one of the...
-DTEND;VALUE=DATE:20240725
-DTSTART;VALUE=DATE:20240725
-SUMMARY:Bruce Springsteen
-UID:140ba26c-0a97-4b97-a26f-0af6a0e26914
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240425T013021Z
+DTSTAMP:20240426T012353Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240428
 DTSTART;VALUE=DATE:20240428
 SUMMARY:Wembley Stadium Tour
-UID:697420bd-182a-4328-b893-bff6c4a1c983
+UID:355fd124-ed57-4f93-834c-0c08afd66b12
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240426T012353Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240426
+DTSTART;VALUE=DATE:20240426
+SUMMARY:Wembley Stadium Tour
+UID:9dddc521-3da7-41dd-bdb0-64c579530208
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240426T012353Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240427
+DTSTART;VALUE=DATE:20240427
+SUMMARY:Wembley Stadium Tour
+UID:e714d2f2-013f-4e35-b45e-16de48099171
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240426T012353Z
+DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
+ Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
+ t Organisers | Cookie Policy | Pick Up Locations | Gift...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Taylor Swift with Paramore
+UID:3ffa3d8d-5cb9-495e-a114-a9627c0e1823
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240426T012353Z
+DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
+ Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
+ t Organisers | Cookie Policy | Pick Up Locations | Gift...
+DTEND;VALUE=DATE:20240623
+DTSTART;VALUE=DATE:20240623
+SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – SUNDAY 23RD JUNE – COACH ONLY
+UID:d4e3a223-2054-463d-ab6e-21e142a71269
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240426T012353Z
+DESCRIPTION:Find tickets for Jubin Nautiyal at OVO Arena Wembley in London 
+ on 5/5/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240505
+DTSTART;VALUE=DATE:20240505
+SUMMARY:Jubin Nautiyal Live
+UID:28ce0fbf-b807-4b1f-a8d1-7eca48d1ec38
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240426T012353Z
+DESCRIPTION:Buchen Sie Ihre AC/DC - 7 July 2024 Tickets bei P1 Travel. ✓ 
+ Offizielle Tickets. ✓ Sichere Buchung. ✓ Bewertet mit 9,2.
+DTEND;VALUE=DATE:20240707
+DTSTART;VALUE=DATE:20240707
+SUMMARY:AC/DC – 7 July 2024
+UID:a79e3fad-bed2-4b96-a853-98e1f90d2cde
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240426T012353Z
+DESCRIPTION:TICKETS OUT NOW
+DTEND;VALUE=DATE:20240505
+DTSTART;VALUE=DATE:20240505
+SUMMARY:GTL&NGT X SERIES 005
+UID:28027747-8ae7-48cd-bf1d-7190266550ef
 END:VEVENT
 END:VCALENDAR
