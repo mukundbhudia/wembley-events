@@ -3,97 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
+DTSTAMP:20240427T012149Z
+DESCRIPTION:Travel to Emirates Old Trafford and Wembley Stadium for Green D
+ ay's celebratory tour with Big Green Coach, the event's official travel par
+ tner. DAY RETURN COACH Travel sustainably with like-minded...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Green Day
+UID:7f8d372b-0e2c-4810-80a6-925f21ac211c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240427T012149Z
 DESCRIPTION:Wedding fairs are a brilliant wedding planning tool no matter w
  hat stage of the wedding planning process you're at. If you're just engage
  d or your 2024 wedding is fast approaching, there's no...
 DTEND;VALUE=DATE:20240428
 DTSTART;VALUE=DATE:20240428
 SUMMARY:Signature Event - Wembley Stadium
-UID:c6eb7a06-8dd9-4666-8d63-ecf1f482efdf
+UID:7456443d-cf2e-428a-b983-44d162daf514
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
-DESCRIPTION:1st Sunday - Holy Communion Other Sundays - Morning Prayer
-DTEND;VALUE=DATE:20240428
-DTSTART;VALUE=DATE:20240428
-SUMMARY:Sunday 10.30am
-UID:1458a7d4-c105-4f04-a38f-6c7e0a2a43e4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240428
-DTSTART;VALUE=DATE:20240428
-SUMMARY:Wembley Stadium Tour
-UID:355fd124-ed57-4f93-834c-0c08afd66b12
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240426
-DTSTART;VALUE=DATE:20240426
-SUMMARY:Wembley Stadium Tour
-UID:9dddc521-3da7-41dd-bdb0-64c579530208
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240427
-DTSTART;VALUE=DATE:20240427
-SUMMARY:Wembley Stadium Tour
-UID:e714d2f2-013f-4e35-b45e-16de48099171
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
-DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
- Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
- t Organisers | Cookie Policy | Pick Up Locations | Gift...
-DTEND;VALUE=DATE:20240621
-DTSTART;VALUE=DATE:20240621
-SUMMARY:Taylor Swift with Paramore
-UID:3ffa3d8d-5cb9-495e-a114-a9627c0e1823
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
+DTSTAMP:20240427T012149Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – SUNDAY 23RD JUNE – COACH ONLY
-UID:d4e3a223-2054-463d-ab6e-21e142a71269
+UID:3e6b0864-977d-41d0-bf42-ce96003d7e0f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
+DTSTAMP:20240427T012149Z
 DESCRIPTION:Find tickets for Jubin Nautiyal at OVO Arena Wembley in London 
  on 5/5/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240505
 DTSTART;VALUE=DATE:20240505
 SUMMARY:Jubin Nautiyal Live
-UID:28ce0fbf-b807-4b1f-a8d1-7eca48d1ec38
+UID:167ee036-d922-40ca-a1b8-736c6f7ae662
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
-DESCRIPTION:Buchen Sie Ihre AC/DC - 7 July 2024 Tickets bei P1 Travel. ✓ 
- Offizielle Tickets. ✓ Sichere Buchung. ✓ Bewertet mit 9,2.
-DTEND;VALUE=DATE:20240707
-DTSTART;VALUE=DATE:20240707
-SUMMARY:AC/DC – 7 July 2024
-UID:a79e3fad-bed2-4b96-a853-98e1f90d2cde
+DTSTAMP:20240427T012149Z
+DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
+ Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
+ t Organisers | Cookie Policy | Pick Up Locations | Gift...
+DTEND;VALUE=DATE:20240816
+DTSTART;VALUE=DATE:20240816
+SUMMARY:Taylor Swift announces more international dates for Eras Tour
+UID:22f94749-d500-4d05-afb5-470c3c591762
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240426T012353Z
-DESCRIPTION:TICKETS OUT NOW
-DTEND;VALUE=DATE:20240505
-DTSTART;VALUE=DATE:20240505
-SUMMARY:GTL&NGT X SERIES 005
-UID:28027747-8ae7-48cd-bf1d-7190266550ef
+DTSTAMP:20240427T012149Z
+DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 5
+ /25/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240525
+DTSTART;VALUE=DATE:20240525
+SUMMARY:Sonu Nigam
+UID:86086bc2-981a-4416-84c1-813c385891b4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240427T012149Z
+DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
+ h more than 140 million records sold around the globe and more than 70 mill
+ ion in the United States, Bruce Springsteen is one of the...
+DTEND;VALUE=DATE:20240725
+DTSTART;VALUE=DATE:20240725
+SUMMARY:Bruce Springsteen
+UID:4c84f513-36e2-499a-b9ba-f6a8b4006a57
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240427T012149Z
+DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
+ Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
+ t Organisers | Cookie Policy | Pick Up Locations | Gift...
+DTEND;VALUE=DATE:20240820
+DTSTART;VALUE=DATE:20240820
+SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – TUESDAY 20TH AUG – COACH ONLY
+UID:6c5d66ea-7a16-478c-a3ba-303f953e90df
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240427T012149Z
+DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
+ erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
+ s.
+DTEND;VALUE=DATE:20240428
+DTSTART;VALUE=DATE:20240428
+SUMMARY:Wembley Stadium Tour
+UID:3935b4a6-c194-4d17-998b-32c13bd9155b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240427T012149Z
+DESCRIPTION:Find tickets for Bruce Springsteen at Wembley Stadium in Londo
+ n on 7/27/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240727
+DTSTART;VALUE=DATE:20240727
+SUMMARY:Bruce Springsteen
+UID:e387cfac-4ba1-4266-9de8-d6909868a395
 END:VEVENT
 END:VCALENDAR
