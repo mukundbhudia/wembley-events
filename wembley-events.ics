@@ -3,101 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
+DTSTAMP:20240429T013013Z
+DESCRIPTION:Find tickets for Jubin Nautiyal at OVO Arena Wembley in London 
+ on 5/5/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240505
+DTSTART;VALUE=DATE:20240505
+SUMMARY:Jubin Nautiyal Live
+UID:8e63970c-6745-4b8d-a819-382c544cdb91
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240429T013013Z
 DESCRIPTION:Travel to Emirates Old Trafford and Wembley Stadium for Green D
  ay's celebratory tour with Big Green Coach, the event's official travel par
  tner. DAY RETURN COACH Travel sustainably with like-minded...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Taylor Swift with Paramore
-UID:0827c336-367d-4357-ba03-1431ebf3218a
+UID:a02ce4c0-fe02-4533-b2ba-f2a4579cbdb7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
+DTSTAMP:20240429T013013Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – SUNDAY 23RD JUNE – COACH ONLY
-UID:4798e32d-5f97-4623-a1eb-a600f25139d0
+UID:c7542102-af92-4a8b-b53c-e730b23721c2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
-DESCRIPTION:Wedding fairs are a brilliant wedding planning tool no matter w
- hat stage of the wedding planning process you're at. If you're just engage
- d or your 2024 wedding is fast approaching, there's no...
-DTEND;VALUE=DATE:20240428
-DTSTART;VALUE=DATE:20240428
-SUMMARY:Signature Event - Wembley Stadium
-UID:14f30ebb-7ed6-4d7c-8ca7-d8a011d5e6ef
+DTSTAMP:20240429T013013Z
+DESCRIPTION:Find tickets for Lil Yachty at OVO Arena Wembley in London on 4
+ /29/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240429
+DTSTART;VALUE=DATE:20240429
+SUMMARY:Lil Yachty @ OVO Arena Wembley
+UID:8ea3380b-efe3-49f2-91e0-31892e454422
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
+DTSTAMP:20240429T013013Z
 DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 5
  /25/2024 at 8:00 PM
 DTEND;VALUE=DATE:20240525
 DTSTART;VALUE=DATE:20240525
 SUMMARY:Sonu Nigam
-UID:bb68bce9-74f0-4f87-8dd4-be6e99dc1b6f
+UID:60f690f9-60e7-41e9-923d-5647b02ba4d4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
-DESCRIPTION:Find tickets for Jubin Nautiyal at OVO Arena Wembley in London 
- on 5/5/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240505
-DTSTART;VALUE=DATE:20240505
-SUMMARY:Jubin Nautiyal Live
-UID:cfa23284-2b56-484e-b06c-ba07bfdc2c2c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
-DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
- d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
- D) Children under 5 enter for free and without a ticket...
-DTEND;VALUE=DATE:20240428
-DTSTART;VALUE=DATE:20240428
-SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for Football Fans
-UID:03b83da9-7792-44d8-a44d-a835b05764ed
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
-DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
- Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
- t Organisers | Cookie Policy | Pick Up Locations | Gift...
-DTEND;VALUE=DATE:20240816
-DTSTART;VALUE=DATE:20240816
-SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:b8bac194-693a-44b2-8e4a-df14601faec6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
+DTSTAMP:20240429T013013Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Paramore @ Wembley Stadium
-UID:ae89beb9-6331-4b03-ba45-9d1c7a9b860b
+UID:24e393d4-ee90-4888-ad78-277564ebfa9b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
+DTSTAMP:20240429T013013Z
+DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
+ d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
+ D) Children under 5 enter for free and without a ticket...
+DTEND;VALUE=DATE:20240429
+DTSTART;VALUE=DATE:20240429
+SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for Football Fans
+UID:45854f83-9a76-4621-bb1b-434a0877de00
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240429T013013Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240820
 DTSTART;VALUE=DATE:20240820
 SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – TUESDAY 20TH AUG – COACH ONLY
-UID:7cd6fdb0-a549-4405-a451-ac349fe83a68
+UID:c4642c0f-5d42-49cd-bd4b-3189da33ee34
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240428T013348Z
+DTSTAMP:20240429T013013Z
+DESCRIPTION:NEW GEN BOXING X CROSS OVER IS HERE
+DTEND;VALUE=DATE:20240505
+DTSTART;VALUE=DATE:20240505
+SUMMARY:GTL&NGT X SERIES 005
+UID:9481855f-5421-4cdd-8da6-10141e88174b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240429T013013Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
-DTEND;VALUE=DATE:20240428
-DTSTART;VALUE=DATE:20240428
+DTEND;VALUE=DATE:20240501
+DTSTART;VALUE=DATE:20240501
 SUMMARY:Wembley Stadium Tour
-UID:4393c5a0-65dd-415f-aab5-e18b332031e1
+UID:7b1c7c59-8337-4bef-aed3-2237940fb422
 END:VEVENT
 END:VCALENDAR
