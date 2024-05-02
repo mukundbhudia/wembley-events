@@ -3,99 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
+DTSTAMP:20240502T012855Z
 DESCRIPTION:Find tickets for Jubin Nautiyal at OVO Arena Wembley in London 
  on 5/5/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240505
 DTSTART;VALUE=DATE:20240505
 SUMMARY:Jubin Nautiyal Live
-UID:fdae0d33-1270-4559-b608-b5c393a0b02f
+UID:e89bb25c-76f0-4925-bde4-b5b1391b9b5f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
+DTSTAMP:20240502T012855Z
 DESCRIPTION:Travel to Emirates Old Trafford and Wembley Stadium for Green D
  ay's celebratory tour with Big Green Coach, the event's official travel par
  tner. DAY RETURN COACH Travel sustainably with like-minded...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Green Day
-UID:58147841-4296-4d35-8900-0103d895d58a
+UID:9f498b29-de63-4233-8cbb-d4f95383fa85
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
+DTSTAMP:20240502T012855Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – SUNDAY 23RD JUNE – COACH ONLY
-UID:0026b1b9-27c1-42d6-8536-f801e5794a25
+UID:0cbc4346-0906-4b0e-85b5-5b63de6f5d42
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
-DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 5
- /25/2024 at 8:00 PM
-DTEND;VALUE=DATE:20240525
-DTSTART;VALUE=DATE:20240525
-SUMMARY:Sonu Nigam
-UID:e8c4424d-3a5e-4fa0-b586-d64e99f6886c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
+DTSTAMP:20240502T012855Z
 DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
  d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
  D) Children under 5 enter for free and without a ticket...
-DTEND;VALUE=DATE:20240501
-DTSTART;VALUE=DATE:20240501
+DTEND;VALUE=DATE:20240502
+DTSTART;VALUE=DATE:20240502
 SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for Football Fans
-UID:9326d5aa-50d7-4a8a-9a46-bd023f7e9540
+UID:319e7687-ad47-4bb2-9a9e-bd150b6a654f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
+DTSTAMP:20240502T012855Z
 DESCRIPTION:NEW GEN BOXING X CROSS OVER IS HERE
 DTEND;VALUE=DATE:20240505
 DTSTART;VALUE=DATE:20240505
 SUMMARY:GTL&NGT X SERIES 005
-UID:ac57a10b-b192-42e6-86e7-78fd553cdcc1
+UID:308c7c54-6511-4f4f-83d7-1ae624232d61
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
+DTSTAMP:20240502T012855Z
+DESCRIPTION:Find tickets for Bruce Springsteen at Wembley Stadium in Londo
+ n on 7/27/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240727
+DTSTART;VALUE=DATE:20240727
+SUMMARY:Bruce Springsteen
+UID:c7eb31e8-5d44-4b39-86ea-d4ee05e1c237
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240502T012855Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Paramore @ Wembley Stadium
-UID:743aadc6-dd73-43cb-b63d-4e97c4d62cda
+UID:a6e5f95c-7592-4170-b117-73b20cade2db
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
-DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
- erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
- s.
-DTEND;VALUE=DATE:20240501
-DTSTART;VALUE=DATE:20240501
-SUMMARY:Wembley Stadium Tour
-UID:87fe530a-57b6-4b05-9b99-9387793e9e81
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
+DTSTAMP:20240502T012855Z
 DESCRIPTION:Buy Wembley Stadium Tour tickets and sign-up for latest tour al
  erts. Find Wembley Stadium Tour tour dates, reviews, times and event detail
  s.
 DTEND;VALUE=DATE:20240502
 DTSTART;VALUE=DATE:20240502
 SUMMARY:Wembley Stadium Tour
-UID:ec4f9ab4-55cd-4d12-92c8-fef5f6cdf7de
+UID:1ff6df15-bcc4-46cb-8a0e-5549d98491c0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240501T013502Z
+DTSTAMP:20240502T012855Z
 DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
  h more than 140 million records sold around the globe and more than 70 mill
  ion in the United States, Bruce Springsteen is one of the...
 DTEND;VALUE=DATE:20240725
 DTSTART;VALUE=DATE:20240725
 SUMMARY:Bruce Springsteen
-UID:c52922ad-8c32-43c5-97b6-29a7d0b3512e
+UID:65c5b111-6e4b-4944-b5cd-9989934e2339
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240502T012855Z
+DESCRIPTION:Find tickets for Kizz Daniel at OVO Arena Wembley in London on 
+ 5/6/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240506
+DTSTART;VALUE=DATE:20240506
+SUMMARY:Kizz Daniel - RESCHEDULED
+UID:12618bfd-44a3-4ee0-ab5b-15c9b030fc32
 END:VEVENT
 END:VCALENDAR
