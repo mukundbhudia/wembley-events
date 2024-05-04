@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
+DTSTAMP:20240504T012236Z
 DESCRIPTION:Find tickets for Jubin Nautiyal at OVO Arena Wembley in London 
  on 5/5/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240505
 DTSTART;VALUE=DATE:20240505
 SUMMARY:Jubin Nautiyal Live
-UID:5b4adb84-0cfa-4de8-a297-5c2cca70d63e
+UID:aa292360-5f58-43ae-9a09-ea8778225d3c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
+DTSTAMP:20240504T012236Z
 DESCRIPTION:Travel to Emirates Old Trafford and Wembley Stadium for Green D
  ay's celebratory tour with Big Green Coach, the event's official travel par
  tner. DAY RETURN COACH Travel sustainably with like-minded...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Green Day
-UID:e4c541dd-fb38-4a8b-ac30-5709546ff186
+UID:8b5c35a0-2f8d-42b6-8379-b5e2054aaa9e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
+DTSTAMP:20240504T012236Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – SUNDAY 23RD JUNE – COACH ONLY
-UID:c27ceb4b-a6f0-4262-bba8-b44b5be325f0
+UID:3912df34-e8eb-4364-816b-acb1d308493d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
+DTSTAMP:20240504T012236Z
+DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
+ Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
+ t Organisers | Cookie Policy | Pick Up Locations | Gift...
+DTEND;VALUE=DATE:20240820
+DTSTART;VALUE=DATE:20240820
+SUMMARY:TAYLOR SWIFT @ WEMBLEY STADIUM – TUESDAY 20TH AUG – COACH ONLY
+UID:86a5d5da-3d52-4df8-ae36-4b11091e032d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240504T012236Z
 DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
  d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
  D) Children under 5 enter for free and without a ticket...
-DTEND;VALUE=DATE:20240503
-DTSTART;VALUE=DATE:20240503
+DTEND;VALUE=DATE:20240504
+DTSTART;VALUE=DATE:20240504
 SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for Football Fans
-UID:57167113-8633-4d31-8190-272f86384155
+UID:7aec8770-eed0-4634-90e4-3d43c463ee05
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
-DESCRIPTION:NEW GEN BOXING X CROSS OVER IS HERE
-DTEND;VALUE=DATE:20240505
-DTSTART;VALUE=DATE:20240505
-SUMMARY:GTL&NGT X SERIES 005
-UID:13761b50-e3a2-47f9-b17b-4edd4a882c60
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
-DESCRIPTION:Find tickets for Bruce Springsteen at Wembley Stadium in Londo
- n on 7/27/2024 at 7:00 PM
-DTEND;VALUE=DATE:20240727
-DTSTART;VALUE=DATE:20240727
-SUMMARY:Bruce Springsteen
-UID:0c1ebb34-204c-49bd-a6e6-eba38f7de89d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
+DTSTAMP:20240504T012236Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Paramore @ Wembley Stadium
-UID:9be3d3a2-fab2-4137-992c-87cf5e6c8e61
+UID:16f03bc2-cf34-406b-a25b-c37c62668ecc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
+DTSTAMP:20240504T012236Z
+DESCRIPTION:NEW GEN BOXING X CROSS OVER IS HERE
+DTEND;VALUE=DATE:20240505
+DTSTART;VALUE=DATE:20240505
+SUMMARY:GTL&NGT X SERIES 005
+UID:a68bf040-0b3e-4ddd-9308-56e2f994c251
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240504T012236Z
+DESCRIPTION:Find tickets for Bruce Springsteen at Wembley Stadium in Londo
+ n on 7/27/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240727
+DTSTART;VALUE=DATE:20240727
+SUMMARY:Bruce Springsteen
+UID:99202962-1510-4910-81a3-d5725a1d3457
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240504T012236Z
 DESCRIPTION:Buy your AC/DC - 7 July 2024 Tickets & Hospitality at P1 Travel
  . ✓ Official tickets. ✓ Safe booking. ✓ Dedicated customer service.
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC – 7 July 2024
-UID:2d13d711-1adf-4cfe-ad35-51312b489b9f
+UID:9a5bebfe-270f-4bc0-b770-dda73b5ac0f3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
-DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
- h more than 140 million records sold around the globe and more than 70 mill
- ion in the United States, Bruce Springsteen is one of the...
-DTEND;VALUE=DATE:20240725
-DTSTART;VALUE=DATE:20240725
-SUMMARY:Bruce Springsteen
-UID:60f85c4a-aba0-4b15-b5c5-e65a75a8bdfe
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240503T013128Z
+DTSTAMP:20240504T012236Z
 DESCRIPTION:Terms & Conditions | Payment Plan Terms & Conditions | Privacy 
  Policy | Environmental & Ethical Policy | TicketPlan | Private Hire | Even
  t Organisers | Cookie Policy | Pick Up Locations | Gift...
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Paramore @ Wembley Stadium
-UID:714c3fb4-ab8e-43ad-b472-d8b1b87dd7d3
+UID:c1da7597-5678-4c9d-9d6a-e2882af67384
 END:VEVENT
 END:VCALENDAR
