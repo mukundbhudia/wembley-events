@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
+DTSTAMP:20240516T013132Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20240516
+DTSTART;VALUE=DATE:20240516
+SUMMARY:André Rieu
+UID:3e3a1fc6-cd8f-4591-bb2b-c5a27fba3355
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240516T013132Z
 DESCRIPTION:Spend an unforgettable evening at Wembley Arena on this 'make-y
  our-own-way' break in London with a choice of four-star hotels Enjoy an eve
  ning of inspiring performances and enchanting melodies led...
 DTEND;VALUE=DATE:20240518
 DTSTART;VALUE=DATE:20240518
 SUMMARY:André Rieu
-UID:ed0940cc-edcf-4386-a302-c2ee3c42f7ad
+UID:d340b7b6-b19a-4ec1-a704-00459fcda93d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
+DTSTAMP:20240516T013132Z
 DESCRIPTION:Travel to Emirates Old Trafford and Wembley Stadium for Green D
  ay's celebratory tour with Big Green Coach, the event's official travel par
  tner. DAY RETURN COACH Travel sustainably with like-minded...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Green Day
-UID:ea26510b-33bf-4dfb-83f4-f4bfc5962c13
+UID:dd396041-8d84-4caa-a39a-13d570e575b4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20240515
-DTSTART;VALUE=DATE:20240515
-SUMMARY:André Rieu
-UID:f79560f1-c6e7-49fa-8467-c17ccafba7c0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
-DESCRIPTION:5 HOURS OF NON-STOP FEMALE POP-PUNK ANTHEMS! - THE ULTIMATE AFT
- ERPARTY
-DTEND;VALUE=DATE:20240515
-DTSTART;VALUE=DATE:20240515
-SUMMARY:OLIVIA RODRIGO: GUTS WORLD TOUR -AFTERPARTY!
-UID:9ee0401b-6031-47f8-be87-5a8c96dfab24
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
+DTSTAMP:20240516T013132Z
 DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 5
  /25/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240525
 DTSTART;VALUE=DATE:20240525
 SUMMARY:Sonu Nigam
-UID:32b5607a-7fcd-4287-acaf-2a69bfe69b1f
+UID:50db4f07-f880-4ed3-aa53-a211c1f5c5ab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
+DTSTAMP:20240516T013132Z
+DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 6
+ /23/2024 at 3:15 PM
+DTEND;VALUE=DATE:20240623
+DTSTART;VALUE=DATE:20240623
+SUMMARY:Taylor Swift | The Eras Tour
+UID:ab925995-08e3-4969-a233-48fa678cc770
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240516T013132Z
+DESCRIPTION:Olivia Rodrigo announces huge UK tour but getting tickets is go
+ ing to be as hard as Taylor Swift MyLondon GUARDIAN SATURDAY Mag September 
+ 2023 Olivia Rodrigo Cover and large interview with We Ship...
+DTEND;VALUE=DATE:20240516
+DTSTART;VALUE=DATE:20240516
+SUMMARY:Olivia Rodrigo London Tickets at The O2 on 14th May 2024 Ents24
+UID:6f5afc0c-15c2-4ce3-afd2-dac3702403ce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240516T013132Z
 DESCRIPTION:iEarl The Era's Tour 🫶🏻 on X: "RUMOR❗️ Taylor Swift i
  s said to bring her ERAS TOUR to the UK and rest of EUROPE in 2023/mid Prem
  iere Events UK
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
-SUMMARY:Paramore @ Wembley Stadium
-UID:7226c621-7d9b-4bf5-92bc-e4ca8d3f866c
+SUMMARY:Taylor Swift The Eras Tour tickets in London at Wembley Stadium on 
+ Sat, Jun 22, 2024 7:30PM
+UID:0f37aca9-cc86-4372-9dc8-48fee7ebcbeb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
-DESCRIPTION:Olivia Rodrigo announces huge UK tour but getting tickets is go
- ing to be as hard as Taylor Swift MyLondon GUARDIAN SATURDAY Mag September 
- 2023 Olivia Rodrigo Cover and large interview with We Ship...
-DTEND;VALUE=DATE:20240515
-DTSTART;VALUE=DATE:20240515
-SUMMARY:Olivia Rodrigo London Tickets at The O2 on 14th May 2024 Ents24
-UID:7b6aace4-18ac-4dbc-94bb-78ecec89bffc
+DTSTAMP:20240516T013132Z
+DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
+ /20/2024 at 4:00 PM
+DTEND;VALUE=DATE:20240820
+DTSTART;VALUE=DATE:20240820
+SUMMARY:Taylor Swift
+UID:25c5fbd9-703f-430f-9e7a-ed828816342f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
+DTSTAMP:20240516T013132Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:d837f1d4-b1b2-4641-ac45-0fc356b9461c
+UID:26541b70-5c5e-4a65-ba0e-588df28c5577
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
-DESCRIPTION:The Taylor Swift Eras Tour comes to Wembley Stadium for 8 night
- s in 2024. The Eras Tour is a highly anticipated concert series which come
- s to the UK in 2024. Renowned for her chart-topping hits...
-DTEND;VALUE=DATE:20240623
-DTSTART;VALUE=DATE:20240623
-SUMMARY:Taylor Swift
-UID:1316208a-023e-462e-b665-426d627b1d8b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240515T013316Z
+DTSTAMP:20240516T013132Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:ab63eb22-1381-4c1e-a5a9-a4142f7c75b7
+UID:bc343d9f-fe41-4eef-a2a6-a20666942c5c
 END:VEVENT
 END:VCALENDAR
