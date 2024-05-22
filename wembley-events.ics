@@ -3,99 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
+DTSTAMP:20240522T013233Z
 DESCRIPTION:Travel to Emirates Old Trafford and Wembley Stadium for Green D
  ay's celebratory tour with Big Green Coach, the event's official travel par
  tner. DAY RETURN COACH Travel sustainably with like-minded...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Green Day
-UID:d2dfd3f1-31d0-491a-b971-d46e0d2897e1
+UID:457c1c3d-b3a7-4a57-b21b-eff7ac05fa40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
+DTSTAMP:20240522T013233Z
 DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 6
  /23/2024 at 3:15 PM
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
-SUMMARY:Taylor Swift | The Eras Tour
-UID:22f17702-96dd-49bd-ba22-0f2bd2a05e76
+SUMMARY:Taylor Swift
+UID:01e06cea-150a-4732-9e3e-6c94a576e524
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
-DESCRIPTION:1, 2, 3, Let's Go Swifties! It's been a long time coming, but i
- t won't be long now until Taylor Swift makes a triumphant return to our cit
- ies as the record-breaking Eras Tour arrives to London and...
-DTEND;VALUE=DATE:20240815
-DTSTART;VALUE=DATE:20240815
-SUMMARY:Paramore @ Wembley Stadium
-UID:de644cb6-34b8-4735-bb48-8d627b985be7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
-DESCRIPTION:💥ED SHEERAN IN LONDON😍 2024 WEMBLEY STADIUM JUST ANNOUNC
- ED 💙 Ed Sheeran has shared details of his + - = ÷ x Tour coming to LOND
- ON next summer 🙌🔥😍
-DTEND;VALUE=DATE:20240522
-DTSTART;VALUE=DATE:20240522
-SUMMARY:Ed Sheeran - Wembley Stadium, London
-UID:f2b28d71-f7eb-4b35-8d08-73929f97e909
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
+DTSTAMP:20240522T013233Z
 DESCRIPTION:iEarl The Era's Tour 🫶🏻 on X: "RUMOR❗️ Taylor Swift i
  s said to bring her ERAS TOUR to the UK and rest of EUROPE in 2023/mid Prem
  iere Events UK
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
 SUMMARY:Paramore @ Wembley Stadium
-UID:e9da5eab-ce0d-48a3-a171-29b04472cd31
+UID:6f2b964d-7b41-45dd-8db6-080688f7f4c4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
-DESCRIPTION:Tickets 🎫 Adult ticket (16+) 🎫 Family ticket (2 adults an
- d 2 children) 🎫 Concession ticket (seniors 65+ and students with valid I
- D) Children under 5 enter for free and without a ticket...
-DTEND;VALUE=DATE:20240521
-DTSTART;VALUE=DATE:20240521
-SUMMARY:Wembley Stadium Tour: The Award-Winning Tour for Football Fans
-UID:b4e3eafe-2d2a-403e-983b-8377112e9aec
+DTSTAMP:20240522T013233Z
+DESCRIPTION:💥ED SHEERAN IN LONDON😍 2024 WEMBLEY STADIUM JUST ANNOUNC
+ ED 💙 Ed Sheeran has shared details of his + - = ÷ x Tour coming to LOND
+ ON next summer 🙌🔥😍
+DTEND;VALUE=DATE:20240522
+DTSTART;VALUE=DATE:20240522
+SUMMARY:Ed Sheeran - Wembley Stadium, London
+UID:b14ff38c-6db8-4277-a3bb-43aeb040bcda
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
-DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
- a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
- n February 7. The shows wrap August 16 and 17, 2024, at...
-DTEND;VALUE=DATE:20240816
-DTSTART;VALUE=DATE:20240816
-SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:e2c30a51-0618-40be-a493-79d04c463603
+DTSTAMP:20240522T013233Z
+DESCRIPTION:1, 2, 3, Let's Go Swifties! It's been a long time coming, but i
+ t won't be long now until Taylor Swift makes a triumphant return to our cit
+ ies as the record-breaking Eras Tour arrives to London and...
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
+SUMMARY:Paramore @ Wembley Stadium
+UID:e7178657-9850-43a3-bb6b-826c6f70b3b5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
+DTSTAMP:20240522T013233Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/20/2024 at 4:00 PM
 DTEND;VALUE=DATE:20240820
 DTSTART;VALUE=DATE:20240820
 SUMMARY:Taylor Swift, Paramore
-UID:33f8fbd0-e20c-44af-b426-a244fd67db78
+UID:298c0a06-4b78-47e6-9bdd-1dabbbba0b7e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
-DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
- /17/2024 at 4:45 PM
-DTEND;VALUE=DATE:20240817
-DTSTART;VALUE=DATE:20240817
-SUMMARY:Paramore @ Wembley Stadium
-UID:b30e2bec-ba76-4465-9cc7-6eec77521452
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240521T013142Z
+DTSTAMP:20240522T013233Z
 DESCRIPTION:Find tickets for Bruce Springsteen at Wembley Stadium in Londo
  n on 7/27/2024 at 7:00 PM
 DTEND;VALUE=DATE:20240727
 DTSTART;VALUE=DATE:20240727
 SUMMARY:Bruce Springsteen @ Wembley Stadium
-UID:a4abc79d-47ca-487c-b56e-73fbe63179a8
+UID:cde10218-9020-48dd-8e96-4062ef3888bb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240522T013233Z
+DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
+ /17/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240817
+DTSTART;VALUE=DATE:20240817
+SUMMARY:Paramore @ Wembley Stadium
+UID:e8da54b0-f8f0-4612-9d4b-6846f90b92d6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240522T013233Z
+DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
+ /19/2024 at 4:00 PM
+DTEND;VALUE=DATE:20240819
+DTSTART;VALUE=DATE:20240819
+SUMMARY:Taylor Swift
+UID:ea7d9ba5-9d7e-4f10-8793-189baac06f5e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240522T013233Z
+DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
+ ational Express journeys from across the UK.
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Green Day - The Saviors Tour
+UID:bbf424f0-683c-46f4-89a1-461fd3cf5e7d
 END:VEVENT
 END:VCALENDAR
