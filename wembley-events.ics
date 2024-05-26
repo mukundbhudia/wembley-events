@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
-DESCRIPTION:Find tickets for Sonu Nigam at OVO Arena Wembley in London on 5
- /25/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240525
-DTSTART;VALUE=DATE:20240525
-SUMMARY:Sonu Nigam
-UID:f57ead5b-1a8c-4676-8138-07e288d0240b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
+DTSTAMP:20240526T013805Z
 DESCRIPTION:Taylor Swift T-Shirt 'Taylor Swift The Eras International Tour 
  Beige T-Shirt' Bravado: Online-Shop für Merch
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Taylor Swift
-UID:798733e7-b317-4e70-993a-a52e198574d6
+UID:917b450a-a4d3-47a9-ad1d-399043090f47
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
+DTSTAMP:20240526T013805Z
 DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 6
  /23/2024 at 3:15 PM
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Taylor Swift
-UID:f43ee8db-c687-4ab6-a22e-6fbba8b97d77
+UID:ab2c759c-c8d7-4276-a68b-179776d5f62a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
-DESCRIPTION:iEarl The Era's Tour 🫶🏻 on X: "RUMOR❗️ Taylor Swift i
- s said to bring her ERAS TOUR to the UK and rest of EUROPE in 2023/mid Prem
- iere Events UK
-DTEND;VALUE=DATE:20240622
-DTSTART;VALUE=DATE:20240622
-SUMMARY:Paramore @ Wembley Stadium
-UID:6b25f45c-f615-43cd-acac-af6b380abade
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
+DTSTAMP:20240526T013805Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
+SUMMARY:Taylor Swift announces more international dates for Eras Tour
+UID:fd0b68c3-0fa0-40d5-8229-fad47533f4cb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240526T013805Z
+DESCRIPTION:1, 2, 3, Let's Go Swifties! It's been a long time coming, but i
+ t won't be long now until Taylor Swift makes a triumphant return to our cit
+ ies as the record-breaking Eras Tour arrives to London and...
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
 SUMMARY:Paramore @ Wembley Stadium
-UID:bb15f9e0-ad76-421d-8457-8f6b27d7146c
+UID:f4020963-e863-4826-8e41-ef32b4542e0c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
-DESCRIPTION:Find tickets for Bruce Springsteen at Wembley Stadium in Londo
- n on 7/27/2024 at 7:00 PM
-DTEND;VALUE=DATE:20240727
-DTSTART;VALUE=DATE:20240727
-SUMMARY:Bruce Springsteen @ Wembley Stadium
-UID:9f2f1220-cf96-4c49-9197-bbfe908c8de2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
-DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
- /17/2024 at 4:45 PM
-DTEND;VALUE=DATE:20240817
-DTSTART;VALUE=DATE:20240817
-SUMMARY:Paramore @ Wembley Stadium
-UID:26b00cdf-16b7-4cf1-b672-c1fd37d360a9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
-DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
- /19/2024 at 4:00 PM
-DTEND;VALUE=DATE:20240819
-DTSTART;VALUE=DATE:20240819
-SUMMARY:Taylor Swift
-UID:54c70998-11df-4de8-9b38-e2659072ac30
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
+DTSTAMP:20240526T013805Z
 DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
  h more than 140 million records sold around the globe and more than 70 mill
  ion in the United States, Bruce Springsteen is one of the...
 DTEND;VALUE=DATE:20240725
 DTSTART;VALUE=DATE:20240725
 SUMMARY:Bruce Springsteen
-UID:dc6330dc-d6bc-4576-b87b-b27a8e90c4a4
+UID:f2d4480b-11e6-4545-a2b1-97d9503f46a8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240525T013107Z
+DTSTAMP:20240526T013805Z
+DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
+ /17/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240817
+DTSTART;VALUE=DATE:20240817
+SUMMARY:Paramore @ Wembley Stadium
+UID:1d631c92-ed80-4a65-a658-ac3d925342c3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240526T013805Z
 DESCRIPTION:Find tickets for Moneybagg Yo with DaBaby at OVO Arena Wembley 
  in London on 6/7/2024 at 7:00 PM
 DTEND;VALUE=DATE:20240607
 DTSTART;VALUE=DATE:20240607
 SUMMARY:Moneybagg Yo
-UID:5d39c8ee-7833-4ebe-9f2f-c18ed8cb5041
+UID:844234eb-15af-42cb-847b-64ad1e93c396
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240526T013805Z
+DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
+ ational Express journeys from across the UK.
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Green Day - The Saviors Tour
+UID:331ccf5f-9a25-41ce-aec2-c4079b6dfe49
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240526T013805Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/20/2024 at 4:00 PM
+DTEND;VALUE=DATE:20240820
+DTSTART;VALUE=DATE:20240820
+SUMMARY:Taylor Swift, Paramore
+UID:4dd19440-acc5-429e-9213-19e68a05c6c1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240526T013805Z
+DESCRIPTION:Find tickets for girl in red at OVO Arena Wembley in London on 
+ 9/3/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240903
+DTSTART;VALUE=DATE:20240903
+SUMMARY:girl in red
+UID:8f0f6c91-efda-430f-9306-12c851f2a05b
 END:VEVENT
 END:VCALENDAR
