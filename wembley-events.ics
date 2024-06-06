@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
+DTSTAMP:20240606T013358Z
 DESCRIPTION:Moneybagg Yo & DaBaby Live in Concert
 DTEND;VALUE=DATE:20240607
 DTSTART;VALUE=DATE:20240607
 SUMMARY:MoneyBagg Yo @ OVO Arena Wembley
-UID:0a0dc4e4-56c0-419f-b403-f4a3344410bc
+UID:bb963102-68fb-4828-88ea-321dfe27b842
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20240607
-DTSTART;VALUE=DATE:20240607
-SUMMARY:England vs Iceland - Friendly
-UID:d59ab393-0162-434d-9a52-a9c920810177
+DTSTAMP:20240606T013358Z
+DESCRIPTION:Find tickets for Scorpions with Extreme at OVO Arena Wembley i
+ n London on 6/8/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240608
+DTSTART;VALUE=DATE:20240608
+SUMMARY:Scorpions
+UID:deafdf17-56b6-4b9b-9a54-5caf0efc914c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
+DTSTAMP:20240606T013358Z
 DESCRIPTION:Taylor Swift the Eras Tour puzzle is a perfect gift for any Swi
  ftie! Choose from sizes: 110, 252, or 500 piece puzzle for Taylor Swift fan
  s! 100%
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Taylor Swift
-UID:238d7c33-b520-47f9-9910-f9f491feee0a
+UID:9c3164f3-1742-4aa4-9a6e-a97a081db783
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
+DTSTAMP:20240606T013358Z
 DESCRIPTION:Enjoy Taylor Swifts 2024 tour in style with VIP tickets in prem
  ium hospitality lounges across Wembley stadium.
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Taylor Swift
-UID:d90459d8-29f3-41d3-a814-aee1e464e6f4
+UID:22ab5f03-29c1-463e-bc3f-b338904b80c6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
+DTSTAMP:20240606T013358Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:64c350a6-d121-4f52-8a7a-7aa62486af63
+UID:d8bc5422-3f8e-4d20-ac92-a816c86cbd5b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
+DTSTAMP:20240606T013358Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviour Tour
-UID:7928c7e6-94fb-4756-b879-a6d4464b3415
+UID:aa78265e-31ea-413d-8c29-f0510f7b6c6a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
+DTSTAMP:20240606T013358Z
 DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
  /17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Paramore @ Wembley Stadium
-UID:9b8d0fd8-e686-44d7-b5b0-dfd34c9975cf
+UID:e657a585-522a-466a-8d09-bcbd70118e73
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
+DTSTAMP:20240606T013358Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC PWR UP TOUR
-UID:a8cd5fc2-44f5-4904-9dcf-9c15e0463ace
+UID:f72d10aa-9da9-41fe-8c0d-6a46db4dd16f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
+DTSTAMP:20240606T013358Z
 DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
  h more than 140 million records sold around the globe and more than 70 mill
  ion in the United States, Bruce Springsteen is one of the...
 DTEND;VALUE=DATE:20240725
 DTSTART;VALUE=DATE:20240725
 SUMMARY:Bruce Springsteen
-UID:534c57f0-7611-4307-9773-d1c29e2f5731
+UID:0390cdb2-31c8-4fcb-baae-43d1f10be6a5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240605T013411Z
-DESCRIPTION:Are you ready for it?! The European leg of The Eras Tour has ki
- cked off, and the Jefferson Children’s Advocacy Center wants to give two 
- lucky Swifties the chance to see Taylor Swift perform live...
-DTEND;VALUE=DATE:20240819
-DTSTART;VALUE=DATE:20240819
-SUMMARY:Paramore @ Wembley Stadium
-UID:17435f53-4bf9-4120-99e9-3cd57acbd8c2
+DTSTAMP:20240606T013358Z
+DESCRIPTION:Find tickets for Trippie Redd at OVO Arena Wembley in London o
+ n 6/29/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Trippie Redd
+UID:c4e71065-6064-4f42-8dd5-c5e59130eb6c
 END:VEVENT
 END:VCALENDAR
