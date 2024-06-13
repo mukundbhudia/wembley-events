@@ -3,96 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
+DTSTAMP:20240613T013516Z
 DESCRIPTION:Get ready to experience the UK's biggest summer party with Capi
  tal's Summertime Ball with Barclaycard. This highly anticipated event is re
  turning for 2024 and we're pulling out all the stops to...
 DTEND;VALUE=DATE:20240616
 DTSTART;VALUE=DATE:20240616
 SUMMARY:Capital's Summertime Ball
-UID:8f6f7a17-4a63-46dc-9574-4942d2be82d0
+UID:25bacc1f-8117-4c5f-9146-f0e9ffdd8172
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
+DTSTAMP:20240613T013516Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 6/22/2024 at 5:00 PM
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
 SUMMARY:Taylor Swift with Paramore
-UID:c076ba60-641a-49a4-af6a-a7afbd274543
+UID:20789afe-bfb1-4124-b443-e98c35a113f3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 6/21/2024 at 5:00 PM
+DTSTAMP:20240613T013516Z
+DESCRIPTION:Taylor Swift the Eras Tour puzzle is a perfect gift for any Swi
+ ftie! Choose from sizes: 110, 252, or 500 piece puzzle for Taylor Swift fan
+ s! 100%
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
-SUMMARY:Taylor Swift
-UID:71b1e632-4fd9-49a4-a0ae-52c88c6d16dd
+SUMMARY:Paramore @ Wembley Stadium
+UID:3083d810-a79a-4ebb-8071-bceb87aa81a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
+DTSTAMP:20240613T013516Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/15/2024 at 4:30 PM
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
-SUMMARY:Taylor Swift with Paramore
-UID:ab247876-733d-448c-ad2c-e2ea1c0ed5b1
+SUMMARY:Paramore @ Wembley Stadium
+UID:a894f0ad-0611-47d0-870d-6ae9dfcb0f14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
+DTSTAMP:20240613T013516Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day
-UID:3c025f12-d27e-4441-a10b-6814cc66c698
+UID:642c875b-2748-4df1-adcd-bc7f1a4bfc1c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
+DTSTAMP:20240613T013516Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20240615
 DTSTART;VALUE=DATE:20240615
 SUMMARY:COORS PRESENTS: DECKS APPEAL
-UID:4128d05a-e6d9-4363-a686-2581ccd42713
+UID:890c8c9b-7e88-4952-9b61-a75746496776
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
+DTSTAMP:20240613T013516Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift with Paramore
-UID:3112c722-e16a-447b-9185-319c2d47bcb7
+UID:df7cf69d-2b26-4d3d-ac8b-ffff643b5634
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
+DTSTAMP:20240613T013516Z
 DESCRIPTION:Bruce Springsteen & The E Street Band: Wembley Stadium London, 
  LND July 25, 2024 - 07:00 PM
 DTEND;VALUE=DATE:20240725
 DTSTART;VALUE=DATE:20240725
 SUMMARY:Bruce Springsteen
-UID:8a2e4c82-53c6-4bba-b457-3b8935c575e1
+UID:996b0a2c-b046-42ce-ac72-92d743b537e7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
+DTSTAMP:20240613T013516Z
 DESCRIPTION:Captivating millions of esports fans worldwide, BLAST Premier i
  s a global Counter-Strike tournament series where the best teams and bigges
  t superstars fight it out for glory and a multi-million...
 DTEND;VALUE=DATE:20240616
 DTSTART;VALUE=DATE:20240616
 SUMMARY:BLAST Premier Spring Final
-UID:5cae4a66-b7c1-45c2-bd93-07596032b0e6
+UID:d20a2ee0-7daa-4770-9a9c-9b0637e9e395
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240612T013618Z
+DTSTAMP:20240613T013516Z
 DESCRIPTION:14 June 2024 14 June 2024 GRAMMY award-winning global supersta
  r Doja Cat announces that she will bring “The Scarlet Tour” to The O2 i
  n summer 2024, notably marking her first European Headline...
 DTEND;VALUE=DATE:20240614
 DTSTART;VALUE=DATE:20240614
 SUMMARY:Doja Cat, hemlocke springs
-UID:234889ed-380e-4779-aa6d-17d7a5286d44
+UID:25fdd305-9790-499e-8fc2-b2395e4202a3
 END:VEVENT
 END:VCALENDAR
