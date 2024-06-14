@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
-DESCRIPTION:Get ready to experience the UK's biggest summer party with Capi
- tal's Summertime Ball with Barclaycard. This highly anticipated event is re
- turning for 2024 and we're pulling out all the stops to...
+DTSTAMP:20240614T013526Z
+DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
+ y Stadium this June! This year's huge one-day event will include performanc
+ es from Sabrina Carpenter, David Guetta, Benson Boone...
 DTEND;VALUE=DATE:20240616
 DTSTART;VALUE=DATE:20240616
 SUMMARY:Capital's Summertime Ball
-UID:25bacc1f-8117-4c5f-9146-f0e9ffdd8172
+UID:6fd8127a-085f-4c65-9136-b4ecd040575e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 6/22/2024 at 5:00 PM
-DTEND;VALUE=DATE:20240622
-DTSTART;VALUE=DATE:20240622
-SUMMARY:Taylor Swift with Paramore
-UID:20789afe-bfb1-4124-b443-e98c35a113f3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
+DTSTAMP:20240614T013526Z
 DESCRIPTION:Taylor Swift the Eras Tour puzzle is a perfect gift for any Swi
  ftie! Choose from sizes: 110, 252, or 500 piece puzzle for Taylor Swift fan
  s! 100%
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Paramore @ Wembley Stadium
-UID:3083d810-a79a-4ebb-8071-bceb87aa81a9
+UID:f2352c2c-838b-4d24-9606-dae6646b8a43
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
+DTSTAMP:20240614T013526Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 6/22/2024 at 5:00 PM
+DTEND;VALUE=DATE:20240622
+DTSTART;VALUE=DATE:20240622
+SUMMARY:Taylor Swift with Paramore
+UID:0ca53f00-a5a6-4319-ba8d-4986eb38efaa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T013526Z
+DESCRIPTION:Captivating millions of esports fans worldwide, BLAST Premier i
+ s a global Counter-Strike tournament series where the best teams and bigges
+ t superstars fight it out for glory and a multi-million...
+DTEND;VALUE=DATE:20240615
+DTSTART;VALUE=DATE:20240615
+SUMMARY:BLAST Premier Spring Final
+UID:8393ece4-0706-40c7-a43b-9c2814208330
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T013526Z
+DESCRIPTION:Book tickets to see BLAST Premier Spring Final at OVO Arena, We
+ mbley
+DTEND;VALUE=DATE:20240614
+DTSTART;VALUE=DATE:20240614
+SUMMARY:BLAST Premier Spring Final
+UID:9d8cddad-bb34-4593-a468-2e6c030cebfd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T013526Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/15/2024 at 4:30 PM
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Paramore @ Wembley Stadium
-UID:a894f0ad-0611-47d0-870d-6ae9dfcb0f14
+UID:2573cc5b-c193-4a12-bd1e-ea2a2ade656c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
+DTSTAMP:20240614T013526Z
 DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
  ational Express journeys from across the UK.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
-SUMMARY:Green Day
-UID:642c875b-2748-4df1-adcd-bc7f1a4bfc1c
+SUMMARY:Green Day - The Saviour Tour
+UID:6d4f196f-ed50-42c3-a91e-caa90b66b10b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
+DTSTAMP:20240614T013526Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20240615
 DTSTART;VALUE=DATE:20240615
 SUMMARY:COORS PRESENTS: DECKS APPEAL
-UID:890c8c9b-7e88-4952-9b61-a75746496776
+UID:bfc79f29-c7a1-41f9-b16c-e0a79fb8b3cb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
+DTSTAMP:20240614T013526Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift with Paramore
-UID:df7cf69d-2b26-4d3d-ac8b-ffff643b5634
+UID:50602761-8d0c-4143-8582-541e05b12dfb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
-DESCRIPTION:Bruce Springsteen & The E Street Band: Wembley Stadium London, 
- LND July 25, 2024 - 07:00 PM
-DTEND;VALUE=DATE:20240725
-DTSTART;VALUE=DATE:20240725
-SUMMARY:Bruce Springsteen
-UID:996b0a2c-b046-42ce-ac72-92d743b537e7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
-DESCRIPTION:Captivating millions of esports fans worldwide, BLAST Premier i
- s a global Counter-Strike tournament series where the best teams and bigges
- t superstars fight it out for glory and a multi-million...
-DTEND;VALUE=DATE:20240616
-DTSTART;VALUE=DATE:20240616
-SUMMARY:BLAST Premier Spring Final
-UID:d20a2ee0-7daa-4770-9a9c-9b0637e9e395
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240613T013516Z
-DESCRIPTION:14 June 2024 14 June 2024 GRAMMY award-winning global supersta
- r Doja Cat announces that she will bring “The Scarlet Tour” to The O2 i
- n summer 2024, notably marking her first European Headline...
-DTEND;VALUE=DATE:20240614
-DTSTART;VALUE=DATE:20240614
-SUMMARY:Doja Cat, hemlocke springs
-UID:25fdd305-9790-499e-8fc2-b2395e4202a3
+DTSTAMP:20240614T013526Z
+DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
+ illed millions of fans by announcing the ‘POWER UP’ European Tour incl
+ uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
+DTEND;VALUE=DATE:20240707
+DTSTART;VALUE=DATE:20240707
+SUMMARY:AC/DC PWR UP TOUR
+UID:0e00dbfa-d872-497d-9ce4-6184791593ea
 END:VEVENT
 END:VCALENDAR
