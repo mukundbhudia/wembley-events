@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
-DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
- y Stadium this June! This year's huge one-day event will include performanc
- es from Sabrina Carpenter, David Guetta, Benson Boone...
-DTEND;VALUE=DATE:20240616
-DTSTART;VALUE=DATE:20240616
-SUMMARY:Sabrina Carpenter
-UID:79a2328e-6d27-48e0-950d-eff950db9205
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 6/22/2024 at 5:00 PM
-DTEND;VALUE=DATE:20240622
-DTSTART;VALUE=DATE:20240622
-SUMMARY:Taylor Swift with Paramore
-UID:4ed342da-40a8-4766-a50b-36b81a28166e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
+DTSTAMP:20240617T013902Z
 DESCRIPTION:Taylor Swift the Eras Tour puzzle is a perfect gift for any Swi
  ftie! Choose from sizes: 110, 252, or 500 piece puzzle for Taylor Swift fan
  s! 100%
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
-SUMMARY:Paramore @ Wembley Stadium
-UID:c3eace9b-6984-44a5-a821-e7ddd64b60eb
+SUMMARY:Taylor Swift
+UID:f49c775b-25be-4250-825d-618ae6b7cc8c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
-DESCRIPTION:The world's best esports and Counter-Strike players will descen
- d on London this summer, when the BLAST Premier Spring Final 2024 takes pla
- ce at OVO Arena Wembley this June. Join in the action with...
-DTEND;VALUE=DATE:20240615
-DTSTART;VALUE=DATE:20240615
-SUMMARY:BLAST Premier Spring Final
-UID:f7867d22-9a3a-4c37-9b19-045b9710f4e4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
+DTSTAMP:20240617T013902Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/15/2024 at 4:30 PM
-DTEND;VALUE=DATE:20240815
-DTSTART;VALUE=DATE:20240815
-SUMMARY:Paramore @ Wembley Stadium
-UID:63968cfe-bb74-4ed0-9f7f-bcf88b04874d
+ in London on 6/23/2024 at 3:15 PM
+DTEND;VALUE=DATE:20240623
+DTSTART;VALUE=DATE:20240623
+SUMMARY:Taylor Swift with Paramore
+UID:7861a134-7989-4249-b969-487230951835
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
-DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
- ational Express journeys from across the UK.
-DTEND;VALUE=DATE:20240629
-DTSTART;VALUE=DATE:20240629
-SUMMARY:Green Day - The Saviour Tour
-UID:56e1e7ba-e8a1-4bc0-bfaa-fdcd917b9b85
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20240615
-DTSTART;VALUE=DATE:20240615
-SUMMARY:COORS PRESENTS: DECKS APPEAL
-UID:20c71964-42c6-4309-a0c8-1d70b49a2022
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
+DTSTAMP:20240617T013902Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
+SUMMARY:Taylor Swift announces more international dates for Eras Tour
+UID:f99addb2-69b2-43e4-ab35-c43eb724d79c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240617T013902Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/15/2024 at 4:30 PM
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift with Paramore
-UID:b6bd2b7f-9251-4609-baeb-a28c678bdf7c
+UID:8186508b-d86b-4352-ab36-e98ea3055a60
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
-DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
- illed millions of fans by announcing the ‘POWER UP’ European Tour incl
- uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
-DTEND;VALUE=DATE:20240707
-DTSTART;VALUE=DATE:20240707
-SUMMARY:AC/DC PWR UP TOUR
-UID:97b16632-2037-4431-a067-3661c829b47a
+DTSTAMP:20240617T013902Z
+DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
+ g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
+ Travel sustainably directly to Wembley Stadium on the...
+DTEND;VALUE=DATE:20240703
+DTSTART;VALUE=DATE:20240703
+SUMMARY:AC/DC at Wembley Stadium
+UID:2b452771-891a-4096-aecb-87bb826e495a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240615T013507Z
+DTSTAMP:20240617T013902Z
+DESCRIPTION:Find tickets for Trippie Redd with JELEEL! at OVO Arena Wemble
+ y in London on 6/29/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Trippie Redd
+UID:e12cec1f-b6a3-44a6-9fc6-65b55e68ce58
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240617T013902Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/17/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240817
+DTSTART;VALUE=DATE:20240817
+SUMMARY:Paramore @ Wembley Stadium
+UID:05339a99-14aa-4b93-a37c-326664f7b598
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240617T013902Z
+DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
+ ational Express journeys from across the UK.
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Green Day - The Saviour Tour
+UID:44dd17df-8641-48c3-991d-edbac0b3bb8b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240617T013902Z
+DESCRIPTION:Rev your engines because the world's top Rocket League players 
+ will be competing for a share of $255,000 in prize money at the RLCS Major 
+ 2 at Copper Box Arena. Copper Box Arena previously hosted...
+DTEND;VALUE=DATE:20240622
+DTSTART;VALUE=DATE:20240622
+SUMMARY:Foo Fighters
+UID:89357e2f-b72b-4f1e-9320-f1e0cf9fa682
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240617T013902Z
 DESCRIPTION:Buy James Acaster tickets and sign-up for latest tour alerts. F
  ind James Acaster tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240616
-DTSTART;VALUE=DATE:20240616
+DTEND;VALUE=DATE:20240617
+DTSTART;VALUE=DATE:20240617
 SUMMARY:James Acaster
-UID:f042ee92-d190-40df-a32b-45c0099f0c7c
+UID:9d98dd52-c7e2-40f7-a3cc-73a3963d206b
 END:VEVENT
 END:VCALENDAR
