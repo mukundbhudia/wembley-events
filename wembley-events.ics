@@ -3,97 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
+DTSTAMP:20240618T013629Z
 DESCRIPTION:Taylor Swift the Eras Tour puzzle is a perfect gift for any Swi
  ftie! Choose from sizes: 110, 252, or 500 piece puzzle for Taylor Swift fan
  s! 100%
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Taylor Swift
-UID:f49c775b-25be-4250-825d-618ae6b7cc8c
+UID:0d0a21c0-7d66-4c9e-b7c1-0297ebf8dae1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
+DTSTAMP:20240618T013629Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 6/23/2024 at 3:15 PM
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Taylor Swift with Paramore
-UID:7861a134-7989-4249-b969-487230951835
+UID:0fa90303-8f4f-4974-96ef-be71603fe4f1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
+DTSTAMP:20240618T013629Z
+DESCRIPTION:Taking place in the stunning Tudor Courtyard, the Hampton Cour
+ t Palace Festival provides world-class acts, a spectacular setting and the 
+ beautiful East Front Gardens to enjoy picnicking before the...
+DTEND;VALUE=DATE:20240618
+DTSTART;VALUE=DATE:20240618
+SUMMARY:Tom Jones
+UID:46c3bcbb-98df-498a-99fb-daefb89b16c1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240618T013629Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:f99addb2-69b2-43e4-ab35-c43eb724d79c
+UID:55c940e7-c608-4b8b-9a0d-4df2cd3424fb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
+DTSTAMP:20240618T013629Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/15/2024 at 4:30 PM
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift with Paramore
-UID:8186508b-d86b-4352-ab36-e98ea3055a60
+UID:1ff995d3-8e8b-4eaf-913a-66de02d8b112
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
+DTSTAMP:20240618T013629Z
 DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
  g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
  Travel sustainably directly to Wembley Stadium on the...
 DTEND;VALUE=DATE:20240703
 DTSTART;VALUE=DATE:20240703
 SUMMARY:AC/DC at Wembley Stadium
-UID:2b452771-891a-4096-aecb-87bb826e495a
+UID:c43974d5-0056-4da0-8a11-e20dd653f456
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
+DTSTAMP:20240618T013629Z
 DESCRIPTION:Find tickets for Trippie Redd with JELEEL! at OVO Arena Wemble
  y in London on 6/29/2024 at 8:00 PM
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Trippie Redd
-UID:e12cec1f-b6a3-44a6-9fc6-65b55e68ce58
+UID:342791b3-bd73-42b5-9436-9e7afae00fa1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
+DTSTAMP:20240618T013629Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Paramore @ Wembley Stadium
-UID:05339a99-14aa-4b93-a37c-326664f7b598
+UID:6e296975-5d89-49a7-bb99-96013513add3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
-DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
- ational Express journeys from across the UK.
-DTEND;VALUE=DATE:20240629
-DTSTART;VALUE=DATE:20240629
-SUMMARY:Green Day - The Saviour Tour
-UID:44dd17df-8641-48c3-991d-edbac0b3bb8b
+DTSTAMP:20240618T013629Z
+DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
+ illed millions of fans by announcing the ‘POWER UP’ European Tour incl
+ uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
+DTEND;VALUE=DATE:20240707
+DTSTART;VALUE=DATE:20240707
+SUMMARY:AC/DC PWR UP TOUR
+UID:82a97449-f1b1-49e7-86ea-c2057696148b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
-DESCRIPTION:Rev your engines because the world's top Rocket League players 
- will be competing for a share of $255,000 in prize money at the RLCS Major 
- 2 at Copper Box Arena. Copper Box Arena previously hosted...
+DTSTAMP:20240618T013629Z
+DESCRIPTION:Nathaniel Rateliff & The Night Sweats are bringing their South 
+ of Here Tour to Eventim Apollo this June, plus special guest William The Co
+ nqueror.
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
-SUMMARY:Foo Fighters
-UID:89357e2f-b72b-4f1e-9320-f1e0cf9fa682
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240617T013902Z
-DESCRIPTION:Buy James Acaster tickets and sign-up for latest tour alerts. F
- ind James Acaster tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240617
-DTSTART;VALUE=DATE:20240617
-SUMMARY:James Acaster
-UID:9d98dd52-c7e2-40f7-a3cc-73a3963d206b
+SUMMARY:Nathaniel Rateliff & The Night Sweats London Tickets
+UID:82b6b625-51b7-41bf-a8f7-806a20dd716f
 END:VEVENT
 END:VCALENDAR
