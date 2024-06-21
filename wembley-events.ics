@@ -3,99 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
-DESCRIPTION:Taylor Swift the Eras Tour puzzle is a perfect gift for any Swi
- ftie! Choose from sizes: 110, 252, or 500 piece puzzle for Taylor Swift fan
- s! 100%
+DTSTAMP:20240621T013438Z
+DESCRIPTION:Friday 21 June 2024 - 23 June 2024 Friday 21 June 2024 - Sunda
+ y 23 June 2024 22 June 2024 – Book Now 23 June 2024 – Book Now 15 Augus
+ t 2024 – Book Now 16 August 2024 – Book Now 17 August 2024 –...
 DTEND;VALUE=DATE:20240621
 DTSTART;VALUE=DATE:20240621
 SUMMARY:Taylor Swift
-UID:4a06d65a-3efa-42f8-bc28-038f8cc57e33
+UID:3ce16cad-bacc-416d-96c9-9ab9d16ed3b2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
+DTSTAMP:20240621T013438Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 6/23/2024 at 3:15 PM
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Paramore @ Wembley Stadium
-UID:8e7ec87d-f778-446c-b60c-97ee4097dd10
+UID:f5660d99-44bf-4829-b8fc-ab0e052da993
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
-DESCRIPTION:Foo Fighters are back at London Stadium on 20 & 22 June 2024 fo
- r a double header of performances as part of their Everything or Nothing a
- t All UK Tour. Foo Fighters last performed at London...
-DTEND;VALUE=DATE:20240620
-DTSTART;VALUE=DATE:20240620
-SUMMARY:Foo Fighters at London Stadium
-UID:95477e41-fb39-4459-b77e-945eabffb7f2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
-DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
- a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
- n February 7. The shows wrap August 16 and 17, 2024, at...
-DTEND;VALUE=DATE:20240816
-DTSTART;VALUE=DATE:20240816
-SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:47f02973-72c4-43a0-a020-41dd7f1bc4db
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
-DESCRIPTION:Find tickets for Trippie Redd with JELEEL! at OVO Arena Wemble
- y in London on 6/29/2024 at 8:00 PM
-DTEND;VALUE=DATE:20240629
-DTSTART;VALUE=DATE:20240629
-SUMMARY:Trippie Redd
-UID:d119c908-5f37-46f5-b137-75061904c053
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
-DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
- g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
- Travel sustainably directly to Wembley Stadium on the...
-DTEND;VALUE=DATE:20240703
-DTSTART;VALUE=DATE:20240703
-SUMMARY:AC/DC at Wembley Stadium
-UID:1b278121-be6e-42cb-9d41-962a579025b3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
+DTSTAMP:20240621T013438Z
 DESCRIPTION:Find tickets for Eddie Izzard at Riverside Studios in London o
  n 6/22/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240622
 DTSTART;VALUE=DATE:20240622
 SUMMARY:Eddie Izzard
-UID:f6027793-cbfa-4768-8905-12677e94c000
+UID:09175b8d-bdb3-4ae3-bea7-bdcc6481c398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
+DTSTAMP:20240621T013438Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 6/22/2024 at 5:00 PM
+DTEND;VALUE=DATE:20240622
+DTSTART;VALUE=DATE:20240622
+SUMMARY:Taylor Swift with Paramore
+UID:9d6f04ac-8a00-42ee-9c51-88448216539d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240621T013438Z
+DESCRIPTION:Taylor Swift is playing one of her huge Wembley Stadium gigs s
+ o Club De Fromage are keeping the party going with their own little Taylor 
+ celebration. Join the Club De Fromage crew once again for a...
+DTEND;VALUE=DATE:20240622
+DTSTART;VALUE=DATE:20240622
+SUMMARY:Club de Fromage - Taylor Swift Unofficial After Party
+UID:37c9ea8b-c66e-4cde-b850-9285144a9ed5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240621T013438Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/15/2024 at 4:30 PM
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
+SUMMARY:Taylor Swift with Paramore
+UID:212c7e29-c31b-4e83-a4bf-e23cb831d450
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240621T013438Z
+DESCRIPTION:Foo Fighters are back at London Stadium on 20 & 22 June 2024 fo
+ r a double header of performances as part of their Everything or Nothing a
+ t All UK Tour. Foo Fighters last performed at London...
+DTEND;VALUE=DATE:20240621
+DTSTART;VALUE=DATE:20240621
+SUMMARY:Foo Fighters at London Stadium
+UID:5aacf1b8-008b-4f56-82e0-e605555e3ffe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240621T013438Z
+DESCRIPTION:Find tickets for Trippie Redd with JELEEL! at OVO Arena Wemble
+ y in London on 6/29/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Trippie Redd
+UID:49fb2df8-b9d2-423d-bf8a-8cfce76b65f5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240621T013438Z
 DESCRIPTION:Find tickets for Troye Sivan at OVO Arena Wembley in London on 
  6/27/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240627
 DTSTART;VALUE=DATE:20240627
 SUMMARY:Troye Sivan - Something To Give Each Other 2024 Tour
-UID:8d1f15c3-a156-440c-be08-bbab2fc2aa9f
+UID:5bcd2860-de27-41b3-ad22-29e685fb5596
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
+DTSTAMP:20240621T013438Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC PWR UP TOUR
-UID:ee26f6ae-6268-42b0-9fcf-a0ff886eca7e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240620T013413Z
-DESCRIPTION:Taylor Swift Wembley Stadium, London 2024 tour poster. You can 
- also find many tour posters from different venues and cities around the wor
- ld and album ...
-DTEND;VALUE=DATE:20240820
-DTSTART;VALUE=DATE:20240820
-SUMMARY:Paramore @ Wembley Stadium
-UID:2a367e84-3cb5-4b16-85dd-80f5b7658830
+UID:77af3398-d28c-45b7-a03e-af036b41052e
 END:VEVENT
 END:VCALENDAR
