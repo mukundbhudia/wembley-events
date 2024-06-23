@@ -3,97 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
+DTSTAMP:20240623T014034Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 6/23/2024 at 3:15 PM
 DTEND;VALUE=DATE:20240623
 DTSTART;VALUE=DATE:20240623
 SUMMARY:Paramore @ Wembley Stadium
-UID:c39cbaeb-f442-4869-888f-9c94464ad37e
+UID:09068c81-8e0a-47a1-bdd0-fdae1e397482
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
+DTSTAMP:20240623T014034Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 6/22/2024 at 5:00 PM
+DTEND;VALUE=DATE:20240623
+DTSTART;VALUE=DATE:20240623
+SUMMARY:Taylor Swift with Paramore
+UID:9cf32efa-ebd1-44ec-aece-3de5382c914c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240623T014034Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/15/2024 at 4:30 PM
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift with Paramore
-UID:40706375-f6df-49f0-a960-2492ca9f2586
+UID:b1fb6668-58f5-46a2-b564-50840ba8b9a5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
-DESCRIPTION:Eddie Izzard will take the London stage playing 23 characters i
- n William Shakespeare’s Hamlet, adapted by Mark Izzard and directed by Se
- lena Cadell at London's Riverside Studios from 23rd May - 30...
-DTEND;VALUE=DATE:20240623
-DTSTART;VALUE=DATE:20240623
-SUMMARY:Eddie Izzard
-UID:42e4ed41-f758-4426-853c-ce3432664183
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
-DESCRIPTION:Foo Fighters are back at London Stadium on 20 & 22 June 2024 fo
- r a double header of performances as part of their Everything or Nothing a
- t All UK Tour. Foo Fighters last performed at London...
-DTEND;VALUE=DATE:20240622
-DTSTART;VALUE=DATE:20240622
-SUMMARY:Foo Fighters at London Stadium
-UID:0b636fb3-d158-4158-9842-0aaf20ea0785
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
+DTSTAMP:20240623T014034Z
 DESCRIPTION:Find tickets for Troye Sivan at OVO Arena Wembley in London on 
  6/27/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240627
 DTSTART;VALUE=DATE:20240627
 SUMMARY:Troye Sivan - Something To Give Each Other 2024 Tour
-UID:0858b99a-20e1-4212-b32c-53d1549db6b6
+UID:60589f5a-d2c0-4a6c-b0b1-617a07737564
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
-DESCRIPTION:Find tickets for Trippie Redd with JELEEL! at OVO Arena Wemble
- y in London on 6/29/2024 at 8:00 PM
-DTEND;VALUE=DATE:20240710
-DTSTART;VALUE=DATE:20240710
-SUMMARY:TRIPPIE RED - Moved to Troxy
-UID:05f290c5-4965-4f5d-af4f-a98241f112a5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
+DTSTAMP:20240623T014034Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/16/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift, Paramore
-UID:2e329498-cb7e-4c7c-aa51-a490c43a4a97
+UID:85e8ecfa-ff9d-456b-980c-34d0b0775816
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
+DTSTAMP:20240623T014034Z
+DESCRIPTION:Find tickets for Trippie Redd with JELEEL! at OVO Arena Wemble
+ y in London on 6/29/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240710
+DTSTART;VALUE=DATE:20240710
+SUMMARY:TRIPPIE RED - Moved to Troxy
+UID:c42e5591-4642-4dc5-bcb9-1f1c77617ba6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240623T014034Z
 DESCRIPTION:Taylor Swift Wembley Stadium, London 2024 tour poster. You can 
  also find many tour posters from different venues and cities around the wor
  ld and album ...
 DTEND;VALUE=DATE:20240820
 DTSTART;VALUE=DATE:20240820
 SUMMARY:Paramore @ Wembley Stadium
-UID:0c7abfee-798a-4438-86ce-0d449cf0ed94
+UID:bc05d50e-b1ce-489c-ac9c-42bc7f967e56
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
-DESCRIPTION:Don't miss Taylor Swift | The Eras Tour at Wembley Stadium in u
- ndefined, Wembley, GB on Sun Jun 23 2024. Tickets on sale now.
-DTEND;VALUE=DATE:20240624
-DTSTART;VALUE=DATE:20240624
-SUMMARY:Taylor Swift | The Eras Tour
-UID:2834c86a-d653-432c-8a1a-1df3875ad971
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240622T013342Z
+DTSTAMP:20240623T014034Z
 DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
  g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
  Travel sustainably directly to Wembley Stadium on the...
 DTEND;VALUE=DATE:20240703
 DTSTART;VALUE=DATE:20240703
 SUMMARY:AC/DC at Wembley Stadium
-UID:b5a77eaf-1660-47a4-820a-5d9b71eb9737
+UID:c4106292-065e-4111-8505-0465cb2b1d26
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240623T014034Z
+DESCRIPTION:Don't miss Taylor Swift | The Eras Tour at Wembley Stadium in u
+ ndefined, Wembley, GB on Sun Jun 23 2024. Tickets on sale now.
+DTEND;VALUE=DATE:20240624
+DTSTART;VALUE=DATE:20240624
+SUMMARY:Taylor Swift | The Eras Tour
+UID:40e8c9ef-174c-459a-a644-225c0a11d5dd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240623T014034Z
+DESCRIPTION:Find tickets for girl in red at OVO Arena Wembley in London on 
+ 9/3/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240903
+DTSTART;VALUE=DATE:20240903
+SUMMARY:girl in red
+UID:f54e5b9a-9ea8-44cb-abb1-66ffd6f3a595
 END:VEVENT
 END:VCALENDAR
