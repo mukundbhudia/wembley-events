@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
-DESCRIPTION:Catch Green Day live at Wembley Stadium, London by coach with N
- ational Express journeys from across the UK.
+DTSTAMP:20240626T013545Z
+DESCRIPTION:Green Day is one of the world's best-selling bands of all time
+ , with more than 75 million records sold worldwide and 10 billion cumulativ
+ e audio/visual streams. The five-time Grammy Award-winning...
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:82750b8c-8c6c-4169-bd36-72ecd9924655
+UID:e0b2194c-e9b9-41b1-a5e4-b002f21e9117
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
+DTSTAMP:20240626T013545Z
 DESCRIPTION:Find tickets for Troye Sivan at OVO Arena Wembley in London on 
  6/27/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240627
 DTSTART;VALUE=DATE:20240627
-SUMMARY:Troye Sivan - Something To Give Each Other 2024 Tour
-UID:550ca64d-1540-435b-848d-22db94c3c6ca
+SUMMARY:Troye Sivan
+UID:f4838ba0-e0a1-45ab-a70d-e65f058c22b2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/15/2024 at 4:30 PM
-DTEND;VALUE=DATE:20240815
-DTSTART;VALUE=DATE:20240815
-SUMMARY:Taylor Swift with Paramore
-UID:f641b902-74c8-4a3d-9793-05c5f8bcecd8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
-DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
- g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
- Travel sustainably directly to Wembley Stadium on the...
-DTEND;VALUE=DATE:20240703
-DTSTART;VALUE=DATE:20240703
-SUMMARY:AC/DC at Wembley Stadium
-UID:2c8894b4-570f-41db-a3d8-b021aba14b92
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
+DTSTAMP:20240626T013545Z
 DESCRIPTION:A force to be reckoned with, Janelle Monáe is a multi-talente
  d, Grammy-nominated artist, famed all over the world for her inimitable sty
  le and visionary sound, which celebrates the spectrum of...
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Janelle Monae
-UID:304a9bd8-1963-4e92-b299-56ab22eb3ae7
+UID:ec87d3ad-2b8b-4397-b1db-1445adbaf98e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
-DESCRIPTION:Taylor Swift Wembley Stadium, London 2024 tour poster. You can 
- also find many tour posters from different venues and cities around the wor
- ld and album ...
-DTEND;VALUE=DATE:20240820
-DTSTART;VALUE=DATE:20240820
-SUMMARY:Paramore @ Wembley Stadium
-UID:a264b6e0-6d24-41f4-ab3a-32c30d837194
+DTSTAMP:20240626T013545Z
+DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
+ g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
+ Travel sustainably directly to Wembley Stadium on the...
+DTEND;VALUE=DATE:20240703
+DTSTART;VALUE=DATE:20240703
+SUMMARY:AC/DC at Wembley Stadium
+UID:2c8fa572-e0d2-4788-ba6e-82f4c732c763
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/16/2024 at 4:45 PM
-DTEND;VALUE=DATE:20240816
-DTSTART;VALUE=DATE:20240816
-SUMMARY:Taylor Swift with Paramore
-UID:9398776a-d35e-4f40-82aa-b5faff613707
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
+DTSTAMP:20240626T013545Z
 DESCRIPTION:Eddie Izzard will take the London stage playing 23 characters i
  n William Shakespeare’s Hamlet, adapted by Mark Izzard and directed by Se
  lena Cadell at London's Riverside Studios from 23rd May - 30...
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
-SUMMARY:Eddie Izzard @ Riverside Studios
-UID:9b273ae8-3a40-4791-b763-27909f71abeb
+SUMMARY:Eddie Izzard with Eddie Izzard
+UID:842cdd5c-998b-453d-90d2-7c8f5a9fa6a1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
-DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
- /19/2024 at 4:00 PM
-DTEND;VALUE=DATE:20240819
-DTSTART;VALUE=DATE:20240819
-SUMMARY:Taylor Swift | The Eras Tour
-UID:085fb6ee-0137-4826-934e-8c3340d55399
+DTSTAMP:20240626T013545Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/16/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240816
+DTSTART;VALUE=DATE:20240816
+SUMMARY:Taylor Swift with Paramore
+UID:8c220dfc-55ae-42fa-be07-ed4dafa02206
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T013559Z
+DTSTAMP:20240626T013545Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/15/2024 at 4:30 PM
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
+SUMMARY:Taylor Swift with Paramore
+UID:d2d97166-8aeb-4d10-9577-270ade6e70c3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240626T013545Z
+DESCRIPTION:Our Wembley Stadium event day road parking scheme will be enfor
+ ced for this event.
+DTEND;VALUE=DATE:20240725
+DTSTART;VALUE=DATE:20240725
+SUMMARY:BRUCE SPRINGSTEEN
+UID:b192ec9f-7106-4822-b375-5d7582060a87
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240626T013545Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/17/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240817
+DTSTART;VALUE=DATE:20240817
+SUMMARY:Taylor Swift with Paramore
+UID:52565e23-311b-40f1-8ab3-1ee29a722a6f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240626T013545Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC PWR UP TOUR
-UID:9539d488-c520-4dff-abef-72b5d27ec733
+UID:26dca8d5-126c-4c50-a445-4ed7f65ab412
 END:VEVENT
 END:VCALENDAR
