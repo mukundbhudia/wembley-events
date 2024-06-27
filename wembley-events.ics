@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
+DTSTAMP:20240627T013602Z
 DESCRIPTION:Green Day is one of the world's best-selling bands of all time
  , with more than 75 million records sold worldwide and 10 billion cumulativ
  e audio/visual streams. The five-time Grammy Award-winning...
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:e0b2194c-e9b9-41b1-a5e4-b002f21e9117
+UID:2e4c2d19-deeb-4a2a-b9b2-99a7f5875a7d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
+DTSTAMP:20240627T013602Z
 DESCRIPTION:Find tickets for Troye Sivan at OVO Arena Wembley in London on 
  6/27/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240627
 DTSTART;VALUE=DATE:20240627
-SUMMARY:Troye Sivan
-UID:f4838ba0-e0a1-45ab-a70d-e65f058c22b2
+SUMMARY:Troye Sivan - Something To Give Each Other 2024 Tour
+UID:7d91902f-0114-4735-9ab4-89852cc92e4b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
-DESCRIPTION:A force to be reckoned with, Janelle Monáe is a multi-talente
- d, Grammy-nominated artist, famed all over the world for her inimitable sty
- le and visionary sound, which celebrates the spectrum of...
-DTEND;VALUE=DATE:20240629
-DTSTART;VALUE=DATE:20240629
-SUMMARY:Janelle Monae
-UID:ec87d3ad-2b8b-4397-b1db-1445adbaf98e
+DTSTAMP:20240627T013602Z
+DESCRIPTION:📱 Smartphone tickets ⚡ Instant access to your tickets High
+ lights 🎤 Experience the epic 2024 opening of this Andrew Lloyd Webber c
+ lassic! ✨ An unmissable show at the specially designed Starlight...
+DTEND;VALUE=DATE:20240627
+DTSTART;VALUE=DATE:20240627
+SUMMARY:Starlight Express
+UID:2b5f82a8-90ae-4b4e-9750-444e181f6d4d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
+DTSTAMP:20240627T013602Z
+DESCRIPTION:Find tickets for Sinach at OVO Arena Wembley in London on 7/6/2
+ 024 at 7:00 PM
+DTEND;VALUE=DATE:20240706
+DTSTART;VALUE=DATE:20240706
+SUMMARY:"Victory Sounds" with Sinach
+UID:17833e34-65fb-4792-9c0e-7b795683ce1d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240627T013602Z
 DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
  g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
  Travel sustainably directly to Wembley Stadium on the...
 DTEND;VALUE=DATE:20240703
 DTSTART;VALUE=DATE:20240703
 SUMMARY:AC/DC at Wembley Stadium
-UID:2c8fa572-e0d2-4788-ba6e-82f4c732c763
+UID:22616d2b-b929-484a-87d4-f7e3aaf17425
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
-DESCRIPTION:Eddie Izzard will take the London stage playing 23 characters i
- n William Shakespeare’s Hamlet, adapted by Mark Izzard and directed by Se
- lena Cadell at London's Riverside Studios from 23rd May - 30...
+DTSTAMP:20240627T013602Z
+DESCRIPTION:A force to be reckoned with, Janelle Monáe is a multi-talente
+ d, Grammy-nominated artist, famed all over the world for her inimitable sty
+ le and visionary sound, which celebrates the spectrum of...
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
-SUMMARY:Eddie Izzard with Eddie Izzard
-UID:842cdd5c-998b-453d-90d2-7c8f5a9fa6a1
+SUMMARY:Janelle Monae
+UID:0261f924-203d-4808-bd31-850f06e27873
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
+DTSTAMP:20240627T013602Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/16/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift with Paramore
-UID:8c220dfc-55ae-42fa-be07-ed4dafa02206
+UID:fca85c8f-6d1b-4bc1-bb45-5ba3b08c7333
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/15/2024 at 4:30 PM
-DTEND;VALUE=DATE:20240815
-DTSTART;VALUE=DATE:20240815
-SUMMARY:Taylor Swift with Paramore
-UID:d2d97166-8aeb-4d10-9577-270ade6e70c3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
-DESCRIPTION:Our Wembley Stadium event day road parking scheme will be enfor
- ced for this event.
-DTEND;VALUE=DATE:20240725
-DTSTART;VALUE=DATE:20240725
-SUMMARY:BRUCE SPRINGSTEEN
-UID:b192ec9f-7106-4822-b375-5d7582060a87
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/17/2024 at 4:45 PM
-DTEND;VALUE=DATE:20240817
-DTSTART;VALUE=DATE:20240817
-SUMMARY:Taylor Swift with Paramore
-UID:52565e23-311b-40f1-8ab3-1ee29a722a6f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240626T013545Z
+DTSTAMP:20240627T013602Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC PWR UP TOUR
-UID:26dca8d5-126c-4c50-a445-4ed7f65ab412
+UID:0314e3a0-6d54-471e-9856-3fb3ab3663a4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240627T013602Z
+DESCRIPTION:Eddie Izzard will take the London stage playing 23 characters i
+ n William Shakespeare’s Hamlet, adapted by Mark Izzard and directed by Se
+ lena Cadell at London's Riverside Studios from 23rd May - 30...
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Eddie Izzard with Eddie Izzard
+UID:b37f7222-955b-4959-a49e-b1ec6889e64b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240627T013602Z
+DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
+ n on 9/20/2024 at 6:00 PM
+DTEND;VALUE=DATE:20240920
+DTSTART;VALUE=DATE:20240920
+SUMMARY:Falguni Pathak
+UID:735f3a09-da9c-4a04-abe1-92f7c724f455
 END:VEVENT
 END:VCALENDAR
