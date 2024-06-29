@@ -3,100 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
+DTSTAMP:20240629T013424Z
 DESCRIPTION:Green Day is one of the world's best-selling bands of all time
  , with more than 75 million records sold worldwide and 10 billion cumulativ
  e audio/visual streams. The five-time Grammy Award-winning...
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Green Day - The Saviors Tour
-UID:a9ed8112-3253-46c7-9e9c-b6ac0048db88
+UID:42186cd9-c968-4584-90cc-4f5e709cd0ee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
-DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
- /19/2024 at 4:00 PM
-DTEND;VALUE=DATE:20240819
-DTSTART;VALUE=DATE:20240819
-SUMMARY:Taylor Swift | The Eras Tour
-UID:5e97d7fb-a4b2-4e0a-97d2-c2afdd70463f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
-DESCRIPTION:A force to be reckoned with, Janelle Monáe is a multi-talente
- d, Grammy-nominated artist, famed all over the world for her inimitable sty
- le and visionary sound, which celebrates the spectrum of...
-DTEND;VALUE=DATE:20240629
-DTSTART;VALUE=DATE:20240629
-SUMMARY:Janelle Monae
-UID:ab515eb4-2eee-4901-9248-d405b4699bda
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
+DTSTAMP:20240629T013424Z
 DESCRIPTION:Buy your Pearl Jam Tickets & Hospitality at P1 Travel. ✓ Offi
  cial Tickets. ✓ Travel Packages. ✓ Easy & Safe booking.
 DTEND;VALUE=DATE:20240629
 DTSTART;VALUE=DATE:20240629
 SUMMARY:Pearl Jam
-UID:259bb6ef-05be-4cad-a95f-acb1f53872af
+UID:00726f95-a781-491c-955a-2d20397ccb5a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
+DTSTAMP:20240629T013424Z
+DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
+ , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
+ e You Ready For It? Everything you need to Know Before You...
+DTEND;VALUE=DATE:20240819
+DTSTART;VALUE=DATE:20240819
+SUMMARY:Taylor Swift | The Eras Tour
+UID:4dc40188-d028-4b5d-a774-35bb7547599a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240629T013424Z
+DESCRIPTION:Join BOXPARK Wembley before and after the Green Day show at Wem
+ bley Stadium!
+DTEND;VALUE=DATE:20240629
+DTSTART;VALUE=DATE:20240629
+SUMMARY:Green Day Fanpark
+UID:9f4c5f2a-6663-467b-a688-64089c62fed7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240629T013424Z
+DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
+ g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
+ Travel sustainably directly to Wembley Stadium on the...
+DTEND;VALUE=DATE:20240703
+DTSTART;VALUE=DATE:20240703
+SUMMARY:AC/DC PWR UP TOUR at Wembley Stadium
+UID:2987af3b-b282-490b-8257-ab1fc858703a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240629T013424Z
+DESCRIPTION:Our Wembley Stadium event day road parking scheme will be enfor
+ ced for this event.
+DTEND;VALUE=DATE:20240725
+DTSTART;VALUE=DATE:20240725
+SUMMARY:Bruce Springsteen
+UID:80d5ae1e-23f4-4bd5-bff2-841e6e442490
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240629T013424Z
 DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
  r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
  London on 19 and 20 August, 2024. A limited number of fans...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Paramore @ Wembley Stadium
-UID:5d0a7af0-2cf1-4248-9b6b-900a94aa60ee
+UID:ee0c22a2-7948-4df6-8d1b-8b5c396cc569
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
-DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
- a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
- n February 7. The shows wrap August 16 and 17, 2024, at...
-DTEND;VALUE=DATE:20240816
-DTSTART;VALUE=DATE:20240816
-SUMMARY:Taylor Swift with Paramore
-UID:b015003f-0571-41c3-8a65-bdd7d31306f7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
-DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
- g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
- Travel sustainably directly to Wembley Stadium on the...
-DTEND;VALUE=DATE:20240703
-DTSTART;VALUE=DATE:20240703
-SUMMARY:AC/DC at Wembley Stadium
-UID:5d2d6ae8-4e3a-4ccc-ad5b-7b18a72ecf71
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/17/2024 at 4:45 PM
-DTEND;VALUE=DATE:20240817
-DTSTART;VALUE=DATE:20240817
-SUMMARY:Paramore @ Wembley Stadium
-UID:e2d87325-8a4e-4213-971b-e9cc63f7e026
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
-DTEND;VALUE=DATE:20240630
-DTSTART;VALUE=DATE:20240630
-SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
- 0yr olds
-UID:994df593-fdf8-4ed6-87fd-e1d9e0d1a2db
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240628T013646Z
+DTSTAMP:20240629T013424Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC PWR UP TOUR
-UID:828fbf77-c80f-4e73-8aa4-8319d576bd5d
+UID:1d990d9d-86c3-461a-930d-563ec7bf7254
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240629T013424Z
+DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
+ /16/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240816
+DTSTART;VALUE=DATE:20240816
+SUMMARY:Taylor Swift with Paramore
+UID:449eec08-9de8-491c-890a-62eda3158b59
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240629T013424Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/17/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240817
+DTSTART;VALUE=DATE:20240817
+SUMMARY:Paramore @ Wembley Stadium
+UID:5e4bfe2a-c7fe-47da-a160-da2b31a364db
 END:VEVENT
 END:VCALENDAR
