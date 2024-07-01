@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
+DTSTAMP:20240701T014555Z
 DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
  g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
  Travel sustainably directly to Wembley Stadium on the...
 DTEND;VALUE=DATE:20240703
 DTSTART;VALUE=DATE:20240703
 SUMMARY:AC/DC at Wembley Stadium
-UID:974c3f86-b774-40c2-84c6-e4c9d1ec67b0
+UID:af2886e4-6a5f-48b4-b2f4-7d80b16dfe1c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
-DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
- /19/2024 at 4:00 PM
+DTSTAMP:20240701T014555Z
+DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
+ , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
+ e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Taylor Swift | The Eras Tour
-UID:73ad025d-f231-4333-8ba5-597d23fc25d1
+UID:8877dea5-4ac4-4615-a9bf-20b04d48969f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
+DTSTAMP:20240701T014555Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift with Paramore
-UID:68be6035-5264-4d56-899a-2db0b42a358c
+UID:e4d2a96e-9f21-4c6d-aa22-98021dd4049d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
-DESCRIPTION:Our Wembley Stadium event day road parking scheme will be enfor
- ced for this event.
-DTEND;VALUE=DATE:20240725
-DTSTART;VALUE=DATE:20240725
-SUMMARY:Bruce Springsteen
-UID:9a2d5c7a-2f4b-4f3f-a590-e619e6befb42
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
+DTSTAMP:20240701T014555Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC PWR UP TOUR
-UID:47930e49-1d7f-4ece-899b-6add02de1466
+UID:5a09bac7-edf8-4178-9ff0-d09a1b3b42ee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
+DTSTAMP:20240701T014555Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Taylor Swift with Paramore
-UID:6ca22720-db91-444c-9fbb-ef5a001028c4
+UID:d56c3782-080e-49d9-9f40-c5957b9532e7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
-DTEND;VALUE=DATE:20240630
-DTSTART;VALUE=DATE:20240630
-SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
- 0yr olds
-UID:ad481511-4565-4cae-a3d0-880a6b9f1f80
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
+DTSTAMP:20240701T014555Z
 DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
  r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
  London on 19 and 20 August, 2024. A limited number of fans...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Paramore @ Wembley Stadium
-UID:c385fe4e-872b-4cac-bd87-b96c4e992fb4
+UID:b2d88b71-e2dc-4def-ac95-b25fcf8e814e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
+DTSTAMP:20240701T014555Z
+DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
+ h more than 140 million records sold around the globe and more than 70 mill
+ ion in the United States, Bruce Springsteen is one of the...
+DTEND;VALUE=DATE:20240725
+DTSTART;VALUE=DATE:20240725
+SUMMARY:Bruce Springsteen
+UID:295b77b9-1788-4c23-b731-d86aafd6bd34
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240701T014555Z
 DESCRIPTION:Find tickets for Tiwa Savage at OVO Arena Wembley in London on 
  10/6/2024 at 7:30 PM
 DTEND;VALUE=DATE:20241006
 DTSTART;VALUE=DATE:20241006
 SUMMARY:Tiwa Savage
-UID:be38b500-7a17-4e4c-8072-67436ab675fb
+UID:26ca14dd-6eb5-465e-96b6-c2c8329cb851
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240630T014254Z
+DTSTAMP:20240701T014555Z
+DESCRIPTION:Find tickets for Shadmehr Aghili at OVO Arena Wembley in Londo
+ n on 7/14/2024 at 8:30 PM
+DTEND;VALUE=DATE:20240714
+DTSTART;VALUE=DATE:20240714
+SUMMARY:Shadmehr Aghili - Live in Concert
+UID:ca567292-be34-426b-b852-2f17f30a20f0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240701T014555Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/20/2024 at 4:00 PM
 DTEND;VALUE=DATE:20240820
 DTSTART;VALUE=DATE:20240820
 SUMMARY:Paramore @ Wembley Stadium
-UID:1ba7a53b-c891-4147-a45c-746597bd20ac
+UID:fc8638ff-9076-42aa-98ae-da0608001a7b
 END:VEVENT
 END:VCALENDAR
