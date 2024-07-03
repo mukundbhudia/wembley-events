@@ -3,101 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
+DTSTAMP:20240703T013627Z
 DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
  g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
  Travel sustainably directly to Wembley Stadium on the...
 DTEND;VALUE=DATE:20240703
 DTSTART;VALUE=DATE:20240703
 SUMMARY:AC/DC at Wembley Stadium
-UID:d731dade-01a0-4ca0-b81f-2915e9eb5fb8
+UID:e6aded12-6b07-4bcf-8de4-a3aeabee8c15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
+DTSTAMP:20240703T013627Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
-SUMMARY:Taylor Swift | The Eras Tour
-UID:a72dc32f-4e9f-49da-a794-eb76202c49cf
+SUMMARY:Taylor Swift
+UID:69854467-c1c5-4049-b452-585ffe79035b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
+DTSTAMP:20240703T013627Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
-SUMMARY:Taylor Swift with Paramore
-UID:07a77bda-0095-4013-9f86-e4f4963e7675
+SUMMARY:Taylor Swift announces more international dates for Eras Tour
+UID:da470c9a-602f-45b1-a647-2cc397a0b9e6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
+DTSTAMP:20240703T013627Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC PWR UP TOUR
-UID:ccd93267-11f0-4f81-a043-0ea3bdb7bd9d
+UID:6caba12e-497f-489d-b17e-dc6ba3a50bb7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
+DTSTAMP:20240703T013627Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Taylor Swift with Paramore
-UID:e780c0c1-ba17-4aec-b6b4-7b07a17cc5f9
+UID:9c978121-1559-4fb5-9a9d-6e8d8457c17a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
-DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
- r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
- London on 19 and 20 August, 2024. A limited number of fans...
-DTEND;VALUE=DATE:20240815
-DTSTART;VALUE=DATE:20240815
-SUMMARY:Paramore @ Wembley Stadium
-UID:95cd759d-4cdf-4506-a4ce-f3307219ad4a
+DTSTAMP:20240703T013627Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:34be14a6-6343-415b-bbb8-492741bfa9af
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
+DTSTAMP:20240703T013627Z
+DESCRIPTION:Watch AC/DC FANPARK live in London at the BOXPARK Wembley on 3-
+ rd-Jul-Wed-24 @11.00am. Get more details and book at Halibuts.com | Halibut
+ s
+DTEND;VALUE=DATE:20240703
+DTSTART;VALUE=DATE:20240703
+SUMMARY:AC/DC Fanpark
+UID:f36e0ee1-c79f-4cc1-8153-c761248bafdc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240703T013627Z
+DESCRIPTION:Gladys Maria Knight (born May 28, 1944 in Atlanta, Georgia) is 
+ a legendary American R&B/soul singer and actress. She is best known for th
+ e hits she recorded during the 1960s and 1970s, for both...
+DTEND;VALUE=DATE:20240705
+DTSTART;VALUE=DATE:20240705
+SUMMARY:The Jacksons
+UID:0b504079-388d-44b4-a6f6-c406e012e482
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240703T013627Z
+DESCRIPTION:Join BOXPARK Wembley before and after the Bruce Springsteen & T
+ he E Street Band show at Wembley Stadium!
+DTEND;VALUE=DATE:20240727
+DTSTART;VALUE=DATE:20240727
+SUMMARY:Bruce Springsteen @ Wembley Stadium
+UID:3ad724ab-4516-430a-8fac-33d591fd79a9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240703T013627Z
 DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
  h more than 140 million records sold around the globe and more than 70 mill
  ion in the United States, Bruce Springsteen is one of the...
 DTEND;VALUE=DATE:20240725
 DTSTART;VALUE=DATE:20240725
 SUMMARY:Bruce Springsteen
-UID:56cc99da-80b8-4dbb-88a2-ce2624e20528
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
-DESCRIPTION:Find tickets for Shadmehr Aghili at OVO Arena Wembley in Londo
- n on 7/14/2024 at 8:30 PM
-DTEND;VALUE=DATE:20240714
-DTSTART;VALUE=DATE:20240714
-SUMMARY:Shadmehr Aghili - Live in Concert
-UID:865f0086-eeef-4931-a377-7d78a4ada5eb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
-DESCRIPTION:Hailed as “one of comedy’s most original voices” (Evening
-  Standard) and “a comedy genius at the peak of his powers” (Guardian), 
- James Acaster has written a new show, ‘Hecklers Welcome’. He’s very..
- .
-DTEND;VALUE=DATE:20240704
-DTSTART;VALUE=DATE:20240704
-SUMMARY:James Acaster: Hecklers Welcome
-UID:939da88f-bd12-48d6-bcae-3f6f3f696f21
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240702T013659Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/20/2024 at 4:00 PM
-DTEND;VALUE=DATE:20240820
-DTSTART;VALUE=DATE:20240820
-SUMMARY:Paramore @ Wembley Stadium
-UID:27740cdc-a186-4866-bdd8-8671937a4bcf
+UID:6ea878dc-b956-484b-a9f8-4af6be52ca0a
 END:VEVENT
 END:VCALENDAR
