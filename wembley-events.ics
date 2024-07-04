@@ -3,99 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
+DTSTAMP:20240704T013701Z
 DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
  g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
  Travel sustainably directly to Wembley Stadium on the...
-DTEND;VALUE=DATE:20240703
-DTSTART;VALUE=DATE:20240703
+DTEND;VALUE=DATE:20240704
+DTSTART;VALUE=DATE:20240704
 SUMMARY:AC/DC at Wembley Stadium
-UID:e6aded12-6b07-4bcf-8de4-a3aeabee8c15
+UID:97696aa0-7a87-43b4-9703-1d2aa039438d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
+DTSTAMP:20240704T013701Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Taylor Swift
-UID:69854467-c1c5-4049-b452-585ffe79035b
+UID:6c0ca48b-a5dd-405e-886e-88518d325fd8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
+DTSTAMP:20240704T013701Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:da470c9a-602f-45b1-a647-2cc397a0b9e6
+UID:fa2642e2-61be-4a6f-8327-f2d4e295677e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
+DTSTAMP:20240704T013701Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC PWR UP TOUR
-UID:6caba12e-497f-489d-b17e-dc6ba3a50bb7
+UID:41cb8d6d-d2bc-4f4d-ae97-7de1636f38ce
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
+DTSTAMP:20240704T013701Z
+DESCRIPTION:1, 2, 3, Let's Go Swifties! It's been a long time coming, but i
+ t won't be long now until Taylor Swift makes a triumphant return to our cit
+ ies as the record-breaking Eras Tour arrives to London and...
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
+SUMMARY:Paramore @ Wembley Stadium
+UID:4bac7376-cbdb-490b-8f41-449c2bc604b2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240704T013701Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
-SUMMARY:Taylor Swift with Paramore
-UID:9c978121-1559-4fb5-9a9d-6e8d8457c17a
+SUMMARY:Paramore @ Wembley Stadium
+UID:5ca6c391-1e90-4c1a-b586-ba33d1029270
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
-DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20241024
-DTSTART;VALUE=DATE:20241024
-SUMMARY:Becky Hill
-UID:34be14a6-6343-415b-bbb8-492741bfa9af
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
+DTSTAMP:20240704T013701Z
 DESCRIPTION:Watch AC/DC FANPARK live in London at the BOXPARK Wembley on 3-
  rd-Jul-Wed-24 @11.00am. Get more details and book at Halibuts.com | Halibut
  s
-DTEND;VALUE=DATE:20240703
-DTSTART;VALUE=DATE:20240703
+DTEND;VALUE=DATE:20240704
+DTSTART;VALUE=DATE:20240704
 SUMMARY:AC/DC Fanpark
-UID:f36e0ee1-c79f-4cc1-8153-c761248bafdc
+UID:7120a7ea-c9ca-4d24-a641-9e1919adb3e5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
+DTSTAMP:20240704T013701Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20240713
+DTSTART;VALUE=DATE:20240713
+SUMMARY:Mana @ OVO Arena Wembley
+UID:001aa7ba-52ed-4866-8b83-6f51a00f7f77
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240704T013701Z
 DESCRIPTION:Gladys Maria Knight (born May 28, 1944 in Atlanta, Georgia) is 
  a legendary American R&B/soul singer and actress. She is best known for th
  e hits she recorded during the 1960s and 1970s, for both...
 DTEND;VALUE=DATE:20240705
 DTSTART;VALUE=DATE:20240705
 SUMMARY:The Jacksons
-UID:0b504079-388d-44b4-a6f6-c406e012e482
+UID:1d811de1-0b3a-452a-9b03-696a94b1deba
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
-DESCRIPTION:Join BOXPARK Wembley before and after the Bruce Springsteen & T
- he E Street Band show at Wembley Stadium!
-DTEND;VALUE=DATE:20240727
-DTSTART;VALUE=DATE:20240727
-SUMMARY:Bruce Springsteen @ Wembley Stadium
-UID:3ad724ab-4516-430a-8fac-33d591fd79a9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240703T013627Z
+DTSTAMP:20240704T013701Z
 DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
  h more than 140 million records sold around the globe and more than 70 mill
  ion in the United States, Bruce Springsteen is one of the...
 DTEND;VALUE=DATE:20240725
 DTSTART;VALUE=DATE:20240725
 SUMMARY:Bruce Springsteen
-UID:6ea878dc-b956-484b-a9f8-4af6be52ca0a
+UID:5849245f-3934-4244-b1b4-fbfe819b4b04
 END:VEVENT
 END:VCALENDAR
