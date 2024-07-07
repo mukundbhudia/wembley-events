@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
+DTSTAMP:20240707T014354Z
 DESCRIPTION:Coach travel to AC/DC's PWR Up Tour at Wembley Stadium with Bi
  g Green Coach, the event's official coach travel partner. DAY RETURN COACH 
  Travel sustainably directly to Wembley Stadium on the...
-DTEND;VALUE=DATE:20240706
-DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240707
+DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC at Wembley Stadium
-UID:e6af91fa-64be-45da-bf7e-563ba25d0002
+UID:34bc7148-75ab-49c2-97b0-8d973415f9fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
+DTSTAMP:20240707T014354Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Taylor Swift
-UID:0ecec0c3-4551-45f0-9c04-10e381b8d193
+UID:a0758342-02c1-4ef3-8f30-3d8e89da8921
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
+DTSTAMP:20240707T014354Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:55909e3a-8de4-4203-b0b5-e59cb5d4a75e
+UID:c10628ac-cbbd-4481-8958-6ddfa41899e3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
+DTSTAMP:20240707T014354Z
 DESCRIPTION:AC/DC, the legendary multi-million-selling band, have today thr
  illed millions of fans by announcing the ‘POWER UP’ European Tour incl
  uding 2 shows at London’s iconic Wembley Stadium. Cassidy...
 DTEND;VALUE=DATE:20240707
 DTSTART;VALUE=DATE:20240707
 SUMMARY:AC/DC PWR UP TOUR
-UID:0288482a-98dd-4273-96ff-2c59ed57fef5
+UID:064ef96a-f538-4191-ac96-94cb87fb1e77
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
+DTSTAMP:20240707T014354Z
 DESCRIPTION:1, 2, 3, Let's Go Swifties! It's been a long time coming, but i
  t won't be long now until Taylor Swift makes a triumphant return to our cit
  ies as the record-breaking Eras Tour arrives to London and...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Paramore @ Wembley Stadium
-UID:38a7e3e9-7a7d-4c97-b76a-fcecb772227d
+UID:a07f27e7-751b-4dfd-a59d-58f56aee0fef
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
+DTSTAMP:20240707T014354Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Paramore @ Wembley Stadium
-UID:a955e925-d8ff-48df-b744-7f0e1de8ce25
+UID:c9989be6-0512-4e7c-934f-384bdf41e874
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
+DTSTAMP:20240707T014354Z
 DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
  h more than 140 million records sold around the globe and more than 70 mill
  ion in the United States, Bruce Springsteen is one of the...
 DTEND;VALUE=DATE:20240725
 DTSTART;VALUE=DATE:20240725
 SUMMARY:Bruce Springsteen
-UID:3ba08a14-8ad9-4995-b867-4fd17bf1ce37
+UID:925bc837-78ec-4537-a986-32ccb454c49c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
+DTSTAMP:20240707T014354Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20240713
 DTSTART;VALUE=DATE:20240713
 SUMMARY:Mana @ OVO Arena Wembley
-UID:af86475c-0677-4c56-bf09-17f7e685a208
+UID:c8a9e9d2-0911-4597-ba5e-49b7e919e9f7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
-DESCRIPTION:Gladys Maria Knight (born May 28, 1944 in Atlanta, Georgia) is 
- a legendary American R&B/soul singer and actress. She is best known for th
- e hits she recorded during the 1960s and 1970s, for both...
-DTEND;VALUE=DATE:20240706
-DTSTART;VALUE=DATE:20240706
-SUMMARY:The Jacksons
-UID:2f1ce4cc-9705-474b-afb3-488d8d859303
+DTSTAMP:20240707T014354Z
+DESCRIPTION:Find tickets for Tiwa Savage at OVO Arena Wembley in London on 
+ 10/6/2024 at 7:30 PM
+DTEND;VALUE=DATE:20241006
+DTSTART;VALUE=DATE:20241006
+SUMMARY:Tiwa Savage
+UID:e2e802a8-37b5-459e-b5c4-c3cb910e0d4d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T013412Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/20/2024 at 4:00 PM
-DTEND;VALUE=DATE:20240820
-DTSTART;VALUE=DATE:20240820
-SUMMARY:Taylor Swift | The Eras Tour
-UID:8f114f99-7e2f-4d2b-a053-883511ec3f89
+DTSTAMP:20240707T014354Z
+DESCRIPTION:Garbage is Shirley Manson, Duke Erikson, Steve Marker and Butc
+ h Vig. After forming in Madison, WI, Garbage released their self-titled deb
+ ut album in 1995. The band's unique sound and provocative...
+DTEND;VALUE=DATE:20240720
+DTSTART;VALUE=DATE:20240720
+SUMMARY:Garbage
+UID:11a83864-4f02-469e-a29f-450e9d6fc1f9
 END:VEVENT
 END:VCALENDAR
