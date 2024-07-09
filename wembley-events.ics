@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
+DTSTAMP:20240709T013822Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20240713
 DTSTART;VALUE=DATE:20240713
 SUMMARY:Mana @ OVO Arena Wembley
-UID:277677de-8d12-4ff9-a356-ce88d5d82415
+UID:74076177-1149-441c-82c0-93a3fe3460d4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
+DTSTAMP:20240709T013822Z
 DESCRIPTION:ZZ TOP a/k/a “That Little Ol’ Band From Texas,” lay undis
  puted claim to being the longest running major rock band with original pers
  onnel intact and, in 2004, the Texas trio was inducted into the...
 DTEND;VALUE=DATE:20240711
 DTSTART;VALUE=DATE:20240711
 SUMMARY:ZZ Top
-UID:ca2d2b6c-ae80-48f7-a41f-0bedeb3aee51
+UID:9f56ae0f-e550-4829-98f4-ebdf55eda06e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
+DTSTAMP:20240709T013822Z
 DESCRIPTION:Find tickets for Greta Van Fleet at Royal Albert Hall in Londo
  n on 7/14/2024 at 6:30 PM
 DTEND;VALUE=DATE:20240714
 DTSTART;VALUE=DATE:20240714
 SUMMARY:A Special Evening with Greta Van Fleet
-UID:d3214bc4-cde3-466c-9152-0db2d0dde50f
+UID:090155ac-b020-4bb9-add4-5082648b749f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
+DTSTAMP:20240709T013822Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Taylor Swift
-UID:35c110d8-500b-48eb-9fc8-e35c11014c30
+UID:9869c7c5-9a7b-4db4-a531-16264e98649d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
+DTSTAMP:20240709T013822Z
 DESCRIPTION:1, 2, 3, Let's Go Swifties! It's been a long time coming, but i
  t won't be long now until Taylor Swift makes a triumphant return to our cit
  ies as the record-breaking Eras Tour arrives to London and...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift with Paramore
-UID:aab048bc-056e-49cc-9683-2e36d50461c3
+UID:de047f0d-17cf-45e9-8534-f7efeefe3503
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
+DTSTAMP:20240709T013822Z
 DESCRIPTION:Find tickets for Doja Cat at Finsbury Park in London on 7/14/20
  24 at 7:00 PM
 DTEND;VALUE=DATE:20240714
 DTSTART;VALUE=DATE:20240714
 SUMMARY:Rockstar Energy presents Wireless - Day 3
-UID:08993756-1257-4368-994c-ac571e10209b
+UID:d728fdd8-f077-4296-955f-41190111f859
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
+DTSTAMP:20240709T013822Z
 DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
  h more than 140 million records sold around the globe and more than 70 mill
  ion in the United States, Bruce Springsteen is one of the...
 DTEND;VALUE=DATE:20240725
 DTSTART;VALUE=DATE:20240725
 SUMMARY:Bruce Springsteen
-UID:6f08ae31-ad08-48a4-9cac-ba215a967622
+UID:a7d4c212-5c0e-46bf-8172-1a602ff99863
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20240713
-DTSTART;VALUE=DATE:20240713
-SUMMARY:COORS PRESENTS: ON THE DECKS
-UID:dd85f0f9-69f9-4ccb-a593-ca4d4190062d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
+DTSTAMP:20240709T013822Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Paramore @ Wembley Stadium
-UID:49764658-1a69-4c24-bdff-7f1e82de0bde
+UID:399fbd71-08b8-4b62-ad3c-143fc78a28e8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240708T013932Z
+DTSTAMP:20240709T013822Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20240713
+DTSTART;VALUE=DATE:20240713
+SUMMARY:COORS PRESENTS: ON THE DECKS
+UID:b2065b1e-3ed4-4df1-ad51-419556030fb6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240709T013822Z
 DESCRIPTION:Alternative rock band Garbage consists of Shirley Manson, Duke 
  Erikson, Steve Marker, and drummer Butch Vig. They have been together for o
  ver 25 years, selling more than 20 million albums since...
 DTEND;VALUE=DATE:20240720
 DTSTART;VALUE=DATE:20240720
 SUMMARY:Garbage
-UID:7649158a-c8bb-4803-bc80-53ba9c1ad5b1
+UID:c2c0c0dc-0dba-4b4d-a4e2-05a29c68a68b
 END:VEVENT
 END:VCALENDAR
