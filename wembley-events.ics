@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
+DTSTAMP:20240710T013826Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20240713
 DTSTART;VALUE=DATE:20240713
 SUMMARY:Mana @ OVO Arena Wembley
-UID:74076177-1149-441c-82c0-93a3fe3460d4
+UID:bd7f1dfa-9342-4fa2-b8ac-583602860299
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
+DTSTAMP:20240710T013826Z
 DESCRIPTION:ZZ TOP a/k/a “That Little Ol’ Band From Texas,” lay undis
  puted claim to being the longest running major rock band with original pers
  onnel intact and, in 2004, the Texas trio was inducted into the...
 DTEND;VALUE=DATE:20240711
 DTSTART;VALUE=DATE:20240711
 SUMMARY:ZZ Top
-UID:9f56ae0f-e550-4829-98f4-ebdf55eda06e
+UID:e1174ddd-19ed-457a-886a-c22d34d02495
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
+DTSTAMP:20240710T013826Z
 DESCRIPTION:Find tickets for Greta Van Fleet at Royal Albert Hall in Londo
  n on 7/14/2024 at 6:30 PM
 DTEND;VALUE=DATE:20240714
 DTSTART;VALUE=DATE:20240714
 SUMMARY:A Special Evening with Greta Van Fleet
-UID:090155ac-b020-4bb9-add4-5082648b749f
+UID:97a61333-b0e8-4266-b04e-66cb6a744e0c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
+DTSTAMP:20240710T013826Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Taylor Swift
-UID:9869c7c5-9a7b-4db4-a531-16264e98649d
+UID:3df238eb-9906-4eb4-903b-59e0af35a3aa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
+DTSTAMP:20240710T013826Z
+DESCRIPTION:Find tickets for Doja Cat at Finsbury Park in London on 7/14/20
+ 24 at 7:00 PM
+DTEND;VALUE=DATE:20240714
+DTSTART;VALUE=DATE:20240714
+SUMMARY:Rockstar Energy presents Wireless - Day 3
+UID:cc70832f-7e86-4152-9b2e-407c0ce8d8d8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240710T013826Z
 DESCRIPTION:1, 2, 3, Let's Go Swifties! It's been a long time coming, but i
  t won't be long now until Taylor Swift makes a triumphant return to our cit
  ies as the record-breaking Eras Tour arrives to London and...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift with Paramore
-UID:de047f0d-17cf-45e9-8534-f7efeefe3503
+UID:fc4ae5fd-6859-47d8-b0a5-61b66c04348a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
-DESCRIPTION:Find tickets for Doja Cat at Finsbury Park in London on 7/14/20
- 24 at 7:00 PM
-DTEND;VALUE=DATE:20240714
-DTSTART;VALUE=DATE:20240714
-SUMMARY:Rockstar Energy presents Wireless - Day 3
-UID:d728fdd8-f077-4296-955f-41190111f859
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
+DTSTAMP:20240710T013826Z
 DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
  h more than 140 million records sold around the globe and more than 70 mill
  ion in the United States, Bruce Springsteen is one of the...
 DTEND;VALUE=DATE:20240725
 DTSTART;VALUE=DATE:20240725
 SUMMARY:Bruce Springsteen
-UID:a7d4c212-5c0e-46bf-8172-1a602ff99863
+UID:362eee4e-3125-46c9-9836-cda60c676ca8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
+DTSTAMP:20240710T013826Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20240713
+DTSTART;VALUE=DATE:20240713
+SUMMARY:COORS PRESENTS: ON THE DECKS
+UID:d27abbd3-00da-4a3f-9a59-b9ced6e477ff
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240710T013826Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Paramore @ Wembley Stadium
-UID:399fbd71-08b8-4b62-ad3c-143fc78a28e8
+UID:141e234f-605d-44d5-b778-d7b27eebc5bc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20240713
-DTSTART;VALUE=DATE:20240713
-SUMMARY:COORS PRESENTS: ON THE DECKS
-UID:b2065b1e-3ed4-4df1-ad51-419556030fb6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240709T013822Z
+DTSTAMP:20240710T013826Z
 DESCRIPTION:Alternative rock band Garbage consists of Shirley Manson, Duke 
  Erikson, Steve Marker, and drummer Butch Vig. They have been together for o
  ver 25 years, selling more than 20 million albums since...
 DTEND;VALUE=DATE:20240720
 DTSTART;VALUE=DATE:20240720
 SUMMARY:Garbage
-UID:c2c0c0dc-0dba-4b4d-a4e2-05a29c68a68b
+UID:8ec1d9c7-0846-4e42-9e0d-4b8161d4458f
 END:VEVENT
 END:VCALENDAR
