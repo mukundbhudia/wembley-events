@@ -3,98 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
+DTSTAMP:20240712T013727Z
+DESCRIPTION:Find tickets for Shadmehr Aghili at OVO Arena Wembley in Londo
+ n on 7/14/2024 at 8:30 PM
+DTEND;VALUE=DATE:20240714
+DTSTART;VALUE=DATE:20240714
+SUMMARY:Shadmehr Aghili - Live in Concert
+UID:c7dc81ab-fd55-4c07-8174-aedc459a2adf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240712T013727Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20240713
 DTSTART;VALUE=DATE:20240713
-SUMMARY:Mana @ OVO Arena Wembley
-UID:6c741596-1433-4fbc-ab0c-808118f5b093
+SUMMARY:Mana
+UID:13edc055-e5f2-4018-9845-f5d0d8ed69ae
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
-DESCRIPTION:ZZ TOP a/k/a “That Little Ol’ Band From Texas,” lay undis
- puted claim to being the longest running major rock band with original pers
- onnel intact and, in 2004, the Texas trio was inducted into the...
-DTEND;VALUE=DATE:20240711
-DTSTART;VALUE=DATE:20240711
-SUMMARY:ZZ Top
-UID:efb4b4ee-b60b-4fc8-9f13-c7698d4a67c3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
+DTSTAMP:20240712T013727Z
 DESCRIPTION:Find tickets for Greta Van Fleet at Royal Albert Hall in Londo
  n on 7/14/2024 at 6:30 PM
 DTEND;VALUE=DATE:20240714
 DTSTART;VALUE=DATE:20240714
 SUMMARY:A Special Evening with Greta Van Fleet
-UID:88265157-0546-4d91-9205-3d130cbe7dfa
+UID:5e9bf031-e849-4f60-9144-7c3875c99316
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
+DTSTAMP:20240712T013727Z
+DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
+ r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
+ London on 19 and 20 August, 2024. A limited number of fans...
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
+SUMMARY:Taylor Swift with Paramore
+UID:dbb742f9-898b-4c2f-98cc-52acd318ce36
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240712T013727Z
+DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
+ /19/2024 at 4:00 PM
+DTEND;VALUE=DATE:20240819
+DTSTART;VALUE=DATE:20240819
+SUMMARY:Taylor Swift
+UID:ed53034a-31c2-4b9f-8ec3-08808f634f52
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240712T013727Z
 DESCRIPTION:Find tickets for Doja Cat at Finsbury Park in London on 7/14/20
  24 at 7:00 PM
 DTEND;VALUE=DATE:20240714
 DTSTART;VALUE=DATE:20240714
-SUMMARY:Rockstar Energy presents Wireless - Day 3
-UID:194e49d9-f1ef-4936-914d-a13ad26b842e
+SUMMARY:Boletos Doja Cat
+UID:fdb25583-82c2-41e7-ac8f-6a56b675712a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
-DESCRIPTION:1, 2, 3, Let's Go Swifties! It's been a long time coming, but i
- t won't be long now until Taylor Swift makes a triumphant return to our cit
- ies as the record-breaking Eras Tour arrives to London and...
-DTEND;VALUE=DATE:20240815
-DTSTART;VALUE=DATE:20240815
-SUMMARY:Taylor Swift with Paramore
-UID:d8eb6dbf-d3a9-4bcc-ad71-5ca9e54b017d
+DTSTAMP:20240712T013727Z
+DESCRIPTION:Garbage is Shirley Manson, Duke Erikson, Steve Marker and Butc
+ h Vig. After forming in Madison, WI, Garbage released their self-titled deb
+ ut album in 1995. The band's unique sound and provocative...
+DTEND;VALUE=DATE:20240720
+DTSTART;VALUE=DATE:20240720
+SUMMARY:Lucia
+UID:45e7ff02-8227-490a-9562-2a184040ee45
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
-DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
- , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
- e You Ready For It? Everything you need to Know Before You...
-DTEND;VALUE=DATE:20240819
-DTSTART;VALUE=DATE:20240819
-SUMMARY:Taylor Swift | The Eras Tour
-UID:16524b0c-2e1e-4b04-b02b-ca2a7c0080ba
+DTSTAMP:20240712T013727Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/17/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240817
+DTSTART;VALUE=DATE:20240817
+SUMMARY:Paramore @ Wembley Stadium
+UID:34711f57-36ea-410f-b8cd-58c5bdca4804
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
-DESCRIPTION:Lauded by Rolling Stone as "the embodiment of rock & roll" wit
- h more than 140 million records sold around the globe and more than 70 mill
- ion in the United States, Bruce Springsteen is one of the...
-DTEND;VALUE=DATE:20240725
-DTSTART;VALUE=DATE:20240725
-SUMMARY:Bruce Springsteen
-UID:b5672a4b-cbac-4989-9142-8d5f85107ed8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
-DESCRIPTION:Find tickets for Tiwa Savage at OVO Arena Wembley in London on 
- 10/6/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241006
-DTSTART;VALUE=DATE:20241006
-SUMMARY:Tiwa Savage
-UID:7f471e3a-ab03-4260-95e7-82d8b01fe743
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
+DTSTAMP:20240712T013727Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20240713
 DTSTART;VALUE=DATE:20240713
-SUMMARY:COORS PRESENTS: ON THE DECKS
-UID:36bee0df-d868-4cb9-898b-424dcb0d8333
+SUMMARY:COORS PRESENTS: DECKS APPEAL
+UID:76d328e6-c5de-4f93-b30b-91aefeccd4df
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240711T013840Z
-DESCRIPTION:Alternative rock band Garbage consists of Shirley Manson, Duke 
- Erikson, Steve Marker, and drummer Butch Vig. They have been together for o
- ver 25 years, selling more than 20 million albums since...
-DTEND;VALUE=DATE:20240720
-DTSTART;VALUE=DATE:20240720
-SUMMARY:Garbage
-UID:b3161779-ed0b-4ffd-94ac-536a187bf92f
+DTSTAMP:20240712T013727Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/20/2024 at 4:00 PM
+DTEND;VALUE=DATE:20240820
+DTSTART;VALUE=DATE:20240820
+SUMMARY:Paramore @ Wembley Stadium
+UID:e2f05f9e-bab2-4f58-b8e9-94110dbf4aa1
 END:VEVENT
 END:VCALENDAR
