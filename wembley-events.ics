@@ -3,95 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
+DTSTAMP:20240716T014016Z
 DESCRIPTION:Garbage is Shirley Manson, Duke Erikson, Steve Marker and Butc
  h Vig. After forming in Madison, WI, Garbage released their self-titled deb
  ut album in 1995. The band's unique sound and provocative...
 DTEND;VALUE=DATE:20240720
 DTSTART;VALUE=DATE:20240720
 SUMMARY:Lucia
-UID:fd937828-f2db-4f96-a32a-bddf32b3edce
+UID:edaba65e-b4d8-4b57-826e-529a845d044e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
+DTSTAMP:20240716T014016Z
 DESCRIPTION:Find tickets for Hiphop Tamizha at OVO Arena Wembley in London 
  on 7/19/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240719
 DTSTART;VALUE=DATE:20240719
 SUMMARY:Hiphop Tamizha World Tour - Return of the Dragon
-UID:6986c3f6-efca-4861-8577-719e0fe23002
+UID:95c1b0a3-b6f5-40ec-a138-d6cc1b239c99
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
-DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
- r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
- London on 19 and 20 August, 2024. A limited number of fans...
-DTEND;VALUE=DATE:20240815
-DTSTART;VALUE=DATE:20240815
-SUMMARY:Taylor Swift with Paramore
-UID:a3a8400f-ec33-4f06-8f69-49f5e8ec4661
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
+DTSTAMP:20240716T014016Z
 DESCRIPTION:LONDON TOWN! Saturday, July 20th we are back @ Boxpark Wembley!
  ! Music by DJ Moma, Shifaligero, Jordss, Donnie Sunshine & Hey Essay. Hoste
  d by Gitoo, Bernice, Maine & Friends. All sales are final...
 DTEND;VALUE=DATE:20240720
 DTSTART;VALUE=DATE:20240720
 SUMMARY:Everyday People London
-UID:52180503-027f-4629-83f2-f13d0e44c375
+UID:ae520232-4813-444b-b54c-82ddfa5c62f7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
-DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
- /19/2024 at 4:00 PM
+DTSTAMP:20240716T014016Z
+DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
+ r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
+ London on 19 and 20 August, 2024. A limited number of fans...
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
+SUMMARY:Taylor Swift with Paramore
+UID:c5789b55-b8c7-4f50-bea1-45c54c1de1b5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240716T014016Z
+DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
+ , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
+ e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Taylor Swift
-UID:2383060a-2063-4033-8ae4-fbc216a03eef
+UID:4b14c02f-149b-41e9-9573-9e94f9c82836
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
-DESCRIPTION:Find tickets for Doja Cat at Finsbury Park in London on 7/14/20
- 24 at 7:00 PM
-DTEND;VALUE=DATE:20240715
-DTSTART;VALUE=DATE:20240715
-SUMMARY:Boletos Doja Cat
-UID:f56cb3e3-6cd7-4120-82a7-96f19250618c
+DTSTAMP:20240716T014016Z
+DESCRIPTION:Join BOXPARK Wembley before and after the Bruce Springsteen & T
+ he E Street Band show at Wembley Stadium!
+DTEND;VALUE=DATE:20240727
+DTSTART;VALUE=DATE:20240727
+SUMMARY:Bruce Springsteen and The E Street Band 2024 World Tour
+UID:e2381112-ab90-4fcc-b7f2-ae53f673578b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
+DTSTAMP:20240716T014016Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/20/2024 at 4:00 PM
 DTEND;VALUE=DATE:20240820
 DTSTART;VALUE=DATE:20240820
 SUMMARY:Paramore @ Wembley Stadium
-UID:b5a6896e-2069-4a74-93da-b2d96c86da82
+UID:df20ddf7-b888-44d2-9482-c69065893e46
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
+DTSTAMP:20240716T014016Z
+DESCRIPTION:Three-time, Grammy award-winning superstar Megan Thee Stallion 
+ formally announced the 'Hot Girl Summer Tour', which will be heading to Th
+ e O2 on Wednesday 17 July 2024. The tour comes after her...
+DTEND;VALUE=DATE:20240717
+DTSTART;VALUE=DATE:20240717
+SUMMARY:Megan Thee Stallion
+UID:a7485997-b881-4e8b-ab40-feb8ea47707b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240716T014016Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:e1420a30-9067-46d2-8ccb-ccb83dcd9c71
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240716T014016Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Taylor Swift with Paramore
-UID:88c1bbcb-a308-444d-8957-1c9a366d7d27
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
-DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20241024
-DTSTART;VALUE=DATE:20241024
-SUMMARY:Becky Hill
-UID:22e50f51-4e8e-40e3-ab19-da1558c87f44
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240715T014117Z
-DESCRIPTION:Find tickets for Ryan Castro at Electric Brixton in London on 7
- /21/2024 at 6:00 PM
-DTEND;VALUE=DATE:20240721
-DTSTART;VALUE=DATE:20240721
-SUMMARY:Ryan Castro
-UID:680de9f2-ab0a-4a19-9a9c-81bb87efcb9c
+UID:4e585933-5c37-4d5e-b8a2-7da9559ff66f
 END:VEVENT
 END:VCALENDAR
