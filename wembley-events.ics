@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
+DTSTAMP:20240725T013911Z
+DESCRIPTION:Discover Live at Wembley Stadium by Blur on Parlophone. A colle
+ ction of songs from their iconic Wembley shows. Vinyl records available.
+DTEND;VALUE=DATE:20240726
+DTSTART;VALUE=DATE:20240726
+SUMMARY:Live at Wembley Stadium
+UID:c787f1d1-cdad-42ce-94d9-43b7e06ff873
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T013911Z
 DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
  r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
  London on 19 and 20 August, 2024. A limited number of fans...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
-SUMMARY:Paramore @ Wembley Stadium
-UID:63953e07-f3aa-4878-ad25-e312d19e59fb
+SUMMARY:Taylor Swift
+UID:18817972-0a6e-4e85-b662-88f25693d170
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
+DTSTAMP:20240725T013911Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Taylor Swift
-UID:43bed1b8-f0cf-48f5-8223-a998aeee10c0
+UID:4e4b1740-80f0-4a77-ae27-ee7ca0257ffe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
-DESCRIPTION:Discover Live at Wembley Stadium by Blur on Parlophone. A colle
- ction of songs from their iconic Wembley shows. Vinyl records available.
-DTEND;VALUE=DATE:20240726
-DTSTART;VALUE=DATE:20240726
-SUMMARY:Live at Wembley Stadium
-UID:37b25a20-1bb4-4fa7-8ef4-eebd329c46ad
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
+DTSTAMP:20240725T013911Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Paramore @ Wembley Stadium
-UID:c0b48250-7940-4589-a16c-9e93c03975df
+UID:af662304-cde3-40d1-8195-03ef69a81a79
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
-DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20241024
-DTSTART;VALUE=DATE:20241024
-SUMMARY:Becky Hill
-UID:097bb9c9-87a1-49d9-b4aa-73a073d1965d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
+DTSTAMP:20240725T013911Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Paramore @ Wembley Stadium
-UID:b246072c-edf8-4688-8a67-d12f1d5ab619
+UID:7448bcbe-09ef-42d6-811b-fdefae0e9136
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
+DTSTAMP:20240725T013911Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:8511944a-9e70-44d6-955b-eda10f842337
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T013911Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/20/2024 at 4:00 PM
+DTEND;VALUE=DATE:20240820
+DTSTART;VALUE=DATE:20240820
+SUMMARY:Taylor Swift | The Eras Tour
+UID:4894aa47-9b4a-42b0-a626-f0b091a9629a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T013911Z
 DESCRIPTION:girl in red - the alternative pop artist from Oslo, born Marie 
  Ulven, is continuing her path to global stardom, kicking off 2024 with a ba
  ng. In February, she announced that she would release her...
 DTEND;VALUE=DATE:20240903
 DTSTART;VALUE=DATE:20240903
 SUMMARY:girl in red
-UID:495d0761-2a65-464f-9902-4d8b7ed48ce5
+UID:8a12097d-bf17-4fd3-af53-03eb43211d39
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
+DTSTAMP:20240725T013911Z
 DESCRIPTION:Find tickets for Kirk Franklin with Maverick City Music at OVO 
  Arena Wembley in London on 8/26/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240826
 DTSTART;VALUE=DATE:20240826
 SUMMARY:Kirk Franklin with Maverick City Music
-UID:98c6b26e-e322-4f60-9d62-5f6586216e9d
+UID:f1d26f88-8731-49c6-ba18-bdc2e9e12973
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/20/2024 at 4:00 PM
-DTEND;VALUE=DATE:20240820
-DTSTART;VALUE=DATE:20240820
-SUMMARY:Taylor Swift | The Eras Tour
-UID:cb495781-d8cf-4ca6-a71e-3f92d95a28be
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240724T013925Z
+DTSTAMP:20240725T013911Z
 DESCRIPTION:Find tickets for Flavour at OVO Arena Wembley in London on 8/25
  /2024 at 7:00 PM
 DTEND;VALUE=DATE:20240825
 DTSTART;VALUE=DATE:20240825
 SUMMARY:Flavour
-UID:fad35fcc-a9ae-466a-8d8d-e601fb3b0ff6
+UID:81c303b5-a019-4c20-9998-7893f6c19199
 END:VEVENT
 END:VCALENDAR
