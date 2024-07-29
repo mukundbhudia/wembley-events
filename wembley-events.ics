@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
+DTSTAMP:20240729T014226Z
+DESCRIPTION:Watch SOULFUL SUNDAYS live in London at the BOXPARK Wembley on 
+ 4-th-Aug-Sun-24 @1.00pm. Get more details and book at Halibuts.com | Halibu
+ ts
+DTEND;VALUE=DATE:20240804
+DTSTART;VALUE=DATE:20240804
+SUMMARY:SOULFUL SUNDAYS
+UID:86893426-f35c-4458-97be-3bee6fc360a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240729T014226Z
 DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
  r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
  London on 19 and 20 August, 2024. A limited number of fans...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift with Paramore
-UID:667bb43c-5c9b-4f76-8f66-95678ba61464
+UID:ed636ab0-27a7-4930-9cad-d6aa02bd420e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
+DTSTAMP:20240729T014226Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Paramore @ Wembley Stadium
-UID:d2413824-edd0-47d4-bc85-fcf1a99bef43
+UID:ce79cf96-8547-4e8b-9cf0-984be447ddf7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
+DTSTAMP:20240729T014226Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/17/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240817
+DTSTART;VALUE=DATE:20240817
+SUMMARY:Paramore @ Wembley Stadium
+UID:9b430b94-1976-4548-892e-208738bf2ce1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240729T014226Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Taylor Swift
-UID:6ca03d72-7327-4ebb-93b0-1c20d85a2875
+UID:a327fc57-bd1e-407f-864f-16979dcd40fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/17/2024 at 4:45 PM
-DTEND;VALUE=DATE:20240817
-DTSTART;VALUE=DATE:20240817
-SUMMARY:Paramore @ Wembley Stadium
-UID:865504ad-ce18-45d1-a893-e1bc2625b129
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
+DTSTAMP:20240729T014226Z
 DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20241024
 DTSTART;VALUE=DATE:20241024
 SUMMARY:Becky Hill
-UID:a8cbbb39-1d35-4c4f-ad3f-0aeab6bd3f4f
+UID:19e0fa54-3f25-4f9b-b7ae-8a178569af9c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
+DTSTAMP:20240729T014226Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/20/2024 at 4:00 PM
+DTEND;VALUE=DATE:20240820
+DTSTART;VALUE=DATE:20240820
+SUMMARY:Paramore @ Wembley Stadium
+UID:dc9cbf40-2506-418b-b4fa-b2cf53e87b9c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240729T014226Z
 DESCRIPTION:girl in red - the alternative pop artist from Oslo, born Marie 
  Ulven, is continuing her path to global stardom, kicking off 2024 with a ba
  ng. In February, she announced that she would release her...
 DTEND;VALUE=DATE:20240903
 DTSTART;VALUE=DATE:20240903
 SUMMARY:girl in red
-UID:c7d93b6e-f8b1-4a8b-bf35-bb59dab96235
+UID:f5a3d142-f41c-410d-ab6c-f60e252425a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
-DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
- in London on 8/20/2024 at 4:00 PM
-DTEND;VALUE=DATE:20240820
-DTSTART;VALUE=DATE:20240820
-SUMMARY:Paramore @ Wembley Stadium
-UID:e656d8ab-9917-4fe4-b586-9de22a6080f7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
-DESCRIPTION:2 min walk from **Wembley Stadium**, immediately following **Th
- e Boss**’ Saturday London show. A massive sing-your-heart-out **Springst
- een disco** — spinning non-stop Bruce hits, heartland rock ...
-DTEND;VALUE=DATE:20240728
-DTSTART;VALUE=DATE:20240728
-SUMMARY:Springsteen Wembley After Party
-UID:b7384890-63c3-4bfa-8938-f3a558c6da2f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
+DTSTAMP:20240729T014226Z
 DESCRIPTION:Find tickets for Conan Gray with BETWEEN FRIENDS at OVO Arena W
  embley in London on 11/10/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241110
 DTSTART;VALUE=DATE:20241110
 SUMMARY:Conan Gray - Found Heaven On Tour
-UID:28a01c56-df0e-47b3-bcdc-17335733a64b
+UID:9c0d97bc-943e-4a22-af16-eaeca3fcc5da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T014535Z
+DTSTAMP:20240729T014226Z
 DESCRIPTION:Find tickets for Flavour at OVO Arena Wembley in London on 8/25
  /2024 at 7:00 PM
 DTEND;VALUE=DATE:20240825
 DTSTART;VALUE=DATE:20240825
 SUMMARY:Flavour
-UID:99c3230e-d4f9-4947-a8d9-da716b07aedc
+UID:8627ed25-01b1-4c0c-a075-f407d73095d5
 END:VEVENT
 END:VCALENDAR
