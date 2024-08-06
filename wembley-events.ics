@@ -3,96 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
+DTSTAMP:20240806T014003Z
+DESCRIPTION:I’m gonna Run from Brentford, to Fulham, to Crystal Palace, t
+ o West Ham, to Chelsea, to Tottenham, to Arsenal, to Wembley - 55.4 Miles 
+ for the National Autistic Society.
+DTEND;VALUE=DATE:20240810
+DTSTART;VALUE=DATE:20240810
+SUMMARY:Run-2-Wembley
+UID:587c2c09-a9d1-49e5-b464-189a44ac6c2b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240806T014003Z
+DESCRIPTION:Not all ghosts haunt you, some just keep you company, until yo
+ u can trust the living once more… Walter Hartright's life is changed fore
+ ver after a chance encounter with a mysterious woman, dressed...
+DTEND;VALUE=DATE:20240809
+DTSTART;VALUE=DATE:20240809
+SUMMARY:The Woman In White @ Wembley
+UID:b3a3e0be-c146-4b6f-9e5c-18ca2edacd23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240806T014003Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Paramore @ Wembley Stadium
-UID:d7fa32b6-f7ce-471c-b09e-7479e4260fbd
+UID:468295a1-14ef-4841-92ce-eb5014a8c8c0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
-DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
- , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
- e You Ready For It? Everything you need to Know Before You...
-DTEND;VALUE=DATE:20240819
-DTSTART;VALUE=DATE:20240819
-SUMMARY:Paramore
-UID:31c674bd-133b-4343-830c-f47161c038c6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
+DTSTAMP:20240806T014003Z
 DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
  r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
  London on 19 and 20 August, 2024. A limited number of fans...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift with Paramore
-UID:485ce052-cadf-4e7a-9a8b-2967d8e4fcfc
+UID:aaf11de4-1ba9-4dd2-83b6-a1deb3f3ee88
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
+DTSTAMP:20240806T014003Z
+DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
+ , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
+ e You Ready For It? Everything you need to Know Before You...
+DTEND;VALUE=DATE:20240819
+DTSTART;VALUE=DATE:20240819
+SUMMARY:Paramore
+UID:995f30c3-9375-4a05-9712-51089b9146db
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240806T014003Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Paramore @ Wembley Stadium
-UID:5683c50c-c956-4590-bf7f-e132f0d12e38
+UID:ffb33ac5-65e2-481e-93cb-96790b4223f9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
+DTSTAMP:20240806T014003Z
+DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
+ n on 11/15/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241115
+DTSTART;VALUE=DATE:20241115
+SUMMARY:Ezra Collective
+UID:c9502bbc-fd41-4a17-b7f4-d7b7a4c43856
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240806T014003Z
+DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
+ , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
+ oth her parents were well versed in classical music. She is...
+DTEND;VALUE=DATE:20240922
+DTSTART;VALUE=DATE:20240922
+SUMMARY:Alka Yagnik
+UID:e6a21573-54f5-4df0-bcd1-cbe688ac0af0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240806T014003Z
 DESCRIPTION:Find tickets for Conan Gray with BETWEEN FRIENDS at OVO Arena W
  embley in London on 11/10/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241110
 DTSTART;VALUE=DATE:20241110
 SUMMARY:Conan Gray - Found Heaven On Tour
-UID:e14a5555-dbf0-4b3b-a4d2-eee10d059368
+UID:79379845-e746-43b8-b8bd-273bf343e2a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
-DESCRIPTION:girl in red - the alternative pop artist from Oslo, born Marie 
- Ulven, is continuing her path to global stardom, kicking off 2024 with a ba
- ng. In February, she announced that she would release her...
-DTEND;VALUE=DATE:20240903
-DTSTART;VALUE=DATE:20240903
-SUMMARY:girl in red
-UID:51b0c946-a4d3-4231-981e-faf203d9225a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
-DESCRIPTION:Find tickets for Flavour at OVO Arena Wembley in London on 8/25
- /2024 at 7:00 PM
-DTEND;VALUE=DATE:20240825
-DTSTART;VALUE=DATE:20240825
-SUMMARY:Flavour
-UID:b09fd4d1-3c36-4369-80b6-61517cf34414
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
-DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20241024
-DTSTART;VALUE=DATE:20241024
-SUMMARY:Becky Hill
-UID:971aa26b-e0b9-418c-b028-8490af79d231
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
-DESCRIPTION:Find tickets for Kirk Franklin with Maverick City Music at OVO 
- Arena Wembley in London on 8/26/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240826
-DTSTART;VALUE=DATE:20240826
-SUMMARY:Kirk Franklin with Maverick City Music
-UID:c497595e-e7b9-4a9c-a170-60c4996a5c7a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240805T014217Z
-DESCRIPTION:Buy Nick Carter tickets and sign-up for latest tour alerts. Fin
- d Nick Carter tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240806
-DTSTART;VALUE=DATE:20240806
-SUMMARY:Nick Carter
-UID:1cde7eed-7636-480d-ac12-1c06cf04a7e1
+DTSTAMP:20240806T014003Z
+DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
+ n on 9/20/2024 at 6:00 PM
+DTEND;VALUE=DATE:20240920
+DTSTART;VALUE=DATE:20240920
+SUMMARY:Falguni Pathak @OVO Arena, Wembley
+UID:f02da7d8-493d-4a04-88c6-bb39048c37b8
 END:VEVENT
 END:VCALENDAR
