@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
+DTSTAMP:20240808T014059Z
 DESCRIPTION:I’m gonna Run from Brentford, to Fulham, to Crystal Palace, t
  o West Ham, to Chelsea, to Tottenham, to Arsenal, to Wembley - 55.4 Miles 
  for the National Autistic Society.
 DTEND;VALUE=DATE:20240810
 DTSTART;VALUE=DATE:20240810
 SUMMARY:Run-2-Wembley
-UID:5c801c77-6740-4e6c-9008-f0cdac97a5c1
+UID:b0fdeab4-3884-4d83-94a2-18bb1f9735d6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
+DTSTAMP:20240808T014059Z
 DESCRIPTION:Not all ghosts haunt you, some just keep you company, until yo
  u can trust the living once more… Walter Hartright's life is changed fore
  ver after a chance encounter with a mysterious woman, dressed...
 DTEND;VALUE=DATE:20240809
 DTSTART;VALUE=DATE:20240809
-SUMMARY:The Woman In White @ Wembley
-UID:5b69d85f-4be3-41ce-b0d5-83067321db28
+SUMMARY:The Woman In White
+UID:54fa6732-f062-4d92-87f0-1648cc96b5a6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
+DTSTAMP:20240808T014059Z
 DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
  a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
  n February 7. The shows wrap August 16 and 17, 2024, at...
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Paramore @ Wembley Stadium
-UID:cbe9f2ba-e352-435e-adf5-b2895997b8c3
+UID:7eda08ee-c7db-44f4-a4bc-31076e14d986
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
+DTSTAMP:20240808T014059Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Paramore
-UID:5a153ecb-7233-423c-aa68-c3c91ed7f5af
+UID:6c6c33ed-8713-4946-a8f6-f60d1fc229bc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
+DTSTAMP:20240808T014059Z
 DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
  r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
  London on 19 and 20 August, 2024. A limited number of fans...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift with Paramore
-UID:981f4480-ba90-4fe7-9447-bf7721fb6820
+UID:352178fb-5415-4eb8-bd1a-6fee4f6d32a0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
+DTSTAMP:20240808T014059Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Paramore @ Wembley Stadium
-UID:087e4520-ba8f-4217-a04b-a385baa9c7c4
+UID:28750ebe-9985-457a-bb57-30e4afcc60eb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
+DTSTAMP:20240808T014059Z
 DESCRIPTION:Find tickets for Kirk Franklin with Maverick City Music at OVO 
  Arena Wembley in London on 8/26/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240826
 DTSTART;VALUE=DATE:20240826
 SUMMARY:Kirk Franklin with Maverick City Music
-UID:d9c57830-324c-4bb3-b1e3-8594326118f2
+UID:8a6dc9a1-4ab3-491b-9df1-2f801c6e09c1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
-DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
- n on 9/20/2024 at 6:00 PM
-DTEND;VALUE=DATE:20240920
-DTSTART;VALUE=DATE:20240920
-SUMMARY:Falguni Pathak
-UID:25070480-5c0d-492f-bd58-aded93d2a814
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
+DTSTAMP:20240808T014059Z
 DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
  n on 11/15/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:60286ff9-ae00-4835-ba21-732216e19577
+UID:a36810b5-4bd0-48f9-ad0a-be10d584c970
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240807T014112Z
+DTSTAMP:20240808T014059Z
+DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
+ n on 9/20/2024 at 6:00 PM
+DTEND;VALUE=DATE:20240920
+DTSTART;VALUE=DATE:20240920
+SUMMARY:Falguni Pathak
+UID:78950d84-eaba-4af4-a8a8-c019b4ab2c08
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240808T014059Z
 DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
  , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
  oth her parents were well versed in classical music. She is...
 DTEND;VALUE=DATE:20240922
 DTSTART;VALUE=DATE:20240922
 SUMMARY:Alka Yagnik
-UID:6374f147-6354-4d78-95d9-5398cee1ac53
+UID:367ab81a-c236-4762-892d-9f80ab2a93ae
 END:VEVENT
 END:VCALENDAR
