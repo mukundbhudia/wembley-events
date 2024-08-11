@@ -3,98 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
-DTEND;VALUE=DATE:20240811
-DTSTART;VALUE=DATE:20240811
-SUMMARY:THE KIDS' TABLE
-UID:e999eb91-17b6-4d18-bde3-8840fb7bdbc9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
-DESCRIPTION:I’m gonna Run from Brentford, to Fulham, to Crystal Palace, t
- o West Ham, to Chelsea, to Tottenham, to Arsenal, to Wembley - 55.4 Miles 
- for the National Autistic Society.
-DTEND;VALUE=DATE:20240810
-DTSTART;VALUE=DATE:20240810
-SUMMARY:Run-2-Wembley
-UID:5f951a70-2f98-44c9-833a-cbd21bcbc3ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
-DESCRIPTION:Buy official Manchester City tickets and hospitality experience
- s direct from the Club
-DTEND;VALUE=DATE:20240810
-DTSTART;VALUE=DATE:20240810
-SUMMARY:Manchester City at Wembley Stadium
-UID:fb892df1-6fd0-4b04-b6bd-d1d2f2f76f7f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
-DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
- , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
- oth her parents were well versed in classical music. She is...
-DTEND;VALUE=DATE:20240922
-DTSTART;VALUE=DATE:20240922
-SUMMARY:Alka Yagnik
-UID:7b4ee3b8-132a-480d-a4e2-f77a11841cb3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
+DTSTAMP:20240811T014733Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Paramore
-UID:68fbea9f-9de4-4c01-b0dc-dd1f1d1aa8ec
+UID:37f1016c-c862-4829-9ccd-e5d32ebb44fb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
-DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
- ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
- aw-aching, laugh out loud comedy that only Smith can...
-DTEND;VALUE=DATE:20241002
-DTSTART;VALUE=DATE:20241002
-SUMMARY:Paul Smith: Pablo
-UID:896707a3-4e64-4cfa-ac80-f78ddaf67207
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
+DTSTAMP:20240811T014733Z
 DESCRIPTION:TAYLOR SWIFT | THE ERAS TOUR With Special Guest Paramore Taylo
  r Swift | The Eras Tour has added another two nights at Wembley Stadium in 
  London on 19 and 20 August, 2024. A limited number of fans...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift with Paramore
-UID:644600d7-3342-4e5e-809a-31d7a5fd1a02
+UID:23d342c5-bb68-4b73-9233-0ce9af3c69cd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
-DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
- n on 11/15/2024 at 6:30 PM
-DTEND;VALUE=DATE:20241115
-DTSTART;VALUE=DATE:20241115
-SUMMARY:Ezra Collective
-UID:921c7261-84d9-4685-8196-f15f06f8ddb4
+DTSTAMP:20240811T014733Z
+DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
+ venue customers
+DTEND;VALUE=DATE:20240811
+DTSTART;VALUE=DATE:20240811
+SUMMARY:THE KIDS' TABLE
+UID:fc432862-989e-4192-ba2b-8cac04827cae
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
+DTSTAMP:20240811T014733Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:1f2ad7dd-56ce-4b3f-a1d5-8b627a92af3b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240811T014733Z
+DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
+ in London on 8/17/2024 at 4:45 PM
+DTEND;VALUE=DATE:20240817
+DTSTART;VALUE=DATE:20240817
+SUMMARY:Taylor Swift with Paramore
+UID:1be5de4f-0c37-49bb-9ffa-b121bca22850
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240811T014733Z
 DESCRIPTION:Find tickets for Kirk Franklin with Maverick City Music at OVO 
  Arena Wembley in London on 8/26/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240826
 DTSTART;VALUE=DATE:20240826
 SUMMARY:Kirk Franklin with Maverick City Music
-UID:fc736a12-d52a-4f2a-a0e7-086328f87841
+UID:ddc47ae5-ca3b-4e25-ae1e-3d3d203cd44f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240810T014103Z
-DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
- n on 9/20/2024 at 6:00 PM
-DTEND;VALUE=DATE:20240920
-DTSTART;VALUE=DATE:20240920
-SUMMARY:Falguni Pathak
-UID:435b0fb6-d9db-418e-ab4c-fba2808f8285
+DTSTAMP:20240811T014733Z
+DESCRIPTION:Find tickets for Conan Gray with BETWEEN FRIENDS at OVO Arena W
+ embley in London on 11/10/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241110
+DTSTART;VALUE=DATE:20241110
+SUMMARY:Conan Gray - Found Heaven On Tour
+UID:57b6d2f9-90e9-474d-b15a-3f4a4bc267a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240811T014733Z
+DESCRIPTION:Find tickets for Flavour at OVO Arena Wembley in London on 8/25
+ /2024 at 7:00 PM
+DTEND;VALUE=DATE:20240825
+DTSTART;VALUE=DATE:20240825
+SUMMARY:Flavour
+UID:6daec937-41e4-49e9-9680-68be39ad89fc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240811T014733Z
+DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
+ , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
+ oth her parents were well versed in classical music. She is...
+DTEND;VALUE=DATE:20240922
+DTSTART;VALUE=DATE:20240922
+SUMMARY:Alka Yagnik
+UID:4ce0cc42-1257-45f9-83b5-5f54ad529da1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240811T014733Z
+DESCRIPTION:Find tickets for ONE OK ROCK at OVO Arena Wembley in London on 
+ 10/11/2024 at 4:00 PM
+DTEND;VALUE=DATE:20241011
+DTSTART;VALUE=DATE:20241011
+SUMMARY:ONE OK ROCK
+UID:88916d53-3bf9-41db-a539-d08bae9871a6
 END:VEVENT
 END:VCALENDAR
