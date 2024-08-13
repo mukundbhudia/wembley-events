@@ -3,96 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
-DESCRIPTION:Taylor Swift's Eras Tour is going global. The singer announced 
- a slew of new international dates for 2024, kicking off in Tokyo, Japan, o
- n February 7. The shows wrap August 16 and 17, 2024, at...
-DTEND;VALUE=DATE:20240816
-DTSTART;VALUE=DATE:20240816
-SUMMARY:Taylor Swift announces more international dates for Eras Tour
-UID:8d388fcb-81b6-4174-a772-065309c87600
+DTSTAMP:20240813T014305Z
+DESCRIPTION:Grab your best friends and come together to for concert of the 
+ year. The Eras Tour to London for an incredible 5-night residency, and you 
+ won't want to miss this. From chart-topping anthems to...
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
+SUMMARY:Taylor Swift with Paramore
+UID:e9582725-6c2f-4f35-a7e1-87561c64b7bf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
+DTSTAMP:20240813T014305Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/17/2024 at 4:45 PM
 DTEND;VALUE=DATE:20240817
 DTSTART;VALUE=DATE:20240817
 SUMMARY:Taylor Swift with Paramore
-UID:9d552c53-49cb-459b-975a-9f89ce294032
+UID:639241b7-bef7-44f7-b218-27e385d95454
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
-DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
- s. Find Starlight Express tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240815
-DTSTART;VALUE=DATE:20240815
-SUMMARY:Starlight Express Tickets
-UID:264ae216-4725-4329-bf9d-4a81c064a4fd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
+DTSTAMP:20240813T014305Z
 DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
  , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
  e You Ready For It? Everything you need to Know Before You...
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
 SUMMARY:Paramore
-UID:8a7d9381-e4ce-407c-b814-f39159660f49
+UID:0f33f497-b1b5-4a7f-af1f-7a8d8e6df300
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
+DTSTAMP:20240813T014305Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:b1363d41-e2a8-4184-8cc4-ec8703004168
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240813T014305Z
+DESCRIPTION:Find tickets for Kirk Franklin with Maverick City Music at OVO 
+ Arena Wembley in London on 8/26/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240826
+DTSTART;VALUE=DATE:20240826
+SUMMARY:Kirk Franklin
+UID:a07bcdbe-891b-4451-a86d-788bbd1842fe
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240813T014305Z
+DESCRIPTION:Find tickets for Flavour at OVO Arena Wembley in London on 8/25
+ /2024 at 7:00 PM
+DTEND;VALUE=DATE:20240825
+DTSTART;VALUE=DATE:20240825
+SUMMARY:Flavour
+UID:4053a8c9-021a-493e-800b-5b5bc56ae251
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240813T014305Z
+DESCRIPTION:Find tickets for Conan Gray with BETWEEN FRIENDS at OVO Arena W
+ embley in London on 11/10/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241110
+DTSTART;VALUE=DATE:20241110
+SUMMARY:Conan Gray - Found Heaven On Tour
+UID:e849c55a-3c5e-428f-b69b-c82b64b805d4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240813T014305Z
 DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
  , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
  oth her parents were well versed in classical music. She is...
 DTEND;VALUE=DATE:20240922
 DTSTART;VALUE=DATE:20240922
 SUMMARY:Alka Yagnik
-UID:2f8c98c4-be71-4585-ae0c-dad2b9666844
+UID:6af379d2-0d1c-4bd1-9a87-c0b6b542d78e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
-DESCRIPTION:Get ready to experience the energy, the rhythm, and the pure jo
- y of soca as Machel Montano makes his triumphant return to London for the f
- irst time in 8 years! The OVO Arena Wembley will be...
-DTEND;VALUE=DATE:20240823
-DTSTART;VALUE=DATE:20240823
-SUMMARY:Tipsy Dreamland London
-UID:0c3e4ef0-fdf9-4ee3-97ef-68fefbed680d
+DTSTAMP:20240813T014305Z
+DESCRIPTION:Metropolis Music ROGUE hosted by LONDON & Friends – Grammy-no
+ minated Producer LONDON presents an evening of classic hits, contemporary r
+ hythms and Afrobeats at Phonox. Step into an experience that...
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
+SUMMARY:ROGUE hosted by LONDON & Friends
+UID:8b1666dc-0b31-4803-98cf-ea6b053c005f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
-DESCRIPTION:Find tickets for Kirk Franklin with Maverick City Music at OVO 
- Arena Wembley in London on 8/26/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240826
-DTSTART;VALUE=DATE:20240826
-SUMMARY:Kirk Franklin
-UID:86833e2d-7c31-4166-bb07-97a7b91cc534
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
-DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
- n on 11/15/2024 at 6:30 PM
-DTEND;VALUE=DATE:20241115
-DTSTART;VALUE=DATE:20241115
-SUMMARY:Ezra Collective
-UID:17b1f441-c268-465f-aef9-5de535d00983
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
-DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20241024
-DTSTART;VALUE=DATE:20241024
-SUMMARY:Becky Hill
-UID:3c8bca1a-c56a-4094-bb71-4f833853eb86
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240812T014347Z
-DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
- n on 9/20/2024 at 6:00 PM
-DTEND;VALUE=DATE:20240920
-DTSTART;VALUE=DATE:20240920
-SUMMARY:Falguni Pathak
-UID:d09df635-df30-40e6-a8d7-a1b32472b961
+DTSTAMP:20240813T014305Z
+DESCRIPTION:ABBA Voyage is recommended for a general audience from the age
+ s of 6 and up. Children under 3 will not be admitted into the venue. All pe
+ rsons age...
+DTEND;VALUE=DATE:20240815
+DTSTART;VALUE=DATE:20240815
+SUMMARY:ABBA Voyage
+UID:0017fab8-fc25-4fcc-af9e-3010738dff34
 END:VEVENT
 END:VCALENDAR
