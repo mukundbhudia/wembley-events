@@ -3,97 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
+DTSTAMP:20240815T013447Z
 DESCRIPTION:Find tickets for Taylor Swift with Paramore at Wembley Stadium 
  in London on 8/16/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240816
 DTSTART;VALUE=DATE:20240816
 SUMMARY:Taylor Swift
-UID:38128703-20af-47fe-8c6d-318432f79125
+UID:2d4727ab-65ca-4cca-a506-06a6baf77599
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
+DTSTAMP:20240815T013447Z
 DESCRIPTION:Grab your best friends and come together to for concert of the 
- year. The Eras Tour to London for an incredible 5-night residency, and you 
- won't want to miss this. From chart-topping anthems to...
+ year. The Eras Tour is coming to London for a 5-night residency, and you wo
+ n't want to miss this. From chart-topping anthems to...
 DTEND;VALUE=DATE:20240815
 DTSTART;VALUE=DATE:20240815
 SUMMARY:Taylor Swift
-UID:20501b25-985f-4916-b638-8786aef9b3ed
+UID:a97ecd7f-7c53-4386-8219-0053d830a7fe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
-DESCRIPTION:Taylor Swift | The Eras Tour is coming to Wembley Stadium on 21
- , 22 & 23 June and 15, 16, 17, 19 & 20 August 2024. div Taylor Swift – Ar
- e You Ready For It? Everything you need to Know Before You...
+DTSTAMP:20240815T013447Z
+DESCRIPTION:Find tickets for Channel Tres at Victoria Park in London on 8/1
+ 6/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240816
+DTSTART;VALUE=DATE:20240816
+SUMMARY:Victoria Monét
+UID:103bb4ff-c533-4bc7-8957-9da93056a5ba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T013447Z
+DESCRIPTION:Find tickets for Taylor Swift at Wembley Stadium in London on 8
+ /19/2024 at 4:00 PM
 DTEND;VALUE=DATE:20240819
 DTSTART;VALUE=DATE:20240819
-SUMMARY:Paramore
-UID:9ca0c9f7-90d9-4816-a509-31b12e0d7e44
+SUMMARY:Taylor Swift
+UID:e280cc1e-655a-4787-aecf-d607853f5e1a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
-DESCRIPTION:Find tickets for Kirk Franklin with Maverick City Music at OVO 
- Arena Wembley in London on 8/26/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240826
-DTSTART;VALUE=DATE:20240826
-SUMMARY:Kirk Franklin
-UID:f3ca5604-e5a2-4ec3-aab9-394022a7c6f4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
-DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20241024
-DTSTART;VALUE=DATE:20241024
-SUMMARY:Becky Hill
-UID:dada4486-bd76-4fdd-92be-8af3084c35da
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
-DESCRIPTION:Find tickets for Flavour at OVO Arena Wembley in London on 8/25
- /2024 at 7:00 PM
-DTEND;VALUE=DATE:20240825
-DTSTART;VALUE=DATE:20240825
-SUMMARY:Flavour
-UID:6e4c4327-83a3-440d-bda8-a980cf5a9da4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
-DESCRIPTION:Find tickets for Conan Gray with BETWEEN FRIENDS at OVO Arena W
- embley in London on 11/10/2024 at 6:30 PM
-DTEND;VALUE=DATE:20241110
-DTSTART;VALUE=DATE:20241110
-SUMMARY:Conan Gray - Found Heaven On Tour
-UID:27f1fa77-03d1-4c2b-9bfa-05fddabfe210
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
-DESCRIPTION:ABBA Voyage is recommended for a general audience from the age
- s of 6 and up. Children under 3 will not be admitted into the venue. All pe
- rsons age...
-DTEND;VALUE=DATE:20240815
-DTSTART;VALUE=DATE:20240815
-SUMMARY:ABBA Voyage
-UID:aab4e540-ab00-4113-8b05-98c248eeccfc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
-DESCRIPTION:Terms & Conditions: https://www.festivalrepublic.com/terms-and-
- conditions-gunnersbury-park/ Find the banned items list in the T&Cs above E
- vent FAQ's: https://shorturl.at/Cn7yc Bag Policy: These...
-DTEND;VALUE=DATE:20240818
-DTSTART;VALUE=DATE:20240818
-SUMMARY:PJ Harvey
-UID:e9117201-f2a1-49d6-b9cc-4d112d0254bb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240814T014130Z
+DTSTAMP:20240815T013447Z
 DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
  , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
  oth her parents were well versed in classical music. She is...
 DTEND;VALUE=DATE:20240922
 DTSTART;VALUE=DATE:20240922
 SUMMARY:Alka Yagnik
-UID:96cef5db-2f4c-410f-b798-d60bb79c616b
+UID:29eda8ed-3b8a-45c0-bde9-b77721769812
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T013447Z
+DESCRIPTION:Find tickets for Aditya Gadhvi at OVO Arena Wembley in London o
+ n 9/6/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240906
+DTSTART;VALUE=DATE:20240906
+SUMMARY:Aditya Gadhvi
+UID:935f4155-7279-4fb2-93de-c44edd55194e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T013447Z
+DESCRIPTION:Find tickets for Kirk Franklin with Maverick City Music at OVO 
+ Arena Wembley in London on 8/26/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240826
+DTSTART;VALUE=DATE:20240826
+SUMMARY:Kirk Franklin
+UID:3b35eb13-2dc1-4f54-b87f-c99c9a83c612
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T013447Z
+DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
+ n on 9/20/2024 at 6:00 PM
+DTEND;VALUE=DATE:20240920
+DTSTART;VALUE=DATE:20240920
+SUMMARY:Falguni Pathak
+UID:3d99e8fa-2818-4952-ae46-c6c9797c8fad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T013447Z
+DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
+ ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
+ aw-aching, laugh out loud comedy that only Smith can...
+DTEND;VALUE=DATE:20241002
+DTSTART;VALUE=DATE:20241002
+SUMMARY:Paul Smith: Pablo
+UID:745f6cd6-635d-4c76-9931-fd8ddb6b8837
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T013447Z
+DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
+ n on 11/15/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241115
+DTSTART;VALUE=DATE:20241115
+SUMMARY:Ezra Collective
+UID:2b0caca4-3327-4c3e-b1b6-a8c6bd9fd6d3
 END:VEVENT
 END:VCALENDAR
