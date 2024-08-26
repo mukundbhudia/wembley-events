@@ -3,94 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
-DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
- s. Find Starlight Express tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240825
-DTSTART;VALUE=DATE:20240825
-SUMMARY:Starlight Express
-UID:a3e99122-8196-4efd-a7b7-45658804aa12
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
-DESCRIPTION:Find tickets for Flavour at OVO Arena Wembley in London on 8/25
- /2024 at 7:00 PM
-DTEND;VALUE=DATE:20240825
-DTSTART;VALUE=DATE:20240825
-SUMMARY:Flavour
-UID:d747d2b7-0075-49b0-9f86-cd318597712b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
-DESCRIPTION:**AEW ALL IN** London Afterparty Sweet Chin Disco. Wrestling th
- emed club night / disco / rave. Featuring The Acclaimed’s **Max Caster pe
- rforming Live** (first UK rap show) and special guest DJ set...
-DTEND;VALUE=DATE:20240825
-DTSTART;VALUE=DATE:20240825
-SUMMARY:Sweet Chin Disco
-UID:a4960441-2c33-44ca-be58-d4e30c30296c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
-DESCRIPTION:All Elite Wrestling will return to the UK with a huge one-nigh
- t event at Wembley Stadium, promising another incredible night of action. D
- on't miss out; book your return coach tickets today using...
-DTEND;VALUE=DATE:20240825
-DTSTART;VALUE=DATE:20240825
-SUMMARY:AEW All in London 2024
-UID:95a698cb-138f-4c73-8eeb-8646de910f12
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
-DESCRIPTION:Find tickets for Aditya Gadhvi at OVO Arena Wembley in London o
- n 9/6/2024 at 7:00 PM
-DTEND;VALUE=DATE:20240906
-DTSTART;VALUE=DATE:20240906
-SUMMARY:Aditya Gadhvi
-UID:14d9f89f-b8c8-4436-9aab-8ae89ec6db46
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
+DTSTAMP:20240826T014300Z
 DESCRIPTION:Find tickets for Kirk Franklin with Maverick City Music at OVO 
  Arena Wembley in London on 8/26/2024 at 7:30 PM
 DTEND;VALUE=DATE:20240826
 DTSTART;VALUE=DATE:20240826
 SUMMARY:Kirk Franklin
-UID:62770f30-5d99-4dda-87d5-25aba8435825
+UID:bb46bb79-431f-4d00-a480-56a60f8432ed
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
-DESCRIPTION:Find tickets for Giggs with 999999999, Aida Arko, Elli Acula an
- d 17 more at Lee Valley Showground in London on 8/25/2024 at 12:00 PM
-DTEND;VALUE=DATE:20240825
-DTSTART;VALUE=DATE:20240825
-SUMMARY:Boiler Room: London
-UID:388270c9-ce9b-4fdd-a29a-9123e40d1f50
+DTSTAMP:20240826T014300Z
+DESCRIPTION:Find tickets for Ilaiyaraaja at OVO Arena Wembley in London on 
+ 8/30/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240830
+DTSTART;VALUE=DATE:20240830
+SUMMARY:Maestro Ilaiyaraaja
+UID:cb31f497-dd27-4a55-83e8-13cb70f795ad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
+DTSTAMP:20240826T014300Z
+DESCRIPTION:**AEW ALL IN** London Afterparty Sweet Chin Disco. Wrestling th
+ emed club night / disco / rave. Featuring The Acclaimed’s **Max Caster pe
+ rforming Live** (first UK rap show) and special guest DJ set...
+DTEND;VALUE=DATE:20240826
+DTSTART;VALUE=DATE:20240826
+SUMMARY:Sweet Chin Disco
+UID:b0930aea-5448-427a-8161-c4e84396653d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240826T014300Z
+DESCRIPTION:Give your bulky waste a new home. Do you need to get rid of an 
+ old sofa, washing machine or mattress? Do you want the opportunity freshen 
+ up and de-clutter your home? With the community skips you...
+DTEND;VALUE=DATE:20240831
+DTSTART;VALUE=DATE:20240831
+SUMMARY:WEMBLEY NORTH - Get rid of your bulky items for FREE - Community Sk
+ ips are back!
+UID:fa0cc288-31af-4076-8c08-e79e9be3ec39
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240826T014300Z
+DESCRIPTION:Find tickets for Aditya Gadhvi at OVO Arena Wembley in London o
+ n 9/6/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240906
+DTSTART;VALUE=DATE:20240906
+SUMMARY:Aditya Gadhvi
+UID:32f50c8c-16dd-4c4d-b0d2-719b66aa9b2d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240826T014300Z
+DESCRIPTION:Find tickets for ABBA at ABBA Arena in London on 8/31/2024 at 3
+ :00 PM
+DTEND;VALUE=DATE:20240831
+DTSTART;VALUE=DATE:20240831
+SUMMARY:ABBA Voyage
+UID:d04909bf-f70e-4ff8-87df-81a89c8a47d0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240826T014300Z
 DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20241024
 DTSTART;VALUE=DATE:20241024
 SUMMARY:Becky Hill
-UID:f4e32409-735f-4600-985c-9bfe8ac7a065
+UID:43ab08f6-c4c2-4cbc-b6d9-e99bd41ea3b2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
+DTSTAMP:20240826T014300Z
 DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
  n on 9/20/2024 at 6:00 PM
 DTEND;VALUE=DATE:20240920
 DTSTART;VALUE=DATE:20240920
 SUMMARY:Falguni Pathak
-UID:9979b10b-e24e-4948-a8e5-df45bcf8f3b6
+UID:42c99ebe-2413-43b5-8fa9-0100c487f96c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240825T014835Z
+DTSTAMP:20240826T014300Z
+DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
+ , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
+ oth her parents were well versed in classical music. She is...
+DTEND;VALUE=DATE:20240922
+DTSTART;VALUE=DATE:20240922
+SUMMARY:Alisha Chinai
+UID:0a1bc9c6-e053-4796-934f-b0f512c152c6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240826T014300Z
 DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
  n on 11/15/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:41371b70-dbfd-4b23-b1c3-2a2d65d01b2c
+UID:9c9ddacd-9e77-4145-8b9b-d6c97eedc683
 END:VEVENT
 END:VCALENDAR
