@@ -3,97 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
+DTSTAMP:20240901T015940Z
 DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
  venue customers
 DTEND;VALUE=DATE:20240901
 DTSTART;VALUE=DATE:20240901
 SUMMARY:THE KIDS' TABLE
-UID:0e9ac1dd-4952-466c-9878-7b245c111c2a
+UID:7410c17a-2f2f-4059-ba04-b856cb63cb05
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
+DTSTAMP:20240901T015940Z
 DESCRIPTION:Give your bulky waste a new home. Do you need to get rid of an 
  old sofa, washing machine or mattress? Do you want the opportunity freshen 
  up and de-clutter your home? With the community skips you...
-DTEND;VALUE=DATE:20240831
-DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+DTSTART;VALUE=DATE:20240901
 SUMMARY:WEMBLEY NORTH - Get rid of your bulky items for FREE - Community Sk
  ips are back!
-UID:59439f4b-27cb-4f19-b452-34741f377714
+UID:8e718554-4edb-491f-99f0-d40669cd918c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
-DESCRIPTION:Find tickets for ABBA at ABBA Arena in London on 8/31/2024 at 3
- :00 PM
-DTEND;VALUE=DATE:20240831
-DTSTART;VALUE=DATE:20240831
-SUMMARY:ABBA Voyage
-UID:188290fa-5489-4027-abb7-eff80bf86005
+DTSTAMP:20240901T015940Z
+DESCRIPTION:COORS PRESENTS: DECKS APPEALOur Resident DJs play the biggest a
+ nd best tracks in Hip-Hop, Electronic, R&B, Pop and Disco every Saturday t
+ o guarantee you're dancing all day long!BEATBOX DJS ...
+DTEND;VALUE=DATE:20240907
+DTSTART;VALUE=DATE:20240907
+SUMMARY:AT - ON THE DECKS
+UID:fc35d01b-9c98-46af-b6ae-33679f79f6a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
-DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20241024
-DTSTART;VALUE=DATE:20241024
-SUMMARY:Becky Hill
-UID:94a7c853-22db-4131-946b-1a3b4013cd4e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
+DTSTAMP:20240901T015940Z
 DESCRIPTION:Find tickets for Aditya Gadhvi at OVO Arena Wembley in London o
  n 9/6/2024 at 7:00 PM
 DTEND;VALUE=DATE:20240906
 DTSTART;VALUE=DATE:20240906
 SUMMARY:Aditya Gadhvi
-UID:9746ae5f-d3c8-402c-b488-8adf06f86731
+UID:c4f81ddb-2683-4182-a434-a91800680b09
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
+DTSTAMP:20240901T015940Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:17d63528-133c-452a-b45d-7cd7a9c908b7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240901T015940Z
 DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
  , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
  oth her parents were well versed in classical music. She is...
 DTEND;VALUE=DATE:20240922
 DTSTART;VALUE=DATE:20240922
 SUMMARY:Alka Yagnik
-UID:5d905b13-b806-432c-ab47-f480d72d298f
+UID:2e78ab41-ae50-48a1-aa87-bccaabeb5d78
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
-DESCRIPTION:Saturday Main Stage The Four Tops / Tavares / Atlantic Starr / 
- The Trammps / Odyssey / Gwen Dickey / Still Drifting / Sonny Tennet / Lee W
- ard / Ray Lewis / JIMMY LONDON / DJ Swerve The Garden Tent...
-DTEND;VALUE=DATE:20240831
-DTSTART;VALUE=DATE:20240831
-SUMMARY:Soul Town Festival 2024
-UID:065ada4e-c767-4f64-9888-35dff400eefa
+DTSTAMP:20240901T015940Z
+DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
+ ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
+ aw-aching, laugh out loud comedy that only Smith can...
+DTEND;VALUE=DATE:20241002
+DTSTART;VALUE=DATE:20241002
+SUMMARY:Paul Smith: Pablo
+UID:bb757959-de37-4698-8738-c85e543194d1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
-DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
- n on 11/15/2024 at 6:30 PM
-DTEND;VALUE=DATE:20241115
-DTSTART;VALUE=DATE:20241115
-SUMMARY:Ezra Collective
-UID:7f400d1b-8407-4c2a-8fc6-17f1f1b1f194
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
+DTSTAMP:20240901T015940Z
 DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
  n on 9/20/2024 at 6:00 PM
 DTEND;VALUE=DATE:20240920
 DTSTART;VALUE=DATE:20240920
 SUMMARY:Falguni Pathak
-UID:e3c246cf-2cd7-46aa-b887-035be788986c
+UID:a11b16ac-c929-4886-a588-5513563d8325
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T014445Z
-DESCRIPTION:The band will perform over 2 hours of classic songs from their 
- extensive back catalogue with some new unreleased tracks. Official Sad Love
- rs & Giants page run by the band
-DTEND;VALUE=DATE:20240831
-DTSTART;VALUE=DATE:20240831
-SUMMARY:Sad Lovers & Giants
-UID:5616383b-2bc7-4f42-94cf-62b613de375a
+DTSTAMP:20240901T015940Z
+DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
+ n on 11/15/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241115
+DTSTART;VALUE=DATE:20241115
+SUMMARY:Ezra Collective
+UID:54f04090-2aec-46fd-9c8b-e28dc2ef1548
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240901T015940Z
+DESCRIPTION:Saturday Main Stage The Four Tops / Tavares / Atlantic Starr / 
+ The Trammps / Odyssey / Gwen Dickey / Still Drifting / Sonny Tennet / Lee W
+ ard / Ray Lewis / JIMMY LONDON / DJ Swerve The Garden Tent...
+DTEND;VALUE=DATE:20240901
+DTSTART;VALUE=DATE:20240901
+SUMMARY:Soul Town Festival
+UID:77fdefcf-a72a-4cf8-9bc9-1e80d0c7f2ac
 END:VEVENT
 END:VCALENDAR
