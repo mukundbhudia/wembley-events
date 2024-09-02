@@ -3,98 +3,93 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
-DTEND;VALUE=DATE:20240901
-DTSTART;VALUE=DATE:20240901
-SUMMARY:THE KIDS' TABLE
-UID:7410c17a-2f2f-4059-ba04-b856cb63cb05
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
-DESCRIPTION:Give your bulky waste a new home. Do you need to get rid of an 
- old sofa, washing machine or mattress? Do you want the opportunity freshen 
- up and de-clutter your home? With the community skips you...
-DTEND;VALUE=DATE:20240901
-DTSTART;VALUE=DATE:20240901
-SUMMARY:WEMBLEY NORTH - Get rid of your bulky items for FREE - Community Sk
- ips are back!
-UID:8e718554-4edb-491f-99f0-d40669cd918c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
-DESCRIPTION:COORS PRESENTS: DECKS APPEALOur Resident DJs play the biggest a
- nd best tracks in Hip-Hop, Electronic, R&B, Pop and Disco every Saturday t
- o guarantee you're dancing all day long!BEATBOX DJS ...
-DTEND;VALUE=DATE:20240907
-DTSTART;VALUE=DATE:20240907
-SUMMARY:AT - ON THE DECKS
-UID:fc35d01b-9c98-46af-b6ae-33679f79f6a3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
+DTSTAMP:20240902T014737Z
 DESCRIPTION:Find tickets for Aditya Gadhvi at OVO Arena Wembley in London o
  n 9/6/2024 at 7:00 PM
 DTEND;VALUE=DATE:20240906
 DTSTART;VALUE=DATE:20240906
 SUMMARY:Aditya Gadhvi
-UID:c4f81ddb-2683-4182-a434-a91800680b09
+UID:24c53299-5078-4a1c-84b9-b3e65e361300
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
+DTSTAMP:20240902T014737Z
+DESCRIPTION:Join us for LDNRBS BB at BOXPARK Wembley on Wednesday, 4th Sep 
+ 2024. Discover local talent and enjoy live entertainment. Book your table n
+ ow!
+DTEND;VALUE=DATE:20240904
+DTSTART;VALUE=DATE:20240904
+SUMMARY:LDNRBS Live 4 Sep
+UID:f273d61d-13e2-4c24-8435-8fa892427aba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240902T014737Z
+DESCRIPTION:Find tickets for Atif Aslam at OVO Arena Wembley in London on 9
+ /8/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240908
+DTSTART;VALUE=DATE:20240908
+SUMMARY:Atif Aslam
+UID:723c201b-0c95-4a4b-848e-30a4c70d9539
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240902T014737Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20240903
+DTSTART;VALUE=DATE:20240903
+SUMMARY:Girl in Red
+UID:23db283f-6e7c-4f58-91db-290ba30cee9b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240902T014737Z
+DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
+ s. Find Starlight Express tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20240907
+DTSTART;VALUE=DATE:20240907
+SUMMARY:Starlight Express
+UID:1f1b3a36-0e98-45f8-918b-79e1c7b23bd2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240902T014737Z
+DESCRIPTION:Find tickets for Dadju with Tayc at OVO Arena Wembley in Londo
+ n on 9/7/2024 at 7:00 PM
+DTEND;VALUE=DATE:20240907
+DTSTART;VALUE=DATE:20240907
+SUMMARY:Dadju & Tayc - 'Heritage' the Live Experience
+UID:f69a2c38-d09b-4dd1-8c96-2ad2d846adc1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240902T014737Z
 DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20241024
 DTSTART;VALUE=DATE:20241024
 SUMMARY:Becky Hill
-UID:17d63528-133c-452a-b45d-7cd7a9c908b7
+UID:05c7fced-2d87-431f-b07d-cb23ad13d44f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
-DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
- , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
- oth her parents were well versed in classical music. She is...
-DTEND;VALUE=DATE:20240922
-DTSTART;VALUE=DATE:20240922
-SUMMARY:Alka Yagnik
-UID:2e78ab41-ae50-48a1-aa87-bccaabeb5d78
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
-DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
- ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
- aw-aching, laugh out loud comedy that only Smith can...
-DTEND;VALUE=DATE:20241002
-DTSTART;VALUE=DATE:20241002
-SUMMARY:Paul Smith: Pablo
-UID:bb757959-de37-4698-8738-c85e543194d1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
+DTSTAMP:20240902T014737Z
 DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
  n on 9/20/2024 at 6:00 PM
 DTEND;VALUE=DATE:20240920
 DTSTART;VALUE=DATE:20240920
 SUMMARY:Falguni Pathak
-UID:a11b16ac-c929-4886-a588-5513563d8325
+UID:469240b5-3f55-4583-a469-a439048ee9ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
+DTSTAMP:20240902T014737Z
 DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
  n on 11/15/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:54f04090-2aec-46fd-9c8b-e28dc2ef1548
+UID:3743c616-b3fe-4d76-8afb-73eca1a0570a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240901T015940Z
-DESCRIPTION:Saturday Main Stage The Four Tops / Tavares / Atlantic Starr / 
- The Trammps / Odyssey / Gwen Dickey / Still Drifting / Sonny Tennet / Lee W
- ard / Ray Lewis / JIMMY LONDON / DJ Swerve The Garden Tent...
-DTEND;VALUE=DATE:20240901
-DTSTART;VALUE=DATE:20240901
-SUMMARY:Soul Town Festival
-UID:77fdefcf-a72a-4cf8-9bc9-1e80d0c7f2ac
+DTSTAMP:20240902T014737Z
+DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
+ ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
+ aw-aching, laugh out loud comedy that only Smith can...
+DTEND;VALUE=DATE:20241002
+DTSTART;VALUE=DATE:20241002
+SUMMARY:Paul Smith
+UID:2173245c-de80-4758-ba08-ea60af8fd6a7
 END:VEVENT
 END:VCALENDAR
