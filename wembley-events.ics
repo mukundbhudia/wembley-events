@@ -3,98 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
-SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
- 0yr olds
-UID:a548a420-0d71-412b-ba33-98b978cbf8a7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:Find tickets for Atif Aslam at OVO Arena Wembley in London on 9
- /8/2024 at 7:00 PM
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
-SUMMARY:Atif Aslam
-UID:db77b728-5615-4d3b-b0f5-49ae98b7132a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
- s. Find Starlight Express tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
+DTSTAMP:20240909T014921Z
+DESCRIPTION:STARLIGHT EXPRESS GET YOUR SKATES ON THE LEGEND IS BACK Andrew 
+ Lloyd Webbers STARLIGHT EXPRESS opens summer 2024 in the specially desi...
+DTEND;VALUE=DATE:20240911
+DTSTART;VALUE=DATE:20240911
 SUMMARY:Starlight Express
-UID:270fff08-843f-4225-88ea-63585e87b923
+UID:71272955-2ed5-434e-9ecc-944c311234ab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:Prepare for an unforgettable weekend as Boogietown transforms A
- pps Court in Surrey into a haven of disco, funk, and soul on Saturday 7th, 
- and Sunday, 8th September. Boogietown promises to be a...
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
-SUMMARY:Boogietown 2024
-UID:b2741332-92f7-4139-9e45-25be63e623ec
+DTSTAMP:20240909T014921Z
+DESCRIPTION:Find tickets for THE BOYZ at OVO Arena Wembley in London on 9/1
+ 5/2024 at 8:00 PM
+DTEND;VALUE=DATE:20240915
+DTSTART;VALUE=DATE:20240915
+SUMMARY:THE BOYZ
+UID:ba89f850-7d8e-4bd8-a02d-727660e6a04f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:Find tickets for Rex Orange County at Rough Trade West in Londo
- n on 9/8/2024 at 2:00 PM
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
-SUMMARY:Rex Orange County
-UID:a65d0d5c-c11c-4375-9435-1f997036d6e4
+DTSTAMP:20240909T014921Z
+DESCRIPTION:Your Lounge Pass allows you: Access to the venue via a private
+ , fast queue One drink (Beer, Wine, Cider, Soft Drink, Single House Spirit 
+ and Mixer) Private Bathroom Facilities SEPARATE EVENT...
+DTEND;VALUE=DATE:20240915
+DTSTART;VALUE=DATE:20240915
+SUMMARY:Arijit Singh
+UID:c66ba830-00bc-42ea-913b-95d8f6db7606
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:Official tickets and information for Hot Since 82 at The Cause 
- in London from Ents24 - rated Excellent on Trustpilot.
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
-SUMMARY:Hot Since 82
-UID:187e2be8-9822-4e03-9b13-539e589b6a3c
+DTSTAMP:20240909T014921Z
+DESCRIPTION:Find tickets for John Robins with Sam Campbell at National Mari
+ time Museum in London on 9/13/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240913
+DTSTART;VALUE=DATE:20240913
+SUMMARY:John Robins, Sam Campbell
+UID:d9aafb32-1639-44cd-9192-202b70610ae7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:Find tickets for Suicide Commando showing at the The Garage - L
- ondon, GB Saturday Sep 7, 7:00PM Tickets starting at £29.75
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
-SUMMARY:Suicide Commando
-UID:1ce0039d-7da4-46e2-a9b0-9156a4caeb70
+DTSTAMP:20240909T014921Z
+DESCRIPTION:Stay tuned for the latest information on Bellator. For this sho
+ w, you’ll need to display your ticket on your phone via the OVO Arena Wem
+ bley or AXS app. Ticket purchasers will receive an email...
+DTEND;VALUE=DATE:20240914
+DTSTART;VALUE=DATE:20240914
+SUMMARY:Bellator Champions Series
+UID:7e26b51c-6bba-46b5-8220-3ad86b0e137c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:The British musical legend Engelbert Humperdinck will perform 
- ‘The Last Waltz’ Farewell Tour which will visit four prestigious venues
-  in the UK in September 2024. His is a truly illustrious career...
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
-SUMMARY:Engelbert Humperdinck
-UID:2302c74c-c56b-41ba-89b5-045811d8d5c3
+DTSTAMP:20240909T014921Z
+DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
+ ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
+ aw-aching, laugh out loud comedy that only Smith can...
+DTEND;VALUE=DATE:20241002
+DTSTART;VALUE=DATE:20241002
+SUMMARY:Paul Smith: Pablo
+UID:a1abfbe6-d159-4d16-8887-de5724767a70
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:Natasha Bedingfield at KOKO Natasha Bedingfield is a UK born si
- nger songwriter and creator who grew up in southeast London, subsequently l
- eaving university to pursue her dream in... 🗓️ Mark your...
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
-SUMMARY:Natasha Bedingfield London Tickets
-UID:df741807-4691-4589-997d-6ef6a6823427
+DTSTAMP:20240909T014921Z
+DESCRIPTION:Buy American Football tickets and sign-up for latest tour alert
+ s. Find American Football tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20240914
+DTSTART;VALUE=DATE:20240914
+SUMMARY:American Football
+UID:9e7fb1a0-1511-4189-928e-dbcf516239ab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240908T015252Z
-DESCRIPTION:Rough Trade West is very excited to present an in-store signin
- g from Rex Orange County. This unique event celebrates the release of her n
- ew album 'The Alexander Technique' released via RCA...
-DTEND;VALUE=DATE:20240908
-DTSTART;VALUE=DATE:20240908
-SUMMARY:Rex Orange County: ‘The Alexander Technique’ Signing
-UID:b7678eff-c682-458f-84b2-0834b79f11de
+DTSTAMP:20240909T014921Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:eabf69c0-a9ac-4024-af3b-7c8b30bd7df2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240909T014921Z
+DESCRIPTION:For pulsating football action, look no further than our sports 
+ pubs across London when England takes on Finland in the Nations League. Ou
+ r vibrant atmosphere, big screens, and hearty food and...
+DTEND;VALUE=DATE:20240910
+DTSTART;VALUE=DATE:20240910
+SUMMARY:England vs Finland - Nations League
+UID:f5604206-2054-46e7-b77b-fc4d6ecb3e9e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240909T014921Z
+DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
+ n on 9/20/2024 at 6:00 PM
+DTEND;VALUE=DATE:20240920
+DTSTART;VALUE=DATE:20240920
+SUMMARY:Falguni Pathak
+UID:e35fae7c-d06f-4dff-9669-494c50c47830
 END:VEVENT
 END:VCALENDAR
