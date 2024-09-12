@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
-DESCRIPTION:STARLIGHT EXPRESS GET YOUR SKATES ON THE LEGEND IS BACK Andrew 
- Lloyd Webbers STARLIGHT EXPRESS opens summer 2024 in the specially desi...
-DTEND;VALUE=DATE:20240911
-DTSTART;VALUE=DATE:20240911
-SUMMARY:Starlight Express
-UID:9bcd6406-1e75-4376-9a13-0bedd710c34b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
+DTSTAMP:20240912T014635Z
 DESCRIPTION:Find tickets for THE BOYZ at OVO Arena Wembley in London on 9/1
  5/2024 at 8:00 PM
 DTEND;VALUE=DATE:20240915
 DTSTART;VALUE=DATE:20240915
 SUMMARY:THE BOYZ
-UID:f8b5cd53-1884-4f6a-8646-fefe1edf13bc
+UID:9489344a-304b-4380-8b04-8e993d56a467
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
-DESCRIPTION:Ken Carson Wembley Arena Saturday 14th September 2024 Ken Carso
- n Chaos Tour.
-DTEND;VALUE=DATE:20240914
-DTSTART;VALUE=DATE:20240914
-SUMMARY:Ken Carson
-UID:f8c261bf-a5c4-4bca-9f51-b87e98214d53
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
+DTSTAMP:20240912T014635Z
 DESCRIPTION:STARLIGHT EXPRESS GET YOUR SKATES ON THE LEGEND IS BACK Andrew 
  Lloyd Webbers STARLIGHT EXPRESS opens summer 2024 in the specially desi...
 DTEND;VALUE=DATE:20240914
 DTSTART;VALUE=DATE:20240914
 SUMMARY:Starlight Express
-UID:33a4aac8-5b99-4ea1-8ecb-9fe6dd2f5b68
+UID:9b4ffe43-3157-4f7d-a454-cb96e2269e87
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
-DESCRIPTION:Arijit Singh - RESCHEDULED Arijit Singh, the voice transcendin
- g boundaries and connecting souls, is a living legend in the Indian music i
- ndustry. His voice is like a symphony that echoes through...
-DTEND;VALUE=DATE:20240915
-DTSTART;VALUE=DATE:20240915
-SUMMARY:Arijit Singh
-UID:1fe0d306-e2f9-4b0c-95a6-e1ac7bc86ced
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
-DESCRIPTION:Buy American Football tickets and sign-up for latest tour alert
- s. Find American Football tour dates, reviews, times and event details.
+DTSTAMP:20240912T014635Z
+DESCRIPTION:Ken Carson Wembley Arena Saturday 14th September 2024 Ken Carso
+ n Chaos Tour.
 DTEND;VALUE=DATE:20240914
 DTSTART;VALUE=DATE:20240914
-SUMMARY:American Football
-UID:c3d2d74f-83ca-48f7-b145-94615baa8347
+SUMMARY:Ken Carson
+UID:60899a6b-9307-4640-a842-fc1808a67caa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
-DESCRIPTION:Find tickets for John Robins with Sam Campbell at National Mari
- time Museum in London on 9/13/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240913
-DTSTART;VALUE=DATE:20240913
-SUMMARY:John Robins, Sam Campbell
-UID:77058eec-b51d-4128-8c09-1dcecc5552a7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
-DESCRIPTION:Find tickets for ABBA at ABBA Arena in London on 9/13/2024 at 7
- :45 PM
-DTEND;VALUE=DATE:20240913
-DTSTART;VALUE=DATE:20240913
-SUMMARY:ABBA Voyage
-UID:f334456d-a430-473c-84e0-464434fabaaf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
+DTSTAMP:20240912T014635Z
 DESCRIPTION:Stay tuned for the latest information on Bellator. For this sho
  w, you’ll need to display your ticket on your phone via the OVO Arena Wem
  bley or AXS app. Ticket purchasers will receive an email...
 DTEND;VALUE=DATE:20240914
 DTSTART;VALUE=DATE:20240914
 SUMMARY:Bellator Champions Series
-UID:c281219b-8dc5-416c-8792-de0200e13803
+UID:ce78da97-cffe-4685-bdd0-23254ac71754
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240911T014619Z
+DTSTAMP:20240912T014635Z
+DESCRIPTION:Find tickets for John Robins with Sam Campbell at National Mari
+ time Museum in London on 9/13/2024 at 7:30 PM
+DTEND;VALUE=DATE:20240913
+DTSTART;VALUE=DATE:20240913
+SUMMARY:John Robins, Sam Campbell
+UID:35e58900-f931-4054-8682-be69f074d196
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240912T014635Z
+DESCRIPTION:Arijit Singh - RESCHEDULED Arijit Singh, the voice transcendin
+ g boundaries and connecting souls, is a living legend in the Indian music i
+ ndustry. His voice is like a symphony that echoes through...
+DTEND;VALUE=DATE:20240915
+DTSTART;VALUE=DATE:20240915
+SUMMARY:Arjit Singh
+UID:11ecf668-4e0a-4481-a458-dd84ec1a379b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240912T014635Z
+DESCRIPTION:Buy American Football tickets and sign-up for latest tour alert
+ s. Find American Football tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20240914
+DTSTART;VALUE=DATE:20240914
+SUMMARY:American Football
+UID:b1590e2d-89db-4b31-8e64-7f6ff5b7ed8a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240912T014635Z
+DESCRIPTION:Find tickets for ABBA at ABBA Arena in London on 9/13/2024 at 7
+ :45 PM
+DTEND;VALUE=DATE:20240913
+DTSTART;VALUE=DATE:20240913
+SUMMARY:ABBA Voyage
+UID:6408b5e7-f067-4b1b-bd34-7aa56d6f9713
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240912T014635Z
 DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
  ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
  aw-aching, laugh out loud comedy that only Smith can...
 DTEND;VALUE=DATE:20241002
 DTSTART;VALUE=DATE:20241002
 SUMMARY:Paul Smith - Pablo
-UID:aa554eda-ca79-4fc5-98cd-9511d605a674
+UID:ded9bfa6-5059-44bb-a965-36010dd40499
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240912T014635Z
+DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
+ n on 9/20/2024 at 6:00 PM
+DTEND;VALUE=DATE:20240920
+DTSTART;VALUE=DATE:20240920
+SUMMARY:Falguni Pathak
+UID:fab2bcfa-bad9-4708-969c-fb60ceae08de
 END:VEVENT
 END:VCALENDAR
