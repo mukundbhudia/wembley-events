@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
+DTSTAMP:20240915T015654Z
 DESCRIPTION:Join us for THE KIDS' TABLE at BOXPARK Wembley on Sunday, 15th 
  Sep 2024. Discover local talent and enjoy live entertainment. Book your tab
  le now!
 DTEND;VALUE=DATE:20240915
 DTSTART;VALUE=DATE:20240915
 SUMMARY:THE KIDS' TABLE
-UID:365d2dab-873e-4678-8b77-67f4178e28b4
+UID:6fb28ca5-0e3b-47d1-87d6-45c799e252ce
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
+DTSTAMP:20240915T015654Z
+DESCRIPTION:Join us for a spectacular concert featuring Turkish stars inclu
+ ding Ajda Pekkan, Gulsen, Eylem and Serel with the Pakistani band AUR at th
+ e iconic OVO Wembley Arena. Miraj Promotions presents a...
+DTEND;VALUE=DATE:20240915
+DTSTART;VALUE=DATE:20240915
+SUMMARY:Turkish&Pakistani Stars Live at OVO Arena Wembley
+UID:13b7afb4-0f03-490c-803f-9a295d484189
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240915T015654Z
 DESCRIPTION:Find tickets for The Boyz at Dome de Paris - Palais des sports 
  in Paris on 9/13/2024 at 8:00 PM
 DTEND;VALUE=DATE:20240915
 DTSTART;VALUE=DATE:20240915
 SUMMARY:THE BOYZ
-UID:b53ce59a-1c3d-483f-9aba-0887a0e42479
+UID:d7c61212-d217-4b50-a759-49d7b4009994
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
-DESCRIPTION:STARLIGHT EXPRESS GET YOUR SKATES ON THE LEGEND IS BACK Andrew 
- Lloyd Webbers STARLIGHT EXPRESS opens summer 2024 in the specially desi...
-DTEND;VALUE=DATE:20240914
-DTSTART;VALUE=DATE:20240914
-SUMMARY:Starlight Express
-UID:5e8cff57-8a30-419f-b588-61fc29610e0e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
+DTSTAMP:20240915T015654Z
 DESCRIPTION:Ken Carson Wembley Arena Saturday 14th September 2024 Ken Carso
  n Chaos Tour.
-DTEND;VALUE=DATE:20240914
-DTSTART;VALUE=DATE:20240914
+DTEND;VALUE=DATE:20240915
+DTSTART;VALUE=DATE:20240915
 SUMMARY:Ken Carson
-UID:f3a01f6f-d2d6-48f9-b30c-e9954549220e
+UID:f89c9e49-1aa5-44a1-9232-b1c5ad614d66
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
-DESCRIPTION:Find tickets for John Robins at National Maritime Museum in Lon
- don on 9/13/2024 at 7:30 PM
-DTEND;VALUE=DATE:20240914
-DTSTART;VALUE=DATE:20240914
-SUMMARY:Greenwich Comedy Festival - David ODoherty
-UID:6e3e58e7-302e-457f-9360-d7aebae9f7da
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
-DESCRIPTION:Stay tuned for the latest information on Bellator. For this sho
- w, you’ll need to display your ticket on your phone via the OVO Arena Wem
- bley or AXS app. Ticket purchasers will receive an email...
-DTEND;VALUE=DATE:20240914
-DTSTART;VALUE=DATE:20240914
-SUMMARY:Bellator Champions Series
-UID:1ee5af8e-bae2-49d9-9f9b-9734c4ce1157
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
+DTSTAMP:20240915T015654Z
 DESCRIPTION:Arijit Singh - RESCHEDULED Arijit Singh, the voice transcendin
  g boundaries and connecting souls, is a living legend in the Indian music i
  ndustry. His voice is like a symphony that echoes through...
 DTEND;VALUE=DATE:20240915
 DTSTART;VALUE=DATE:20240915
 SUMMARY:Arijit Singh
-UID:f26c4cee-a275-4ca2-9812-9cff2c49c0f8
+UID:8c874b7b-772d-4cad-b73a-808fddf9e572
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
+DTSTAMP:20240915T015654Z
 DESCRIPTION:Comprised of guitarist Mike Kinsella (Cap'n Jazz, Joan of Arc, 
  Owls), guitarist Steve Holmes, and drummer Steve Lamos, American Football f
  ormed at the University of Illinois in 1997. After writing...
-DTEND;VALUE=DATE:20240914
-DTSTART;VALUE=DATE:20240914
+DTEND;VALUE=DATE:20240915
+DTSTART;VALUE=DATE:20240915
 SUMMARY:American Football
-UID:1781c17b-52e1-4a4b-8bca-3f3c061547a9
+UID:3489d0d1-27fe-4b2b-a067-9b1bc5c92829
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
+DTSTAMP:20240915T015654Z
 DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
  ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
  aw-aching, laugh out loud comedy that only Smith can...
 DTEND;VALUE=DATE:20241002
 DTSTART;VALUE=DATE:20241002
 SUMMARY:Paul Smith: Pablo
-UID:0b375f27-6696-4388-a078-30bb0b2b88aa
+UID:6b1825e2-14ec-4080-b5ed-08031d8af272
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240914T014539Z
+DTSTAMP:20240915T015654Z
 DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
  n on 11/15/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:6d1a2cd4-d826-419c-a4eb-f7c3bfa7a24b
+UID:99e9ce6a-6c03-4b3a-84a1-29fff97c5022
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240915T015654Z
+DESCRIPTION:Find tickets for Falguni Pathak at OVO Arena, Wembley in Londo
+ n on 9/20/2024 at 6:00 PM
+DTEND;VALUE=DATE:20240920
+DTSTART;VALUE=DATE:20240920
+SUMMARY:Falguni Pathak
+UID:e711a7cc-bb10-4c36-a43c-a7fa1a214d0e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240915T015654Z
+DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
+ , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
+ oth her parents were well versed in classical music. She is...
+DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20240126
+SUMMARY:Anuradha Paudwal
+UID:d92bf00d-6030-41bf-be39-2652597df178
 END:VEVENT
 END:VCALENDAR
