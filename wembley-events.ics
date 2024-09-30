@@ -3,96 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
-DTEND;VALUE=DATE:20240929
-DTSTART;VALUE=DATE:20240929
-SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
- 0yr olds
-UID:7fa58432-20a1-467f-bb2a-c6b7eaae1849
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
+DTSTAMP:20240930T015525Z
 DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
  ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
  aw-aching, laugh out loud comedy that only Smith can...
 DTEND;VALUE=DATE:20241002
 DTSTART;VALUE=DATE:20241002
-SUMMARY:Paul Smith: Pablo
-UID:8ad77cf8-72d2-4a36-a1ff-7e7bc3978fc8
+SUMMARY:Paul Smith
+UID:b783fbf8-b2cd-4ec9-8f2e-3da4c76f817b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
-DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
- n on 11/15/2024 at 6:30 PM
-DTEND;VALUE=DATE:20241115
-DTSTART;VALUE=DATE:20241115
-SUMMARY:Ezra Collective
-UID:794fcc8a-037d-4f6e-863c-e43981fd1dac
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
-DESCRIPTION:Doors 18:00 Start 19:00 Anuradha Paudwal is an Indian playback 
- singer and politician who works predominantly in Hindi cinema. She has bee
- n described in media as one of the most prominent Bhajan...
-DTEND;VALUE=DATE:20240126
-DTSTART;VALUE=DATE:20240126
-SUMMARY:Anuradha Paudwal
-UID:99555307-4860-4e96-9db5-d9c3e0511a79
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
+DTSTAMP:20240930T015525Z
 DESCRIPTION:Find tickets for Vance Joy with Hollow Coves at OVO Arena Wembl
  ey in London on 10/1/2024 at 7:30 PM
 DTEND;VALUE=DATE:20241001
 DTSTART;VALUE=DATE:20241001
 SUMMARY:Vance Joy
-UID:96b70208-7879-4051-becd-0d4d5fdde0da
+UID:b600e690-4abb-4564-b99a-cf9f036c4159
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
+DTSTAMP:20240930T015525Z
 DESCRIPTION:Don't miss KPOP sensation B.I's London show on 4 Oct 2024! The 
  former iKON leader will light up the stage with his electrifying performanc
  e at the OVO Arena Wembley. Fans are in for a treat as B.I...
 DTEND;VALUE=DATE:20241004
 DTSTART;VALUE=DATE:20241004
 SUMMARY:B.I - VIP Packages
-UID:d3756a7c-aa5d-4fcd-9c1c-d3c815c7553c
+UID:d670ffcc-613c-40ce-a2a5-518c282cd8d6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
+DTSTAMP:20240930T015525Z
+DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
+ ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
+ aw-aching, laugh out loud comedy that only Smith can...
+DTEND;VALUE=DATE:20241003
+DTSTART;VALUE=DATE:20241003
+SUMMARY:Paul Smith - SOLD OUT
+UID:d1ac61c9-ba1a-4308-b07b-ffeca16316c0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240930T015525Z
+DESCRIPTION:BBC Studios and FKP Scorpio UK are delighted to announce that P
+ lanet Earth III Live in Concert is set to thrill UK audiences with three sp
+ ecial performances at London Wembley OVO Arena and...
+DTEND;VALUE=DATE:20241005
+DTSTART;VALUE=DATE:20241005
+SUMMARY:BBC Planet Earth III
+UID:f442513f-f0e2-4e46-9562-2e57d956e80e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240930T015525Z
+DESCRIPTION:If you weren’t quite wowed enough by Planet Earth when it was
+  on TV, buckle up. This series of special performances, where footage from 
+ the award-winning series is accompanied by a dazzling...
+DTEND;VALUE=DATE:20241006
+DTSTART;VALUE=DATE:20241006
+SUMMARY:Planet Earth III Live in Concert | Ovo Arena Wembley | Things to d
+ o in London
+UID:499fe98b-1f9d-4794-90e9-199c917c9ed9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240930T015525Z
+DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
+ n on 11/15/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241115
+DTSTART;VALUE=DATE:20241115
+SUMMARY:Ezra Collective
+UID:788ef8b9-c695-4ccd-97aa-c2e3ad9560ec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240930T015525Z
+DESCRIPTION:Doors 18:00 Start 19:00 Anuradha Paudwal is an Indian playback 
+ singer and politician who works predominantly in Hindi cinema. She has bee
+ n described in media as one of the most prominent Bhajan...
+DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20240126
+SUMMARY:Anuradha Paudwal
+UID:1e2a5fa1-aef7-4d26-b5f0-a9cd3fdb8e61
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240930T015525Z
 DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20241024
 DTSTART;VALUE=DATE:20241024
 SUMMARY:Becky Hill London
-UID:cac63c8e-147a-4b00-bf8f-158ffc63c2f0
+UID:081882d0-61b9-4749-866b-ce71a0462ddf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
-DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Cassian, Olympe an
- d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
-DTEND;VALUE=DATE:20241025
-DTSTART;VALUE=DATE:20241025
-SUMMARY:Adriatique present X Halloween
-UID:32713889-bf71-41ae-94f9-ff778cf17776
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
-DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
- a Wembley in London on 11/22/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241122
-DTSTART;VALUE=DATE:20241122
-SUMMARY:Boris Brejcha
-UID:7386ada4-0cb4-4330-b6ab-988ef277d620
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240929T015900Z
+DTSTAMP:20240930T015525Z
 DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
  ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
 DTEND;VALUE=DATE:20241117
 DTSTART;VALUE=DATE:20241117
-SUMMARY:Legends of Legends
-UID:d8a16d89-7726-4eea-8545-7000526774dc
+SUMMARY:Bounty Killer
+UID:0db940da-f370-4946-9c6b-4f63f6775ab3
 END:VEVENT
 END:VCALENDAR
