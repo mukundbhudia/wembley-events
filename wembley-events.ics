@@ -3,101 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
-DESCRIPTION:Find tickets for Vance Joy with Hollow Coves at OVO Arena Wembl
- ey in London on 10/1/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241001
-DTSTART;VALUE=DATE:20241001
-SUMMARY:Vance Joy
-UID:5c7c3eb2-da8d-4f1a-8bf7-1e96edca37c2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
-DESCRIPTION:Don't miss KPOP sensation B.I's London show on 4 Oct 2024! The 
- former iKON leader will light up the stage with his electrifying performanc
- e at the OVO Arena Wembley. Fans are in for a treat as B.I...
-DTEND;VALUE=DATE:20241004
-DTSTART;VALUE=DATE:20241004
-SUMMARY:B.I - VIP Packages
-UID:6ff8a78f-02d0-4885-bf44-e9068d0f74c5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
-DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
- ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
- aw-aching, laugh out loud comedy that only Smith can...
-DTEND;VALUE=DATE:20241003
-DTSTART;VALUE=DATE:20241003
-SUMMARY:Paul Smith - SOLD OUT
-UID:85331bc8-b4e0-4ed5-80b6-114a7c5d4f09
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
-DESCRIPTION:BBC Studios and FKP Scorpio UK are delighted to announce that P
- lanet Earth III Live in Concert is set to thrill UK audiences with three sp
- ecial performances at London Wembley OVO Arena and...
-DTEND;VALUE=DATE:20241005
-DTSTART;VALUE=DATE:20241005
-SUMMARY:BBC Planet Earth III
-UID:0c327e75-1af7-4eaa-8e3f-9074e38764f3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
-DESCRIPTION:If you weren’t quite wowed enough by Planet Earth when it was
-  on TV, buckle up. This series of special performances, where footage from 
- the award-winning series is accompanied by a dazzling...
-DTEND;VALUE=DATE:20241006
-DTSTART;VALUE=DATE:20241006
-SUMMARY:Planet Earth III Live in Concert | Ovo Arena Wembley | Things to d
- o in London
-UID:c12dcdb7-a269-44bc-836c-bb43fb60ddd9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
+DTSTAMP:20241002T015137Z
 DESCRIPTION:Attention all comedy fans! Paul Smith is back and better than e
  ver with his latest 24/25 tour show, "Pablo". Get ready to experience the j
  aw-aching, laugh out loud comedy that only Smith can...
 DTEND;VALUE=DATE:20241002
 DTSTART;VALUE=DATE:20241002
 SUMMARY:Paul Smith
-UID:8e9bd52f-bf55-4763-a798-f0ecc0ca7e96
+UID:d9161a99-ac75-4e64-a08b-1c14b213dce9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
-DESCRIPTION:Find tickets for PARTYNEXTDOOR at Eventim Apollo in London on 1
- 0/3/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241003
-DTSTART;VALUE=DATE:20241003
-SUMMARY:PARTYNEXTDOOR
-UID:282ba5fe-eeb0-4084-a7c2-b2b5cec2806e
+DTSTAMP:20241002T015137Z
+DESCRIPTION:Don't miss KPOP sensation B.I's London show on 4 Oct 2024! The 
+ former iKON leader will light up the stage with his electrifying performanc
+ e at the OVO Arena Wembley. Fans are in for a treat as B.I...
+DTEND;VALUE=DATE:20241004
+DTSTART;VALUE=DATE:20241004
+SUMMARY:B.I - VIP Packages
+UID:d8a34c9e-f2ba-40ca-8386-421616f4c088
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
-DESCRIPTION:Find tickets for PARTYNEXTDOOR at Eventim Apollo in London on 1
- 0/5/2024 at 7:00 PM
+DTSTAMP:20241002T015137Z
+DESCRIPTION:BBC Studios and FKP Scorpio UK are delighted to announce that P
+ lanet Earth III Live in Concert is set to thrill UK audiences with three sp
+ ecial performances at London Wembley OVO Arena and...
 DTEND;VALUE=DATE:20241005
 DTSTART;VALUE=DATE:20241005
-SUMMARY:PARTYNEXTDOOR
-UID:38660309-99bf-4010-829e-b5f2054982b0
+SUMMARY:BBC Planet Earth III
+UID:b1da49c0-6202-48f6-a531-6cd1cced073b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
-DESCRIPTION:Born in Alexandria in 1995, Marwan Pablo kickstarted his caree
- r at the young age of 23 in 2018. With his debut single release as Marwan P
- ablo, he brought a unique blend of Hip-Hop, Rap, and...
-DTEND;VALUE=DATE:20241002
-DTSTART;VALUE=DATE:20241002
-SUMMARY:Marwan Pablo
-UID:7dd393a6-477f-4e2e-b50d-24672fc2a971
+DTSTAMP:20241002T015137Z
+DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
+ n on 11/15/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241115
+DTSTART;VALUE=DATE:20241115
+SUMMARY:Ezra Collective
+UID:282144e7-5cd4-47f8-aeec-a04c8caa864f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241001T020112Z
-DESCRIPTION:GRAMMY nominated singer and ex-lead vocalist of Queensrÿche, G
- eoff Tate, is taking his crafted lyrics and high energy music out on his 
- ‘Greatest Hits Tour’.
-DTEND;VALUE=DATE:20241003
-DTSTART;VALUE=DATE:20241003
-SUMMARY:Geoff Tate
-UID:fa78a674-198f-4260-bb76-23561a4b511f
+DTSTAMP:20241002T015137Z
+DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
+ , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
+ oth her parents were well versed in classical music. She is...
+DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20240126
+SUMMARY:Alka Yagnik
+UID:7be462f9-c9eb-41fa-a16a-98693c00a614
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241002T015137Z
+DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Cassian, Olympe an
+ d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
+DTEND;VALUE=DATE:20241025
+DTSTART;VALUE=DATE:20241025
+SUMMARY:WhoMadeWho
+UID:d63217b6-e102-4fa4-a433-2dd66d5737a3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241002T015137Z
+DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
+ ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
+DTEND;VALUE=DATE:20241117
+DTSTART;VALUE=DATE:20241117
+SUMMARY:Bounty Killer
+UID:aa002e59-6895-4f50-8784-7ac51f7db289
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241002T015137Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:9206df4e-2d0e-48f5-9c74-fb4d4243f839
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241002T015137Z
+DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
+ a Wembley in London on 11/22/2024 at 7:00 PM
+DTEND;VALUE=DATE:20241122
+DTSTART;VALUE=DATE:20241122
+SUMMARY:Moritz Hofbauer
+UID:a57ed9d6-587c-47e3-a4b0-e92058e7c141
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241002T015137Z
+DESCRIPTION:On October 6th, Dennis van Aarssen will finally debut in the UK
+ . In an intimate setting, accompanied by a pianist and a bass player, the D
+ utch crooner will perform original songs and familiar...
+DTEND;VALUE=DATE:20241006
+DTSTART;VALUE=DATE:20241006
+SUMMARY:Dennis van Aarssen
+UID:90084b9b-e647-4a1b-8654-0b8892d620e5
 END:VEVENT
 END:VCALENDAR
