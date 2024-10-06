@@ -3,97 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
+DTSTAMP:20241006T015829Z
+DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opens summer 2024 in 
+ the specially designed Starlight Auditorium at Troubadour Wembley Park Thea
+ tre. Audiences will be immersed inside a world of speed...
 DTEND;VALUE=DATE:20241006
 DTSTART;VALUE=DATE:20241006
-SUMMARY:THE KIDS' TABLE
-UID:74169db8-ba93-4ca7-b956-59e7b5258771
+SUMMARY:Starlight Express
+UID:d6e0070a-f479-48d0-aaa2-a5e677fdc041
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
-DESCRIPTION:BBC Studios and FKP Scorpio UK are delighted to announce that P
- lanet Earth III Live in Concert is set to thrill UK audiences with three sp
- ecial performances at London Wembley OVO Arena and...
-DTEND;VALUE=DATE:20241005
-DTSTART;VALUE=DATE:20241005
-SUMMARY:BBC Planet Earth III
-UID:fbfabbd3-c2bd-4c47-a0b8-e26a21d90794
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
+DTSTAMP:20241006T015829Z
 DESCRIPTION:LDNRBS BRING SOME OF THE UK'S BEST MUSICAL TALENT TO BEATBOX! I
  MPORTANT INFO: Dress code: No tracksuits, hoods. Smart/casual attire is pre
  ferred. This event is 18+. We operate challenge 25...
 DTEND;VALUE=DATE:20241009
 DTSTART;VALUE=DATE:20241009
 SUMMARY:LDNRBS Live 9 Oct
-UID:ca4c9b8b-33f3-4d7e-a665-f122793eb626
+UID:f95de7f3-20b1-4117-902a-0dd6dd345be6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
+DTSTAMP:20241006T015829Z
+DESCRIPTION:Find tickets for City of Prague Philharmonic Orchestra at OVO A
+ rena Wembley in London on 10/5/2024 at 3:30 PM
+DTEND;VALUE=DATE:20241006
+DTSTART;VALUE=DATE:20241006
+SUMMARY:City of Prague Philharmonic Orchestra @ OVO Arena Wembley
+UID:adf125cc-3483-4ae5-bd79-a52e3bc3903e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241006T015829Z
 DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
  n on 11/15/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:3a1bf57b-4e24-4de6-a6fd-9d9b05090ce1
+UID:05a94e0f-7826-4805-a6f3-4389d28f6cf5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
-DESCRIPTION:Find tickets for City of Prague Philharmonic Orchestra at OVO A
- rena Wembley in London on 10/5/2024 at 3:30 PM
-DTEND;VALUE=DATE:20241005
-DTSTART;VALUE=DATE:20241005
-SUMMARY:City of Prague Philharmonic Orchestra @ OVO Arena Wembley
-UID:c5daf446-679e-4c82-8ce1-f0e3f1db69fa
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
-DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
- , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
- oth her parents were well versed in classical music. She is...
-DTEND;VALUE=DATE:20240126
-DTSTART;VALUE=DATE:20240126
-SUMMARY:Alka Yagnik
-UID:42812570-5ef1-40d2-939c-45260f514edf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
-DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
- a Wembley in London on 11/22/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241122
-DTSTART;VALUE=DATE:20241122
-SUMMARY:Boris Brejcha
-UID:ae7b27ec-0593-418e-87e8-2ea3049f134b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
-DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
- ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
-DTEND;VALUE=DATE:20241117
-DTSTART;VALUE=DATE:20241117
-SUMMARY:Bounty Killer
-UID:7494e91f-5e1c-41b3-9bb5-71df71420a1d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
-DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Cassian, Olympe an
- d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
-DTEND;VALUE=DATE:20241025
-DTSTART;VALUE=DATE:20241025
-SUMMARY:Adriatique present X Halloween
-UID:d166f2e6-2832-440a-99a8-7f70832572aa
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241005T015024Z
+DTSTAMP:20241006T015829Z
 DESCRIPTION:On October 6th, Dennis van Aarssen will finally debut in the UK
  . In an intimate setting, accompanied by a pianist and a bass player, the D
  utch crooner will perform original songs and familiar...
 DTEND;VALUE=DATE:20241006
 DTSTART;VALUE=DATE:20241006
 SUMMARY:Dennis van Aarssen
-UID:446d892c-339e-400f-b360-b92c941d0fd7
+UID:54cc7a17-ecd8-4f0a-8958-26045c79ee22
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241006T015829Z
+DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
+ , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
+ oth her parents were well versed in classical music. She is...
+DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20240126
+SUMMARY:Alka Yagnik
+UID:d07ca127-3dd2-4270-bc38-d747d1e7c08a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241006T015829Z
+DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
+ a Wembley in London on 11/22/2024 at 7:00 PM
+DTEND;VALUE=DATE:20241122
+DTSTART;VALUE=DATE:20241122
+SUMMARY:Boris Brejcha
+UID:3fab0260-f0c6-4dfb-a77a-6c39a3486a5f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241006T015829Z
+DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Cassian, Olympe an
+ d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
+DTEND;VALUE=DATE:20241025
+DTSTART;VALUE=DATE:20241025
+SUMMARY:WhoMadeWho
+UID:24aefc07-74d5-403a-8701-9bdaea46d9f4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241006T015829Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:b4457549-c0f8-49fd-9be2-68201392c312
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241006T015829Z
+DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
+ ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
+DTEND;VALUE=DATE:20241117
+DTSTART;VALUE=DATE:20241117
+SUMMARY:Bounty Killer
+UID:57b3fe73-3b1c-4c8c-a9aa-5abf9684d047
 END:VEVENT
 END:VCALENDAR
