@@ -3,96 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
-DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opens summer 2024 in 
- the specially designed Starlight Auditorium at Troubadour Wembley Park Thea
- tre. Audiences will be immersed inside a world of speed...
-DTEND;VALUE=DATE:20241006
-DTSTART;VALUE=DATE:20241006
-SUMMARY:Starlight Express
-UID:d6e0070a-f479-48d0-aaa2-a5e677fdc041
+DTSTAMP:20241007T015513Z
+DESCRIPTION:Find tickets for ONE OK ROCK at OVO Arena Wembley in London on 
+ 10/11/2024 at 4:00 PM
+DTEND;VALUE=DATE:20241011
+DTSTART;VALUE=DATE:20241011
+SUMMARY:ONE OK ROCK
+UID:81f6847a-ceef-4f45-9b46-221d363c6610
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
+DTSTAMP:20241007T015513Z
+DESCRIPTION:Find tickets for The Composers at OVO Arena Wembley in London o
+ n 10/12/2024 at 6:00 PM
+DTEND;VALUE=DATE:20241012
+DTSTART;VALUE=DATE:20241012
+SUMMARY:The Compozers
+UID:1c403467-7ada-4bcc-a655-28a03a45f3a8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241007T015513Z
+DESCRIPTION:Come and see the finest selection of comedians on the circuit t
+ oday at Saturday Night Comedy hosted at Up The Creek Comedy Club. Once the 
+ comedy’s finished, we have the after party until 2am!
+DTEND;VALUE=DATE:20241012
+DTSTART;VALUE=DATE:20241012
+SUMMARY:Saturday Night Comedy
+UID:3d7a566a-3d23-4916-bca4-411fa4c5f2ab
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241007T015513Z
+DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
+ s. Find Starlight Express tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20241010
+DTSTART;VALUE=DATE:20241010
+SUMMARY:Starlight Express
+UID:c1274e8d-9e98-4285-a69a-a61465da6ccb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241007T015513Z
+DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
+ s. Find Starlight Express tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20241013
+DTSTART;VALUE=DATE:20241013
+SUMMARY:Starlight Express
+UID:a1ae8242-f454-47c3-8a32-ae3b7a23a598
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241007T015513Z
+DESCRIPTION:Watch the electrifying action of England taking on Greece in th
+ e Nations League at our sports pubs across London. With giant screens, surr
+ ound sound, and a buzzing atmosphere, our pubs are the...
+DTEND;VALUE=DATE:20241010
+DTSTART;VALUE=DATE:20241010
+SUMMARY:England vs Greece - Nations League
+UID:51bd0382-3229-44c3-a678-e4367b5fb044
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241007T015513Z
+DESCRIPTION:Bronx-born, multi-platinum recording artist Lil Tjay has announ
+ ced that he will be bringing ‘The Past 2 Present Tour’ to London’s Th
+ e O2 on Saturday 12 October 2024. ‘The Past 2 Present Tour’ will...
+DTEND;VALUE=DATE:20241012
+DTSTART;VALUE=DATE:20241012
+SUMMARY:RealestK
+UID:479c66df-94ed-49a2-a050-ba3bbd918c3f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241007T015513Z
+DESCRIPTION:Find tickets for Imminence with Aviana and Allt at Electric Bal
+ lroom in London on 10/10/2024 at 7:00 PM
+DTEND;VALUE=DATE:20241010
+DTSTART;VALUE=DATE:20241010
+SUMMARY:Allt
+UID:e057ec84-05ce-4cda-a91a-12bb8c055e28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241007T015513Z
+DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
+ n on 11/15/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241115
+DTSTART;VALUE=DATE:20241115
+SUMMARY:Ezra Collective
+UID:6777886a-a3f9-4da7-a5ba-a1b40c709eb2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241007T015513Z
 DESCRIPTION:LDNRBS BRING SOME OF THE UK'S BEST MUSICAL TALENT TO BEATBOX! I
  MPORTANT INFO: Dress code: No tracksuits, hoods. Smart/casual attire is pre
  ferred. This event is 18+. We operate challenge 25...
 DTEND;VALUE=DATE:20241009
 DTSTART;VALUE=DATE:20241009
 SUMMARY:LDNRBS Live 9 Oct
-UID:f95de7f3-20b1-4117-902a-0dd6dd345be6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
-DESCRIPTION:Find tickets for City of Prague Philharmonic Orchestra at OVO A
- rena Wembley in London on 10/5/2024 at 3:30 PM
-DTEND;VALUE=DATE:20241006
-DTSTART;VALUE=DATE:20241006
-SUMMARY:City of Prague Philharmonic Orchestra @ OVO Arena Wembley
-UID:adf125cc-3483-4ae5-bd79-a52e3bc3903e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
-DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
- n on 11/15/2024 at 6:30 PM
-DTEND;VALUE=DATE:20241115
-DTSTART;VALUE=DATE:20241115
-SUMMARY:Ezra Collective
-UID:05a94e0f-7826-4805-a6f3-4389d28f6cf5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
-DESCRIPTION:On October 6th, Dennis van Aarssen will finally debut in the UK
- . In an intimate setting, accompanied by a pianist and a bass player, the D
- utch crooner will perform original songs and familiar...
-DTEND;VALUE=DATE:20241006
-DTSTART;VALUE=DATE:20241006
-SUMMARY:Dennis van Aarssen
-UID:54cc7a17-ecd8-4f0a-8958-26045c79ee22
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
-DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
- , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
- oth her parents were well versed in classical music. She is...
-DTEND;VALUE=DATE:20240126
-DTSTART;VALUE=DATE:20240126
-SUMMARY:Alka Yagnik
-UID:d07ca127-3dd2-4270-bc38-d747d1e7c08a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
-DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
- a Wembley in London on 11/22/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241122
-DTSTART;VALUE=DATE:20241122
-SUMMARY:Boris Brejcha
-UID:3fab0260-f0c6-4dfb-a77a-6c39a3486a5f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
-DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Cassian, Olympe an
- d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
-DTEND;VALUE=DATE:20241025
-DTSTART;VALUE=DATE:20241025
-SUMMARY:WhoMadeWho
-UID:24aefc07-74d5-403a-8701-9bdaea46d9f4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
-DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20241024
-DTSTART;VALUE=DATE:20241024
-SUMMARY:Becky Hill
-UID:b4457549-c0f8-49fd-9be2-68201392c312
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241006T015829Z
-DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
- ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
-DTEND;VALUE=DATE:20241117
-DTSTART;VALUE=DATE:20241117
-SUMMARY:Bounty Killer
-UID:57b3fe73-3b1c-4c8c-a9aa-5abf9684d047
+UID:d3af0396-4a4d-4287-b858-0d89d62119b0
 END:VEVENT
 END:VCALENDAR
