@@ -3,97 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
+DTSTAMP:20241009T015112Z
 DESCRIPTION:Find tickets for ONE OK ROCK at OVO Arena Wembley in London on 
  10/11/2024 at 4:00 PM
 DTEND;VALUE=DATE:20241011
 DTSTART;VALUE=DATE:20241011
 SUMMARY:ONE OK ROCK
-UID:fa60cc81-93e7-476b-bdf3-e8d1aecac784
+UID:a0de0647-8e49-4a65-ac79-c0573082f6f3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
+DTSTAMP:20241009T015112Z
 DESCRIPTION:Find tickets for The Composers at OVO Arena Wembley in London o
  n 10/12/2024 at 6:00 PM
 DTEND;VALUE=DATE:20241012
 DTSTART;VALUE=DATE:20241012
 SUMMARY:The Compozers
-UID:0c49336c-2379-49a0-a24e-15384d4a6da2
+UID:86bb0ac9-b351-47ad-865b-cdfe748be9fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
+DTSTAMP:20241009T015112Z
 DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
  s. Find Starlight Express tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20241010
 DTSTART;VALUE=DATE:20241010
 SUMMARY:Starlight Express
-UID:6436fb14-c4b7-4ec4-8b0f-8e89f270c365
+UID:1b450af2-87b6-4fc4-aa38-c050b9f15c36
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
+DTSTAMP:20241009T015112Z
 DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
  s. Find Starlight Express tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20241013
 DTSTART;VALUE=DATE:20241013
 SUMMARY:Starlight Express
-UID:3bd68ddc-661b-4305-9791-136ca941b74a
+UID:b3bedb97-22a8-46ac-8f76-527586c16db2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
-DESCRIPTION:Watch the electrifying action of England taking on Greece in th
- e Nations League at our sports pubs across London. With giant screens, surr
- ound sound, and a buzzing atmosphere, our pubs are the...
-DTEND;VALUE=DATE:20241010
-DTSTART;VALUE=DATE:20241010
-SUMMARY:England vs Greece - Nations League
-UID:de31ba47-b580-453e-8da9-3ba32fe36ae5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
-DESCRIPTION:Find tickets for Imminence with Aviana and Allt at Electric Bal
- lroom in London on 10/10/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241010
-DTSTART;VALUE=DATE:20241010
-SUMMARY:Imminence
-UID:13680364-6ebf-45d1-a1ff-2c5ca921a72b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
-DESCRIPTION:Bronx-born, multi-platinum recording artist Lil Tjay has announ
- ced that he will be bringing ‘The Past 2 Present Tour’ to London’s Th
- e O2 on Saturday 12 October 2024. ‘The Past 2 Present Tour’ will...
-DTEND;VALUE=DATE:20241012
-DTSTART;VALUE=DATE:20241012
-SUMMARY:RealestK
-UID:05622c5a-a0ed-4ae9-9cef-b8b2d98f6e92
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
+DTSTAMP:20241009T015112Z
 DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
  , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
  oth her parents were well versed in classical music. She is...
 DTEND;VALUE=DATE:20240126
 DTSTART;VALUE=DATE:20240126
 SUMMARY:Anuradha Paudwal
-UID:af700d96-0b39-42b5-a3ab-3fad3dff238d
+UID:a317b73e-aafa-43e0-b5ee-6f7ab9eb1355
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
+DTSTAMP:20241009T015112Z
+DESCRIPTION:Find tickets for Imminence with Aviana and Allt at Electric Bal
+ lroom in London on 10/10/2024 at 7:00 PM
+DTEND;VALUE=DATE:20241010
+DTSTART;VALUE=DATE:20241010
+SUMMARY:Imminence
+UID:9061d4e8-8cb2-4164-97cc-6883b47956c8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241009T015112Z
+DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
+ s. Find Starlight Express tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20241011
+DTSTART;VALUE=DATE:20241011
+SUMMARY:Starlight Express
+UID:128321bb-979d-4b8b-8c97-28933aab7084
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241009T015112Z
+DESCRIPTION:Bronx-born, multi-platinum recording artist Lil Tjay has announ
+ ced that he will be bringing ‘The Past 2 Present Tour’ to London’s Th
+ e O2 on Saturday 12 October 2024. ‘The Past 2 Present Tour’ will...
+DTEND;VALUE=DATE:20241012
+DTSTART;VALUE=DATE:20241012
+SUMMARY:RealestK
+UID:c3872ac7-1a5b-48b2-af10-cd38a875da24
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241009T015112Z
 DESCRIPTION:Find tickets for Ezra Collective at OVO Arena Wembley in Londo
  n on 11/15/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:1cb1580e-7c7d-428d-ab9f-5622b3ffab28
+UID:fa3c26d0-6d3d-4729-986a-dc8766931aac
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241008T015221Z
-DESCRIPTION:LDNRBS BRING SOME OF THE UK'S BEST MUSICAL TALENT TO BEATBOX! I
- MPORTANT INFO: Dress code: No tracksuits, hoods. Smart/casual attire is pre
- ferred. This event is 18+. We operate challenge 25...
-DTEND;VALUE=DATE:20241009
-DTSTART;VALUE=DATE:20241009
-SUMMARY:LDNRBS Live 9 Oct
-UID:50bf22be-99e3-4a46-83f8-c6a420aaa1cd
+DTSTAMP:20241009T015112Z
+DESCRIPTION:Find tickets for Adriatique with Cassian, WhoMadeWho, Olympe an
+ d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
+DTEND;VALUE=DATE:20241025
+DTSTART;VALUE=DATE:20241025
+SUMMARY:WhoMadeWho
+UID:c3ffeabd-4c3f-4c76-848f-e8aea1e397e3
 END:VEVENT
 END:VCALENDAR
