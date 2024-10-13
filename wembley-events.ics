@@ -3,96 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
+DTSTAMP:20241013T015804Z
 DESCRIPTION:VIP Week is coming for One Wembley Park members only! From the 
  5th-13th October, take advantage of a whole host of exclusive offers acros
  s the week in stores, cafés and\n
-DTEND;VALUE=DATE:20241012
-DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241013
+DTSTART;VALUE=DATE:20241013
 SUMMARY:One Wembley Park – VIP Week
-UID:9b3a6daf-89b2-4701-b0be-075587769c05
+UID:843f1d14-6126-436f-924f-56375d36d179
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
-DESCRIPTION:Find tickets for The Composers at OVO Arena Wembley in London o
- n 10/12/2024 at 6:00 PM
-DTEND;VALUE=DATE:20241012
-DTSTART;VALUE=DATE:20241012
-SUMMARY:The Compozers
-UID:30291194-a74e-48c6-9ff2-3e385c30a1e1
+DTSTAMP:20241013T015804Z
+DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
+ venue customers
+DTEND;VALUE=DATE:20241013
+DTSTART;VALUE=DATE:20241013
+SUMMARY:THE KIDS' TABLE
+UID:c29b9e0d-2c9c-4b5c-be4a-8d1d9af5270e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
+DTSTAMP:20241013T015804Z
 DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
  s. Find Starlight Express tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20241013
 DTSTART;VALUE=DATE:20241013
 SUMMARY:Starlight Express
-UID:31ff4e6d-c79f-49fe-9d61-0aac0aa3ee18
+UID:68087e04-a968-476e-9b67-51da9ae6e102
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
-DESCRIPTION:Bronx-born, multi-platinum recording artist Lil Tjay has announ
- ced that he will be bringing ‘The Past 2 Present Tour’ to London’s Th
- e O2 on Saturday 12 October 2024. ‘The Past 2 Present Tour’ will...
-DTEND;VALUE=DATE:20241012
-DTSTART;VALUE=DATE:20241012
-SUMMARY:LIL TJAY
-UID:80292ba0-804a-44b5-8f29-a343561a9165
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
+DTSTAMP:20241013T015804Z
 DESCRIPTION:Before the pandemic struck, Ezra Collective were on fire. A wor
  ld tour awaited them following years of hard graft, the critically acclaime
  d release of their 2019 debut album You Can’t Steal My...
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:86089fc2-5cbf-4785-8bc1-553b03fee10a
+UID:bb8b9801-a297-49e2-98dd-791ca07c5032
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
-DESCRIPTION:Come and see the finest selection of comedians on the circuit t
- oday at Saturday Night Comedy hosted at Up The Creek Comedy Club. Once the 
- comedy’s finished, we have the after party until 2am!
-DTEND;VALUE=DATE:20241012
-DTSTART;VALUE=DATE:20241012
-SUMMARY:Saturday Night Comedy
-UID:1a8ac735-07bc-4189-bb11-20cbd456c33b
+DTSTAMP:20241013T015804Z
+DESCRIPTION:Doors 18:00 Start 19:00 Anuradha Paudwal is an Indian playback 
+ singer and politician who works predominantly in Hindi cinema. She has bee
+ n described in media as one of the most prominent Bhajan...
+DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20240126
+SUMMARY:Anuradha Paudwal
+UID:a609e6b4-eba0-4478-ba8a-2685d6bfd6eb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
-DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Cassian, Olympe an
- d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
-DTEND;VALUE=DATE:20241025
-DTSTART;VALUE=DATE:20241025
-SUMMARY:WhoMadeWho
-UID:bc9bd04a-e6a1-47d5-9284-b7bb9c50af14
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
+DTSTAMP:20241013T015804Z
 DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
 DTEND;VALUE=DATE:20241024
 DTSTART;VALUE=DATE:20241024
 SUMMARY:Becky Hill
-UID:dedb1f3c-448b-40e8-b7ad-24d496fe7cb2
+UID:c5e75001-2ac1-4029-9f46-98db0c2c7755
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
+DTSTAMP:20241013T015804Z
+DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Cassian, Olympe an
+ d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
+DTEND;VALUE=DATE:20241025
+DTSTART;VALUE=DATE:20241025
+SUMMARY:Adriatique present X Halloween
+UID:bdc31a1d-c32c-452c-b486-298bcc1d9cc5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241013T015804Z
 DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
  a Wembley in London on 11/22/2024 at 7:00 PM
 DTEND;VALUE=DATE:20241122
 DTSTART;VALUE=DATE:20241122
 SUMMARY:Boris Brejcha
-UID:4ab01ae6-fedd-4a71-8e1c-e642be907795
+UID:b3f17af2-a89e-4398-8eb4-ef485b982d98
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241012T014902Z
+DTSTAMP:20241013T015804Z
 DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
  ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
 DTEND;VALUE=DATE:20241117
 DTSTART;VALUE=DATE:20241117
 SUMMARY:Bounty Killer
-UID:f58a3f19-50c4-4fb4-960d-9724e11e9a87
+UID:f610077f-7cd8-4a06-8838-e9ea17831147
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241013T015804Z
+DESCRIPTION:Find tickets for NIKI with Luna Li at OVO Arena Wembley in Lond
+ on on 11/7/2024 at 7:30 PM
+DTEND;VALUE=DATE:20241107
+DTSTART;VALUE=DATE:20241107
+SUMMARY:NIKI
+UID:bd4e7cf7-1c83-4a96-8c45-4f3e78819a8a
 END:VEVENT
 END:VCALENDAR
