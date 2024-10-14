@@ -3,95 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
-DESCRIPTION:VIP Week is coming for One Wembley Park members only! From the 
- 5th-13th October, take advantage of a whole host of exclusive offers acros
- s the week in stores, cafés and\n
-DTEND;VALUE=DATE:20241013
-DTSTART;VALUE=DATE:20241013
-SUMMARY:One Wembley Park – VIP Week
-UID:843f1d14-6126-436f-924f-56375d36d179
+DTSTAMP:20241014T015442Z
+DESCRIPTION:THURSDAY IS THE NEW FRIDAY! We get it, you've been working all 
+ week in the office and Thursday is the perfect evening to celebrate all you
+ r hard work. So we bring to you EVERY Thursday evening...
+DTEND;VALUE=DATE:20241017
+DTSTART;VALUE=DATE:20241017
+SUMMARY:Post Work Pop Party 17 October
+UID:599284ea-8c7b-4fc8-8d9a-ddab50aa12fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
-DTEND;VALUE=DATE:20241013
-DTSTART;VALUE=DATE:20241013
-SUMMARY:THE KIDS' TABLE
-UID:c29b9e0d-2c9c-4b5c-be4a-8d1d9af5270e
+DTSTAMP:20241014T015442Z
+DESCRIPTION:The Spanish Riding School's show is an impressive display of cl
+ assical equitation in the Renaissance tradition of the haute école. The au
+ dience will be mesmerised by the absolute balance and...
+DTEND;VALUE=DATE:20241019
+DTSTART;VALUE=DATE:20241019
+SUMMARY:Spanish Riding School
+UID:215aac61-f299-4e3b-91d9-9bd23a43b9ab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
-DESCRIPTION:Buy Starlight Express tickets and sign-up for latest tour alert
- s. Find Starlight Express tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20241013
-DTSTART;VALUE=DATE:20241013
-SUMMARY:Starlight Express
-UID:68087e04-a968-476e-9b67-51da9ae6e102
+DTSTAMP:20241014T015442Z
+DESCRIPTION:Find tickets for Dua Lipa at Royal Albert Hall in London on 10/
+ 17/2024 at 7:30 PM
+DTEND;VALUE=DATE:20241017
+DTSTART;VALUE=DATE:20241017
+SUMMARY:Dua Lipa
+UID:dae74350-8d64-44a8-ae4d-b9dd0030863e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
+DTSTAMP:20241014T015442Z
 DESCRIPTION:Before the pandemic struck, Ezra Collective were on fire. A wor
  ld tour awaited them following years of hard graft, the critically acclaime
  d release of their 2019 debut album You Can’t Steal My...
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:bb8b9801-a297-49e2-98dd-791ca07c5032
+UID:7da394b9-df2f-4240-92cb-ff5390b05cda
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
+DTSTAMP:20241014T015442Z
+DESCRIPTION:Find tickets for Tom Robinson with ROB.GREEN at Islington Assem
+ bly Hall in London on 10/17/2024 at 7:00 PM
+DTEND;VALUE=DATE:20241017
+DTSTART;VALUE=DATE:20241017
+SUMMARY:Tom Robinson
+UID:17f0bcae-1fc2-413a-9916-4903d56fd4d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241014T015442Z
+DESCRIPTION:Find tickets for Diljit Dosanjh at The O2 in London on 10/18/20
+ 24 at 6:30 PM
+DTEND;VALUE=DATE:20241018
+DTSTART;VALUE=DATE:20241018
+SUMMARY:Diljit Dosanjh
+UID:0ec233a5-ec3a-4e14-891f-737f6839c8bc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241014T015442Z
+DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
+DTEND;VALUE=DATE:20241024
+DTSTART;VALUE=DATE:20241024
+SUMMARY:Becky Hill
+UID:e4c52b69-2388-4f10-bba0-019bd8ac905d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241014T015442Z
+DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Cassian, Olympe an
+ d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
+DTEND;VALUE=DATE:20241025
+DTSTART;VALUE=DATE:20241025
+SUMMARY:WhoMadeWho
+UID:76ddc33e-c270-481b-a7b0-84deaa442cd2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241014T015442Z
 DESCRIPTION:Doors 18:00 Start 19:00 Anuradha Paudwal is an Indian playback 
  singer and politician who works predominantly in Hindi cinema. She has bee
  n described in media as one of the most prominent Bhajan...
 DTEND;VALUE=DATE:20240126
 DTSTART;VALUE=DATE:20240126
 SUMMARY:Anuradha Paudwal
-UID:a609e6b4-eba0-4478-ba8a-2685d6bfd6eb
+UID:914e5c0c-5bbe-4e1d-8af5-218e7494d563
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
-DESCRIPTION:Beck Hill at OVO Arena Wembley in Wembley Park
-DTEND;VALUE=DATE:20241024
-DTSTART;VALUE=DATE:20241024
-SUMMARY:Becky Hill
-UID:c5e75001-2ac1-4029-9f46-98db0c2c7755
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
-DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Cassian, Olympe an
- d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
-DTEND;VALUE=DATE:20241025
-DTSTART;VALUE=DATE:20241025
-SUMMARY:Adriatique present X Halloween
-UID:bdc31a1d-c32c-452c-b486-298bcc1d9cc5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
+DTSTAMP:20241014T015442Z
 DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
  a Wembley in London on 11/22/2024 at 7:00 PM
 DTEND;VALUE=DATE:20241122
 DTSTART;VALUE=DATE:20241122
 SUMMARY:Boris Brejcha
-UID:b3f17af2-a89e-4398-8eb4-ef485b982d98
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
-DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
- ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
-DTEND;VALUE=DATE:20241117
-DTSTART;VALUE=DATE:20241117
-SUMMARY:Bounty Killer
-UID:f610077f-7cd8-4a06-8838-e9ea17831147
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241013T015804Z
-DESCRIPTION:Find tickets for NIKI with Luna Li at OVO Arena Wembley in Lond
- on on 11/7/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241107
-DTSTART;VALUE=DATE:20241107
-SUMMARY:NIKI
-UID:bd4e7cf7-1c83-4a96-8c45-4f3e78819a8a
+UID:1304bc5e-af03-4326-a7cc-869a4d40a126
 END:VEVENT
 END:VCALENDAR
