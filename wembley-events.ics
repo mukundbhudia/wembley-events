@@ -3,98 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
-DESCRIPTION:We get it, you've been working all week in the office and Thurs
- day is the perfect evening to celebrate all your hard work. So we bring to 
- you EVERY Thursday evening, POST WORK POP PARTY ! Where...
-DTEND;VALUE=DATE:20241018
-DTSTART;VALUE=DATE:20241018
-SUMMARY:Post Work Pop Party 17 October
-UID:44e095fc-df88-4bf4-a15e-74141de0a8d6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
+DTSTAMP:20241019T015041Z
 DESCRIPTION:The Spanish Riding School's show is an impressive display of cl
  assical equitation in the Renaissance tradition of the haute école. The au
  dience will be mesmerised by the absolute balance and...
 DTEND;VALUE=DATE:20241019
 DTSTART;VALUE=DATE:20241019
 SUMMARY:Spanish Riding School
-UID:be42fbc0-11a6-4581-a421-17257a290538
+UID:6e03e8bc-7a3b-43fd-9312-90e18814c34c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
-DESCRIPTION:Find tickets for Dua Lipa at Royal Albert Hall in London on 10/
- 17/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241018
-DTSTART;VALUE=DATE:20241018
-SUMMARY:Dua Lipa
-UID:0ba6db37-068b-4c8b-be13-8007221e14e3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
-DESCRIPTION:Find tickets for Frameless at Marble Arch Place in London on 10
- /18/2024 at 11:00 AM
-DTEND;VALUE=DATE:20241018
-DTSTART;VALUE=DATE:20241018
-SUMMARY:Frameless
-UID:534c02b8-e3c2-45e2-9859-8f9fe6627952
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
-DESCRIPTION:Find tickets for Diljit Dosanjh at The O2 in London on 10/18/20
- 24 at 6:30 PM
-DTEND;VALUE=DATE:20241018
-DTSTART;VALUE=DATE:20241018
-SUMMARY:Diljit Dosanjh
-UID:e96af832-e422-437b-b61a-83f751de70eb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
-DESCRIPTION:Before the pandemic struck, Ezra Collective were on fire. A wor
- ld tour awaited them following years of hard graft, the critically acclaime
- d release of their 2019 debut album You Can’t Steal My...
-DTEND;VALUE=DATE:20241115
-DTSTART;VALUE=DATE:20241115
-SUMMARY:Ezra Collective
-UID:223649c7-06ba-46e7-af9e-70bb42d14c56
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
-DESCRIPTION:LDNRBS BRING SOME OF THE UK'S BEST MUSICAL TALENT TO BEATBOX! I
- MPORTANT INFO: Dress code: No tracksuits, hoods. Smart/casual attire is pre
- ferred. This event is 18+. We operate challenge 25...
-DTEND;VALUE=DATE:20241106
-DTSTART;VALUE=DATE:20241106
-SUMMARY:LDNRBS LIVE
-UID:ab71d4e8-b19c-422f-89f9-07c69c4e0da1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
-DESCRIPTION:Buy Sarah Millican: Late Bloomer tickets and sign-up for lates
- t tour alerts. Find Sarah Millican: Late Bloomer tour dates, reviews, time
- s and event details.
+DTSTAMP:20241019T015041Z
+DESCRIPTION:Find tickets for Caroline Rose at Milton Court Concert Hall in 
+ London on 10/19/2024 at 2:30 PM
 DTEND;VALUE=DATE:20241019
 DTSTART;VALUE=DATE:20241019
-SUMMARY:Sarah Millican
-UID:51b43963-29a9-4dbc-b45a-903f4df2dcd2
+SUMMARY:Caroline Rose
+UID:fa49e9b2-77dc-47eb-95f0-3ebb82157175
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
-DESCRIPTION:Find tickets for Adriatique with WhoMadeWho, Olympe, Cassian an
- d 1 more at OVO Arena Wembley in London on 10/25/2024 at 5:00 PM
-DTEND;VALUE=DATE:20241025
-DTSTART;VALUE=DATE:20241025
-SUMMARY:Adriatique
-UID:021f4d7d-53ce-4fbd-8142-63559faefd6b
+DTSTAMP:20241019T015041Z
+DESCRIPTION:WEMBLEY DIWALI FESTIVAL ALPERTON STUDIOS CORNER OF EALING ROAD 
+ & ALPERTON LANE WEMBLEY SUNDAY 27TH OCTOBER
+DTEND;VALUE=DATE:20241027
+DTSTART;VALUE=DATE:20241027
+SUMMARY:WEMBLEY DIWALI FESTIVAL
+UID:162b2ea0-2584-4e05-98fc-bf0b68ef0029
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241018T015244Z
-DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
- a Wembley in London on 11/22/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241122
-DTSTART;VALUE=DATE:20241122
-SUMMARY:Boris Brejcha
-UID:5ed2e31b-584d-4d45-a173-ebba62dea9e8
+DTSTAMP:20241019T015041Z
+DESCRIPTION:Find tickets for Bastille at PRYZM Kingston in Kingston Upon Th
+ ames on 10/20/2024 at 7:00 PM
+DTEND;VALUE=DATE:20241020
+DTSTART;VALUE=DATE:20241020
+SUMMARY:Bastille London Tickets
+UID:b7872ad0-9307-4b9f-845b-0a67148f9819
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241019T015041Z
+DESCRIPTION:Caroline Rose returns to London on Saturday 19th October at th
+ e historic Milton Court at the Barbican with the London Contemporary Orches
+ tra. American singer-songwriter Caroline Rose returns to...
+DTEND;VALUE=DATE:20241019
+DTSTART;VALUE=DATE:20241019
+SUMMARY:Caroline Rose
+UID:2c5093e5-a5fb-4c74-bfed-b0ca74eb127b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241019T015041Z
+DESCRIPTION:Indian singer-songwriter Prateek Kuhad is back with new music, 
+ following his 2023 five-track EP, Mulaqat , and his chart-topping album, Th
+ e Way That Lovers Do , in 2022. Curfew: 23:00 Age...
+DTEND;VALUE=DATE:20241019
+DTSTART;VALUE=DATE:20241019
+SUMMARY:Prateek Kuhad
+UID:c93e964f-1c1c-4707-b7df-b62c258ae666
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241019T015041Z
+DESCRIPTION:Find tickets for Gaby Moreno at Pizza Express Jazz Club Soho i
+ n London on 10/18/2024 at 7:00 PM
+DTEND;VALUE=DATE:20241019
+DTSTART;VALUE=DATE:20241019
+SUMMARY:Gaby Moreno @ PizzaExpress Live - Soho
+UID:f5a26e6b-56e9-4291-bdaf-4634a632591b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241019T015041Z
+DESCRIPTION:Find tickets for Gareth Malone's All Star Choir with Gareth Mal
+ one's Voices at Soul Mama in London on 10/20/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241020
+DTSTART;VALUE=DATE:20241020
+SUMMARY:Gareth Malone
+UID:2de1f4e9-25d0-4999-b76c-02ee65802dce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241019T015041Z
+DESCRIPTION:ABBA Voyage is recommended for a general audience from the age
+ s of 6 and up. Children under 3 will not be admitted into the venue. All pe
+ rsons age...
+DTEND;VALUE=DATE:20241020
+DTSTART;VALUE=DATE:20241020
+SUMMARY:ABBA Voyage
+UID:4894a960-4cf9-42a1-964a-d2716ccffd08
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241019T015041Z
+DESCRIPTION:Find tickets for Cat Burns with Mega at Roundhouse in London o
+ n 10/18/2024 at 7:00 PM
+DTEND;VALUE=DATE:20241019
+DTSTART;VALUE=DATE:20241019
+SUMMARY:Cat Burns
+UID:2a7fc843-dece-4218-bfdc-b6055210c5a9
 END:VEVENT
 END:VCALENDAR
