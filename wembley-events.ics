@@ -3,97 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
-DESCRIPTION:The Spanish Riding School's show is an impressive display of cl
- assical equitation in the Renaissance tradition of the haute école. The au
- dience will be mesmerised by the absolute balance and...
-DTEND;VALUE=DATE:20241019
-DTSTART;VALUE=DATE:20241019
-SUMMARY:Spanish Riding School
-UID:6e03e8bc-7a3b-43fd-9312-90e18814c34c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
-DESCRIPTION:Find tickets for Caroline Rose at Milton Court Concert Hall in 
- London on 10/19/2024 at 2:30 PM
-DTEND;VALUE=DATE:20241019
-DTSTART;VALUE=DATE:20241019
-SUMMARY:Caroline Rose
-UID:fa49e9b2-77dc-47eb-95f0-3ebb82157175
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
+DTSTAMP:20241020T020009Z
 DESCRIPTION:WEMBLEY DIWALI FESTIVAL ALPERTON STUDIOS CORNER OF EALING ROAD 
  & ALPERTON LANE WEMBLEY SUNDAY 27TH OCTOBER
 DTEND;VALUE=DATE:20241027
 DTSTART;VALUE=DATE:20241027
 SUMMARY:WEMBLEY DIWALI FESTIVAL
-UID:162b2ea0-2584-4e05-98fc-bf0b68ef0029
+UID:b25be143-85eb-4a5d-956c-e705abe1f5e8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
+DTSTAMP:20241020T020009Z
+DESCRIPTION:Find tickets for ABBA at ABBA Arena in London on 10/20/2024 at 
+ 1:00 PM
+DTEND;VALUE=DATE:20241020
+DTSTART;VALUE=DATE:20241020
+SUMMARY:ABBA Voyage
+UID:7d5d42f2-2a57-45b3-a1ee-29dee01a4b45
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241020T020009Z
 DESCRIPTION:Find tickets for Bastille at PRYZM Kingston in Kingston Upon Th
  ames on 10/20/2024 at 7:00 PM
 DTEND;VALUE=DATE:20241020
 DTSTART;VALUE=DATE:20241020
-SUMMARY:Bastille London Tickets
-UID:b7872ad0-9307-4b9f-845b-0a67148f9819
+SUMMARY:Bastille
+UID:2ec5ee16-6ec2-43d4-b657-62d5cd4e49fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
-DESCRIPTION:Caroline Rose returns to London on Saturday 19th October at th
- e historic Milton Court at the Barbican with the London Contemporary Orches
- tra. American singer-songwriter Caroline Rose returns to...
-DTEND;VALUE=DATE:20241019
-DTSTART;VALUE=DATE:20241019
-SUMMARY:Caroline Rose
-UID:2c5093e5-a5fb-4c74-bfed-b0ca74eb127b
+DTSTAMP:20241020T020009Z
+DESCRIPTION:Join an outstanding line-up of comedy with Sunday Special at U
+ p The Creek - Voted the UK's No.1 comedy night by the Guardian. Grouchy US 
+ comedy legend and Live At The Apollo star RICH HALL...
+DTEND;VALUE=DATE:20241020
+DTSTART;VALUE=DATE:20241020
+SUMMARY:Sunday Special: Rich Hall, Dane Buckley, Ian Smith & More
+UID:a475c529-e4dd-4655-930f-0eaef34f476f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
-DESCRIPTION:Indian singer-songwriter Prateek Kuhad is back with new music, 
- following his 2023 five-track EP, Mulaqat , and his chart-topping album, Th
- e Way That Lovers Do , in 2022. Curfew: 23:00 Age...
-DTEND;VALUE=DATE:20241019
-DTSTART;VALUE=DATE:20241019
-SUMMARY:Prateek Kuhad
-UID:c93e964f-1c1c-4707-b7df-b62c258ae666
+DTSTAMP:20241020T020009Z
+DESCRIPTION:Scared To Dance is back at The Shacklewell Arms! Our guest DJ i
+ s the comedian James Acaster joining resident Paul Richards. Expect to hea
+ r the likes of David Bowie, Talking Heads, Blondie, The...
+DTEND;VALUE=DATE:20241020
+DTSTART;VALUE=DATE:20241020
+SUMMARY:James Acaster
+UID:204f82a2-b208-4d81-91c8-f3a7ff2da315
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
-DESCRIPTION:Find tickets for Gaby Moreno at Pizza Express Jazz Club Soho i
- n London on 10/18/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241019
-DTSTART;VALUE=DATE:20241019
-SUMMARY:Gaby Moreno @ PizzaExpress Live - Soho
-UID:f5a26e6b-56e9-4291-bdaf-4634a632591b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
+DTSTAMP:20241020T020009Z
 DESCRIPTION:Find tickets for Gareth Malone's All Star Choir with Gareth Mal
  one's Voices at Soul Mama in London on 10/20/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241020
 DTSTART;VALUE=DATE:20241020
 SUMMARY:Gareth Malone
-UID:2de1f4e9-25d0-4999-b76c-02ee65802dce
+UID:69d4a171-5794-42c3-a489-fc9dd4a4a0cc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
-DESCRIPTION:ABBA Voyage is recommended for a general audience from the age
- s of 6 and up. Children under 3 will not be admitted into the venue. All pe
- rsons age...
+DTSTAMP:20241020T020009Z
+DESCRIPTION:Find tickets for XG at OVO Arena Wembley in London on 11/19/202
+ 4 at 6:30 PM
+DTEND;VALUE=DATE:20241119
+DTSTART;VALUE=DATE:20241119
+SUMMARY:XG
+UID:77469af7-f5d9-4460-98e8-288434bfb4be
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241020T020009Z
+DESCRIPTION:AEG Presents Ezra Collective This is a 14+ event (Strictly no u
+ nder 14’s in the standing area, 14 – 15’s must be with an adult.)
+DTEND;VALUE=DATE:20241115
+DTSTART;VALUE=DATE:20241115
+SUMMARY:Ezra Collective
+UID:8b30a3fd-0adf-4135-851d-b4eed3c56285
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241020T020009Z
+DESCRIPTION:After a very busy concert year in 2023, Batushka spent the firs
+ t months of 2024 producing and recording a new album. They plan to start pr
+ omoting the new album in September. Although details of...
 DTEND;VALUE=DATE:20241020
 DTSTART;VALUE=DATE:20241020
-SUMMARY:ABBA Voyage
-UID:4894a960-4cf9-42a1-964a-d2716ccffd08
+SUMMARY:BATUSHKA
+UID:2e4ac0fa-0e60-4517-92e5-6edd750d81de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241019T015041Z
-DESCRIPTION:Find tickets for Cat Burns with Mega at Roundhouse in London o
- n 10/18/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241019
-DTSTART;VALUE=DATE:20241019
-SUMMARY:Cat Burns
-UID:2a7fc843-dece-4218-bfdc-b6055210c5a9
+DTSTAMP:20241020T020009Z
+DESCRIPTION:Find tickets for Danny Elfman with Cast - The Nightmare Before 
+ Christmas at OVO Arena Wembley in London on 12/11/2024 at 6:00 PM
+DTEND;VALUE=DATE:20241211
+DTSTART;VALUE=DATE:20241211
+SUMMARY:Nightmare Before Christmas
+UID:fae6d983-6e8f-4cc5-afb8-32a5123e7131
 END:VEVENT
 END:VCALENDAR
