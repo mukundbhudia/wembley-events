@@ -3,97 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
-DTEND;VALUE=DATE:20241103
-DTSTART;VALUE=DATE:20241103
-SUMMARY:THE KIDS' TABLE
-UID:8f920286-4b3b-407f-810a-dfcc7e1f57a4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
-DESCRIPTION:After much anticipation, Taiwanese Mandopop’s “King of the 
- Lovelorn People, Eric Chou, is bringing his long-awaited tour, The Odyssey~
- Journey World Tour to London at OVO Arena, Wembley on the 3rd...
-DTEND;VALUE=DATE:20241103
-DTSTART;VALUE=DATE:20241103
-SUMMARY:Eric Chou
-UID:6b8f10d0-5911-4148-bfe2-5a54c00a0222
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
+DTSTAMP:20241104T015505Z
 DESCRIPTION:LDNRBS BRING SOME OF THE UK'S BEST MUSICAL TALENT TO BEATBOX! I
  MPORTANT INFO: Dress code: No tracksuits, hoods. Smart/casual attire is pre
  ferred. This event is 18+. We operate challenge 25...
 DTEND;VALUE=DATE:20241106
 DTSTART;VALUE=DATE:20241106
 SUMMARY:LDNRBS LIVE
-UID:a1a06e6c-73fb-4119-9f54-3bd55036a34d
+UID:df1b01c1-8fac-477a-810f-b198b1640b43
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
+DTSTAMP:20241104T015505Z
+DESCRIPTION:Find tickets for NIKI with Luna Li at OVO Arena Wembley in Lond
+ on on 11/7/2024 at 7:30 PM
+DTEND;VALUE=DATE:20241107
+DTSTART;VALUE=DATE:20241107
+SUMMARY:Niki - Buzz World Tour
+UID:1e66e8bc-9285-42fb-826c-8f131514b7c5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241104T015505Z
+DESCRIPTION:Find tickets for Scooter at OVO Arena Wembley in London on 11/8
+ /2024 at 7:30 PM
+DTEND;VALUE=DATE:20241108
+DTSTART;VALUE=DATE:20241108
+SUMMARY:Scooter
+UID:fbd23e29-b259-4d7e-a6c7-9342e5630dbf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241104T015505Z
+DESCRIPTION:Find tickets for Conan Gray with BETWEEN FRIENDS at OVO Arena W
+ embley in London on 11/10/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241110
+DTSTART;VALUE=DATE:20241110
+SUMMARY:Conan Gray
+UID:9afd5f5c-f0d8-4389-91e6-bd757a1d4c11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241104T015505Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20241106
+DTSTART;VALUE=DATE:20241106
+SUMMARY:Wembley Park Presents: Taylor on Strings - An Open Air Classical Co
+ ncert
+UID:cfef0524-a9ce-4b96-b413-72f5a22304b9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241104T015505Z
+DESCRIPTION:After much anticipation, Taiwanese Mandopop’s “King of the 
+ Lovelorn People, Eric Chou, is bringing his long-awaited tour, The Odyssey~
+ Journey World Tour to London at OVO Arena, Wembley on the 3rd...
+DTEND;VALUE=DATE:20241104
+DTSTART;VALUE=DATE:20241104
+SUMMARY:Eric Chou
+UID:3527e3c5-b276-4c7f-b3e3-7c993223897d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241104T015505Z
+DESCRIPTION:Adrenaline-fueled Canadian-American Rock n' roll siblings Palay
+ e Royale are leading a generation in togetherness through honesty, danger a
+ nd infectious art-punk that is, in turn, dark, lush...
+DTEND;VALUE=DATE:20241109
+DTSTART;VALUE=DATE:20241109
+SUMMARY:Hot Milk
+UID:68574793-c9b6-41f1-a66e-4326fee1e346
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241104T015505Z
+DESCRIPTION:NIKI - VIP Upgrades at OVO Arena Wembley, London on 7th Novembe
+ r 2024 - Compare prices and buy your tickets to see NIKI - VIP Upgrades liv
+ e.
+DTEND;VALUE=DATE:20241107
+DTSTART;VALUE=DATE:20241107
+SUMMARY:NIKI - VIP Upgrades
+UID:02fab6d0-95db-47ad-abeb-18d2dda0a5dc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241104T015505Z
 DESCRIPTION:Before the pandemic struck, Ezra Collective were on fire. A wor
  ld tour awaited them following years of hard graft, the critically acclaime
  d release of their 2019 debut album You Can’t Steal My...
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:baff9908-87dc-499c-8a9c-e7b6c8293e7f
+UID:286bf50d-592f-46e2-aba3-3abc55f45601
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
-DESCRIPTION:Watch SOULFUL SUNDAYS live in London at the BOXPARK Wembley on 
- 3-rd-Nov-Sun-24 @1.00pm. Get more details and book at Halibuts.com | Halibu
- ts
-DTEND;VALUE=DATE:20241103
-DTSTART;VALUE=DATE:20241103
-SUMMARY:Soulful Sundays 3 Nov
-UID:f390acbe-7080-426d-aa05-ddc473c97b87
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
-DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
- tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240205
-DTSTART;VALUE=DATE:20240205
-SUMMARY:Toto plus special guest Christopher Cross
-UID:d311b5e3-2093-4503-b7d0-4a2c9f3e5036
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
-DESCRIPTION:Find tickets for KALEO with Júníus Meyvant and Shane Smith & 
- the Saints at OVO Arena Wembley in London on 11/14/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241114
-DTSTART;VALUE=DATE:20241114
-SUMMARY:KALEO - Payback Tour
-UID:a0d00a4e-0764-4f05-91e2-25bbb1256395
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
-DESCRIPTION:Find tickets for NCT DREAM at OVO Arena Wembley in London on 11
- /12/2024 at 6:30 PM
-DTEND;VALUE=DATE:20241112
-DTSTART;VALUE=DATE:20241112
-SUMMARY:NCT Dream
-UID:5ed025c2-d21a-422e-9eab-1f32f746f5a6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
-DESCRIPTION:Find tickets for Scooter at OVO Arena Wembley in London on 11/8
- /2024 at 7:30 PM
+DTSTAMP:20241104T015505Z
+DESCRIPTION:Find tickets for Alfa at Dingwalls in London on 11/8/2024 at 7:
+ 00 PM
 DTEND;VALUE=DATE:20241108
 DTSTART;VALUE=DATE:20241108
-SUMMARY:Scooter
-UID:77d08ce5-3b5c-45c5-9186-9ab210f1b50f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241103T015901Z
-DESCRIPTION:Find tickets for Conan Gray with BETWEEN FRIENDS at OVO Arena W
- embley in London on 11/10/2024 at 6:30 PM
-DTEND;VALUE=DATE:20241110
-DTSTART;VALUE=DATE:20241110
-SUMMARY:Conan Gray
-UID:2fd5fa39-87b8-437f-906d-716bfbe759ce
+SUMMARY:Alfa | Live in London
+UID:41c79c46-4d53-456d-8cb0-de5bf2ced939
 END:VEVENT
 END:VCALENDAR
