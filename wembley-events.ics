@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
+DTSTAMP:20241109T014716Z
 DESCRIPTION:Adrenaline-fueled Canadian-American Rock n' roll siblings Palay
  e Royale are leading a generation in togetherness through honesty, danger a
  nd infectious art-punk that is, in turn, dark, lush...
 DTEND;VALUE=DATE:20241109
 DTSTART;VALUE=DATE:20241109
 SUMMARY:Palaye Royale
-UID:a3ac69d6-7e7d-466e-b717-f5a3e0224dad
+UID:988158d9-2431-4fe2-aa7d-0cdadc972309
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
-DESCRIPTION:Last.fm concert page for Scooter at OVO Arena Wembley (London) 
- on Nov. 8, 2024. Discuss the gig, get concert tickets, see who's attending
- , find similar events.
-DTEND;VALUE=DATE:20241108
-DTSTART;VALUE=DATE:20241108
-SUMMARY:Scooter
-UID:cc7f56df-edd4-465f-b1bd-af819126b109
+DTSTAMP:20241109T014716Z
+DESCRIPTION:Find tickets for Conan Gray with BETWEEN FRIENDS at OVO Arena W
+ embley in London on 11/10/2024 at 6:30 PM
+DTEND;VALUE=DATE:20241110
+DTSTART;VALUE=DATE:20241110
+SUMMARY:Between Friends
+UID:3d5aa601-f6c5-491e-907a-79c3f0200ff0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
+DTSTAMP:20241109T014716Z
 DESCRIPTION:AEG Presents Ezra Collective This is a 14+ event (Strictly no u
  nder 14’s in the standing area, 14 – 15’s must be with an adult.)
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:89190911-777e-4432-8358-2fa62224d8d9
+UID:00a0fae4-4fa1-45c4-9822-bd62e2c719a5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
-DESCRIPTION:Don't miss Nick Cave & The Bad Seeds - The Wild God Tour at Th
- e O2 Arena London in undefined, London, GB on Sat Nov 09 2024. Tickets on s
- ale now.
+DTSTAMP:20241109T014716Z
+DESCRIPTION:Black Country New Road ➤ news ✓ reviews ✓ music ✓ tour 
+ dates ✓ tickets ➤ Indie is not a genre | A music blog that doesn't trus
+ t the hype.
 DTEND;VALUE=DATE:20241109
 DTSTART;VALUE=DATE:20241109
 SUMMARY:Nick Cave & the Bad Seeds : The Wild God Tour
-UID:be2e8b88-d8de-4080-8b87-19341458a0dc
+UID:ab96e3c8-9134-4135-8384-2adb88d3f8f5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
+DTSTAMP:20241109T014716Z
 DESCRIPTION:Find tickets for KALEO with Júníus Meyvant and Shane Smith & 
  the Saints at OVO Arena Wembley in London on 11/14/2024 at 7:30 PM
 DTEND;VALUE=DATE:20241114
 DTSTART;VALUE=DATE:20241114
 SUMMARY:KALEO - Payback Tour
-UID:2dcb3770-9c19-4846-9f86-b4521e7da55e
+UID:b6def093-31c7-4175-a61c-4de3cf1be4db
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
+DTSTAMP:20241109T014716Z
 DESCRIPTION:Find tickets for James Bay at OVO Arena Wembley in London on 2/
  13/2025 at 6:00 PM
 DTEND;VALUE=DATE:20240213
 DTSTART;VALUE=DATE:20240213
 SUMMARY:James Bay
-UID:3ef75074-5efc-4670-9d01-3ff85beb30f4
+UID:ad219e02-b5cc-4afe-895a-e2ed9da94a5a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
-DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
- tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240205
-DTSTART;VALUE=DATE:20240205
-SUMMARY:Toto plus special guest Christopher Cross
-UID:cac0eeba-ffdb-4fcc-89e9-19ab49fe1135
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
+DTSTAMP:20241109T014716Z
 DESCRIPTION:Find tickets for NCT DREAM at OVO Arena Wembley in London on 11
  /12/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241112
 DTSTART;VALUE=DATE:20241112
 SUMMARY:NCT Dream
-UID:1c052878-829f-44d2-a8f9-434b1d6c9e30
+UID:759d8c90-07aa-4027-a67c-8a552737184c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20241208
-DTSTART;VALUE=DATE:20241208
-SUMMARY:Slaughter to Prevail
-UID:88d1369e-611f-4e2d-8d57-e1bb1ea38710
+DTSTAMP:20241109T014716Z
+DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
+ tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20240205
+DTSTART;VALUE=DATE:20240205
+SUMMARY:Toto plus special guest Christopher Cross
+UID:7dfb8a6d-9a3e-4721-a9f5-d824b90e2ac9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241108T015056Z
+DTSTAMP:20241109T014716Z
 DESCRIPTION:American comedian and actor Maz Jobrani has appeared on popula
  r TV shows including ‘Grey’s Anatomy’ and ‘Curb Your Enthusiasm’
   and now he heads out on his ' Mr International Comedy Tour'.
 DTEND;VALUE=DATE:20241110
 DTSTART;VALUE=DATE:20241110
 SUMMARY:Maz Jobrani
-UID:25d408a9-b714-457e-81bb-efc373333345
+UID:44074e08-4aed-4a0e-8d2b-78b84f05d339
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241109T014716Z
+DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
+ ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
+DTEND;VALUE=DATE:20241117
+DTSTART;VALUE=DATE:20241117
+SUMMARY:Beenie Man
+UID:7b1c4837-e1ff-4deb-9eaa-03f119f8d729
 END:VEVENT
 END:VCALENDAR
