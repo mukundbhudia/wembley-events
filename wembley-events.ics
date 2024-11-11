@@ -3,94 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
+DTSTAMP:20241111T015241Z
 DESCRIPTION:AEG Presents Ezra Collective This is a 14+ event (Strictly no u
  nder 14’s in the standing area, 14 – 15’s must be with an adult.)
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:9b094714-d08a-4405-b222-e5acc9f66ce3
+UID:ee54739c-f211-414e-a8c8-bbd7c97eb80a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
-DESCRIPTION:Find tickets for KALEO with Júníus Meyvant and Shane Smith & 
- the Saints at OVO Arena Wembley in London on 11/14/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241114
-DTSTART;VALUE=DATE:20241114
-SUMMARY:KALEO - Payback Tour
-UID:124c136c-ed6b-4373-bb7a-5ab849f9a707
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
-DESCRIPTION:Find tickets for James Bay at OVO Arena Wembley in London on 2/
- 13/2025 at 6:00 PM
-DTEND;VALUE=DATE:20240213
-DTSTART;VALUE=DATE:20240213
-SUMMARY:James Bay
-UID:46621b92-77c9-4193-86f9-0768ca6432bf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
+DTSTAMP:20241111T015241Z
 DESCRIPTION:Find tickets for NCT DREAM at OVO Arena Wembley in London on 11
  /12/2024 at 6:30 PM
 DTEND;VALUE=DATE:20241112
 DTSTART;VALUE=DATE:20241112
 SUMMARY:NCT Dream
-UID:311fbb8f-7286-4a72-abe6-e097c63dd784
+UID:de3de307-e60c-4b48-b17e-487141359121
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
-DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
- tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240205
-DTSTART;VALUE=DATE:20240205
-SUMMARY:Toto plus special guest Christopher Cross
-UID:0f0a7d46-744a-447a-ab28-c6545b6da8ce
+DTSTAMP:20241111T015241Z
+DESCRIPTION:Find tickets for KALEO with Júníus Meyvant and Shane Smith & 
+ the Saints at OVO Arena Wembley in London on 11/14/2024 at 7:30 PM
+DTEND;VALUE=DATE:20241114
+DTSTART;VALUE=DATE:20241114
+SUMMARY:KALEO - Payback Tour
+UID:44950fb3-a4c8-46fd-8de1-4f078018b7aa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
-DESCRIPTION:American comedian and actor Maz Jobrani has appeared on popula
- r TV shows including ‘Grey’s Anatomy’ and ‘Curb Your Enthusiasm’
-  and now he heads out on his ' Mr International Comedy Tour'.
-DTEND;VALUE=DATE:20241110
-DTSTART;VALUE=DATE:20241110
-SUMMARY:Maz Jobrani
-UID:92299705-cd10-47cc-847a-0352811cf05c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
+DTSTAMP:20241111T015241Z
 DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
  ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
 DTEND;VALUE=DATE:20241117
 DTSTART;VALUE=DATE:20241117
 SUMMARY:Beenie Man
-UID:9823fab9-32ee-4cc0-bc1a-245bed47f12a
+UID:bef2c6ff-7b17-4f2d-840a-735a389a0583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
-DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
- t Fateh Ali Khan, was mentored under him since birth and is now the King o
- f Qawwali and Sufi music and the glorious voice behind hit...
-DTEND;VALUE=DATE:20240405
-DTSTART;VALUE=DATE:20240405
-SUMMARY:Rahat Fateh Ali Khan
-UID:4e750fbc-a9cf-483b-92be-01a130dc7b95
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
-DESCRIPTION:Find tickets for Mark Watson at Fairfield Halls in Croydon on 1
- 1/9/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241110
-DTSTART;VALUE=DATE:20241110
-SUMMARY:Mark Watson
-UID:8975a038-555e-4a49-a7c0-9f1f6c3d1490
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T015556Z
+DTSTAMP:20241111T015241Z
 DESCRIPTION:Within Temptation
 DTEND;VALUE=DATE:20241116
 DTSTART;VALUE=DATE:20241116
 SUMMARY:-Tarja- @ OVO Arena Wembley
-UID:2452c1b0-2868-4601-a299-b7f76bcec0b4
+UID:ba242837-f511-4c9a-963c-30918882eb2c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241111T015241Z
+DESCRIPTION:Legends of Legends Present: Bounty Killer, Beenie Man, and Bab
+ y Cham Live in Concert Get ready for an unforgettable night of reggae and d
+ ancehall music as Legends of Legends proudly presents three...
+DTEND;VALUE=DATE:20241117
+DTSTART;VALUE=DATE:20241117
+SUMMARY:Legends of Legends
+UID:d23b1247-06d7-4422-b2ff-0c20e32b32a2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241111T015241Z
+DESCRIPTION:ABBA Voyage is recommended for a general audience from the age
+ s of 6 and up. Children under 3 will not be admitted into the venue. All pe
+ rsons age...
+DTEND;VALUE=DATE:20241117
+DTSTART;VALUE=DATE:20241117
+SUMMARY:ABBA Voyage
+UID:78c03f97-cf13-4cbd-9685-9c881ad1ab6f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241111T015241Z
+DESCRIPTION:Find tickets for Peter Kay at The O2 in London on 11/16/2024 a
+ t 8:00 PM
+DTEND;VALUE=DATE:20241116
+DTSTART;VALUE=DATE:20241116
+SUMMARY:Peter kay
+UID:81971037-c6be-4eff-be05-b11d4b02da20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241111T015241Z
+DESCRIPTION:Now this is someone I’ve been longing to see perform live in 
+ the capital! My all-time favourite Greek singer, the one and only Nikos Oik
+ onomopoulos, together with his 24 piece band are coming to...
+DTEND;VALUE=DATE:20241117
+DTSTART;VALUE=DATE:20241117
+SUMMARY:Nikos Oikonomopoulos
+UID:00f87528-8104-49bf-b2f4-4578165b0065
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241111T015241Z
+DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
+ tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20240205
+DTSTART;VALUE=DATE:20240205
+SUMMARY:Toto plus special guest Christopher Cross
+UID:52fc1723-c208-48f6-bae7-6b2bdb5c191d
 END:VEVENT
 END:VCALENDAR
