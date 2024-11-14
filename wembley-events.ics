@@ -3,95 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
+DTSTAMP:20241114T015609Z
 DESCRIPTION:AEG Presents Ezra Collective This is a 14+ event (Strictly no u
  nder 14’s in the standing area, 14 – 15’s must be with an adult.)
 DTEND;VALUE=DATE:20241115
 DTSTART;VALUE=DATE:20241115
 SUMMARY:Ezra Collective
-UID:069d5ce9-e650-44dc-9c0a-a1dab983ba05
+UID:c7cfbe35-1bb4-466f-96b2-297123a8de77
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
-DESCRIPTION:Find tickets for NCT DREAM at OVO Arena Wembley in London on 11
- /12/2024 at 8:00 PM
-DTEND;VALUE=DATE:20241112
-DTSTART;VALUE=DATE:20241112
-SUMMARY:NCT Dream
-UID:6afd0097-2388-4aa5-8c76-e1f556f7e7dc
+DTSTAMP:20241114T015609Z
+DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
+ ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
+DTEND;VALUE=DATE:20241117
+DTSTART;VALUE=DATE:20241117
+SUMMARY:Bounty Killer
+UID:6d3debe9-ca75-4238-a14b-8a0392a9ad36
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
+DTSTAMP:20241114T015609Z
 DESCRIPTION:Find tickets for KALEO with Júníus Meyvant and Shane Smith & 
  the Saints at OVO Arena Wembley in London on 11/14/2024 at 7:30 PM
 DTEND;VALUE=DATE:20241114
 DTSTART;VALUE=DATE:20241114
 SUMMARY:KALEO - Payback Tour
-UID:446b993f-675a-439a-8fcf-c4845c3b4ea4
+UID:8358ae81-938e-41de-9a1e-ff9d7934737d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
-DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
- ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
-DTEND;VALUE=DATE:20241117
-DTSTART;VALUE=DATE:20241117
-SUMMARY:Beenie Man
-UID:5a01f518-2130-4359-99da-f5b6dc79e7ba
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
+DTSTAMP:20241114T015609Z
 DESCRIPTION:Within Temptation
 DTEND;VALUE=DATE:20241116
 DTSTART;VALUE=DATE:20241116
 SUMMARY:-Tarja- @ OVO Arena Wembley
-UID:813481e4-7602-4311-9746-7955875adb62
+UID:854eaa97-6e0c-4b92-be73-f99be2c4c10d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
+DTSTAMP:20241114T015609Z
 DESCRIPTION:Legends of Legends Present: Bounty Killer, Beenie Man, and Bab
  y Cham Live in Concert Get ready for an unforgettable night of reggae and d
  ancehall music as Legends of Legends proudly presents three...
 DTEND;VALUE=DATE:20241117
 DTSTART;VALUE=DATE:20241117
 SUMMARY:Legends of Legends
-UID:935d781d-67b2-466a-abdf-5b446cc08ac4
+UID:36901499-4921-4bcf-93ca-a912bd960511
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
-DESCRIPTION:ABBA Voyage is recommended for a general audience from the age
- s of 6 and up. Children under 3 will not be admitted into the venue. All pe
- rsons age...
-DTEND;VALUE=DATE:20241117
-DTSTART;VALUE=DATE:20241117
-SUMMARY:ABBA Voyage
-UID:aad96323-5721-4f4a-a7aa-020b96459d08
+DTSTAMP:20241114T015609Z
+DESCRIPTION:Official tickets and information for Boris Brejcha at OVO Arena
+ , Wembley in London from Ents24 - rated Excellent on Trustpilot.
+DTEND;VALUE=DATE:20241122
+DTSTART;VALUE=DATE:20241122
+SUMMARY:Boris Brejcha London Tickets
+UID:6d10d4c5-5f58-4d59-8fd0-29ef062805f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
-DESCRIPTION:Find tickets for Peter Kay at The O2 in London on 11/16/2024 a
- t 8:00 PM
-DTEND;VALUE=DATE:20241116
-DTSTART;VALUE=DATE:20241116
-SUMMARY:Peter kay
-UID:d906d8a1-dbfe-4f94-a788-1ab621ae9cfd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
+DTSTAMP:20241114T015609Z
 DESCRIPTION:Now this is someone I’ve been longing to see perform live in 
  the capital! My all-time favourite Greek singer, the one and only Nikos Oik
  onomopoulos, together with his 24 piece band are coming to...
 DTEND;VALUE=DATE:20241117
 DTSTART;VALUE=DATE:20241117
 SUMMARY:Nikos Oikonomopoulos
-UID:25e7087c-f12d-43bf-975e-5bd323494b40
+UID:fdd695e1-0714-4c71-829f-f904252c2425
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T014921Z
-DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
- tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240205
-DTSTART;VALUE=DATE:20240205
-SUMMARY:Toto plus special guest Christopher Cross
-UID:d6d95688-81eb-4078-8da1-dfe4b997013d
+DTSTAMP:20241114T015609Z
+DESCRIPTION:ABBA Voyage is recommended for a general audience from the age
+ s of 6 and up. Children under 3 will not be admitted into the venue. All pe
+ rsons age...
+DTEND;VALUE=DATE:20241114
+DTSTART;VALUE=DATE:20241114
+SUMMARY:ABBA Voyage
+UID:2250cd24-6a7e-41f6-8701-ee7a7bfadea4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241114T015609Z
+DESCRIPTION:Find tickets for Peter Kay at The O2 in London on 11/16/2024 a
+ t 8:00 PM
+DTEND;VALUE=DATE:20241116
+DTSTART;VALUE=DATE:20241116
+SUMMARY:Peter Kay @ The O2
+UID:a1566eba-e66d-44e9-a190-b08c640d6fb5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241114T015609Z
+DESCRIPTION:Find tickets for Black Stone Cherry with Skillet and Ayron Jone
+ s at OVO Arena Wembley in London on 11/23/2024 at 7:30 PM
+DTEND;VALUE=DATE:20241123
+DTSTART;VALUE=DATE:20241123
+SUMMARY:Black Stone Cherry
+UID:1328229c-fd58-4420-af40-a59f111c12fe
 END:VEVENT
 END:VCALENDAR
