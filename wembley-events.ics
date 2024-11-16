@@ -3,95 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
-DESCRIPTION:AEG Presents Ezra Collective This is a 14+ event (Strictly no u
- nder 14’s in the standing area, 14 – 15’s must be with an adult.)
-DTEND;VALUE=DATE:20241115
-DTSTART;VALUE=DATE:20241115
-SUMMARY:Ezra Collective
-UID:1c10a362-2254-4cc6-9e1f-60570f8d1616
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
+DTSTAMP:20241116T015548Z
 DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
  ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
 DTEND;VALUE=DATE:20241117
 DTSTART;VALUE=DATE:20241117
 SUMMARY:Bounty Killer
-UID:a3a69f1b-91e3-4326-9cf2-73d6e8d27b08
+UID:311aa716-7ffc-4eec-b537-5d8f45e5195b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
+DTSTAMP:20241116T015548Z
 DESCRIPTION:Within Temptation
 DTEND;VALUE=DATE:20241116
 DTSTART;VALUE=DATE:20241116
 SUMMARY:-Tarja- @ OVO Arena Wembley
-UID:12be9da6-6954-40fe-bc2a-77b73657f758
+UID:d67f0cbd-5592-4350-a937-b293250d475a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
+DTSTAMP:20241116T015548Z
 DESCRIPTION:Legends of Legends Present: Bounty Killer, Beenie Man, and Bab
  y Cham Live in Concert Get ready for an unforgettable night of reggae and d
  ancehall music as Legends of Legends proudly presents three...
 DTEND;VALUE=DATE:20241117
 DTSTART;VALUE=DATE:20241117
 SUMMARY:Legends of Legends
-UID:c4576366-a4c8-4165-a9c4-d2596b799169
+UID:17b7d213-fb18-4601-bf93-363b12f2f24a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
+DTSTAMP:20241116T015548Z
 DESCRIPTION:Official tickets and information for Boris Brejcha at OVO Arena
  , Wembley in London from Ents24 - rated Excellent on Trustpilot.
 DTEND;VALUE=DATE:20241122
 DTSTART;VALUE=DATE:20241122
 SUMMARY:Boris Brejcha London Tickets
-UID:7d9bd7a9-9ac0-4526-b8fb-f7f2128a4f82
+UID:1ed82e38-5bf9-4fcb-9e06-af5e1817a0cc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
+DTSTAMP:20241116T015548Z
 DESCRIPTION:Now this is someone I’ve been longing to see perform live in 
  the capital! My all-time favourite Greek singer, the one and only Nikos Oik
  onomopoulos, together with his 24 piece band are coming to...
 DTEND;VALUE=DATE:20241117
 DTSTART;VALUE=DATE:20241117
 SUMMARY:Nikos Oikonomopoulos
-UID:050bca57-aa95-475d-bcbc-955891748a4d
+UID:18674efb-9cf4-45e2-b117-304b4aebed83
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
+DTSTAMP:20241116T015548Z
 DESCRIPTION:Find tickets for Peter Kay at The O2 in London on 11/16/2024 a
  t 8:00 PM
 DTEND;VALUE=DATE:20241116
 DTSTART;VALUE=DATE:20241116
 SUMMARY:Peter Kay @ The O2
-UID:8b0f799b-3e67-4d60-b6c2-bdf0aa3d2d73
+UID:dd5a7709-595a-4113-af9f-cff41359e67f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
+DTSTAMP:20241116T015548Z
+DESCRIPTION:Buy Falling In Reverse tickets and sign-up for latest tour aler
+ ts. Find Falling In Reverse tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20241208
+DTSTART;VALUE=DATE:20241208
+SUMMARY:Falling In Reverse
+UID:4010add6-e51f-4316-8c03-783437536a35
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241116T015548Z
 DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
  tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20240205
 DTSTART;VALUE=DATE:20240205
 SUMMARY:Toto plus special guest Christopher Cross
-UID:0d582a6c-fac4-4cfc-b2ba-77ca124dceb0
+UID:fa1f5d46-1598-4a76-81ad-d3fe23f04fb4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
+DTSTAMP:20241116T015548Z
 DESCRIPTION:This event will take place in EartH Hall. Julien Baker, a nativ
  e of Memphis who began playing music as a child, rose to worldwide attentio
  n in 2015 with her debut album, "Sprained Ankle." Her...
 DTEND;VALUE=DATE:20241117
 DTSTART;VALUE=DATE:20241117
 SUMMARY:Julien Baker
-UID:ae5ba7b1-96ae-4c40-9458-9c6b96cfee8f
+UID:3b286890-a27a-4969-84fd-36d748a900d5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T015808Z
-DESCRIPTION:Find tickets for Black Stone Cherry with Skillet and Ayron Jone
- s at OVO Arena Wembley in London on 11/23/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241123
-DTSTART;VALUE=DATE:20241123
-SUMMARY:Black Stone Cherry
-UID:a49d2daa-bbbc-42ae-aff8-add02746172c
+DTSTAMP:20241116T015548Z
+DESCRIPTION:Find tickets for James Bay at OVO Arena Wembley in London on 2/
+ 13/2025 at 6:00 PM
+DTEND;VALUE=DATE:20240213
+DTSTART;VALUE=DATE:20240213
+SUMMARY:James Bay
+UID:b4a66664-402d-47fa-b6c4-f81f7a225725
 END:VEVENT
 END:VCALENDAR
