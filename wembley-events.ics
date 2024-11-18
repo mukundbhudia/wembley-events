@@ -3,95 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:Find tickets for Bounty Killer with Beenie Man, Baby Cham and C
- ham at OVO Arena Wembley in London on 11/17/2024 at 6:00 PM
-DTEND;VALUE=DATE:20241117
-DTSTART;VALUE=DATE:20241117
-SUMMARY:Bounty Killer
-UID:311aa716-7ffc-4eec-b537-5d8f45e5195b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:Within Temptation
-DTEND;VALUE=DATE:20241116
-DTSTART;VALUE=DATE:20241116
-SUMMARY:-Tarja- @ OVO Arena Wembley
-UID:d67f0cbd-5592-4350-a937-b293250d475a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:Legends of Legends Present: Bounty Killer, Beenie Man, and Bab
- y Cham Live in Concert Get ready for an unforgettable night of reggae and d
- ancehall music as Legends of Legends proudly presents three...
-DTEND;VALUE=DATE:20241117
-DTSTART;VALUE=DATE:20241117
-SUMMARY:Legends of Legends
-UID:17b7d213-fb18-4601-bf93-363b12f2f24a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:Official tickets and information for Boris Brejcha at OVO Arena
- , Wembley in London from Ents24 - rated Excellent on Trustpilot.
+DTSTAMP:20241118T020025Z
+DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
+ a Wembley in London on 11/22/2024 at 7:00 PM
 DTEND;VALUE=DATE:20241122
 DTSTART;VALUE=DATE:20241122
-SUMMARY:Boris Brejcha London Tickets
-UID:1ed82e38-5bf9-4fcb-9e06-af5e1817a0cc
+SUMMARY:Moritz Hofbauer
+UID:20cf9b25-483a-4082-82a2-783cee694fa6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:Now this is someone I’ve been longing to see perform live in 
- the capital! My all-time favourite Greek singer, the one and only Nikos Oik
- onomopoulos, together with his 24 piece band are coming to...
-DTEND;VALUE=DATE:20241117
-DTSTART;VALUE=DATE:20241117
-SUMMARY:Nikos Oikonomopoulos
-UID:18674efb-9cf4-45e2-b117-304b4aebed83
+DTSTAMP:20241118T020025Z
+DESCRIPTION:XG is a 7-member HIPHOP/R&B-inspired girl group consisting of J
+ URIN, CHISA, HINATA, HARVEY, JURIA, MAYA, and COCONA. They debuted in Marc
+ h 2022 with their 1st Single "Tippy Toes" under the global...
+DTEND;VALUE=DATE:20241119
+DTSTART;VALUE=DATE:20241119
+SUMMARY:XG
+UID:a5f3ae01-3859-4fc6-82de-ecad76e4c715
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:Find tickets for Peter Kay at The O2 in London on 11/16/2024 a
- t 8:00 PM
-DTEND;VALUE=DATE:20241116
-DTSTART;VALUE=DATE:20241116
-SUMMARY:Peter Kay @ The O2
-UID:dd5a7709-595a-4113-af9f-cff41359e67f
+DTSTAMP:20241118T020025Z
+DESCRIPTION:UK chart-topping proud Kentucky hard rockers, Black Stone Cherr
+ y, are back with their urgently-emotive pop-rock hooks; heartfelt, redempti
+ ve lyrics; headbanging riffs; powerful dynamics...
+DTEND;VALUE=DATE:20241123
+DTSTART;VALUE=DATE:20241123
+SUMMARY:Ayron Jones
+UID:000e36e4-3093-46fa-9ac0-0fc3b46a38f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:Buy Falling In Reverse tickets and sign-up for latest tour aler
- ts. Find Falling In Reverse tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20241208
-DTSTART;VALUE=DATE:20241208
-SUMMARY:Falling In Reverse
-UID:4010add6-e51f-4316-8c03-783437536a35
+DTSTAMP:20241118T020025Z
+DESCRIPTION:Skillet lets their music speak the loudest. That’s how the qu
+ artet has cemented its place as one of the 21st century’s most successful
+  rock bands. Selling over 11 million units worldwide, the...
+DTEND;VALUE=DATE:20241123
+DTSTART;VALUE=DATE:20241123
+SUMMARY:Skillet
+UID:109906dc-7b76-4291-afce-13005c416530
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
- tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240205
-DTSTART;VALUE=DATE:20240205
-SUMMARY:Toto plus special guest Christopher Cross
-UID:fa1f5d46-1598-4a76-81ad-d3fe23f04fb4
+DTSTAMP:20241118T020025Z
+DESCRIPTION:Headie One’s debut album Edna was released in 2020, making hi
+ m the first drill artist to have a UK Official Chart #1 album. Nearly four 
+ years on, the heavily prolific rapper from North London’s...
+DTEND;VALUE=DATE:20241129
+DTSTART;VALUE=DATE:20241129
+SUMMARY:Headie One
+UID:24c68fa8-14ee-4d6c-8c7c-f2f7c65bbf4f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:This event will take place in EartH Hall. Julien Baker, a nativ
- e of Memphis who began playing music as a child, rose to worldwide attentio
- n in 2015 with her debut album, "Sprained Ankle." Her...
-DTEND;VALUE=DATE:20241117
-DTSTART;VALUE=DATE:20241117
-SUMMARY:Julien Baker
-UID:3b286890-a27a-4969-84fd-36d748a900d5
+DTSTAMP:20241118T020025Z
+DESCRIPTION:Buy Solstafir tickets and sign-up for latest tour alerts. Find 
+ Solstafir tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20241124
+DTSTART;VALUE=DATE:20241124
+SUMMARY:🎤 Solstafir Tickets
+UID:73ed6a34-dbb0-4d41-a451-415ac2143de5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241116T015548Z
-DESCRIPTION:Find tickets for James Bay at OVO Arena Wembley in London on 2/
- 13/2025 at 6:00 PM
-DTEND;VALUE=DATE:20240213
-DTSTART;VALUE=DATE:20240213
-SUMMARY:James Bay
-UID:b4a66664-402d-47fa-b6c4-f81f7a225725
+DTSTAMP:20241118T020025Z
+DESCRIPTION:International metal forces join in a monstrous union between U
+ S metal monsters, Anthrax and German thrash titans, Kreator. Completing thi
+ s unmissable line-up, a very special guest, the Bay Area’s...
+DTEND;VALUE=DATE:20241123
+DTSTART;VALUE=DATE:20241123
+SUMMARY:Anthrax & Kreator - Co-Headline
+UID:347a6b02-c25c-47dd-a964-d3bd931464b8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241118T020025Z
+DESCRIPTION:Find tickets for Julian Lage at Cadogan Hall in London on 11/21
+ /2024 at 7:30 PM
+DTEND;VALUE=DATE:20241121
+DTSTART;VALUE=DATE:20241121
+SUMMARY:Julian Lage
+UID:3020d0c9-3998-416e-a31b-fd478349ef8d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241118T020025Z
+DESCRIPTION:Martin Fry Wednesday 20th November 2024 Union Chapel, London i 
+ Doors at 19:00
+DTEND;VALUE=DATE:20241120
+DTSTART;VALUE=DATE:20241120
+SUMMARY:Martin Fry
+UID:5ede44d7-8a97-423d-aa18-ad1ba65b95fc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241118T020025Z
+DESCRIPTION:The Corrs have added a London show to their Talk On Corners Tou
+ r this autumn. The Corrs tickets go on general sale at 10am today. The sibl
+ ing quartet will now wrap up the trek run at The O2 on...
+DTEND;VALUE=DATE:20241120
+DTSTART;VALUE=DATE:20241120
+SUMMARY:The Corrs
+UID:a7667e1f-7e7d-47a2-8abe-6fe57e6977fa
 END:VEVENT
 END:VCALENDAR
