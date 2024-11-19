@@ -3,99 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
+DTSTAMP:20241119T015805Z
 DESCRIPTION:Find tickets for Boris Brejcha with Moritz Hofbauer at OVO Aren
  a Wembley in London on 11/22/2024 at 7:00 PM
 DTEND;VALUE=DATE:20241122
 DTSTART;VALUE=DATE:20241122
 SUMMARY:Moritz Hofbauer
-UID:20cf9b25-483a-4082-82a2-783cee694fa6
+UID:71803767-b2a7-46c6-a88e-fa2ea82d2d2f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
-DESCRIPTION:XG is a 7-member HIPHOP/R&B-inspired girl group consisting of J
- URIN, CHISA, HINATA, HARVEY, JURIA, MAYA, and COCONA. They debuted in Marc
- h 2022 with their 1st Single "Tippy Toes" under the global...
+DTSTAMP:20241119T015805Z
+DESCRIPTION:Find tickets for XG at OVO Arena Wembley in London on 11/19/202
+ 4 at 7:30 PM
 DTEND;VALUE=DATE:20241119
 DTSTART;VALUE=DATE:20241119
-SUMMARY:XG
-UID:a5f3ae01-3859-4fc6-82de-ecad76e4c715
+SUMMARY:XG 1st World Tour "The First Howl"
+UID:94f34365-f7fb-4b0e-b6e8-6c3f4361472e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
+DTSTAMP:20241119T015805Z
 DESCRIPTION:UK chart-topping proud Kentucky hard rockers, Black Stone Cherr
  y, are back with their urgently-emotive pop-rock hooks; heartfelt, redempti
  ve lyrics; headbanging riffs; powerful dynamics...
 DTEND;VALUE=DATE:20241123
 DTSTART;VALUE=DATE:20241123
 SUMMARY:Ayron Jones
-UID:000e36e4-3093-46fa-9ac0-0fc3b46a38f2
+UID:c309a344-c49c-42f9-b449-8edbf8b06e80
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
+DTSTAMP:20241119T015805Z
 DESCRIPTION:Skillet lets their music speak the loudest. That’s how the qu
  artet has cemented its place as one of the 21st century’s most successful
   rock bands. Selling over 11 million units worldwide, the...
 DTEND;VALUE=DATE:20241123
 DTSTART;VALUE=DATE:20241123
 SUMMARY:Skillet
-UID:109906dc-7b76-4291-afce-13005c416530
+UID:66129fd6-15c0-4e6e-be9c-e921d2f63f99
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
-DESCRIPTION:Headie One’s debut album Edna was released in 2020, making hi
- m the first drill artist to have a UK Official Chart #1 album. Nearly four 
- years on, the heavily prolific rapper from North London’s...
+DTSTAMP:20241119T015805Z
+DESCRIPTION:Atmospheric metal from Iceland's Solstafir, who blend psychedel
+ ic elements into classic rock sounds. Now on fifth album Ótta.
+DTEND;VALUE=DATE:20241124
+DTSTART;VALUE=DATE:20241124
+SUMMARY:Oranssi Pazuzu
+UID:56fe7ad6-6477-4c5e-9d38-39bb53696c25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241119T015805Z
+DESCRIPTION:Martin Fry Wednesday 20th November 2024 Union Chapel, London i 
+ Doors at 19:00
+DTEND;VALUE=DATE:20241120
+DTSTART;VALUE=DATE:20241120
+SUMMARY:Martin Fry
+UID:30effb38-2956-4015-a263-d8e64dcac95d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241119T015805Z
+DESCRIPTION:Official tickets and information for Headie One at OVO Arena, W
+ embley in London from Ents24 - rated Excellent on Trustpilot.
 DTEND;VALUE=DATE:20241129
 DTSTART;VALUE=DATE:20241129
 SUMMARY:Headie One
-UID:24c68fa8-14ee-4d6c-8c7c-f2f7c65bbf4f
+UID:3141e8c4-ad48-43bd-be92-a0c1cdfd746e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
-DESCRIPTION:Buy Solstafir tickets and sign-up for latest tour alerts. Find 
- Solstafir tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20241124
-DTSTART;VALUE=DATE:20241124
-SUMMARY:🎤 Solstafir Tickets
-UID:73ed6a34-dbb0-4d41-a451-415ac2143de5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
+DTSTAMP:20241119T015805Z
 DESCRIPTION:International metal forces join in a monstrous union between U
  S metal monsters, Anthrax and German thrash titans, Kreator. Completing thi
  s unmissable line-up, a very special guest, the Bay Area’s...
 DTEND;VALUE=DATE:20241123
 DTSTART;VALUE=DATE:20241123
 SUMMARY:Anthrax & Kreator - Co-Headline
-UID:347a6b02-c25c-47dd-a964-d3bd931464b8
+UID:0bd96d48-e4f6-447e-9f53-6b20891c90a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
+DTSTAMP:20241119T015805Z
 DESCRIPTION:Find tickets for Julian Lage at Cadogan Hall in London on 11/21
  /2024 at 7:30 PM
 DTEND;VALUE=DATE:20241121
 DTSTART;VALUE=DATE:20241121
 SUMMARY:Julian Lage
-UID:3020d0c9-3998-416e-a31b-fd478349ef8d
+UID:6ec46540-93df-4240-b85c-2c1be0929862
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
-DESCRIPTION:Martin Fry Wednesday 20th November 2024 Union Chapel, London i 
- Doors at 19:00
-DTEND;VALUE=DATE:20241120
-DTSTART;VALUE=DATE:20241120
-SUMMARY:Martin Fry
-UID:5ede44d7-8a97-423d-aa18-ad1ba65b95fc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241118T020025Z
-DESCRIPTION:The Corrs have added a London show to their Talk On Corners Tou
- r this autumn. The Corrs tickets go on general sale at 10am today. The sibl
- ing quartet will now wrap up the trek run at The O2 on...
-DTEND;VALUE=DATE:20241120
-DTSTART;VALUE=DATE:20241120
-SUMMARY:The Corrs
-UID:a7667e1f-7e7d-47a2-8abe-6fe57e6977fa
+DTSTAMP:20241119T015805Z
+DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
+ tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20240205
+DTSTART;VALUE=DATE:20240205
+SUMMARY:Toto plus special guest Christopher Cross
+UID:b16839bd-f443-4f46-8171-f7dc2814a44d
 END:VEVENT
 END:VCALENDAR
