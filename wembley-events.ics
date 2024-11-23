@@ -3,98 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
-DESCRIPTION:Official tickets and information for Boris Brejcha at OVO Arena
- , Wembley in London from Ents24 - rated Excellent on Trustpilot.
-DTEND;VALUE=DATE:20241122
-DTSTART;VALUE=DATE:20241122
-SUMMARY:Boris Brejcha London Tickets
-UID:cd498aca-3a08-4e81-9c28-269d9465e317
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
+DTSTAMP:20241123T015429Z
 DESCRIPTION:UK chart-topping proud Kentucky hard rockers, Black Stone Cherr
  y, are back with their urgently-emotive pop-rock hooks; heartfelt, redempti
  ve lyrics; headbanging riffs; powerful dynamics...
 DTEND;VALUE=DATE:20241123
 DTSTART;VALUE=DATE:20241123
-SUMMARY:Ayron Jones
-UID:bb1c28d1-6114-4cf7-a947-4247fdb10ec1
+SUMMARY:Black Stone Cherry
+UID:d314cd1a-1987-4671-aad6-951b12b3b732
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
+DTSTAMP:20241123T015429Z
+DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
+ venue customers
+DTEND;VALUE=DATE:20241124
+DTSTART;VALUE=DATE:20241124
+SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
+ 0yr olds
+UID:66fafd71-fca8-4656-97fa-66392b44ee4e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241123T015429Z
 DESCRIPTION:Skillet lets their music speak the loudest. That’s how the qu
  artet has cemented its place as one of the 21st century’s most successful
   rock bands. Selling over 11 million units worldwide, the...
 DTEND;VALUE=DATE:20241123
 DTSTART;VALUE=DATE:20241123
 SUMMARY:Skillet
-UID:5e419e2b-2847-4512-9a63-2d5807455405
+UID:e8ac1863-7550-41c6-b0de-3536b88a8dc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
+DTSTAMP:20241123T015429Z
 DESCRIPTION:Buy Solstafir tickets and sign-up for latest tour alerts. Find 
  Solstafir tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20241124
 DTSTART;VALUE=DATE:20241124
 SUMMARY:🎤 Solstafir Tickets
-UID:29df71af-751b-476b-ad42-df8e20cb5147
+UID:4084196a-084c-4682-af28-241521dc2cde
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
-DESCRIPTION:Official tickets and information for Headie One at OVO Arena, W
- embley in London from Ents24 - rated Excellent on Trustpilot.
-DTEND;VALUE=DATE:20241129
-DTSTART;VALUE=DATE:20241129
-SUMMARY:Headie One
-UID:677fef89-2725-4238-9aa4-63d529d5a33b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
+DTSTAMP:20241123T015429Z
 DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
  tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20240205
 DTSTART;VALUE=DATE:20240205
 SUMMARY:Toto plus special guest Christopher Cross
-UID:6a564cfa-ec76-4079-8c7a-884d17864f2a
+UID:bc0c487c-2927-47dc-afc3-ba0e55822a8a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
+DTSTAMP:20241123T015429Z
+DESCRIPTION:Official tickets and information for Headie One at OVO Arena, W
+ embley in London from Ents24 - rated Excellent on Trustpilot.
+DTEND;VALUE=DATE:20241129
+DTSTART;VALUE=DATE:20241129
+SUMMARY:Headie One
+UID:7463a0d9-4597-401a-ba63-6d9890d0d741
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241123T015429Z
 DESCRIPTION:Dean Lewis has over 6.1+ billion streams of his music with 3.3M
  + albums and Eps sold worldwide. He was welcomed into the Spotify Billions 
  club for his song ‘Be Alright’ and has over 1M YouTube...
 DTEND;VALUE=DATE:20240208
 DTSTART;VALUE=DATE:20240208
 SUMMARY:Dean Lewis
-UID:985def10-4129-4408-a084-4ec84a08851d
+UID:54133cb4-5246-4164-b146-f681b2497d90
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
+DTSTAMP:20241123T015429Z
 DESCRIPTION:ABBA Voyage is recommended for a general audience from the age
  s of 6 and up. Children under 3 will not be admitted into the venue. All pe
  rsons age...
 DTEND;VALUE=DATE:20241124
 DTSTART;VALUE=DATE:20241124
 SUMMARY:ABBA Voyage
-UID:820d7dd2-8304-4962-9857-ff0fc48edde1
+UID:4871c448-1fcb-453b-a5a9-301405f1adcf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
+DTSTAMP:20241123T015429Z
+DESCRIPTION:Aynsley Lister has been at the top of the Blues scene for over 
+ two decades, billed as one of the most exciting contemporary Blues guitaris
+ ts around today. Known not only for his exceptional guitar...
+DTEND;VALUE=DATE:20241124
+DTSTART;VALUE=DATE:20241124
+SUMMARY:Aynsley Lister
+UID:55d98c91-6415-4f99-a89c-d8c05476db66
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241123T015429Z
 DESCRIPTION:International metal forces join in a monstrous union between U
  S metal monsters, Anthrax and German thrash titans, Kreator. Completing thi
  s unmissable line-up, a very special guest, the Bay Area’s...
 DTEND;VALUE=DATE:20241123
 DTSTART;VALUE=DATE:20241123
 SUMMARY:Anthrax & Kreator - Co-Headline
-UID:997149f0-eb2e-4527-8065-ce2b4f63e43c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241122T015753Z
-DESCRIPTION:Find tickets for The Darkness with Ash at OVO Arena Wembley in 
- London on 3/29/2025 at 6:30 PM
-DTEND;VALUE=DATE:20240329
-DTSTART;VALUE=DATE:20240329
-SUMMARY:The Darkness
-UID:d85bd7af-6fcc-4c13-9f8f-c78a04701741
+UID:23c709c8-da8a-4055-869c-1584443f08cc
 END:VEVENT
 END:VCALENDAR
