@@ -3,98 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
-DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
- venue customers
-DTEND;VALUE=DATE:20241124
-DTSTART;VALUE=DATE:20241124
-SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
- 0yr olds
-UID:e7f9866e-9b40-446d-a82a-1f91fc501704
+DTSTAMP:20241125T020002Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20241127
+DTSTART;VALUE=DATE:20241127
+SUMMARY:LAUGH IN THE BOX - COMEDY CLUB
+UID:eb3234c7-d14c-4761-af62-5d115281ea1e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
+DTSTAMP:20241125T020002Z
+DESCRIPTION:Buy Jools Holland & His Rhythm & Blues Orchestra tickets and si
+ gn-up for latest tour alerts. Find Jools Holland & His Rhythm & Blues Orche
+ stra tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20241130
+DTSTART;VALUE=DATE:20241130
+SUMMARY:Jools Holland
+UID:9474bf39-4453-4fd5-b1b2-b535de4fbd4e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T020002Z
+DESCRIPTION:Find tickets for Level 42 at indigo at The O2 in London on 11/2
+ 9/2024 at 7:00 PM
+DTEND;VALUE=DATE:20241129
+DTSTART;VALUE=DATE:20241129
+SUMMARY:Level 42
+UID:d49dd069-1d8f-4f08-8f37-a725947def11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T020002Z
+DESCRIPTION:Find tickets for Will Young with Harriet at Cadogan Hall in Lon
+ don on 11/27/2024 at 6:00 PM
+DTEND;VALUE=DATE:20241127
+DTSTART;VALUE=DATE:20241127
+SUMMARY:Will Young, Harriet
+UID:9cc87e33-68de-4cad-af13-ea8098ab956c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T020002Z
 DESCRIPTION:Biggest 90s 00s Disco It began with two dj’s: Danski and Delm
  undo, throwing impromptu and illegal beach parties from their worn out sch
  ool bus. While touring the Spanish coast and Ibiza between...
 DTEND;VALUE=DATE:20241213
 DTSTART;VALUE=DATE:20241213
 SUMMARY:Vengaboys
-UID:a2fe7bba-80b4-4b14-a6df-d1407aa52ddb
+UID:6a0e093c-65eb-404b-a3af-5964cd8be632
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
+DTSTAMP:20241125T020002Z
+DESCRIPTION:Find tickets for Will Young with Harriet at Cadogan Hall in Lon
+ don on 11/26/2024 at 6:00 PM
+DTEND;VALUE=DATE:20241126
+DTSTART;VALUE=DATE:20241126
+SUMMARY:Will Young
+UID:282f6188-e584-4487-ad3a-6815131ed1b1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T020002Z
 DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
  tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20240205
 DTSTART;VALUE=DATE:20240205
 SUMMARY:Toto plus special guest Christopher Cross
-UID:d8f90326-7439-479e-b2c5-5ab710bdfb1b
+UID:898f0f66-bf8a-4c22-9725-5cbf73843623
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
+DTSTAMP:20241125T020002Z
 DESCRIPTION:Action! Presents Papa Roach \+ Special Guests £1 from each tic
  ket sale will be donated to CALM, charity number 1110621. Standing – No u
  nder 14s, 14-15 yr olds to be accompanied by an adult (16...
 DTEND;VALUE=DATE:20240207
 DTSTART;VALUE=DATE:20240207
 SUMMARY:Papa Roach, Wage War
-UID:b175eb44-4510-4087-8d18-b3914b10a729
+UID:3db5b149-3977-4782-8bd6-31b81fe4bd2f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
+DTSTAMP:20241125T020002Z
 DESCRIPTION:Find tickets for Dean Lewis at OVO Arena Wembley in London on 2
  /8/2025 at 7:30 PM
 DTEND;VALUE=DATE:20240208
 DTSTART;VALUE=DATE:20240208
 SUMMARY:Dean Lewis
-UID:12ed8b4a-42a6-47b5-8d34-110e9f87ad38
+UID:416a1916-b5b3-4018-8c08-a66375ad150c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
-DESCRIPTION:ABBA Voyage is recommended for a general audience from the age
- s of 6 and up. Children under 3 will not be admitted into the venue. All pe
- rsons age...
-DTEND;VALUE=DATE:20241124
-DTSTART;VALUE=DATE:20241124
-SUMMARY:ABBA Voyage
-UID:853d9eb5-d53c-4531-8430-07be337ef4da
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
-DESCRIPTION:Aynsley Lister has been at the top of the Blues scene for over 
- two decades, billed as one of the most exciting contemporary Blues guitaris
- ts around today. Known not only for his exceptional guitar...
-DTEND;VALUE=DATE:20241124
-DTSTART;VALUE=DATE:20241124
-SUMMARY:Aynsley Lister
-UID:67eaf048-1053-422d-8dff-70f20fe313d4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
-DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
- 3/7/2025 at 7:30 PM
-DTEND;VALUE=DATE:20240307
-DTSTART;VALUE=DATE:20240307
-SUMMARY:Teddy Swims
-UID:ef4b0b45-97d3-4414-8e37-bb5dabaead7a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
-DESCRIPTION:Find tickets for The Human League with Sophie Ellis-Bextor and 
- T'Pau at OVO Arena Wembley in London on 12/14/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241214
-DTSTART;VALUE=DATE:20241214
-SUMMARY:The Human League
-UID:e33947a5-36aa-40ce-9f84-ffb93e0d9d7a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241124T020331Z
-DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
- 25 at 7:30 PM
-DTEND;VALUE=DATE:20240302
-DTSTART;VALUE=DATE:20240302
-SUMMARY:aespa
-UID:fe048a7f-7cbe-4dc7-a54e-cc028b0a3e26
+DTSTAMP:20241125T020002Z
+DESCRIPTION:British rap legend Nines reveals his monumental tenth project, 
+ Quit While You're Ahead – his sixth and final album, out on 27 September 
+ – and announces his last-ever headline show, which will take...
+DTEND;VALUE=DATE:20241127
+DTSTART;VALUE=DATE:20241127
+SUMMARY:Nines: The Final Show
+UID:1da0fdc9-f84a-46fb-a5c0-efb8baace495
 END:VEVENT
 END:VCALENDAR
