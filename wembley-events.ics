@@ -3,95 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
-DESCRIPTION:British drill rap artist Headie One tours the UK and Ireland wi
- th his latest album Music x Road.
-DTEND;VALUE=DATE:20241129
-DTSTART;VALUE=DATE:20241129
-SUMMARY:Headie One
-UID:c98b8910-3278-43c9-a6ef-c7d1e5f1fe6f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
+DTSTAMP:20241201T022112Z
 DESCRIPTION:Biggest 90s 00s Disco It began with two dj’s: Danski and Delm
  undo, throwing impromptu and illegal beach parties from their worn out sch
  ool bus. While touring the Spanish coast and Ibiza between...
 DTEND;VALUE=DATE:20241213
 DTSTART;VALUE=DATE:20241213
 SUMMARY:Vengaboys
-UID:de1ad8cc-4497-41cb-b93e-0175caacb8d7
+UID:022e031b-30db-4d7c-9822-5abf290b2662
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
-DESCRIPTION:Find tickets for Dean Lewis at OVO Arena Wembley in London on 2
- /8/2025 at 7:30 PM
-DTEND;VALUE=DATE:20240208
-DTSTART;VALUE=DATE:20240208
-SUMMARY:Dean Lewis
-UID:9d34574a-30cb-40dd-b49f-ae4fde62cbfd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
-DESCRIPTION:Find tickets for Level 42 at indigo at The O2 in London on 11/2
- 9/2024 at 7:00 PM
-DTEND;VALUE=DATE:20241129
-DTSTART;VALUE=DATE:20241129
-SUMMARY:Level 42
-UID:574c15e8-73e8-4fdf-9d7d-c79f63cbcf98
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
-DESCRIPTION:Find tickets for The Human League with Sophie Ellis-Bextor and 
- T'Pau at OVO Arena Wembley in London on 12/14/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241214
-DTSTART;VALUE=DATE:20241214
-SUMMARY:The Human League
-UID:fba60814-f8ff-4f0e-9e93-50a5f92809f7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
-DESCRIPTION:Find tickets for Lola Wild at Brasserie Zedel - Crazy Coqs in L
- ondon on 11/28/2024 at 9:00 PM
-DTEND;VALUE=DATE:20241129
-DTSTART;VALUE=DATE:20241129
-SUMMARY:Lola Wild
-UID:76e80585-0d63-48f3-b077-86c265348ee5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
+DTSTAMP:20241201T022112Z
 DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
  2/2025 at 6:30 PM
 DTEND;VALUE=DATE:20240322
 DTSTART;VALUE=DATE:20240322
 SUMMARY:The Game - 20 Years of The Documentary
-UID:d4f074b9-22a6-46bf-b46f-910e8314fd80
+UID:25931cca-ebf1-4b29-aa37-5f9674875411
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
+DTSTAMP:20241201T022112Z
+DESCRIPTION:Find tickets for The Human League with Sophie Ellis-Bextor and 
+ T'Pau at OVO Arena Wembley in London on 12/14/2024 at 7:30 PM
+DTEND;VALUE=DATE:20241214
+DTSTART;VALUE=DATE:20241214
+SUMMARY:The Human League
+UID:531cd9e0-0570-40d8-ab3e-04bc73e9c63a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241201T022112Z
+DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
+ tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20240205
+DTSTART;VALUE=DATE:20240205
+SUMMARY:Toto plus special guest Christopher Cross
+UID:10a08b19-a360-4fe0-ac2c-17e97542a8a2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241201T022112Z
+DESCRIPTION:Find tickets for James Bay at OVO Arena Wembley in London on 2/
+ 13/2025 at 6:00 PM
+DTEND;VALUE=DATE:20240213
+DTSTART;VALUE=DATE:20240213
+SUMMARY:James Bay
+UID:fe106cbe-bc30-4703-b3b6-f37245bb88df
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241201T022112Z
 DESCRIPTION:Date overview Please note the following: In order to execute th
  is event, your details (name and email address) will be transferred to our 
  partner ABBA Voyage (Aniara Ltd., 1 Pudding Mill Lane...
 DTEND;VALUE=DATE:20241201
 DTSTART;VALUE=DATE:20241201
 SUMMARY:ABBA Voyage
-UID:1f775a45-a894-4e08-82ca-565374284c66
+UID:29b5c731-743d-4e10-80e0-e57556c7f23e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
-DESCRIPTION:Level 42 tickets – Sat, 30 Nov 2024, 7:00 pm at Abba Arena
-DTEND;VALUE=DATE:20241130
-DTSTART;VALUE=DATE:20241130
-SUMMARY:Level 42
-UID:54b62ad0-3c48-48fa-b58e-b36e6208bada
+DTSTAMP:20241201T022112Z
+DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
+ 3/6/2025 at 7:30 PM
+DTEND;VALUE=DATE:20240306
+DTSTART;VALUE=DATE:20240306
+SUMMARY:Teddy Swims
+UID:ded5cd3e-d5c4-45fb-819e-d088368309c5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241129T015953Z
-DESCRIPTION:Last.fm concert page for 2025 aespa LIVE TOUR - SYNK : PARALLE
- L LINE at OVO Arena Wembley (London) on March 2, 2025. Discuss the gig, ge
- t concert tickets, see who's attending, find similar events.
-DTEND;VALUE=DATE:20240302
-DTSTART;VALUE=DATE:20240302
-SUMMARY:aespa
-UID:620dfe89-62d5-4314-a1cd-53128cfaa08b
+DTSTAMP:20241201T022112Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20241208
+DTSTART;VALUE=DATE:20241208
+SUMMARY:Tech N9ne @ OVO Arena Wembley
+UID:1bd0243e-4745-4433-a5b1-66fac95e2da8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241201T022112Z
+DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
+ t Fateh Ali Khan, was mentored under him since birth and is now the King o
+ f Qawwali and Sufi music and the glorious voice behind hit...
+DTEND;VALUE=DATE:20240405
+DTSTART;VALUE=DATE:20240405
+SUMMARY:Rahat Fateh Ali Khan
+UID:1ef3c929-1702-4b6f-a140-58233e07d026
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241201T022112Z
+DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
+ , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
+ oth her parents were well versed in classical music. She is...
+DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20240126
+SUMMARY:Anuradha Paudwal
+UID:8b65ad03-8986-410b-9a34-63687c014b0e
 END:VEVENT
 END:VCALENDAR
