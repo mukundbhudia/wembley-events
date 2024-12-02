@@ -3,98 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
-DESCRIPTION:Biggest 90s 00s Disco It began with two dj’s: Danski and Delm
- undo, throwing impromptu and illegal beach parties from their worn out sch
- ool bus. While touring the Spanish coast and Ibiza between...
-DTEND;VALUE=DATE:20241213
-DTSTART;VALUE=DATE:20241213
-SUMMARY:Vengaboys
-UID:022e031b-30db-4d7c-9822-5abf290b2662
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
-DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
- 2/2025 at 6:30 PM
-DTEND;VALUE=DATE:20240322
-DTSTART;VALUE=DATE:20240322
-SUMMARY:The Game - 20 Years of The Documentary
-UID:25931cca-ebf1-4b29-aa37-5f9674875411
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
-DESCRIPTION:Find tickets for The Human League with Sophie Ellis-Bextor and 
- T'Pau at OVO Arena Wembley in London on 12/14/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241214
-DTSTART;VALUE=DATE:20241214
-SUMMARY:The Human League
-UID:531cd9e0-0570-40d8-ab3e-04bc73e9c63a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
-DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
- tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20240205
-DTSTART;VALUE=DATE:20240205
-SUMMARY:Toto plus special guest Christopher Cross
-UID:10a08b19-a360-4fe0-ac2c-17e97542a8a2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
-DESCRIPTION:Find tickets for James Bay at OVO Arena Wembley in London on 2/
- 13/2025 at 6:00 PM
-DTEND;VALUE=DATE:20240213
-DTSTART;VALUE=DATE:20240213
-SUMMARY:James Bay
-UID:fe106cbe-bc30-4703-b3b6-f37245bb88df
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
-DESCRIPTION:Date overview Please note the following: In order to execute th
- is event, your details (name and email address) will be transferred to our 
- partner ABBA Voyage (Aniara Ltd., 1 Pudding Mill Lane...
-DTEND;VALUE=DATE:20241201
-DTSTART;VALUE=DATE:20241201
-SUMMARY:ABBA Voyage
-UID:29b5c731-743d-4e10-80e0-e57556c7f23e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
-DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
- 3/6/2025 at 7:30 PM
-DTEND;VALUE=DATE:20240306
-DTSTART;VALUE=DATE:20240306
-SUMMARY:Teddy Swims
-UID:ded5cd3e-d5c4-45fb-819e-d088368309c5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
+DTSTAMP:20241202T020359Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20241208
 DTSTART;VALUE=DATE:20241208
 SUMMARY:Tech N9ne @ OVO Arena Wembley
-UID:1bd0243e-4745-4433-a5b1-66fac95e2da8
+UID:7bf2572d-20c7-4076-851e-e06253e6b8bc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
-DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
- t Fateh Ali Khan, was mentored under him since birth and is now the King o
- f Qawwali and Sufi music and the glorious voice behind hit...
-DTEND;VALUE=DATE:20240405
-DTSTART;VALUE=DATE:20240405
-SUMMARY:Rahat Fateh Ali Khan
-UID:1ef3c929-1702-4b6f-a140-58233e07d026
+DTSTAMP:20241202T020359Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20241208
+DTSTART;VALUE=DATE:20241208
+SUMMARY:Tech N9ne
+UID:2a7a74c8-72ef-4921-aa0c-388163ff313a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241201T022112Z
-DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
- , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
- oth her parents were well versed in classical music. She is...
-DTEND;VALUE=DATE:20240126
-DTSTART;VALUE=DATE:20240126
-SUMMARY:Anuradha Paudwal
-UID:8b65ad03-8986-410b-9a34-63687c014b0e
+DTSTAMP:20241202T020359Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20241208
+DTSTART;VALUE=DATE:20241208
+SUMMARY:Slaughter to Prevail
+UID:10a2ad31-56b5-407d-a504-45d138fbc352
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241202T020359Z
+DESCRIPTION:Buy Falling In Reverse tickets and sign-up for latest tour aler
+ ts. Find Falling In Reverse tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20241208
+DTSTART;VALUE=DATE:20241208
+SUMMARY:Hollywood Undead
+UID:a6ff2bda-9dbc-4891-91fd-2b8517f668ce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241202T020359Z
+DESCRIPTION:Comedy event in London, United Kingdom by Union Chapel and Vir 
+ Das on Friday, December 6 2024
+DTEND;VALUE=DATE:20241206
+DTSTART;VALUE=DATE:20241206
+SUMMARY:Vir Das: Mind Fool Tour
+UID:29282346-6baa-4e70-894b-6ceddd0c3157
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241202T020359Z
+DESCRIPTION:Biggest 90s 00s Disco It began with two dj’s: Danski and Delm
+ undo, throwing impromptu and illegal beach parties from their worn out sch
+ ool bus. While touring the Spanish coast and Ibiza between...
+DTEND;VALUE=DATE:20241213
+DTSTART;VALUE=DATE:20241213
+SUMMARY:Vengaboys
+UID:966bb5d6-d30d-4b1d-8a15-585a33cdc8e0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241202T020359Z
+DESCRIPTION:Find tickets for The Human League with Sophie Ellis-Bextor and 
+ T'Pau at OVO Arena Wembley in London on 12/14/2024 at 7:30 PM
+DTEND;VALUE=DATE:20241214
+DTSTART;VALUE=DATE:20241214
+SUMMARY:The Human League
+UID:11da9b41-9c8d-49ab-ab20-ed12e6532149
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241202T020359Z
+DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
+ 2/2025 at 6:30 PM
+DTEND;VALUE=DATE:20240322
+DTSTART;VALUE=DATE:20240322
+SUMMARY:The Game - 20 Years of The Documentary
+UID:4afcf23d-f9e7-48c6-b857-5f9fe7a7e5cf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241202T020359Z
+DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
+ tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20240205
+DTSTART;VALUE=DATE:20240205
+SUMMARY:Toto plus special guest Christopher Cross
+UID:7875eff3-84e7-44db-8a9e-d7e8b12b5c96
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241202T020359Z
+DESCRIPTION:Find tickets for James Bay at OVO Arena Wembley in London on 2/
+ 13/2025 at 6:00 PM
+DTEND;VALUE=DATE:20240213
+DTSTART;VALUE=DATE:20240213
+SUMMARY:James Bay
+UID:937504f1-1e70-4d8a-97f8-57ffc5789129
 END:VEVENT
 END:VCALENDAR
