@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20241208
 DTSTART;VALUE=DATE:20241208
 SUMMARY:Tech N9ne @ OVO Arena Wembley
-UID:7bf2572d-20c7-4076-851e-e06253e6b8bc
+UID:efc5ae24-62ac-40bd-be18-f1415611f022
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20241208
 DTSTART;VALUE=DATE:20241208
 SUMMARY:Tech N9ne
-UID:2a7a74c8-72ef-4921-aa0c-388163ff313a
+UID:4bece3f6-c4d0-4f62-9b59-5914262e96f9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20241208
 DTSTART;VALUE=DATE:20241208
 SUMMARY:Slaughter to Prevail
-UID:10a2ad31-56b5-407d-a504-45d138fbc352
+UID:c229916c-cea7-4e34-85c6-0ae03590283d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Buy Falling In Reverse tickets and sign-up for latest tour aler
  ts. Find Falling In Reverse tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20241208
 DTSTART;VALUE=DATE:20241208
 SUMMARY:Hollywood Undead
-UID:a6ff2bda-9dbc-4891-91fd-2b8517f668ce
+UID:522b13ec-4270-4c99-afff-c1fe6f9ad2fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Comedy event in London, United Kingdom by Union Chapel and Vir 
  Das on Friday, December 6 2024
 DTEND;VALUE=DATE:20241206
 DTSTART;VALUE=DATE:20241206
 SUMMARY:Vir Das: Mind Fool Tour
-UID:29282346-6baa-4e70-894b-6ceddd0c3157
+UID:78b7a17a-0a00-4b5d-b527-f5e9366cd903
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Biggest 90s 00s Disco It began with two dj’s: Danski and Delm
  undo, throwing impromptu and illegal beach parties from their worn out sch
  ool bus. While touring the Spanish coast and Ibiza between...
 DTEND;VALUE=DATE:20241213
 DTSTART;VALUE=DATE:20241213
 SUMMARY:Vengaboys
-UID:966bb5d6-d30d-4b1d-8a15-585a33cdc8e0
+UID:fcb8cf08-069b-4e96-b825-7dd6eef89f23
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Find tickets for The Human League with Sophie Ellis-Bextor and 
  T'Pau at OVO Arena Wembley in London on 12/14/2024 at 7:30 PM
 DTEND;VALUE=DATE:20241214
 DTSTART;VALUE=DATE:20241214
 SUMMARY:The Human League
-UID:11da9b41-9c8d-49ab-ab20-ed12e6532149
+UID:e60b88ff-cd74-4db8-8ca1-6a8a51e111f3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
  2/2025 at 6:30 PM
 DTEND;VALUE=DATE:20240322
 DTSTART;VALUE=DATE:20240322
 SUMMARY:The Game - 20 Years of The Documentary
-UID:4afcf23d-f9e7-48c6-b857-5f9fe7a7e5cf
+UID:ca139e39-14a0-42f0-802d-15489f7f9d8c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
  tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20240205
 DTSTART;VALUE=DATE:20240205
 SUMMARY:Toto plus special guest Christopher Cross
-UID:7875eff3-84e7-44db-8a9e-d7e8b12b5c96
+UID:7277312c-b97b-4303-853d-07e62b229853
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241202T020359Z
+DTSTAMP:20241203T020215Z
 DESCRIPTION:Find tickets for James Bay at OVO Arena Wembley in London on 2/
  13/2025 at 6:00 PM
 DTEND;VALUE=DATE:20240213
 DTSTART;VALUE=DATE:20240213
 SUMMARY:James Bay
-UID:937504f1-1e70-4d8a-97f8-57ffc5789129
+UID:9ea9c4d4-ca74-4c76-96f8-83fa44090d65
 END:VEVENT
 END:VCALENDAR
