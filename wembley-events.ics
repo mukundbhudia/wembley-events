@@ -3,97 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
+DTSTAMP:20241207T020020Z
+DESCRIPTION:Buy Falling In Reverse tickets and sign-up for latest tour aler
+ ts. Find Falling In Reverse tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20241208
 DTSTART;VALUE=DATE:20241208
-SUMMARY:Tech N9ne
-UID:bd21798e-698f-4db3-a62c-59bae641361c
+SUMMARY:Falling In Reverse
+UID:c7fef48c-494f-4fe2-8713-76dd567fa332
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
+DTSTAMP:20241207T020020Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20241208
 DTSTART;VALUE=DATE:20241208
 SUMMARY:Slaughter to Prevail
-UID:6977851f-e172-4f68-9747-70faa5cc24c5
+UID:45537c88-256d-4149-b7bb-334675523960
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
+DTSTAMP:20241207T020020Z
 DESCRIPTION:Buy Falling In Reverse tickets and sign-up for latest tour aler
  ts. Find Falling In Reverse tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20241208
 DTSTART;VALUE=DATE:20241208
 SUMMARY:Hollywood Undead
-UID:4b183c38-e5e0-4fda-ae55-e6fd506920c6
+UID:a89eeb1b-6d2f-4216-a9c4-cf5ecb9b3fd4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20241208
-DTSTART;VALUE=DATE:20241208
-SUMMARY:Tech N9ne @ OVO Arena Wembley
-UID:cc7d9133-9ce2-4f0e-91b4-18a5c503a051
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
-DESCRIPTION:Looking to book BTS for your private or corporate event? Explor
- e options for hiring BTS for weddings, fundraisers, parties & more.
+DTSTAMP:20241207T020020Z
+DESCRIPTION:Find tickets for BTS at The Garage in London on 12/7/2024 at 11
+ :00 PM
 DTEND;VALUE=DATE:20241207
 DTSTART;VALUE=DATE:20241207
-SUMMARY:BTS Club Night
-UID:14054e36-8b28-42aa-ab62-c4216411cf31
+SUMMARY:BTS
+UID:f6e92e6b-6a56-4d77-97d2-535516fe3383
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
-DESCRIPTION:Comedy event in London, United Kingdom by Union Chapel and Vir 
- Das on Friday, December 6 2024
-DTEND;VALUE=DATE:20241206
-DTSTART;VALUE=DATE:20241206
-SUMMARY:Vir Das: Mind Fool Tour
-UID:be4cb49f-8831-4474-8dab-2516ecee31f8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
+DTSTAMP:20241207T020020Z
 DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
  3/7/2025 at 7:30 PM
 DTEND;VALUE=DATE:20240307
 DTSTART;VALUE=DATE:20240307
 SUMMARY:Teddy Swims
-UID:72a1b231-0f29-4198-8c0c-00f4b1f6c04a
+UID:1d59a0fb-b2ba-485d-9493-6424cb191f1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
+DTSTAMP:20241207T020020Z
 DESCRIPTION:Biggest 90s 00s Disco It began with two dj’s: Danski and Delm
  undo, throwing impromptu and illegal beach parties from their worn out sch
  ool bus. While touring the Spanish coast and Ibiza between...
 DTEND;VALUE=DATE:20241213
 DTSTART;VALUE=DATE:20241213
 SUMMARY:Vengaboys
-UID:c255abd0-e6f5-4a18-b8fa-8ded13ae49ad
+UID:412c3193-fb44-41f9-8880-3343cd759acd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
+DTSTAMP:20241207T020020Z
 DESCRIPTION:Find tickets for Twins at OVO Arena Wembley in London on 12/20/
  2024 at 6:30 PM
 DTEND;VALUE=DATE:20241220
 DTSTART;VALUE=DATE:20241220
 SUMMARY:Twins
-UID:fee6de5d-b52b-4635-854e-2e98b82c5296
+UID:ae17dd8f-5c9d-4b1e-97af-8af5bb3deb6b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241206T020119Z
+DTSTAMP:20241207T020020Z
 DESCRIPTION:Find tickets for Dean Lewis at OVO Arena Wembley in London on 2
  /8/2025 at 7:30 PM
 DTEND;VALUE=DATE:20240208
 DTSTART;VALUE=DATE:20240208
 SUMMARY:Dean Lewis
-UID:e7fdd595-d26a-46e3-b55a-3bde5bc39eaa
+UID:5ab71efc-2df8-454d-89c3-b7f055044824
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241207T020020Z
+DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
+ 2/2025 at 6:30 PM
+DTEND;VALUE=DATE:20240322
+DTSTART;VALUE=DATE:20240322
+SUMMARY:The Game - 20 Years of The Documentary
+UID:fd85be68-fbe4-4ae5-8db7-812fb991d418
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241207T020020Z
+DESCRIPTION:Find tickets for aespa at OVO Arena, Wembley in London on 3/2/2
+ 025 at 7:00 PM
+DTEND;VALUE=DATE:20240302
+DTSTART;VALUE=DATE:20240302
+SUMMARY:aespa
+UID:ccca1f2b-cbe3-462c-9b23-2d60670ef27b
 END:VEVENT
 END:VCALENDAR
