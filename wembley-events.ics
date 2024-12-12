@@ -3,100 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
+DTSTAMP:20241212T020204Z
 DESCRIPTION:Biggest 90s 00s Disco It began with two dj’s: Danski and Delm
  undo, throwing impromptu and illegal beach parties from their worn out sch
  ool bus. While touring the Spanish coast and Ibiza between...
 DTEND;VALUE=DATE:20241213
 DTSTART;VALUE=DATE:20241213
 SUMMARY:Vengaboys
-UID:87dde304-9cf6-46f7-8520-5551444a0813
+UID:ac745a4f-c8e5-49aa-8769-691acb681eb6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
+DTSTAMP:20241212T020204Z
 DESCRIPTION:Find tickets for The Human League with Sophie Ellis-Bextor and 
  T'Pau at OVO Arena Wembley in London on 12/14/2024 at 6:45 PM
 DTEND;VALUE=DATE:20241214
 DTSTART;VALUE=DATE:20241214
 SUMMARY:The Human League
-UID:bdbe1403-75d4-45be-9914-41f6bedd962e
+UID:e14c46bf-ed8a-4eca-8232-f913d4768d4e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
+DTSTAMP:20241212T020204Z
 DESCRIPTION:Jack is Back! Multi award-winning composer, songwriter and reig
  ning Pumpkin King, Danny Elfman returns to the UK this December with the li
  ve-to-film concert celebrating the timeless classic...
 DTEND;VALUE=DATE:20241212
 DTSTART;VALUE=DATE:20241212
 SUMMARY:Danny Elfman
-UID:de704b56-4151-4970-939a-b0ad9eb87067
+UID:810840b4-d627-452e-814b-1b5599f0cd1a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20241211
-DTSTART;VALUE=DATE:20241211
-SUMMARY:Danny Elfman
-UID:7e7b71e5-f0cc-45ba-8d03-608436b96686
+DTSTAMP:20241212T020204Z
+DESCRIPTION:Find tickets for Ultra Naté with Peter Andre, Haddaway, Vengab
+ oys and 3 more at OVO Arena Wembley in London on 12/13/2024 at 7:30 PM
+DTEND;VALUE=DATE:20241213
+DTSTART;VALUE=DATE:20241213
+SUMMARY:Biggest 90s 00s Disco
+UID:13c8abfb-3554-46e1-8aa0-d532b9361bb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
+DTSTAMP:20241212T020204Z
 DESCRIPTION:Biggest 90s 00s Disco Atomic Kitten was formed in 1997 in Londo
  n, United Kingdom by Andy McCluskey of '80s band Orchestral Manoeuvres in t
  he Dark and included Heidi Range in the original line-up...
 DTEND;VALUE=DATE:20241213
 DTSTART;VALUE=DATE:20241213
 SUMMARY:Atomic Kitten
-UID:b3b2bf32-0e93-431c-adc3-1faa1893dc54
+UID:1bf1177f-909f-4fff-86d0-c8649171091a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
+DTSTAMP:20241212T020204Z
+DESCRIPTION:Atomic Kitten was formed in 1997 in London, United Kingdom by A
+ ndy McCluskey of '80s band Orchestral Manoeuvres in the Dark and included H
+ eidi Range in the original line-up, along with Liz...
+DTEND;VALUE=DATE:20241213
+DTSTART;VALUE=DATE:20241213
+SUMMARY:Atomic Kitten @ OVO Arena Wembley
+UID:1e57961b-0eda-4d7c-a575-a0d93838e005
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241212T020204Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20241214
 DTSTART;VALUE=DATE:20241214
 SUMMARY:T'Pau
-UID:267d14ea-53a0-41f8-b433-bd780ef3c407
+UID:422f4c91-8c45-49ed-a1d3-4a3f87e8a7d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
+DTSTAMP:20241212T020204Z
 DESCRIPTION:Find tickets for Blazin' Squad at Boxpark Wembley in North Lond
  on on 12/14/2024 at 5:00 PM
 DTEND;VALUE=DATE:20241214
 DTSTART;VALUE=DATE:20241214
 SUMMARY:Blazin' Squad
-UID:14af3325-643a-4d00-a3ec-39098936c21b
+UID:feaf8911-bbbb-4e7a-a0f6-75c1f79aa94d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
-DESCRIPTION:Find tickets for Ultra Naté with Peter Andre, Haddaway, Vengab
- oys and 3 more at OVO Arena Wembley in London on 12/13/2024 at 7:30 PM
+DTSTAMP:20241212T020204Z
+DESCRIPTION:Biggest 90s 00s Disco 2024 Basshunter is a composer of electron
+ ic dance music. (commonly EuroDance) He is signed to Warner Records.
 DTEND;VALUE=DATE:20241213
 DTSTART;VALUE=DATE:20241213
-SUMMARY:Peter Andre
-UID:62b93d7a-c0b6-4c2b-8532-e6970637016c
+SUMMARY:Basshunter
+UID:520b56bf-eebb-4dd6-87fa-aea252443e44
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
-DESCRIPTION:Biggest 90s 00s Disco FIVE, ancien champion de motocross, il de
- vient paraplégique à la suite d’un accident sur une compétition. Un p
- remier album « Pays-Bas », plusieurs premières parties notamment...
-DTEND;VALUE=DATE:20241213
-DTSTART;VALUE=DATE:20241213
-SUMMARY:Five
-UID:80f702e8-ad46-439a-80eb-899cda0f68b1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T020219Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20241214
-DTSTART;VALUE=DATE:20241214
-SUMMARY:T'Pau @ OVO Arena Wembley
-UID:252d63e2-e7d3-4b0f-be4d-34b38f0dfcf6
+DTSTAMP:20241212T020204Z
+DESCRIPTION:Lass dich benachrichtigen, wenn SavingGrace eine Live-Übertrag
+ ung oder ein Konzert in deiner Nähe ankündigt
+DTEND;VALUE=DATE:20241215
+DTSTART;VALUE=DATE:20241215
+SUMMARY:Saving Grace
+UID:c3454206-1290-43af-96a0-235ea722a76c
 END:VEVENT
 END:VCALENDAR
