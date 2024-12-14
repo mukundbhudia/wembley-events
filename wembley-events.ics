@@ -3,99 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
-DESCRIPTION:Biggest 90s 00s Disco It began with two dj’s: Danski and Delm
- undo, throwing impromptu and illegal beach parties from their worn out sch
- ool bus. While touring the Spanish coast and Ibiza between...
-DTEND;VALUE=DATE:20241213
-DTSTART;VALUE=DATE:20241213
-SUMMARY:Vengaboys
-UID:6e7b6b40-93e7-408d-b3bf-1a3fb520107d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
+DTSTAMP:20241214T015827Z
 DESCRIPTION:Find tickets for The Human League with Sophie Ellis-Bextor and 
  T'Pau at OVO Arena Wembley in London on 12/14/2024 at 6:45 PM
 DTEND;VALUE=DATE:20241214
 DTSTART;VALUE=DATE:20241214
 SUMMARY:The Human League
-UID:f433dca3-13fc-45a5-a184-6ca11a10db12
+UID:c0441304-a9c0-4572-b77c-3b84e0896aa7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
-DESCRIPTION:Find tickets for Ultra Naté with Peter Andre, Haddaway, Vengab
- oys and 3 more at OVO Arena Wembley in London on 12/13/2024 at 7:30 PM
-DTEND;VALUE=DATE:20241213
-DTSTART;VALUE=DATE:20241213
-SUMMARY:Biggest 90s 00s Disco
-UID:e4de6d34-6d1e-479e-86f7-5b67aa24c039
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
-DESCRIPTION:Atomic Kitten was formed in 1997 in London, United Kingdom by A
- ndy McCluskey of '80s band Orchestral Manoeuvres in the Dark and included H
- eidi Range in the original line-up, along with Liz...
-DTEND;VALUE=DATE:20241213
-DTSTART;VALUE=DATE:20241213
-SUMMARY:Atomic Kitten @ OVO Arena Wembley
-UID:f8eec8dc-335c-4ffe-8acb-208885f4e055
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
+DTSTAMP:20241214T015827Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20241214
 DTSTART;VALUE=DATE:20241214
 SUMMARY:T'Pau
-UID:eac5a525-3f22-4776-8879-9edf92a2a1fc
+UID:711d5162-5859-4e3a-8832-a9fc61cf9c3c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
+DTSTAMP:20241214T015827Z
 DESCRIPTION:Find tickets for Blazin' Squad at Boxpark Wembley in North Lond
  on on 12/14/2024 at 5:00 PM
 DTEND;VALUE=DATE:20241214
 DTSTART;VALUE=DATE:20241214
 SUMMARY:Blazin' Squad
-UID:86ef6f32-5040-4dbb-a939-4b4c8a892591
+UID:3fc637b9-2e2f-4aad-8601-d6d8512e8567
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
-DESCRIPTION:Biggest 90s 00s Disco Atomic Kitten was formed in 1997 in Londo
- n, United Kingdom by Andy McCluskey of '80s band Orchestral Manoeuvres in t
- he Dark and included Heidi Range in the original line-up...
-DTEND;VALUE=DATE:20241213
-DTSTART;VALUE=DATE:20241213
-SUMMARY:Atomic Kitten
-UID:370834e9-ad3c-478c-844f-6b3c43510ffc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
+DTSTAMP:20241214T015827Z
 DESCRIPTION:Lass dich benachrichtigen, wenn SavingGrace eine Live-Übertrag
  ung oder ein Konzert in deiner Nähe ankündigt
 DTEND;VALUE=DATE:20241215
 DTSTART;VALUE=DATE:20241215
 SUMMARY:Saving Grace
-UID:bc450f66-31d0-47ac-a4b6-18e2edb561cb
+UID:1224398a-0eee-4b22-a0ef-4933f2d55689
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
-DESCRIPTION:Biggest 90s 00s Disco 2024 David Lubega (aka Lou Bega) (born Ap
- ril 13, 1975 in Munich, Germany) is a Latin pop musician famous for his son
- g "Mambo No. 5". This song is a remake of the Perez Prado...
-DTEND;VALUE=DATE:20241213
-DTSTART;VALUE=DATE:20241213
-SUMMARY:Lou Bega
-UID:87d32ead-cc59-4d24-999b-156db823dc89
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241213T020334Z
+DTSTAMP:20241214T015827Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20241214
 DTSTART;VALUE=DATE:20241214
 SUMMARY:T'Pau @ OVO Arena Wembley
-UID:948b5769-df80-4f3e-947e-99fe4c9a4052
+UID:2e351ca8-d8fe-4890-81cb-c5d2ca0f1de9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241214T015827Z
+DESCRIPTION:Find tickets for Bi-2 at OVO Arena Wembley in London on 12/19/2
+ 024 at 4:00 PM
+DTEND;VALUE=DATE:20241219
+DTSTART;VALUE=DATE:20241219
+SUMMARY:Noize MC
+UID:8c2d8927-7903-40a9-9c44-7d8005cee4a9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241214T015827Z
+DESCRIPTION:Find tickets for Twins at OVO Arena Wembley in London on 12/20/
+ 2024 at 6:30 PM
+DTEND;VALUE=DATE:20241220
+DTSTART;VALUE=DATE:20241220
+SUMMARY:Twins
+UID:23b5f080-e2cc-4abf-864c-d3baf7505418
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241214T015827Z
+DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
+ 2/2025 at 6:30 PM
+DTEND;VALUE=DATE:20240322
+DTSTART;VALUE=DATE:20240322
+SUMMARY:The Game - 20 Years of The Documentary
+UID:ec7d5938-56c0-4915-a87a-149ff33a350e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241214T015827Z
+DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
+ 3/7/2025 at 7:30 PM
+DTEND;VALUE=DATE:20240307
+DTSTART;VALUE=DATE:20240307
+SUMMARY:Teddy Swims
+UID:559e3f58-e465-4a58-8c75-ade2ad0f1749
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241214T015827Z
+DESCRIPTION:Buy Teddy Swims tickets and sign-up for latest tour alerts. Fin
+ d Teddy Swims tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20240306
+DTSTART;VALUE=DATE:20240306
+SUMMARY:Teddy Swims
+UID:aa08df12-39d3-4ee5-bca3-75940bf2a15a
 END:VEVENT
 END:VCALENDAR
