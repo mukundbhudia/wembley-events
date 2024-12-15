@@ -3,95 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
-DESCRIPTION:Find tickets for The Human League with Sophie Ellis-Bextor and 
- T'Pau at OVO Arena Wembley in London on 12/14/2024 at 6:45 PM
-DTEND;VALUE=DATE:20241214
-DTSTART;VALUE=DATE:20241214
-SUMMARY:The Human League
-UID:c0441304-a9c0-4572-b77c-3b84e0896aa7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20241214
-DTSTART;VALUE=DATE:20241214
-SUMMARY:T'Pau
-UID:711d5162-5859-4e3a-8832-a9fc61cf9c3c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
-DESCRIPTION:Find tickets for Blazin' Squad at Boxpark Wembley in North Lond
- on on 12/14/2024 at 5:00 PM
-DTEND;VALUE=DATE:20241214
-DTSTART;VALUE=DATE:20241214
-SUMMARY:Blazin' Squad
-UID:3fc637b9-2e2f-4aad-8601-d6d8512e8567
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
-DESCRIPTION:Lass dich benachrichtigen, wenn SavingGrace eine Live-Übertrag
- ung oder ein Konzert in deiner Nähe ankündigt
+DTSTAMP:20241215T021406Z
+DESCRIPTION:The Saving Grace XXXMas Special at Wembley OVO Arena Ho, ho, ho
+ ld onto your knickers, because Grace Keeling—aka GK Barry—is coming in 
+ hotter than mulled wine for the Saving Grace XXXMas Special...
 DTEND;VALUE=DATE:20241215
 DTSTART;VALUE=DATE:20241215
 SUMMARY:Saving Grace
-UID:1224398a-0eee-4b22-a0ef-4933f2d55689
+UID:3162ed47-3d6d-4e16-a542-4d6ad96212d8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20241214
-DTSTART;VALUE=DATE:20241214
-SUMMARY:T'Pau @ OVO Arena Wembley
-UID:2e351ca8-d8fe-4890-81cb-c5d2ca0f1de9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
+DTSTAMP:20241215T021406Z
 DESCRIPTION:Find tickets for Bi-2 at OVO Arena Wembley in London on 12/19/2
  024 at 4:00 PM
 DTEND;VALUE=DATE:20241219
 DTSTART;VALUE=DATE:20241219
 SUMMARY:Noize MC
-UID:8c2d8927-7903-40a9-9c44-7d8005cee4a9
+UID:a4ced70c-439b-4a81-926c-7060b46c3637
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
-DESCRIPTION:Find tickets for Twins at OVO Arena Wembley in London on 12/20/
- 2024 at 6:30 PM
-DTEND;VALUE=DATE:20241220
-DTSTART;VALUE=DATE:20241220
-SUMMARY:Twins
-UID:23b5f080-e2cc-4abf-864c-d3baf7505418
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
+DTSTAMP:20241215T021406Z
 DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
  2/2025 at 6:30 PM
 DTEND;VALUE=DATE:20240322
 DTSTART;VALUE=DATE:20240322
 SUMMARY:The Game - 20 Years of The Documentary
-UID:ec7d5938-56c0-4915-a87a-149ff33a350e
+UID:593a8214-4551-432a-9c1c-7188c5d69f23
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
+DTSTAMP:20241215T021406Z
 DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
  3/7/2025 at 7:30 PM
 DTEND;VALUE=DATE:20240307
 DTSTART;VALUE=DATE:20240307
 SUMMARY:Teddy Swims
-UID:559e3f58-e465-4a58-8c75-ade2ad0f1749
+UID:c77180af-ca05-486a-a55a-5496bb6117f3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241214T015827Z
+DTSTAMP:20241215T021406Z
 DESCRIPTION:Buy Teddy Swims tickets and sign-up for latest tour alerts. Fin
  d Teddy Swims tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20240306
 DTSTART;VALUE=DATE:20240306
 SUMMARY:Teddy Swims
-UID:aa08df12-39d3-4ee5-bca3-75940bf2a15a
+UID:6eb0fc99-6d73-471e-8448-df663d63c8b0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T021406Z
+DESCRIPTION:Big dreams are often born in small towns, and James Bay is one 
+ such dreamer who dared to make his come true. The three-time GRAMMY Award-n
+ ominated and BRIT Award-winning multi-platinum...
+DTEND;VALUE=DATE:20240213
+DTSTART;VALUE=DATE:20240213
+SUMMARY:James Bay London Tickets
+UID:275a7559-7a2a-4db7-8e58-524f16d512dd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T021406Z
+DESCRIPTION:Find tickets for The Darkness with Ash at OVO Arena Wembley in 
+ London on 3/29/2025 at 6:30 PM
+DTEND;VALUE=DATE:20240329
+DTSTART;VALUE=DATE:20240329
+SUMMARY:The Darkness
+UID:baf556ac-2eae-4c2a-bbba-dc90767197a2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T021406Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20240126
+DTSTART;VALUE=DATE:20240126
+SUMMARY:Alisha Chinai
+UID:fb2062ee-2ca4-41cd-a139-5ba9845da771
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T021406Z
+DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
+ t Fateh Ali Khan, was mentored under him since birth and is now the King o
+ f Qawwali and Sufi music and the glorious voice behind hit...
+DTEND;VALUE=DATE:20240405
+DTSTART;VALUE=DATE:20240405
+SUMMARY:Rahat Fateh Ali Khan
+UID:355b809e-b78b-4177-8e70-ec4e7ec73c79
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241215T021406Z
+DESCRIPTION:Find tickets for aespa at OVO Arena, Wembley in London on 3/2/2
+ 025 at 7:00 PM
+DTEND;VALUE=DATE:20240302
+DTSTART;VALUE=DATE:20240302
+SUMMARY:aespa
+UID:8d3fc147-aa54-4bdf-a883-b441773311b9
 END:VEVENT
 END:VCALENDAR
