@@ -3,95 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
+DTSTAMP:20250124T014949Z
+DESCRIPTION:The Queen of the 90s show scheduled for 22nd September 2024 at 
+ OVO Arena, Wembley is being postponed to 26th January 2025. We do hope tha
+ t you can attend the rescheduled show in 2025. The Artist...
+DTEND;VALUE=DATE:20250126
+DTSTART;VALUE=DATE:20250126
+SUMMARY:Rewind - Queens of the 90's - RESCHEDULED
+UID:6ffdc2b4-61bd-48f4-ba63-b86ed04788d4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250124T014949Z
 DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
  , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
  oth her parents were well versed in classical music. She is...
 DTEND;VALUE=DATE:20250126
 DTSTART;VALUE=DATE:20250126
 SUMMARY:Alka Yagnik
-UID:f96831c4-a7ee-4dd5-a51a-6a5ef8432c7b
+UID:cd07710f-c176-4959-a5ff-4c89317e9673
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
-DESCRIPTION:Find tickets for Rewind at OVO Arena Wembley in London on 1/26/
- 2025 at 7:00 PM
-DTEND;VALUE=DATE:20250126
-DTSTART;VALUE=DATE:20250126
-SUMMARY:Rewind - Queens of the 90's - RESCHEDULED
-UID:a02c819b-f45f-4b13-bb52-db048d018a82
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
+DTSTAMP:20250124T014949Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20250126
 DTSTART;VALUE=DATE:20250126
 SUMMARY:Alisha Chinai
-UID:278cc783-95e4-4367-9da7-5b483e9fd189
+UID:088c250d-e427-4ef2-b95e-457c305d2d3f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
+DTSTAMP:20250124T014949Z
 DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
  s of your favourite Disney stories at Disney On Ice presents 100 Years of W
  onder. Set sail with Moana, bring back summer with Anna and...
 DTEND;VALUE=DATE:20250220
 DTSTART;VALUE=DATE:20250220
-SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:ab494950-5618-410e-8145-b026a649864b
+SUMMARY:Disney on Ice presents 100 Years of Wonder
+UID:05a35f7c-ce02-4933-9bb5-0467699ffcc3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
+DTSTAMP:20250124T014949Z
+DESCRIPTION:Find tickets for The Darkness with Ash at OVO Arena Wembley in 
+ London on 3/29/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250329
+DTSTART;VALUE=DATE:20250329
+SUMMARY:The Darkness @ OVO Arena, Wembley
+UID:3502ab9e-d40a-4d62-90e8-0601d832e12c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250124T014949Z
 DESCRIPTION:Find tickets for James Bay with Kingfishr at OVO Arena Wembley 
  in London on 2/13/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250213
 DTSTART;VALUE=DATE:20250213
 SUMMARY:James Bay
-UID:335246ee-91bc-446c-9e66-3d1215d825d8
+UID:867451ce-da98-4390-adb7-561c4521717b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
-DESCRIPTION:Find tickets for Sean Paul with Ashanti and Fat Joe at OVO Aren
- a Wembley in London on 4/18/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250418
-DTSTART;VALUE=DATE:20250418
-SUMMARY:Sean Paul @ OVO Arena, Wembley
-UID:82e8cb97-59a4-4d70-81b6-459c7e0e1bdc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
-DESCRIPTION:Find tickets for The Darkness with Ash at OVO Arena Wembley in 
- London on 3/29/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250329
-DTSTART;VALUE=DATE:20250329
-SUMMARY:The Darkness
-UID:3a3a988e-6b00-40e8-b3d0-6bc625e258e1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
+DTSTAMP:20250124T014949Z
 DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
  tour dates, reviews, times and event details.
 DTEND;VALUE=DATE:20250205
 DTSTART;VALUE=DATE:20250205
 SUMMARY:Toto @ OVO Arena, Wembley
-UID:acdfc35b-dab6-41d4-8190-1106c6ce4f23
+UID:5b41b900-2656-42d2-97bf-ab1a1ae6f887
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
+DTSTAMP:20250124T014949Z
 DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
  25 at 7:30 PM
 DTEND;VALUE=DATE:20250302
 DTSTART;VALUE=DATE:20250302
 SUMMARY:aespa @ OVO Arena, Wembley
-UID:4cd4a2f9-2585-4343-a758-252476a9371e
+UID:ad529d8a-a523-4e9a-87b3-cf30aa0a2e1e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250123T014936Z
-DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
- t Fateh Ali Khan, was mentored under him since birth and is now the King o
- f Qawwali and Sufi music and the glorious voice behind hit...
-DTEND;VALUE=DATE:20250405
-DTSTART;VALUE=DATE:20250405
-SUMMARY:Rahat Fateh Ali Khan
-UID:7730fdd1-311a-4ccc-83be-1cd744facb73
+DTSTAMP:20250124T014949Z
+DESCRIPTION:Find tickets for Limp Bizkit at OVO Arena, Wembley in London o
+ n 3/16/2025 at 6:00 PM
+DTEND;VALUE=DATE:20250316
+DTSTART;VALUE=DATE:20250316
+SUMMARY:Limp Bizkit
+UID:82b65966-24d9-4eb0-989b-829f5474447d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250124T014949Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20250207
+DTSTART;VALUE=DATE:20250207
+SUMMARY:Wage War
+UID:6ec53627-ab2c-41a6-af85-861f918ae875
 END:VEVENT
 END:VCALENDAR
