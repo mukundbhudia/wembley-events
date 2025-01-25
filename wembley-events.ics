@@ -3,96 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
-DESCRIPTION:The Queen of the 90s show scheduled for 22nd September 2024 at 
- OVO Arena, Wembley is being postponed to 26th January 2025. We do hope tha
- t you can attend the rescheduled show in 2025. The Artist...
+DTSTAMP:20250125T014455Z
+DESCRIPTION:
 DTEND;VALUE=DATE:20250126
 DTSTART;VALUE=DATE:20250126
-SUMMARY:Rewind - Queens of the 90's - RESCHEDULED
-UID:6ffdc2b4-61bd-48f4-ba63-b86ed04788d4
+SUMMARY:Alisha Chinai
+UID:ec71f3e3-6ddf-4325-ac42-c2ebf62dce3e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
+DTSTAMP:20250125T014455Z
 DESCRIPTION:Doors 18:00 Start 19:00 Alka Yagnik (born March 20 in Calcutta
  , Bengal, India) is an Indian singer. She is born into a Gujarati family. B
  oth her parents were well versed in classical music. She is...
 DTEND;VALUE=DATE:20250126
 DTSTART;VALUE=DATE:20250126
 SUMMARY:Alka Yagnik
-UID:cd07710f-c176-4959-a5ff-4c89317e9673
+UID:29d93e64-4bfd-4e27-abcb-e3d6868dd21b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
-DESCRIPTION:
+DTSTAMP:20250125T014455Z
+DESCRIPTION:Doors 18:00 Start 19:00 Anuradha Paudwal is an Indian playback 
+ singer and politician who works predominantly in Hindi cinema. She has bee
+ n described in media as one of the most prominent Bhajan...
 DTEND;VALUE=DATE:20250126
 DTSTART;VALUE=DATE:20250126
-SUMMARY:Alisha Chinai
-UID:088c250d-e427-4ef2-b95e-457c305d2d3f
+SUMMARY:Anuradha Paudwal
+UID:266b1410-e871-405d-a0e8-207be54d746f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
-DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
- s of your favourite Disney stories at Disney On Ice presents 100 Years of W
- onder. Set sail with Moana, bring back summer with Anna and...
-DTEND;VALUE=DATE:20250220
-DTSTART;VALUE=DATE:20250220
-SUMMARY:Disney on Ice presents 100 Years of Wonder
-UID:05a35f7c-ce02-4933-9bb5-0467699ffcc3
+DTSTAMP:20250125T014455Z
+DESCRIPTION:Find tickets for Rewind at OVO Arena Wembley in London on 1/26/
+ 2025 at 7:00 PM
+DTEND;VALUE=DATE:20250126
+DTSTART;VALUE=DATE:20250126
+SUMMARY:Rewind
+UID:550e7ae3-6411-458d-951a-2df8239c0dfa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
-DESCRIPTION:Find tickets for The Darkness with Ash at OVO Arena Wembley in 
- London on 3/29/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250329
-DTSTART;VALUE=DATE:20250329
-SUMMARY:The Darkness @ OVO Arena, Wembley
-UID:3502ab9e-d40a-4d62-90e8-0601d832e12c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
+DTSTAMP:20250125T014455Z
 DESCRIPTION:Find tickets for James Bay with Kingfishr at OVO Arena Wembley 
  in London on 2/13/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250213
 DTSTART;VALUE=DATE:20250213
 SUMMARY:James Bay
-UID:867451ce-da98-4390-adb7-561c4521717b
+UID:575a89f8-ad2b-4efa-82b8-c8dc0fd5e724
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
-DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
- tour dates, reviews, times and event details.
-DTEND;VALUE=DATE:20250205
-DTSTART;VALUE=DATE:20250205
-SUMMARY:Toto @ OVO Arena, Wembley
-UID:5b41b900-2656-42d2-97bf-ab1a1ae6f887
+DTSTAMP:20250125T014455Z
+DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
+ s of your favourite Disney stories at Disney On Ice presents 100 Years of W
+ onder. Set sail with Moana, bring back summer with Anna and...
+DTEND;VALUE=DATE:20250220
+DTSTART;VALUE=DATE:20250220
+SUMMARY:Disney On Ice presents 100 Years of Wonder
+UID:763f43db-0c22-46dc-beb7-77d466fc9b7a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
+DTSTAMP:20250125T014455Z
+DESCRIPTION:Find tickets for Tom Segura at OVO Arena Wembley in London on 3
+ /20/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250320
+DTSTART;VALUE=DATE:20250320
+SUMMARY:Tom Segura: Come Together
+UID:ab8fc9f6-903c-4db9-aa4a-101fd8490dc9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250125T014455Z
+DESCRIPTION:Find tickets for The Darkness with Ash at OVO Arena Wembley in 
+ London on 3/29/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250329
+DTSTART;VALUE=DATE:20250329
+SUMMARY:The Darkness
+UID:0eb760c9-7692-4e6f-ac86-d34312dea7ac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250125T014455Z
 DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
  25 at 7:30 PM
 DTEND;VALUE=DATE:20250302
 DTSTART;VALUE=DATE:20250302
 SUMMARY:aespa @ OVO Arena, Wembley
-UID:ad529d8a-a523-4e9a-87b3-cf30aa0a2e1e
+UID:7c4834b5-8a2b-4e7e-a368-cb37e507e4a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
-DESCRIPTION:Find tickets for Limp Bizkit at OVO Arena, Wembley in London o
- n 3/16/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250316
-DTSTART;VALUE=DATE:20250316
-SUMMARY:Limp Bizkit
-UID:82b65966-24d9-4eb0-989b-829f5474447d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250124T014949Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20250207
-DTSTART;VALUE=DATE:20250207
-SUMMARY:Wage War
-UID:6ec53627-ab2c-41a6-af85-861f918ae875
+DTSTAMP:20250125T014455Z
+DESCRIPTION:Buy Toto tickets and sign-up for latest tour alerts. Find Toto 
+ tour dates, reviews, times and event details.
+DTEND;VALUE=DATE:20250205
+DTSTART;VALUE=DATE:20250205
+SUMMARY:Toto @ OVO Arena, Wembley
+UID:1d826c0d-f8e0-4eb8-93fa-59611f524af1
 END:VEVENT
 END:VCALENDAR
