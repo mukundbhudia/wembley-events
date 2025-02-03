@@ -3,97 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
+DTSTAMP:20250203T015053Z
+DESCRIPTION:Papa Roach are two-time GRAMMY-nominated, Platinum-selling lead
+ ers in Alternative Hard Rock music, who in 2020 celebrated the 20th Anniver
+ sary of their iconic album INFEST
+DTEND;VALUE=DATE:20250207
+DTSTART;VALUE=DATE:20250207
+SUMMARY:Papa Roach
+UID:f0684cc5-d164-46ac-a8d7-f9a0621f16d9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250203T015053Z
+DESCRIPTION:Find tickets for Dean Lewis at OVO Arena Wembley in London on 2
+ /8/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250208
+DTSTART;VALUE=DATE:20250208
+SUMMARY:Dean Lewis
+UID:e5e7f427-45b7-4a15-8527-441c8ce4bab0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250203T015053Z
+DESCRIPTION:Bill Bailey is a comedian/musician/actor from the UK. His live 
+ shows are a mixture of stand-up and original comic songs. He has four album
+ s (two studio, two live) and four live DVDs. He plays...
+DTEND;VALUE=DATE:20250203
+DTSTART;VALUE=DATE:20250203
+SUMMARY:Bill Bailey: Thoughtifier
+UID:64cd0f33-cc41-4733-bcf4-c1ee4cc30883
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250203T015053Z
+DESCRIPTION:© 2025 Londonist Ltd, All rights reserved. All material on th
+ is site is the property of Londonist Ltd.
+DTEND;VALUE=DATE:20250208
+DTSTART;VALUE=DATE:20250208
+SUMMARY:Jason Manford
+UID:a010d25a-528b-491f-90b3-1c016feebc0f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250203T015053Z
 DESCRIPTION:Find tickets for James Bay with Kingfishr at OVO Arena Wembley 
  in London on 2/13/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250213
 DTSTART;VALUE=DATE:20250213
 SUMMARY:James Bay
-UID:aadde4ea-e92f-4294-b1d4-a45112e2e050
+UID:025ebafa-f62f-405d-9767-e4c5f27ff3c4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
+DTSTAMP:20250203T015053Z
 DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
  3/7/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250307
 DTSTART;VALUE=DATE:20250307
 SUMMARY:Teddy Swims
-UID:b24695b1-baf5-48d9-a959-f19d9e7ea3e0
+UID:8b340d9f-4160-4669-b80a-91cfde876335
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
+DTSTAMP:20250203T015053Z
 DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
  s of your favourite Disney stories at Disney On Ice presents 100 Years of W
  onder. Set sail with Moana, bring back summer with Anna and...
 DTEND;VALUE=DATE:20250220
 DTSTART;VALUE=DATE:20250220
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:cbbaa7fa-6e8f-4f4e-ad56-c79a141f87f5
+UID:ef430dfc-882e-44e0-8cc8-a1146f5b2c17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
-DESCRIPTION:Find tickets for André Rieu at OVO Arena Wembley in London on 
- 5/8/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250508
-DTSTART;VALUE=DATE:20250508
-SUMMARY:André Rieu
-UID:5730b1b7-8057-48b1-8142-70fa62f63c44
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
+DTSTAMP:20250203T015053Z
 DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
  25 at 7:30 PM
 DTEND;VALUE=DATE:20250302
 DTSTART;VALUE=DATE:20250302
 SUMMARY:aespa @ OVO Arena, Wembley
-UID:3344c252-4dd4-4492-a58c-85fa4ae46f11
+UID:83e7ff43-d6b3-416b-b49c-721452fa5b80
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
-DESCRIPTION:Find tickets for Alkaline at OVO Arena Wembley in London on 4/1
- 7/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250417
-DTSTART;VALUE=DATE:20250417
-SUMMARY:Alkaline
-UID:e309ef61-ad89-4c7e-a999-e2b6f27f6d4a
+DTSTAMP:20250203T015053Z
+DESCRIPTION:Buy & sell for Toto plus special guest Christopher Cross | The 
+ SSE Arena Wembley (OVO Arena), London | Wed, Feb 5, 6:30 PM. TicketSwap –
+  safe and fair ticket resale.
+DTEND;VALUE=DATE:20250205
+DTSTART;VALUE=DATE:20250205
+SUMMARY:Toto
+UID:7b667e91-0c4e-4add-9162-47d2636e5283
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
-DESCRIPTION:Find tickets for Olly Murs with Blue at OVO Arena Wembley in Lo
- ndon on 5/18/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250518
-DTSTART;VALUE=DATE:20250518
-SUMMARY:Olly Murs, Blue
-UID:2cbc6c95-db29-4dd9-b4c6-f425f16cd3b9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
-DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
- rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
- start of a love affair between one of the most extraordinary and best...
-DTEND;VALUE=DATE:20250329
-DTSTART;VALUE=DATE:20250329
-SUMMARY:The Darkness
-UID:5bab9d29-39f0-400c-9d19-2a536c833a5f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
-DESCRIPTION:Action! Presents Papa Roach \+ Special Guests £1 from each tic
- ket sale will be donated to CALM, charity number 1110621. Standing – No u
- nder 14s, 14-15 yr olds to be accompanied by an adult (16...
-DTEND;VALUE=DATE:20250207
-DTSTART;VALUE=DATE:20250207
-SUMMARY:Papa Roach
-UID:43634915-6377-4bf6-a6a1-1e9bcba8a6ea
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250202T015335Z
-DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
- t Fateh Ali Khan, was mentored under him since birth and is now the King o
- f Qawwali and Sufi music and the glorious voice behind hit...
-DTEND;VALUE=DATE:20250405
-DTSTART;VALUE=DATE:20250405
-SUMMARY:Rahat Fateh Ali Khan
-UID:1a255040-51ce-4621-99e6-943f3beec0fa
+DTSTAMP:20250203T015053Z
+DESCRIPTION:Find tickets for André Rieu at OVO Arena Wembley in London on 
+ 5/8/2025 at 6:00 PM
+DTEND;VALUE=DATE:20250508
+DTSTART;VALUE=DATE:20250508
+SUMMARY:André Rieu
+UID:6eb85ea0-8191-4dc1-b983-2fdd36b423af
 END:VEVENT
 END:VCALENDAR
