@@ -3,97 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
-DESCRIPTION:Papa Roach are two-time GRAMMY-nominated, Platinum-selling lead
- ers in Alternative Hard Rock music, who in 2020 celebrated the 20th Anniver
- sary of their iconic album INFEST
+DTSTAMP:20250204T014954Z
+DESCRIPTION:Action! Presents Papa Roach \+ Wage War £1 from each ticket sa
+ le will be donated to CALM, charity number 1110621. Standing – No under 
+ 14s, 14-15 yr olds to be accompanied by an adult (16+) Seated...
 DTEND;VALUE=DATE:20250207
 DTSTART;VALUE=DATE:20250207
-SUMMARY:Papa Roach
-UID:f0684cc5-d164-46ac-a8d7-f9a0621f16d9
+SUMMARY:Papa Roach, Wage War
+UID:1e641edc-aee0-4eef-afe9-5930904f237c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
+DTSTAMP:20250204T014954Z
+DESCRIPTION:Buy & sell for Toto plus special guest Christopher Cross | The 
+ SSE Arena Wembley (OVO Arena), London | Wed, Feb 5, 6:30 PM. TicketSwap –
+  safe and fair ticket resale.
+DTEND;VALUE=DATE:20250205
+DTSTART;VALUE=DATE:20250205
+SUMMARY:TOTO, Christopher Cross
+UID:cada636d-feb1-4d4a-a415-e76a8a3960a9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250204T014954Z
 DESCRIPTION:Find tickets for Dean Lewis at OVO Arena Wembley in London on 2
  /8/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250208
 DTSTART;VALUE=DATE:20250208
 SUMMARY:Dean Lewis
-UID:e5e7f427-45b7-4a15-8527-441c8ce4bab0
+UID:dcf85883-94f4-46d4-9cc2-0e3923b20873
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
-DESCRIPTION:Bill Bailey is a comedian/musician/actor from the UK. His live 
- shows are a mixture of stand-up and original comic songs. He has four album
- s (two studio, two live) and four live DVDs. He plays...
-DTEND;VALUE=DATE:20250203
-DTSTART;VALUE=DATE:20250203
-SUMMARY:Bill Bailey: Thoughtifier
-UID:64cd0f33-cc41-4733-bcf4-c1ee4cc30883
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
+DTSTAMP:20250204T014954Z
 DESCRIPTION:© 2025 Londonist Ltd, All rights reserved. All material on th
  is site is the property of Londonist Ltd.
 DTEND;VALUE=DATE:20250208
 DTSTART;VALUE=DATE:20250208
 SUMMARY:Jason Manford
-UID:a010d25a-528b-491f-90b3-1c016feebc0f
+UID:7fbd4f89-34f4-40f3-a1a0-4e3a004e7a7e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
+DTSTAMP:20250204T014954Z
 DESCRIPTION:Find tickets for James Bay with Kingfishr at OVO Arena Wembley 
  in London on 2/13/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250213
 DTSTART;VALUE=DATE:20250213
 SUMMARY:James Bay
-UID:025ebafa-f62f-405d-9767-e4c5f27ff3c4
+UID:28cc3ff4-4f1e-4499-87b5-b8f2fadc10b0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
+DTSTAMP:20250204T014954Z
 DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
  3/7/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250307
 DTSTART;VALUE=DATE:20250307
 SUMMARY:Teddy Swims
-UID:8b340d9f-4160-4669-b80a-91cfde876335
+UID:becd49e5-1acd-4dbf-b925-7bcbaca53480
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
+DTSTAMP:20250204T014954Z
 DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
  s of your favourite Disney stories at Disney On Ice presents 100 Years of W
  onder. Set sail with Moana, bring back summer with Anna and...
 DTEND;VALUE=DATE:20250220
 DTSTART;VALUE=DATE:20250220
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:ef430dfc-882e-44e0-8cc8-a1146f5b2c17
+UID:79a23fd5-a2e3-4521-a753-aaa19afdb084
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
+DTSTAMP:20250204T014954Z
 DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
  25 at 7:30 PM
 DTEND;VALUE=DATE:20250302
 DTSTART;VALUE=DATE:20250302
 SUMMARY:aespa @ OVO Arena, Wembley
-UID:83e7ff43-d6b3-416b-b49c-721452fa5b80
+UID:d7419777-2774-4af0-a6bd-44acb02b89bd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
-DESCRIPTION:Buy & sell for Toto plus special guest Christopher Cross | The 
- SSE Arena Wembley (OVO Arena), London | Wed, Feb 5, 6:30 PM. TicketSwap –
-  safe and fair ticket resale.
-DTEND;VALUE=DATE:20250205
-DTSTART;VALUE=DATE:20250205
-SUMMARY:Toto
-UID:7b667e91-0c4e-4add-9162-47d2636e5283
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250203T015053Z
+DTSTAMP:20250204T014954Z
 DESCRIPTION:Find tickets for André Rieu at OVO Arena Wembley in London on 
  5/8/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250508
 DTSTART;VALUE=DATE:20250508
 SUMMARY:André Rieu
-UID:6eb85ea0-8191-4dc1-b983-2fdd36b423af
+UID:558a839f-3b03-4876-a951-5dfac3045de8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250204T014954Z
+DESCRIPTION:Find tickets for Olly Murs with Blue at OVO Arena Wembley in Lo
+ ndon on 5/18/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250518
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Olly Murs
+UID:6e1d5e06-c3ba-4024-bd02-ca60056515a0
 END:VEVENT
 END:VCALENDAR
