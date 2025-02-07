@@ -3,97 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
+DTSTAMP:20250207T015157Z
 DESCRIPTION:Action! Presents Papa Roach \+ Special Guests £1 from each tic
  ket sale will be donated to CALM, charity number 1110621. Standing – No u
  nder 14s, 14-15 yr olds to be accompanied by an adult (16...
 DTEND;VALUE=DATE:20250207
 DTSTART;VALUE=DATE:20250207
 SUMMARY:Papa Roach
-UID:cb932706-aa56-42bc-98ab-acc6702499ee
+UID:f811ad81-fc1f-40c4-9032-e744bf555e64
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
+DTSTAMP:20250207T015157Z
 DESCRIPTION:Find tickets for Dean Lewis at OVO Arena Wembley in London on 2
  /8/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250208
 DTSTART;VALUE=DATE:20250208
 SUMMARY:Dean Lewis
-UID:79248678-4a94-4783-ace8-1d6b1af13721
+UID:67dd1a77-7e5b-44c4-92c7-6039a403d447
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
-DESCRIPTION:Find tickets for James Bay with Kingfishr at OVO Arena Wembley 
- in London on 2/13/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250213
-DTSTART;VALUE=DATE:20250213
-SUMMARY:James Bay
-UID:737661b3-d12f-4954-9505-36c80e6f4f24
+DTSTAMP:20250207T015157Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20250208
+DTSTART;VALUE=DATE:20250208
+SUMMARY:Sofia Camara @ OVO Arena, Wembley
+UID:809237c7-3640-45ab-a89a-1e806da71d14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
-DESCRIPTION:Fresh from the release of the ubiquitous club smash 'Honey', Ca
- ribou return for their first headline dates in 3 years. We're so happy to h
- ave them back - this one is not to be missed! Ages 16 and...
-DTEND;VALUE=DATE:20250206
-DTSTART;VALUE=DATE:20250206
-SUMMARY:Caribou
-UID:c0c984c9-5215-4c35-9149-32d8a8e2164c
+DTSTAMP:20250207T015157Z
+DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
+ on 5/17/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250517
+DTSTART;VALUE=DATE:20250517
+SUMMARY:Russell Peters @ OVO Arena, Wembley
+UID:36e74337-cc0d-4800-bdb7-b9f8ecdf2699
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
+DTSTAMP:20250207T015157Z
+DESCRIPTION:Buy & sell for Teddy Swims in London, UK | I’ve Tried Everyth
+ ing But Therapy Tour | The SSE Arena Wembley (OVO Arena), London | Thu, Mar
+  6, 7:00 PM. TicketSwap – safe and fair ticket resale.
+DTEND;VALUE=DATE:20250306
+DTSTART;VALUE=DATE:20250306
+SUMMARY:Teddy Swims, Cian Ducrot
+UID:f18365d7-885c-4b68-88c2-aff2053eff5a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250207T015157Z
 DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
  3/7/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250307
 DTSTART;VALUE=DATE:20250307
 SUMMARY:Teddy Swims
-UID:bd844fdf-ada5-4502-bdcf-1b2e151d7f21
+UID:8c19193c-e917-48a0-bcbc-d9c45c204d7f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
-DESCRIPTION:Turkish singer Fatma Turgut is one of the most prominent femal
- e rock artists in Turkey, acclaimed for her distinctive voice.
-DTEND;VALUE=DATE:20250209
-DTSTART;VALUE=DATE:20250209
-SUMMARY:Fatma Turgut
-UID:1cf1f21b-0016-4e70-b189-923704887c3a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
+DTSTAMP:20250207T015157Z
 DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
  s of your favourite Disney stories at Disney On Ice presents 100 Years of W
  onder. Set sail with Moana, bring back summer with Anna and...
 DTEND;VALUE=DATE:20250220
 DTSTART;VALUE=DATE:20250220
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:664299f3-2abf-4045-a7f2-97ef4f318756
+UID:3a92ec73-bdc1-4b3c-b485-421c7fb38194
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
+DTSTAMP:20250207T015157Z
+DESCRIPTION:Turkish singer Fatma Turgut is one of the most prominent femal
+ e rock artists in Turkey, acclaimed for her distinctive voice.
+DTEND;VALUE=DATE:20250209
+DTSTART;VALUE=DATE:20250209
+SUMMARY:Fatma Turgut
+UID:331b30bc-99cf-4b9e-a386-da857f44c3df
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250207T015157Z
 DESCRIPTION:Boundary-pushing American duo Origami Angel head out on tour wi
  th their third full-length record, cross-genre phenomenon Feeling Not Foun
  d . Choreographed like a roller coaster, Feeling Not Found...
 DTEND;VALUE=DATE:20250207
 DTSTART;VALUE=DATE:20250207
 SUMMARY:Origami Angel
-UID:636018ea-89e1-40fe-a15c-48718ae4d345
+UID:bd1ccc63-ec8a-4866-970a-07cadcc60109
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
-DESCRIPTION:Find tickets for André Rieu at OVO Arena Wembley in London on 
- 5/8/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250508
-DTSTART;VALUE=DATE:20250508
-SUMMARY:André Rieu
-UID:8580b30a-b14f-48fc-9275-1b113da0c65e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250206T015128Z
-DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
- 25 at 7:30 PM
-DTEND;VALUE=DATE:20250302
-DTSTART;VALUE=DATE:20250302
-SUMMARY:aespa @ OVO Arena, Wembley
-UID:e6c9f7e3-a0f8-4a41-96ab-5bc11b353ef4
+DTSTAMP:20250207T015157Z
+DESCRIPTION:Find tickets for James Bay with Kingfishr at OVO Arena Wembley 
+ in London on 2/13/2025 at 6:00 PM
+DTEND;VALUE=DATE:20250213
+DTSTART;VALUE=DATE:20250213
+SUMMARY:James Bay
+UID:88c21597-d2d4-4928-be1c-bfabac9953de
 END:VEVENT
 END:VCALENDAR
