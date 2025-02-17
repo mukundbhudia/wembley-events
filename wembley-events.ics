@@ -3,97 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
-DESCRIPTION:Join us for AT - SOULFUL SUNDAYS at BOXPARK Wembley on Sunday, 
- 16th Feb 2025. Discover local talent and enjoy live entertainment. Book you
- r table now!
-DTEND;VALUE=DATE:20250216
-DTSTART;VALUE=DATE:20250216
-SUMMARY:SOULFUL SUNDAYS
-UID:ecd0141f-69dc-4b0a-bc1f-8771989269f3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
-DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
- on 5/17/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250517
-DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters
-UID:5a1a3321-8112-472b-892d-f01cf36f761b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
+DTSTAMP:20250217T015521Z
 DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
  s of your favourite Disney stories at Disney On Ice presents 100 Years of W
  onder. Set sail with Moana, bring back summer with Anna and...
 DTEND;VALUE=DATE:20250220
 DTSTART;VALUE=DATE:20250220
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:f320bdd4-58d2-4acc-b7d1-d97dd914a366
+UID:83562bd2-4d71-4b06-83d5-f6342d9461c8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
+DTSTAMP:20250217T015521Z
+DESCRIPTION:Celebrate with Mickey, Minnie, and their Disney friends while r
+ eliving the adventures of your favourite Disney stories at Disney On Ice pr
+ esents 100 Years of Wonder. See Mirabel and the stars of...
+DTEND;VALUE=DATE:20250222
+DTSTART;VALUE=DATE:20250222
+SUMMARY:Disney On Ice presents 100 Years of Wonder
+UID:eae5a080-e7a6-49ca-8483-91cdb9093a59
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250217T015521Z
+DESCRIPTION:Buy Coach + Disney On Ice - South Essex tickets and sign-up fo
+ r latest tour alerts. Find Coach + Disney On Ice - South Essex tour dates, 
+ reviews, times and event details.
+DTEND;VALUE=DATE:20250223
+DTSTART;VALUE=DATE:20250223
+SUMMARY:Disney On Ice presents 100 Years of Wonder
+UID:a0225c4c-2974-4d9d-a4fa-9d68cefe39be
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250217T015521Z
+DESCRIPTION:Born and raised in Atlanta as a pastor’s grandson, Jaten Dims
+ dale played American football and was involved in musical theatre while in 
+ high school. In addition, he joined bands of different...
+DTEND;VALUE=DATE:20250306
+DTSTART;VALUE=DATE:20250306
+SUMMARY:Teddy Swims
+UID:bf2b8790-909c-40ed-bb27-cf5ade96db05
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250217T015521Z
 DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
  3/7/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250307
 DTSTART;VALUE=DATE:20250307
 SUMMARY:Teddy Swims
-UID:937b3200-1d59-44cb-8652-6b1e44de8693
+UID:475e36f1-9975-489e-8b34-10685113cfb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
+DTSTAMP:20250217T015521Z
 DESCRIPTION:Find tickets for Alkaline at OVO Arena Wembley in London on 4/1
  7/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:fdea7b82-5dc5-4ba7-9767-23c47fed019d
+UID:536574f3-5189-4ef2-81d9-4e342181ae0f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
+DTSTAMP:20250217T015521Z
 DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
  25 at 7:30 PM
 DTEND;VALUE=DATE:20250302
 DTSTART;VALUE=DATE:20250302
 SUMMARY:aespa
-UID:bec07faf-17ea-4cd8-b92e-98e93aa2824a
+UID:090630d8-a155-43e8-9894-b5cb0bdf28c5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
-DESCRIPTION:Find tickets for Olly Murs with Blue at OVO Arena Wembley in Lo
- ndon on 5/18/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250518
-DTSTART;VALUE=DATE:20250518
-SUMMARY:Olly Murs, Blue
-UID:9923675c-9f96-4b03-80fb-41bd18301130
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
+DTSTAMP:20250217T015521Z
 DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
  rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
  start of a love affair between one of the most extraordinary and best...
 DTEND;VALUE=DATE:20250329
 DTSTART;VALUE=DATE:20250329
 SUMMARY:The Darkness
-UID:551dbdb9-ba2f-4d7e-96dd-8e3579b4a143
+UID:dffc8002-4b4b-4195-bd60-9b34b107cd53
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
-DESCRIPTION:Find tickets for Patti LuPone at London Coliseum in London on 2
- /16/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250216
-DTSTART;VALUE=DATE:20250216
-SUMMARY:Patti LuPone
-UID:e704785b-2913-4cfc-b3d0-6d4251198fb8
+DTSTAMP:20250217T015521Z
+DESCRIPTION:Find tickets for Olly Murs with Blue at OVO Arena Wembley in Lo
+ ndon on 5/18/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250518
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Olly Murs
+UID:df2804d8-1076-4a7e-8ea2-b92a0e0cbf88
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250216T015853Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20250403
-DTSTART;VALUE=DATE:20250403
-SUMMARY:Boston Manor
-UID:58475f96-9a0a-42f0-8749-a79ff5890e1d
+DTSTAMP:20250217T015521Z
+DESCRIPTION:The time is finally nigh. After a huge rush all the way back i
+ n 2022 to bag tickets for Peter Kay’s huge comeback tour, his residency a
+ t the O2 arena is here. Last yeat the Bolton funny man began...
+DTEND;VALUE=DATE:20250222
+DTSTART;VALUE=DATE:20250222
+SUMMARY:Peter Kay London Tickets
+UID:f9b68a6e-09e9-4cb0-8b05-c7a2e0bfef39
 END:VEVENT
 END:VCALENDAR
