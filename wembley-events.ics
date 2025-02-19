@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
+DTSTAMP:20250219T015242Z
 DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
  s of your favourite Disney stories at Disney On Ice presents 100 Years of W
  onder. Set sail with Moana, bring back summer with Anna and...
 DTEND;VALUE=DATE:20250220
 DTSTART;VALUE=DATE:20250220
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:ce6dc0fe-1288-4b1f-bcde-63f858935c52
+UID:3c96fa7c-48da-42ea-9f10-a9c463007084
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
-DESCRIPTION:Celebrate with Mickey, Minnie, and their Disney friends while r
- eliving the adventures of your favourite Disney stories at Disney On Ice pr
- esents 100 Years of Wonder. See Mirabel and the stars of...
-DTEND;VALUE=DATE:20250222
-DTSTART;VALUE=DATE:20250222
+DTSTAMP:20250219T015242Z
+DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
+ s of your favourite Disney stories at Disney On Ice presents 100 Years of W
+ onder. Set sail with Moana, bring back summer with Anna and...
+DTEND;VALUE=DATE:20250221
+DTSTART;VALUE=DATE:20250221
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:9e7a719f-b335-4052-9a12-735fa84ca55c
+UID:637fcfb0-5979-46e7-8def-335ed31039c9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
+DTSTAMP:20250219T015242Z
 DESCRIPTION:Buy Coach + Disney On Ice - South Essex tickets and sign-up fo
  r latest tour alerts. Find Coach + Disney On Ice - South Essex tour dates, 
  reviews, times and event details.
 DTEND;VALUE=DATE:20250223
 DTSTART;VALUE=DATE:20250223
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:1426e632-b98f-46d1-97d4-3f2e062e194d
+UID:beee51ba-7e03-454a-9202-0c4a7189d4b4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
+DTSTAMP:20250219T015242Z
+DESCRIPTION:The time is finally nigh. After a huge rush all the way back i
+ n 2022 to bag tickets for Peter Kay’s huge comeback tour, his residency a
+ t the O2 arena is here. Last yeat the Bolton funny man began...
+DTEND;VALUE=DATE:20250222
+DTSTART;VALUE=DATE:20250222
+SUMMARY:Peter Kay London Tickets
+UID:4e016902-b2d7-42da-b4aa-2f219aa5f006
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250219T015242Z
 DESCRIPTION:Born and raised in Atlanta as a pastor’s grandson, Jaten Dims
  dale played American football and was involved in musical theatre while in 
  high school. In addition, he joined bands of different...
 DTEND;VALUE=DATE:20250306
 DTSTART;VALUE=DATE:20250306
 SUMMARY:Teddy Swims
-UID:a8cde2fb-2bc3-4387-b19d-9e240c2f57c8
+UID:04d9f6c8-6132-4f44-a111-ae45726c276e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
-DESCRIPTION:Find tickets for Rachel Chinouriri at Omeara in London on 2/20/
- 2025 at 7:00 PM
-DTEND;VALUE=DATE:20250220
-DTSTART;VALUE=DATE:20250220
-SUMMARY:Rachel Chinouriri
-UID:b942c212-ee22-40b4-975f-411b52d0e280
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
+DTSTAMP:20250219T015242Z
 DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
  3/7/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250307
 DTSTART;VALUE=DATE:20250307
 SUMMARY:Teddy Swims
-UID:dcb59795-6a2d-4577-9b1a-e57e00ec308b
+UID:c42a6254-6533-46a4-9d4f-6b67ca2cea11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
+DTSTAMP:20250219T015242Z
+DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
+ on 5/17/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250517
+DTSTART;VALUE=DATE:20250517
+SUMMARY:Russell Peters @ OVO Arena, Wembley
+UID:a84460a5-ca88-4d39-9032-fae3d2bb2504
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250219T015242Z
 DESCRIPTION:Find tickets for Alkaline at OVO Arena Wembley in London on 4/1
  7/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:f9f2b039-4e41-4534-8e89-85aea37c9cdc
+UID:f7c35876-ad1e-49eb-bc26-4c7f1a267119
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
+DTSTAMP:20250219T015242Z
 DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
  25 at 7:30 PM
 DTEND;VALUE=DATE:20250302
 DTSTART;VALUE=DATE:20250302
 SUMMARY:aespa
-UID:5df6cd8b-a27b-4e9b-a8d1-9e699788f031
+UID:ae9e8616-875f-4045-a736-f5f6164d4353
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
-DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
- on 5/17/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250517
-DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters
-UID:bcfe9ec8-6ae0-4c10-b855-09c2971a18be
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250218T015124Z
+DTSTAMP:20250219T015242Z
 DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
  rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
  start of a love affair between one of the most extraordinary and best...
 DTEND;VALUE=DATE:20250329
 DTSTART;VALUE=DATE:20250329
 SUMMARY:The Darkness
-UID:13f5287c-da78-4255-84f3-d64f1aa301b4
+UID:49f6ecce-8808-4219-87f3-455d21bad721
 END:VEVENT
 END:VCALENDAR
