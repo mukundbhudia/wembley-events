@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
+DTSTAMP:20250220T015255Z
+DESCRIPTION:💥ED SHEERAN IN LONDON😍 2025 WEMBLEY STADIUM JUST ANNOUNC
+ ED 💙 Ed Sheeran has shared details of his + - = ÷ x Tour coming to LOND
+ ON next summer 🙌🔥😍
+DTEND;VALUE=DATE:20250222
+DTSTART;VALUE=DATE:20250222
+SUMMARY:Ed Sheeran - Wembley Stadium, London
+UID:343b583c-9467-45c0-83f2-b417583b1570
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250220T015255Z
 DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
  s of your favourite Disney stories at Disney On Ice presents 100 Years of W
  onder. Set sail with Moana, bring back summer with Anna and...
 DTEND;VALUE=DATE:20250220
 DTSTART;VALUE=DATE:20250220
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:3c96fa7c-48da-42ea-9f10-a9c463007084
+UID:de38f8d4-89f2-4adb-b783-9e46a450e2ee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
-DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
- s of your favourite Disney stories at Disney On Ice presents 100 Years of W
- onder. Set sail with Moana, bring back summer with Anna and...
-DTEND;VALUE=DATE:20250221
-DTSTART;VALUE=DATE:20250221
+DTSTAMP:20250220T015255Z
+DESCRIPTION:Celebrate with Mickey, Minnie, and their Disney friends while r
+ eliving the adventures of your favourite Disney stories at Disney On Ice pr
+ esents 100 Years of Wonder. See Mirabel and the stars of...
+DTEND;VALUE=DATE:20250222
+DTSTART;VALUE=DATE:20250222
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:637fcfb0-5979-46e7-8def-335ed31039c9
+UID:a43464e1-9f58-4335-b58b-1122cccc9b5d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
+DTSTAMP:20250220T015255Z
+DESCRIPTION:Buy Coach + Disney On Ice - South Essex tickets and sign-up fo
+ r latest tour alerts. Find Coach + Disney On Ice - South Essex tour dates, 
+ reviews, times and event details.
+DTEND;VALUE=DATE:20250223
+DTSTART;VALUE=DATE:20250223
+SUMMARY:Disney On Ice
+UID:657818c9-8473-44e7-8c4f-ca617d670178
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250220T015255Z
 DESCRIPTION:Buy Coach + Disney On Ice - South Essex tickets and sign-up fo
  r latest tour alerts. Find Coach + Disney On Ice - South Essex tour dates, 
  reviews, times and event details.
 DTEND;VALUE=DATE:20250223
 DTSTART;VALUE=DATE:20250223
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:beee51ba-7e03-454a-9202-0c4a7189d4b4
+UID:093569a4-375f-4700-9bc4-26378ce48fc6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
+DTSTAMP:20250220T015255Z
 DESCRIPTION:The time is finally nigh. After a huge rush all the way back i
  n 2022 to bag tickets for Peter Kay’s huge comeback tour, his residency a
  t the O2 arena is here. Last yeat the Bolton funny man began...
 DTEND;VALUE=DATE:20250222
 DTSTART;VALUE=DATE:20250222
 SUMMARY:Peter Kay London Tickets
-UID:4e016902-b2d7-42da-b4aa-2f219aa5f006
+UID:a762d25e-9445-436d-a686-54be08d3c403
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
+DTSTAMP:20250220T015255Z
 DESCRIPTION:Born and raised in Atlanta as a pastor’s grandson, Jaten Dims
  dale played American football and was involved in musical theatre while in 
  high school. In addition, he joined bands of different...
 DTEND;VALUE=DATE:20250306
 DTSTART;VALUE=DATE:20250306
 SUMMARY:Teddy Swims
-UID:04d9f6c8-6132-4f44-a111-ae45726c276e
+UID:546b2a30-2bb1-487f-86eb-fbab75bd6830
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
+DTSTAMP:20250220T015255Z
 DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
  3/7/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250307
 DTSTART;VALUE=DATE:20250307
 SUMMARY:Teddy Swims
-UID:c42a6254-6533-46a4-9d4f-6b67ca2cea11
+UID:c0746a0b-8459-472c-86df-ea294e4340dd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
+DTSTAMP:20250220T015255Z
 DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
  on 5/17/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters @ OVO Arena, Wembley
-UID:a84460a5-ca88-4d39-9032-fae3d2bb2504
+UID:aec0b85b-6355-435e-8611-fed0bf49beca
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
+DTSTAMP:20250220T015255Z
 DESCRIPTION:Find tickets for Alkaline at OVO Arena Wembley in London on 4/1
  7/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:f7c35876-ad1e-49eb-bc26-4c7f1a267119
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
-DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
- 25 at 7:30 PM
-DTEND;VALUE=DATE:20250302
-DTSTART;VALUE=DATE:20250302
-SUMMARY:aespa
-UID:ae9e8616-875f-4045-a736-f5f6164d4353
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250219T015242Z
-DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
- rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
- start of a love affair between one of the most extraordinary and best...
-DTEND;VALUE=DATE:20250329
-DTSTART;VALUE=DATE:20250329
-SUMMARY:The Darkness
-UID:49f6ecce-8808-4219-87f3-455d21bad721
+UID:7aea86e6-9d4e-4b04-b106-bdb7053c366e
 END:VEVENT
 END:VCALENDAR
