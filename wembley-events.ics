@@ -3,99 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
-DESCRIPTION:💥ED SHEERAN IN LONDON😍 2025 WEMBLEY STADIUM JUST ANNOUNC
- ED 💙 Ed Sheeran has shared details of his + - = ÷ x Tour coming to LOND
- ON next summer 🙌🔥😍
-DTEND;VALUE=DATE:20250222
-DTSTART;VALUE=DATE:20250222
-SUMMARY:Ed Sheeran - Wembley Stadium, London
-UID:48c6f985-cf9c-44d6-9c55-50a6fd6ad6ab
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
-DESCRIPTION:Buy Coach + Disney On Ice - South Essex tickets and sign-up fo
- r latest tour alerts. Find Coach + Disney On Ice - South Essex tour dates, 
- reviews, times and event details.
-DTEND;VALUE=DATE:20250223
-DTSTART;VALUE=DATE:20250223
-SUMMARY:Disney On Ice
-UID:6385197a-1589-4bbd-8188-be733d3ac97e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
-DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
- s of your favourite Disney stories at Disney On Ice presents 100 Years of W
- onder. Set sail with Moana, bring back summer with Anna and...
-DTEND;VALUE=DATE:20250222
-DTSTART;VALUE=DATE:20250222
-SUMMARY:Disney on Ice
-UID:6cc772b4-fa88-461c-82ce-f0c1c6966052
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
-DESCRIPTION:Celebrate with Mickey and friends while reliving the adventure
- s of your favourite Disney stories at Disney On Ice presents 100 Years of W
- onder. Set sail with Moana, bring back summer with Anna and...
-DTEND;VALUE=DATE:20250221
-DTSTART;VALUE=DATE:20250221
-SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:94b69c00-e19d-4d08-8634-0af01aab0484
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
+DTSTAMP:20250222T014933Z
 DESCRIPTION:Buy Coach + Disney On Ice - South Essex tickets and sign-up fo
  r latest tour alerts. Find Coach + Disney On Ice - South Essex tour dates, 
  reviews, times and event details.
 DTEND;VALUE=DATE:20250223
 DTSTART;VALUE=DATE:20250223
 SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:ec347ff2-f284-46d2-8df8-983a1cc71ecc
+UID:7e855c82-e2f9-49ce-94f6-56e14ac893f6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
+DTSTAMP:20250222T014933Z
+DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
+ on 5/17/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250517
+DTSTART;VALUE=DATE:20250517
+SUMMARY:Russell Peters @ OVO Arena, Wembley
+UID:41cc3f2f-2484-4369-aaf8-e3af03ab270b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250222T014933Z
+DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
+ 3/7/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250307
+DTSTART;VALUE=DATE:20250307
+SUMMARY:Teddy Swims
+UID:48828f77-a6ad-4c19-8190-b10c97bc3274
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250222T014933Z
 DESCRIPTION:The time is finally nigh. After a huge rush all the way back i
  n 2022 to bag tickets for Peter Kay’s huge comeback tour, his residency a
  t the O2 arena is here. Last yeat the Bolton funny man began...
 DTEND;VALUE=DATE:20250222
 DTSTART;VALUE=DATE:20250222
 SUMMARY:Peter Kay London Tickets
-UID:a3b33158-d81d-4223-9c93-87892e1d5966
+UID:70bb2585-b71b-42a4-a36d-c732ac7e0dd0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
-DESCRIPTION:Pitbull Tickets in London O2 Arena - London Peninsula Square, L
- ondon, Greater London
-DTEND;VALUE=DATE:20250221
-DTSTART;VALUE=DATE:20250221
-SUMMARY:Pitbull, Lil Jon
-UID:5ea0d96d-7a82-4a76-91c6-deed3ac909f4
+DTSTAMP:20250222T014933Z
+DESCRIPTION:Find tickets for Tom Segura at OVO Arena Wembley in London on 3
+ /20/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250320
+DTSTART;VALUE=DATE:20250320
+SUMMARY:Tom Segura: Come Together
+UID:5d7e24d3-c314-4cbf-9da5-6f976d8e36a0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
-DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
- 3/7/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250307
-DTSTART;VALUE=DATE:20250307
-SUMMARY:Teddy Swims
-UID:877d2226-d3a5-42dd-b90a-a93f42ef3a08
+DTSTAMP:20250222T014933Z
+DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
+ 25 at 7:30 PM
+DTEND;VALUE=DATE:20250302
+DTSTART;VALUE=DATE:20250302
+SUMMARY:aespa
+UID:36821aac-8065-4172-bc34-b284c51dfb8c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
-DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
- on 5/17/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250517
-DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters @ OVO Arena, Wembley
-UID:e6b386f9-5327-4799-ab2d-ee860fbebc61
+DTSTAMP:20250222T014933Z
+DESCRIPTION:ABBA invite you to transcend the physical world and join them o
+ n the digital plane with this landmark concert experience. Using the lates
+ t in motion capture technology, the band will appear on...
+DTEND;VALUE=DATE:20250223
+DTSTART;VALUE=DATE:20250223
+SUMMARY:ABBA Voyage
+UID:95b1c58e-ad83-42a6-8963-b421eeace608
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250221T015305Z
+DTSTAMP:20250222T014933Z
+DESCRIPTION:Find tickets for The Darkness with Ash at OVO Arena Wembley in 
+ London on 3/29/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250329
+DTSTART;VALUE=DATE:20250329
+SUMMARY:The Darkness
+UID:bc11bd31-70a9-4ff2-9097-7dfa96632f83
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250222T014933Z
+DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
+ h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
+ packed out arenas across the country with his “ Seriously? ”...
+DTEND;VALUE=DATE:20250613
+DTSTART;VALUE=DATE:20250613
+SUMMARY:Jeff Dunham London Tickets
+UID:a03d956a-250b-4703-944c-15553d473564
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250222T014933Z
 DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
  2/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250322
 DTSTART;VALUE=DATE:20250322
-SUMMARY:The Game - 20 Years of The Documentary
-UID:acc4625a-a44e-43a7-8ab9-874236e06344
+SUMMARY:The Game @ OVO Arena
+UID:b47e0822-b9ee-405f-9a2a-aa4d108a8824
 END:VEVENT
 END:VCALENDAR
