@@ -3,97 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
+DTSTAMP:20250223T015905Z
 DESCRIPTION:Buy Coach + Disney On Ice - South Essex tickets and sign-up fo
  r latest tour alerts. Find Coach + Disney On Ice - South Essex tour dates, 
  reviews, times and event details.
 DTEND;VALUE=DATE:20250223
 DTSTART;VALUE=DATE:20250223
-SUMMARY:Disney On Ice presents 100 Years of Wonder
-UID:7e855c82-e2f9-49ce-94f6-56e14ac893f6
+SUMMARY:Disney On Ice
+UID:49bdea2f-80dd-4a18-b3b7-9cfdda7149a2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
+DTSTAMP:20250223T015905Z
+DESCRIPTION:The time is finally nigh. After a huge rush all the way back i
+ n 2022 to bag tickets for Peter Kay’s huge comeback tour, his residency a
+ t the O2 arena is here. Last yeat the Bolton funny man began...
+DTEND;VALUE=DATE:20250223
+DTSTART;VALUE=DATE:20250223
+SUMMARY:Peter Kay
+UID:5989ebbf-ad24-4d7f-aceb-86fbf3c3333a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250223T015905Z
 DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
  on 5/17/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters @ OVO Arena, Wembley
-UID:41cc3f2f-2484-4369-aaf8-e3af03ab270b
+UID:ca399ae4-2f4e-4296-b54f-f8db83b8de83
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
+DTSTAMP:20250223T015905Z
 DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
  3/7/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250307
 DTSTART;VALUE=DATE:20250307
 SUMMARY:Teddy Swims
-UID:48828f77-a6ad-4c19-8190-b10c97bc3274
+UID:790f0940-e7ec-40e2-879c-30d1d00e092d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
-DESCRIPTION:The time is finally nigh. After a huge rush all the way back i
- n 2022 to bag tickets for Peter Kay’s huge comeback tour, his residency a
- t the O2 arena is here. Last yeat the Bolton funny man began...
-DTEND;VALUE=DATE:20250222
-DTSTART;VALUE=DATE:20250222
-SUMMARY:Peter Kay London Tickets
-UID:70bb2585-b71b-42a4-a36d-c732ac7e0dd0
+DTSTAMP:20250223T015905Z
+DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
+ 2/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250322
+DTSTART;VALUE=DATE:20250322
+SUMMARY:The Game - 20 Years of The Documentary
+UID:9cccada5-a782-4d1d-ac17-5fb3834bc392
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
-DESCRIPTION:Find tickets for Tom Segura at OVO Arena Wembley in London on 3
- /20/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250320
-DTSTART;VALUE=DATE:20250320
-SUMMARY:Tom Segura: Come Together
-UID:5d7e24d3-c314-4cbf-9da5-6f976d8e36a0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
-DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
- 25 at 7:30 PM
-DTEND;VALUE=DATE:20250302
-DTSTART;VALUE=DATE:20250302
-SUMMARY:aespa
-UID:36821aac-8065-4172-bc34-b284c51dfb8c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
-DESCRIPTION:ABBA invite you to transcend the physical world and join them o
- n the digital plane with this landmark concert experience. Using the lates
- t in motion capture technology, the band will appear on...
-DTEND;VALUE=DATE:20250223
-DTSTART;VALUE=DATE:20250223
-SUMMARY:ABBA Voyage
-UID:95b1c58e-ad83-42a6-8963-b421eeace608
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
-DESCRIPTION:Find tickets for The Darkness with Ash at OVO Arena Wembley in 
- London on 3/29/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250329
-DTSTART;VALUE=DATE:20250329
-SUMMARY:The Darkness
-UID:bc11bd31-70a9-4ff2-9097-7dfa96632f83
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
+DTSTAMP:20250223T015905Z
 DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
  h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
  packed out arenas across the country with his “ Seriously? ”...
 DTEND;VALUE=DATE:20250613
 DTSTART;VALUE=DATE:20250613
-SUMMARY:Jeff Dunham London Tickets
-UID:a03d956a-250b-4703-944c-15553d473564
+SUMMARY:Jeff Dunham
+UID:aa9af51f-a0b3-400b-bf79-85c74be493f9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T014933Z
-DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
- 2/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250322
-DTSTART;VALUE=DATE:20250322
-SUMMARY:The Game @ OVO Arena
-UID:b47e0822-b9ee-405f-9a2a-aa4d108a8824
+DTSTAMP:20250223T015905Z
+DESCRIPTION:Find tickets for Olly Murs with Blue at OVO Arena Wembley in Lo
+ ndon on 5/18/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250518
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Olly Murs, Blue
+UID:c09ec2c0-c641-4385-aa82-c32fc045b736
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250223T015905Z
+DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
+ rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
+ start of a love affair between one of the most extraordinary and best...
+DTEND;VALUE=DATE:20250329
+DTSTART;VALUE=DATE:20250329
+SUMMARY:The Darkness
+UID:f0e0a7e9-0ec0-4249-bae9-a5da393ae7fa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250223T015905Z
+DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
+ 25 at 7:30 PM
+DTEND;VALUE=DATE:20250302
+DTSTART;VALUE=DATE:20250302
+SUMMARY:aespa
+UID:bd0f5ff6-f3dc-4253-b3c1-e36398f0ec6d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250223T015905Z
+DESCRIPTION:A true original, Lenny Kravitz’s genre-agnosticism, trendsett
+ ing fashion, and understated, yet effusive charisma predicted the fluidity
+  of 21st century popular culture. Baptized by the energy of...
+DTEND;VALUE=DATE:20250228
+DTSTART;VALUE=DATE:20250228
+SUMMARY:Lenny Kravitz
+UID:af7f4cee-b821-42ea-b332-02fadd8ce919
 END:VEVENT
 END:VCALENDAR
