@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
-DESCRIPTION:Buy Coach + Disney On Ice - South Essex tickets and sign-up fo
- r latest tour alerts. Find Coach + Disney On Ice - South Essex tour dates, 
- reviews, times and event details.
-DTEND;VALUE=DATE:20250223
-DTSTART;VALUE=DATE:20250223
-SUMMARY:Disney On Ice
-UID:49bdea2f-80dd-4a18-b3b7-9cfdda7149a2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
-DESCRIPTION:The time is finally nigh. After a huge rush all the way back i
- n 2022 to bag tickets for Peter Kay’s huge comeback tour, his residency a
- t the O2 arena is here. Last yeat the Bolton funny man began...
-DTEND;VALUE=DATE:20250223
-DTSTART;VALUE=DATE:20250223
-SUMMARY:Peter Kay
-UID:5989ebbf-ad24-4d7f-aceb-86fbf3c3333a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
-DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
- on 5/17/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250517
-DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters @ OVO Arena, Wembley
-UID:ca399ae4-2f4e-4296-b54f-f8db83b8de83
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
-DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
- 3/7/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250307
-DTSTART;VALUE=DATE:20250307
-SUMMARY:Teddy Swims
-UID:790f0940-e7ec-40e2-879c-30d1d00e092d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
-DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
- 2/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250322
-DTSTART;VALUE=DATE:20250322
-SUMMARY:The Game - 20 Years of The Documentary
-UID:9cccada5-a782-4d1d-ac17-5fb3834bc392
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
-DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
- h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
- packed out arenas across the country with his “ Seriously? ”...
-DTEND;VALUE=DATE:20250613
-DTSTART;VALUE=DATE:20250613
-SUMMARY:Jeff Dunham
-UID:aa9af51f-a0b3-400b-bf79-85c74be493f9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
-DESCRIPTION:Find tickets for Olly Murs with Blue at OVO Arena Wembley in Lo
- ndon on 5/18/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250518
-DTSTART;VALUE=DATE:20250518
-SUMMARY:Olly Murs, Blue
-UID:c09ec2c0-c641-4385-aa82-c32fc045b736
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
-DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
- rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
- start of a love affair between one of the most extraordinary and best...
-DTEND;VALUE=DATE:20250329
-DTSTART;VALUE=DATE:20250329
-SUMMARY:The Darkness
-UID:f0e0a7e9-0ec0-4249-bae9-a5da393ae7fa
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
+DTSTAMP:20250224T015544Z
 DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
  25 at 7:30 PM
 DTEND;VALUE=DATE:20250302
 DTSTART;VALUE=DATE:20250302
 SUMMARY:aespa
-UID:bd0f5ff6-f3dc-4253-b3c1-e36398f0ec6d
+UID:849c263c-776b-49e8-80bb-42b2ce6b7863
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250223T015905Z
+DTSTAMP:20250224T015544Z
 DESCRIPTION:A true original, Lenny Kravitz’s genre-agnosticism, trendsett
  ing fashion, and understated, yet effusive charisma predicted the fluidity
   of 21st century popular culture. Baptized by the energy of...
 DTEND;VALUE=DATE:20250228
 DTSTART;VALUE=DATE:20250228
 SUMMARY:Lenny Kravitz
-UID:af7f4cee-b821-42ea-b332-02fadd8ce919
+UID:7a2945eb-9d60-4ded-8eb7-410fbb68512a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T015544Z
+DESCRIPTION:🎶 Get Ready for Zakk Wylde Live at OVO Arena Wembley on Tues
+ day, February 25, 2025! 🎶 This is not just a concert—it’s a moment 
+ you’ll talk about for years. Zakk Wylde is set to light up OVO...
+DTEND;VALUE=DATE:20250225
+DTSTART;VALUE=DATE:20250225
+SUMMARY:Zakk Wylde in London
+UID:958bfc94-b092-49af-a271-38e177db85de
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T015544Z
+DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
+ on 5/17/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250517
+DTSTART;VALUE=DATE:20250517
+SUMMARY:Russell Peters @ OVO Arena, Wembley
+UID:48cecd67-9394-432d-bee4-fdbbdeb55883
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T015544Z
+DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
+ 3/7/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250307
+DTSTART;VALUE=DATE:20250307
+SUMMARY:Teddy Swims
+UID:31070803-7fa5-4329-83c8-a6e8f90e1cff
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T015544Z
+DESCRIPTION:The Spandau Ballet star will be taking to the decks and spinnin
+ g all the best of the hits from the 80's. As he presents the biggest 80's n
+ ight to ever hit the town! Dig out those 80\`s clothes...
+DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250301
+SUMMARY:BACK To the 80'S
+UID:37b4b502-a36b-4f08-a545-b5ea367a1ce4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T015544Z
+DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
+ 2/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250322
+DTSTART;VALUE=DATE:20250322
+SUMMARY:The Game - 20 Years of The Documentary
+UID:51d56733-886a-49df-92f5-f30c0e7d325f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T015544Z
+DESCRIPTION:Find tickets for Chris de Burgh at Cadogan Hall in London on 2/
+ 28/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250228
+DTSTART;VALUE=DATE:20250228
+SUMMARY:Chris de Burgh
+UID:5f0a801a-fe7b-4801-9fdf-8d31c18dfa20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T015544Z
+DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
+ h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
+ packed out arenas across the country with his “ Seriously? ”...
+DTEND;VALUE=DATE:20250613
+DTSTART;VALUE=DATE:20250613
+SUMMARY:Jeff Dunham
+UID:54bc5e56-0b48-4ea8-a184-7bfaeaa332ce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T015544Z
+DESCRIPTION:START TIME: 19:30 Chris de Burgh (born October 15th, 1948) is a
+ n Irish musician and songwriter. Born Christopher John Davison in Buenos Ai
+ res, Argentina (he is the son of a British diplomat and an...
+DTEND;VALUE=DATE:20250302
+DTSTART;VALUE=DATE:20250302
+SUMMARY:Chris de Burgh
+UID:37ebca5e-7f9e-42b9-b4ac-ac151be8c70a
 END:VEVENT
 END:VCALENDAR
