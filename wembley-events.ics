@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
+DTSTAMP:20250225T015450Z
 DESCRIPTION:Find tickets for aespa at OVO Arena Wembley in London on 3/2/20
  25 at 7:30 PM
 DTEND;VALUE=DATE:20250302
 DTSTART;VALUE=DATE:20250302
 SUMMARY:aespa
-UID:849c263c-776b-49e8-80bb-42b2ce6b7863
+UID:188745c6-eed1-42a7-9007-0048cc165463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
+DTSTAMP:20250225T015450Z
 DESCRIPTION:A true original, Lenny Kravitz’s genre-agnosticism, trendsett
  ing fashion, and understated, yet effusive charisma predicted the fluidity
   of 21st century popular culture. Baptized by the energy of...
 DTEND;VALUE=DATE:20250228
 DTSTART;VALUE=DATE:20250228
 SUMMARY:Lenny Kravitz
-UID:7a2945eb-9d60-4ded-8eb7-410fbb68512a
+UID:b3fe48a7-4a92-455f-913d-9ca09ef41c77
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
+DTSTAMP:20250225T015450Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20250225
+DTSTART;VALUE=DATE:20250225
+SUMMARY:Pantera, Power Trip, King Parrot
+UID:c21f7aab-8502-432a-bc84-646a0cc67771
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T015450Z
 DESCRIPTION:🎶 Get Ready for Zakk Wylde Live at OVO Arena Wembley on Tues
  day, February 25, 2025! 🎶 This is not just a concert—it’s a moment 
  you’ll talk about for years. Zakk Wylde is set to light up OVO...
 DTEND;VALUE=DATE:20250225
 DTSTART;VALUE=DATE:20250225
 SUMMARY:Zakk Wylde in London
-UID:958bfc94-b092-49af-a271-38e177db85de
+UID:36068224-9c82-47c1-ae93-b8e9a58a6756
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
-DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
- on 5/17/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250517
-DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters @ OVO Arena, Wembley
-UID:48cecd67-9394-432d-bee4-fdbbdeb55883
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
-DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
- 3/7/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250307
-DTSTART;VALUE=DATE:20250307
-SUMMARY:Teddy Swims
-UID:31070803-7fa5-4329-83c8-a6e8f90e1cff
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
-DESCRIPTION:The Spandau Ballet star will be taking to the decks and spinnin
- g all the best of the hits from the 80's. As he presents the biggest 80's n
- ight to ever hit the town! Dig out those 80\`s clothes...
-DTEND;VALUE=DATE:20250301
-DTSTART;VALUE=DATE:20250301
-SUMMARY:BACK To the 80'S
-UID:37b4b502-a36b-4f08-a545-b5ea367a1ce4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
+DTSTAMP:20250225T015450Z
 DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
  2/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250322
 DTSTART;VALUE=DATE:20250322
 SUMMARY:The Game - 20 Years of The Documentary
-UID:51d56733-886a-49df-92f5-f30c0e7d325f
+UID:b2f05d63-4da7-49a3-b910-bafeae7ffd4a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
-DESCRIPTION:Find tickets for Chris de Burgh at Cadogan Hall in London on 2/
- 28/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250228
-DTSTART;VALUE=DATE:20250228
-SUMMARY:Chris de Burgh
-UID:5f0a801a-fe7b-4801-9fdf-8d31c18dfa20
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
-DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
- h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
- packed out arenas across the country with his “ Seriously? ”...
-DTEND;VALUE=DATE:20250613
-DTSTART;VALUE=DATE:20250613
-SUMMARY:Jeff Dunham
-UID:54bc5e56-0b48-4ea8-a184-7bfaeaa332ce
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250224T015544Z
+DTSTAMP:20250225T015450Z
 DESCRIPTION:START TIME: 19:30 Chris de Burgh (born October 15th, 1948) is a
  n Irish musician and songwriter. Born Christopher John Davison in Buenos Ai
  res, Argentina (he is the son of a British diplomat and an...
 DTEND;VALUE=DATE:20250302
 DTSTART;VALUE=DATE:20250302
 SUMMARY:Chris de Burgh
-UID:37ebca5e-7f9e-42b9-b4ac-ac151be8c70a
+UID:67b70770-2585-4e76-9327-c1222993b436
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T015450Z
+DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
+ 3/7/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250307
+DTSTART;VALUE=DATE:20250307
+SUMMARY:Teddy Swims
+UID:26d8bcf4-08bc-4af6-b3de-4ee0b1a8ee35
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T015450Z
+DESCRIPTION:The Spandau Ballet star will be taking to the decks and spinnin
+ g all the best of the hits from the 80's. As he presents the biggest 80's n
+ ight to ever hit the town! Dig out those 80\`s clothes...
+DTEND;VALUE=DATE:20250301
+DTSTART;VALUE=DATE:20250301
+SUMMARY:BACK To the 80'S
+UID:0b225e31-1882-4075-bed0-68018972d686
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T015450Z
+DESCRIPTION:Find tickets for Chris de Burgh at Cadogan Hall in London on 2/
+ 28/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250228
+DTSTART;VALUE=DATE:20250228
+SUMMARY:Chris De Burgh
+UID:b763a13c-2d92-42c9-9c57-058be30a848f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T015450Z
+DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
+ h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
+ packed out arenas across the country with his “ Seriously? ”...
+DTEND;VALUE=DATE:20250613
+DTSTART;VALUE=DATE:20250613
+SUMMARY:Jeff Dunham
+UID:5858120b-eed1-48c3-b6a7-9fb3fe2145fa
 END:VEVENT
 END:VCALENDAR
