@@ -3,98 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
-DESCRIPTION:Find tickets for Teddy Swims at OVO Arena Wembley in London on 
- 3/7/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250307
-DTSTART;VALUE=DATE:20250307
-SUMMARY:Teddy Swims
-UID:ae6b2e2a-066c-4268-9f65-0cd8de26ce80
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
+DTSTAMP:20250308T013344Z
 DESCRIPTION:Ebi “Pooste Shir Tour” in London: A Nostalgic and Energetic
   Night! Get ready for an unforgettable evening as Ebi, the legendary Irania
  n pop icon, brings his “Pooste Shir Tour” to London! On March...
 DTEND;VALUE=DATE:20250309
 DTSTART;VALUE=DATE:20250309
 SUMMARY:Ebi Live in London
-UID:ea25d33d-b803-4c5b-84e1-80d3becc2b1a
+UID:e2f090d9-fd86-49ad-bf7b-ed31a271538e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
+DTSTAMP:20250308T013344Z
 DESCRIPTION:Find tickets for Kidz Bop Kids at OVO Arena Wembley in London o
  n 3/8/2025 at 4:30 PM
 DTEND;VALUE=DATE:20250308
 DTSTART;VALUE=DATE:20250308
 SUMMARY:KIDZ BOP Kids
-UID:dfc08574-feb1-419f-a8cd-1f4cdaac54c1
+UID:de7e6d44-460c-4ada-b61b-c429270e73d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20250307
-DTSTART;VALUE=DATE:20250307
-SUMMARY:Cian Ducrot
-UID:7ff71d09-179a-44b2-a72a-479f9fb92d84
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
+DTSTAMP:20250308T013344Z
 DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
  2/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250322
 DTSTART;VALUE=DATE:20250322
 SUMMARY:The Game - 20 Years of The Documentary
-UID:1dbfe573-6541-470c-9621-7ee5964441f7
+UID:22cdf89f-2e71-4cb0-92f4-570055330e92
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
+DTSTAMP:20250308T013344Z
 DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
  on 5/17/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:d490c474-9b0c-4bbd-86f3-6b69bdf8bbab
+UID:b021ba15-f4ce-4661-a8d2-bf0de8500ab4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
+DTSTAMP:20250308T013344Z
 DESCRIPTION:Sabrina Carpenter has announced that she will be bringing her w
  ildly anticipated Short n’ Sweet Tour to London with headline shows at Th
  e O2 on Saturday 8 and Sunday 9 March 2025. Sabrina...
 DTEND;VALUE=DATE:20250308
 DTSTART;VALUE=DATE:20250308
 SUMMARY:Sabrina Carpenter
-UID:aa17aa78-04f0-4e67-be3f-8ada3a20da17
+UID:d262c1aa-941d-44f3-8eab-5f14d137ac8b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
-DESCRIPTION:7 Mar 2025 Doors open 18:30 The Great Hall Sub Focus is coming 
- to blow the roof off Alexandra Palace in March 2025 with a brand new versio
- n of his live show, Circular Sound, for his biggest show...
-DTEND;VALUE=DATE:20250307
-DTSTART;VALUE=DATE:20250307
-SUMMARY:Sub Focus
-UID:819237d3-2908-4be0-a2c3-b316bcd86392
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
+DTSTAMP:20250308T013344Z
 DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
  na Wembley in London on 4/17/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:c4a60dc8-bf4a-4a87-9b33-2ab82f5474ca
+UID:c0377baf-b29a-4c11-986f-da1eb394b06f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250307T015727Z
-DESCRIPTION:After two instant sell-out shows at Electric Brixton for his Lo
- ndon debut in May, Mahmut Orhan returns to the capital to headline Camden'
- s iconic Roundhouse. The Turkish DJ and producer shot onto...
-DTEND;VALUE=DATE:20250308
-DTSTART;VALUE=DATE:20250308
-SUMMARY:Mahmut Orhan
-UID:cc8c7b52-e615-43c2-a34f-5c310d37c9d5
+DTSTAMP:20250308T013344Z
+DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
+ rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
+ start of a love affair between one of the most extraordinary and best...
+DTEND;VALUE=DATE:20250329
+DTSTART;VALUE=DATE:20250329
+SUMMARY:The Darkness
+UID:c77c68a4-48af-4197-8dfc-fc327512e1ad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250308T013344Z
+DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
+ h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
+ packed out arenas across the country with his “ Seriously? ”...
+DTEND;VALUE=DATE:20250613
+DTSTART;VALUE=DATE:20250613
+SUMMARY:Jeff Dunham
+UID:e9dacf50-8473-4672-a2d4-87bfa4ad3db3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250308T013344Z
+DESCRIPTION:Find tickets for Tom Segura at OVO Arena Wembley in London on 3
+ /20/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250320
+DTSTART;VALUE=DATE:20250320
+SUMMARY:Tom Segura: Come Together
+UID:921759b9-fb39-4af1-a06a-68e5f459388d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250308T013344Z
+DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
+ tional Express journeys from across the UK.
+DTEND;VALUE=DATE:20250620
+DTSTART;VALUE=DATE:20250620
+SUMMARY:Dua Lipa at Wembley
+UID:c4b590e9-08cd-4049-9894-6d2bac6af7d3
 END:VEVENT
 END:VCALENDAR
