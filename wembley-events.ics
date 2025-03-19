@@ -3,98 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
+DTSTAMP:20250319T015900Z
 DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
  2/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250322
 DTSTART;VALUE=DATE:20250322
 SUMMARY:The Game - 20 Years of The Documentary
-UID:22824d16-e70d-45f8-9ef5-7ac777135af6
+UID:1c516520-5ff2-4356-bf61-0992fd15e9cd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
+DTSTAMP:20250319T015900Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 3/23/2025 at 1:00 PM
 DTEND;VALUE=DATE:20250323
 DTSTART;VALUE=DATE:20250323
 SUMMARY:Starlight Express
-UID:b8dc77bf-5f2c-4b3c-9adf-785ff1c81b9b
+UID:68ceccd6-eabe-4de9-a953-f072868d60ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
-DESCRIPTION:🎤 Experience The Game Live at OVO Arena Wembley on Saturday,
-  March 22, 2025! 🎤 The countdown has begun! The Game is taking over OVO 
- Arena Wembley on Saturday, March 22, 2025 , and with hits like
-DTEND;VALUE=DATE:20250322
-DTSTART;VALUE=DATE:20250322
-SUMMARY:The Game in London
-UID:6f2fef0b-c03a-44c8-a1da-9e28adb4c360
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
+DTSTAMP:20250319T015900Z
 DESCRIPTION:Supplying all that good music and food for the soul. Each and e
  very Sunday at BOXPARK Wembley. Resident DJs will be playing music along wi
  th live music for the ...
 DTEND;VALUE=DATE:20250330
 DTSTART;VALUE=DATE:20250330
 SUMMARY:SOULFUL SUNDAYS
-UID:4080b0d2-30ec-405e-bf4b-841f3e1b5303
+UID:147f8df3-9dff-4329-a3e5-f95e00dfdfaa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
+DTSTAMP:20250319T015900Z
+DESCRIPTION:Find tickets for The Weather Girls at Soul Mama in London on 3/
+ 22/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250322
+DTSTART;VALUE=DATE:20250322
+SUMMARY:The Weather Girls
+UID:925a014c-3958-4c1b-b1fd-1607bda61aaf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250319T015900Z
 DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
  on 5/17/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:828696ef-ae64-4c5c-9035-55b25b92da20
+UID:900810fc-25e5-49c7-a685-211d4686c91e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
-DESCRIPTION:Find tickets for YOASOBI at OVO Arena Wembley in London on 6/8/
- 2025 at 7:30 PM
-DTEND;VALUE=DATE:20250608
-DTSTART;VALUE=DATE:20250608
-SUMMARY:YOASOBI
-UID:59f52103-dac5-4a2a-9451-4669117d6a6b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
+DTSTAMP:20250319T015900Z
 DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
  rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
  start of a love affair between one of the most extraordinary and best...
 DTEND;VALUE=DATE:20250329
 DTSTART;VALUE=DATE:20250329
 SUMMARY:The Darkness
-UID:4d090a51-9175-48ec-b6c7-750c550cf9a0
+UID:45b17a4d-8fdc-4fc1-ad6e-2f403a8b0c5f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
+DTSTAMP:20250319T015900Z
+DESCRIPTION:No description
+DTEND;VALUE=DATE:20250319
+DTSTART;VALUE=DATE:20250319
+SUMMARY:Sam Palladio
+UID:6fa7bd46-e4c4-4ba6-a122-87469b2a39f5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250319T015900Z
 DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
  h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
  packed out arenas across the country with his “ Seriously? ”...
 DTEND;VALUE=DATE:20250613
 DTSTART;VALUE=DATE:20250613
 SUMMARY:Jeff Dunham
-UID:b86270f3-4a87-4813-9684-d9be5c81dee1
+UID:182b88c4-eac0-4a6e-9c48-9725899c094e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
-DESCRIPTION:Tucker Wetmore tickets – Tue, 18 Mar 2025, 7:00 pm at Royal A
- lbert Hall
-DTEND;VALUE=DATE:20250318
-DTSTART;VALUE=DATE:20250318
-SUMMARY:Tucker Wetmore
-UID:2da87d38-a2b8-457e-a889-53bdda077aed
+DTSTAMP:20250319T015900Z
+DESCRIPTION:Find tickets for John Cooper Clarke at The London Palladium in 
+ London on 3/19/2025 at 6:45 PM
+DTEND;VALUE=DATE:20250319
+DTSTART;VALUE=DATE:20250319
+SUMMARY:Dr John Cooper Clarke: In Celebration of World Poetry Day
+UID:4d5777c1-6b9f-4fff-a14b-7c34b4fd0264
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250318T015856Z
-DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
- d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
- ox office records and was honored with a Billboard Award...
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:The Millenium Tour 2025
-UID:c331343f-fdc8-49c5-b347-50dcbf17a0f5
+DTSTAMP:20250319T015900Z
+DESCRIPTION:We are back with another special edition of the RnB & Slow Jam
+ s experience with a headline set shining a spotlight on the Ladies of RnB. 
+ Whether it's Erykah Badu, Aaliyah, Missy Elliott or SZA...
+DTEND;VALUE=DATE:20250323
+DTSTART;VALUE=DATE:20250323
+SUMMARY:Ladies of RnB
+UID:a04d4880-fc49-433b-9971-7e327557eed6
 END:VEVENT
 END:VCALENDAR
