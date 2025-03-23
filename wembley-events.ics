@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
-DESCRIPTION:Find tickets for The Game at OVO Arena Wembley in London on 3/2
- 2/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250322
-DTSTART;VALUE=DATE:20250322
-SUMMARY:The Game - 20 Years of The Documentary
-UID:2c49d00f-2790-4cd7-985a-eda57c8316fe
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
+DTSTAMP:20250323T020532Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 3/23/2025 at 1:00 PM
 DTEND;VALUE=DATE:20250323
 DTSTART;VALUE=DATE:20250323
-SUMMARY:Starlight Express CKN
-UID:ed142b9c-da36-4953-86ce-e764bb0dcfaf
+SUMMARY:Starlight Express
+UID:3c6a4ee6-8d24-4514-8f5b-53a84217e52a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
+DTSTAMP:20250323T020532Z
 DESCRIPTION:Supplying all that good music and food for the soul. Each and e
  very Sunday at BOXPARK Wembley. Resident DJs will be playing music along wi
  th live music for the ...
 DTEND;VALUE=DATE:20250330
 DTSTART;VALUE=DATE:20250330
 SUMMARY:SOULFUL SUNDAYS
-UID:b2328bcd-8c35-4638-b7c3-47004f4749f7
+UID:228cc538-2723-4adf-bd7f-0b7a8a73054c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
-DESCRIPTION:Find tickets for The Weather Girls at Soul Mama in London on 3/
- 22/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250322
-DTSTART;VALUE=DATE:20250322
-SUMMARY:The Weather Girls
-UID:c07b4e84-476e-4b50-be52-798d754528ec
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
+DTSTAMP:20250323T020532Z
 DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
  on 5/17/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters
-UID:5362770a-a73e-4330-9653-eb9faa9f788f
+SUMMARY:Russell Peters @ OVO Arena, Wembley
+UID:d94994e3-3a8d-4511-9910-59459fbfb497
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
+DTSTAMP:20250323T020532Z
 DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
  rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
  start of a love affair between one of the most extraordinary and best...
 DTEND;VALUE=DATE:20250329
 DTSTART;VALUE=DATE:20250329
 SUMMARY:The Darkness
-UID:ae957e24-1678-4249-a728-cd17fd679c14
+UID:bf4f4622-391e-4bfd-88db-03285e4c481e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
-DESCRIPTION:We are back with another special edition of the RnB & Slow Jam
- s experience with a headline set shining a spotlight on the Ladies of RnB. 
- Whether it's Erykah Badu, Aaliyah, Missy Elliott or SZA...
-DTEND;VALUE=DATE:20250323
-DTSTART;VALUE=DATE:20250323
-SUMMARY:Ladies of RnB
-UID:37126a93-a078-4961-8c0f-2bcc3bff0157
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
-DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
- h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
- packed out arenas across the country with his “ Seriously? ”...
-DTEND;VALUE=DATE:20250613
-DTSTART;VALUE=DATE:20250613
-SUMMARY:Jeff Dunham
-UID:eb46fe66-88e0-4e7f-b2d4-96891238a8a6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
+DTSTAMP:20250323T020532Z
 DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
  na Wembley in London on 4/17/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:50be7128-eecb-4c4d-b6c3-60206ef5ed3f
+UID:7e8b5407-b2d7-4028-98c7-04921f0a1a08
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250322T015639Z
+DTSTAMP:20250323T020532Z
+DESCRIPTION:Children under 15 must be accompanied by an adult aged 18 or ov
+ er Shane Gillis, one of the industry’s top touring comedians, and creator
+  and star of the hugely successful Netflix series Tires, is...
+DTEND;VALUE=DATE:20250323
+DTSTART;VALUE=DATE:20250323
+SUMMARY:Shane Gillis: Live In London
+UID:ef98c777-11a6-4cde-80a0-ab0d6f016478
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250323T020532Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20250403
 DTSTART;VALUE=DATE:20250403
 SUMMARY:You Me At Six - the Final Night of Six
-UID:f375834f-aef5-4eb9-8701-86e3142cfbe9
+UID:270b954c-203c-4d88-a610-e37b79434fc8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250323T020532Z
+DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
+ t Fateh Ali Khan, was mentored under him since birth and is now the King o
+ f Qawwali and Sufi music and the glorious voice behind hit...
+DTEND;VALUE=DATE:20250405
+DTSTART;VALUE=DATE:20250405
+SUMMARY:Rahat Fateh Ali Khan @ OVO Arena, Wembley
+UID:c3bf49cd-694e-419b-a880-91f54291b27d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250323T020532Z
+DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
+ h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
+ packed out arenas across the country with his “ Seriously? ”...
+DTEND;VALUE=DATE:20250613
+DTSTART;VALUE=DATE:20250613
+SUMMARY:Jeff Dunham
+UID:83e45ce1-3775-462d-8b34-c7bb1f03b1f4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250323T020532Z
+DESCRIPTION:Find tickets for Joel Corry with RUZE and Hyzteria at Ministry 
+ Of Sound in London on 3/22/2025 at 10:00 PM
+DTEND;VALUE=DATE:20250323
+DTSTART;VALUE=DATE:20250323
+SUMMARY:Joel Corry
+UID:2e23f2bf-5a6b-4b27-a400-e7a3aa271a37
 END:VEVENT
 END:VCALENDAR
