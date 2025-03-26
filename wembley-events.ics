@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
+DTSTAMP:20250326T015957Z
 DESCRIPTION:Supplying all that good music and food for the soul. Each and e
  very Sunday at BOXPARK Wembley. Resident DJs will be playing music along wi
  th live music for the ...
 DTEND;VALUE=DATE:20250330
 DTSTART;VALUE=DATE:20250330
 SUMMARY:SOULFUL SUNDAYS
-UID:e7ee502c-1463-4d2a-8dcd-69c3f1416b74
+UID:6502523b-f720-42d6-ae1a-bcddb23d5f90
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
+DTSTAMP:20250326T015957Z
 DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
  rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
  start of a love affair between one of the most extraordinary and best...
 DTEND;VALUE=DATE:20250329
 DTSTART;VALUE=DATE:20250329
 SUMMARY:The Darkness
-UID:f4937b7a-2f30-4093-a8de-fb168698c2b8
+UID:3c6596ff-acdf-4e7c-8b2a-1bff6332f4fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
-DESCRIPTION:Find tickets for The Who with Level 42 at Royal Albert Hall in 
- London on 3/27/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250327
-DTSTART;VALUE=DATE:20250327
-SUMMARY:The Who
-UID:051c96e1-289f-4351-9a07-1affb08f09e9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
+DTSTAMP:20250326T015957Z
 DESCRIPTION:Find tickets for The Who with Level 42 at Royal Albert Hall in 
  London on 3/27/2025 at 6:30 PM
 DTEND;VALUE=DATE:20250327
 DTSTART;VALUE=DATE:20250327
 SUMMARY:Level 42
-UID:b84ecb4a-e10c-42fc-aa55-2e55a029b2cd
+UID:8590109c-1eb3-4533-a4e0-32181be160cd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
-DESCRIPTION:Find tickets for Russell Peters at OVO Arena Wembley in London 
- on 5/17/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250517
-DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters @ OVO Arena, Wembley
-UID:5610356b-e5bb-47c7-ba62-d1b718ebacdd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
-DESCRIPTION:Buy & sell for Nemo "Breaking the Code" Europe Tour 2025 | O2 F
- orum Kentish Town London, London | Wed, Mar 26, 7:00 PM. TicketSwap – saf
- e and fair ticket resale.
-DTEND;VALUE=DATE:20250326
-DTSTART;VALUE=DATE:20250326
-SUMMARY:Nemo London Tickets
-UID:f6dcc029-4d28-44b0-8159-e61d2d6b16dd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
-DESCRIPTION:Find tickets for USHER at The O2 in London on 3/29/2025 at 6:3
- 0 PM
-DTEND;VALUE=DATE:20250329
-DTSTART;VALUE=DATE:20250329
-SUMMARY:USHER
-UID:49d4d942-aaeb-4db0-b97b-99308467c26d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
+DTSTAMP:20250326T015957Z
 DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
  h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
  packed out arenas across the country with his “ Seriously? ”...
 DTEND;VALUE=DATE:20250613
 DTSTART;VALUE=DATE:20250613
 SUMMARY:Jeff Dunham
-UID:d24ef71e-9f5c-4959-a141-4fc76ce4204e
+UID:7a40e9ea-1c33-45ed-b461-bdf7be946f41
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
+DTSTAMP:20250326T015957Z
+DESCRIPTION:Find tickets for USHER at The O2 in London on 3/29/2025 at 6:3
+ 0 PM
+DTEND;VALUE=DATE:20250329
+DTSTART;VALUE=DATE:20250329
+SUMMARY:USHER
+UID:5f54241b-c736-43e9-ac92-0135a4c080d5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250326T015957Z
 DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
  na Wembley in London on 4/17/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:920ba923-8f6f-4995-9ab2-9a0dd25565fa
+UID:14a5a76a-9fb6-4fbd-8587-496224541efc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250325T020030Z
+DTSTAMP:20250326T015957Z
 DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
  t Fateh Ali Khan, was mentored under him since birth and is now the King o
  f Qawwali and Sufi music and the glorious voice behind hit...
 DTEND;VALUE=DATE:20250405
 DTSTART;VALUE=DATE:20250405
 SUMMARY:Rahat Fateh Ali Khan @ OVO Arena, Wembley
-UID:e5ae22e7-d3a3-4502-950f-aa3efe49035b
+UID:8771a5da-1c1a-40c8-ab16-fd3d51429aef
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250326T015957Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20250403
+DTSTART;VALUE=DATE:20250403
+SUMMARY:You Me At Six - the Final Night of Six
+UID:30df6179-8b66-40ca-b8d2-707bc0684ef2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250326T015957Z
+DESCRIPTION:See Oasis when they return to Wembley Stadium in 2025, enquire 
+ today to secure you VIP tickets with premium hospitality.
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Oasis - Live
+UID:c51195ac-0450-439f-bd14-00b0f33ec1f2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250326T015957Z
+DESCRIPTION:Find tickets for Dua Lipa at Wembley Stadium in London on 6/21/
+ 2025 at 7:00 PM
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Dua Lipa
+UID:1af243d6-2738-4b19-b029-199c416cb231
 END:VEVENT
 END:VCALENDAR
