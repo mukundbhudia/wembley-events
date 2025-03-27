@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
+DTSTAMP:20250327T015942Z
 DESCRIPTION:Supplying all that good music and food for the soul. Each and e
  very Sunday at BOXPARK Wembley. Resident DJs will be playing music along wi
  th live music for the ...
 DTEND;VALUE=DATE:20250330
 DTSTART;VALUE=DATE:20250330
 SUMMARY:SOULFUL SUNDAYS
-UID:6502523b-f720-42d6-ae1a-bcddb23d5f90
+UID:1be1ff6b-209b-4815-b7c1-ad12c70d0254
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
+DTSTAMP:20250327T015942Z
 DESCRIPTION:Justin Hawkins – vocals & guitar / Dan Hawkins – guitar / F
  rankie Poullain – bass / Rufus ‘Tiger’ Taylor – drums 2003 saw the 
  start of a love affair between one of the most extraordinary and best...
 DTEND;VALUE=DATE:20250329
 DTSTART;VALUE=DATE:20250329
 SUMMARY:The Darkness
-UID:3c6596ff-acdf-4e7c-8b2a-1bff6332f4fa
+UID:4b32d325-a658-4584-a82c-fa73f2d98957
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
-DESCRIPTION:Find tickets for The Who with Level 42 at Royal Albert Hall in 
- London on 3/27/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250327
-DTSTART;VALUE=DATE:20250327
-SUMMARY:Level 42
-UID:8590109c-1eb3-4533-a4e0-32181be160cd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
+DTSTAMP:20250327T015942Z
 DESCRIPTION:Legendary Comedian, Jeff Dunham , is coming back to the UK wit
  h his brand-new show “ ARTIFICIAL INTELLIGENCE ”. Three years since he 
  packed out arenas across the country with his “ Seriously? ”...
 DTEND;VALUE=DATE:20250613
 DTSTART;VALUE=DATE:20250613
 SUMMARY:Jeff Dunham
-UID:7a40e9ea-1c33-45ed-b461-bdf7be946f41
+UID:b2e704d5-a8dc-4b4f-b6f3-59ec65247bb9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
-DESCRIPTION:Find tickets for USHER at The O2 in London on 3/29/2025 at 6:3
- 0 PM
-DTEND;VALUE=DATE:20250329
-DTSTART;VALUE=DATE:20250329
-SUMMARY:USHER
-UID:5f54241b-c736-43e9-ac92-0135a4c080d5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
+DTSTAMP:20250327T015942Z
 DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
  na Wembley in London on 4/17/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:14a5a76a-9fb6-4fbd-8587-496224541efc
+UID:72051d9d-a3ba-4132-bdf4-2ca02fd918a0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
+DTSTAMP:20250327T015942Z
 DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
  t Fateh Ali Khan, was mentored under him since birth and is now the King o
  f Qawwali and Sufi music and the glorious voice behind hit...
 DTEND;VALUE=DATE:20250405
 DTSTART;VALUE=DATE:20250405
 SUMMARY:Rahat Fateh Ali Khan @ OVO Arena, Wembley
-UID:8771a5da-1c1a-40c8-ab16-fd3d51429aef
+UID:51b4cfff-3965-4fc4-b4ef-5db1b7bc019f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
+DTSTAMP:20250327T015942Z
+DESCRIPTION:Find tickets for The Who with Level 42 at Royal Albert Hall in 
+ London on 3/27/2025 at 6:30 PM
+DTEND;VALUE=DATE:20250327
+DTSTART;VALUE=DATE:20250327
+SUMMARY:Level 42
+UID:ef809c0a-3fc0-4086-8040-4909dd72de97
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250327T015942Z
+DESCRIPTION:After a long and successful career, UK rock royalty, You Me At 
+ Six, have announce their split. Frontman Josh Franceschi says “When we st
+ arted YMAS we were kids. We only ever wanted longevity, to...
 DTEND;VALUE=DATE:20250403
 DTSTART;VALUE=DATE:20250403
-SUMMARY:You Me At Six - the Final Night of Six
-UID:30df6179-8b66-40ca-b8d2-707bc0684ef2
+SUMMARY:You Me At Six
+UID:ff1da3e2-9a01-4057-a0e2-ade75ce37926
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
-DESCRIPTION:See Oasis when they return to Wembley Stadium in 2025, enquire 
- today to secure you VIP tickets with premium hospitality.
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Oasis - Live
-UID:c51195ac-0450-439f-bd14-00b0f33ec1f2
+DTSTAMP:20250327T015942Z
+DESCRIPTION:Lana Del Rey UK & Ireland Tour 2025 – Wembley Stadium 2025 UK
+  and Ireland Tour – Thursday 3rd, and Friday 4th July 2025 Lana Del Rey i
+ s one of the world’s most popular solo artists, and she will...
+DTEND;VALUE=DATE:20250703
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Lana Del Rey
+UID:a61f3fe2-6960-4c15-9d94-ce2b69c3012f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250326T015957Z
+DTSTAMP:20250327T015942Z
 DESCRIPTION:Find tickets for Dua Lipa at Wembley Stadium in London on 6/21/
  2025 at 7:00 PM
 DTEND;VALUE=DATE:20250621
 DTSTART;VALUE=DATE:20250621
 SUMMARY:Dua Lipa
-UID:1af243d6-2738-4b19-b029-199c416cb231
+UID:359af5c1-cba8-42fd-b2fe-7f3dc6605260
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250327T015942Z
+DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/16
+ /2025 at 5:00 PM
+DTEND;VALUE=DATE:20250816
+DTSTART;VALUE=DATE:20250816
+SUMMARY:BLACKPINK
+UID:52d46b55-4995-4a41-9099-21315629df1b
 END:VEVENT
 END:VCALENDAR
