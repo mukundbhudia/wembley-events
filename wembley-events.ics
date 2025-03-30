@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
+DTSTAMP:20250330T020746Z
 DESCRIPTION:Supplying all that good music and food for the soul. Each and e
  very Sunday at BOXPARK Wembley. Resident DJs will be playing music along wi
  th live music for the ...
 DTEND;VALUE=DATE:20250330
 DTSTART;VALUE=DATE:20250330
 SUMMARY:SOULFUL SUNDAYS
-UID:4907b030-573d-41fc-9520-d58dd4907fda
+UID:4691d9a9-045c-47b5-aea7-974abd7d0eed
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
-DESCRIPTION:Find tickets for The Darkness with Ash at OVO Arena Wembley in 
- London on 3/29/2025 at 6:30 PM
-DTEND;VALUE=DATE:20250329
-DTSTART;VALUE=DATE:20250329
-SUMMARY:The Darkness
-UID:c9847fa8-7057-4d5f-af31-e63331bfb382
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
+DTSTAMP:20250330T020746Z
 DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
  na Wembley in London on 4/17/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:de760bcf-16a5-49ff-b85a-5e0fba0dcdad
+UID:40cfb802-ad34-48bb-b3bf-55ed30ce7d2f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
+DTSTAMP:20250330T020746Z
 DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
  t Fateh Ali Khan, was mentored under him since birth and is now the King o
  f Qawwali and Sufi music and the glorious voice behind hit...
 DTEND;VALUE=DATE:20250405
 DTSTART;VALUE=DATE:20250405
 SUMMARY:Rahat Fateh Ali Khan @ OVO Arena, Wembley
-UID:cb8e910e-7f5e-4019-a890-06a1d3cf4fca
+UID:2fd9b876-0968-4bf6-8261-da4b37282e36
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
+DTSTAMP:20250330T020746Z
 DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
  d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
  ox office records and was honored with a Billboard Award...
 DTEND;VALUE=DATE:20250504
 DTSTART;VALUE=DATE:20250504
 SUMMARY:The Millenium Tour 2025
-UID:740347ae-48ca-4654-a5bb-0002209f656b
+UID:29470df4-5e55-4f6c-a78e-57dc6419e4a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
+DTSTAMP:20250330T020746Z
 DESCRIPTION:After a long and successful career, UK rock royalty, You Me At 
  Six, have announce their split. Frontman Josh Franceschi says “When we st
  arted YMAS we were kids. We only ever wanted longevity, to...
 DTEND;VALUE=DATE:20250403
 DTSTART;VALUE=DATE:20250403
 SUMMARY:You Me At Six
-UID:3d9bc10e-76ac-400a-bd46-7b80322b3664
+UID:e3dc93a0-af4b-4501-b8f1-867b14c20fa5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
-DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
- n on 4/21/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250421
-DTSTART;VALUE=DATE:20250421
-SUMMARY:Satinder Sartaaj
-UID:4cfdc578-b0b0-4e27-a454-abfe5ac30bcc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
+DTSTAMP:20250330T020746Z
 DESCRIPTION:Get in touch with Hospitality Finder to secure your VIP ticket
  s and hospitality packages to see Oasis at Wembley Stadium in 2025.
 DTEND;VALUE=DATE:20250725
 DTSTART;VALUE=DATE:20250725
 SUMMARY:OASIS
-UID:ac988dd1-fbb6-4d45-bc84-47b75c9aa44e
+UID:b24faad5-a1f8-49d4-b819-39bf3457f69a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
+DTSTAMP:20250330T020746Z
+DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
+ n on 4/21/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250421
+DTSTART;VALUE=DATE:20250421
+SUMMARY:Satinder Sartaaj
+UID:4d27b8e3-6a97-4396-9497-cb3b1849422f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250330T020746Z
 DESCRIPTION:Lana Del Rey UK & Ireland Tour 2025 – Wembley Stadium 2025 UK
   and Ireland Tour – Thursday 3rd, and Friday 4th July 2025 Lana Del Rey i
  s one of the world’s most popular solo artists, and she will...
 DTEND;VALUE=DATE:20250703
 DTSTART;VALUE=DATE:20250703
 SUMMARY:Lana Del Rey
-UID:d44658e0-a0b2-44b6-a4df-9417cf75b0ab
+UID:be2bf23b-3e95-4570-916a-fde2555736dc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250329T015840Z
+DTSTAMP:20250330T020746Z
 DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/16
  /2025 at 5:00 PM
 DTEND;VALUE=DATE:20250816
 DTSTART;VALUE=DATE:20250816
 SUMMARY:BLACKPINK
-UID:55bd30e1-6c0b-4424-82b1-1d0e008a2dcf
+UID:091c4fef-d053-41f6-8422-1471047aabb9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250330T020746Z
+DESCRIPTION:Find tickets for Olly Murs with Blue at OVO Arena Wembley in Lo
+ ndon on 5/18/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250518
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Olly Murs
+UID:cbba1871-8a33-4ac3-bf47-bf1e63266d1f
 END:VEVENT
 END:VCALENDAR
