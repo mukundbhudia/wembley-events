@@ -3,98 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
-DESCRIPTION:Supplying all that good music and food for the soul. Each and e
- very Sunday at BOXPARK Wembley. Resident DJs will be playing music along wi
- th live music for the ...
-DTEND;VALUE=DATE:20250330
-DTSTART;VALUE=DATE:20250330
-SUMMARY:SOULFUL SUNDAYS
-UID:4691d9a9-045c-47b5-aea7-974abd7d0eed
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
-DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
- na Wembley in London on 4/17/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250417
-DTSTART;VALUE=DATE:20250417
-SUMMARY:Alkaline
-UID:40cfb802-ad34-48bb-b3bf-55ed30ce7d2f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
+DTSTAMP:20250331T020610Z
 DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
  t Fateh Ali Khan, was mentored under him since birth and is now the King o
  f Qawwali and Sufi music and the glorious voice behind hit...
 DTEND;VALUE=DATE:20250405
 DTSTART;VALUE=DATE:20250405
 SUMMARY:Rahat Fateh Ali Khan @ OVO Arena, Wembley
-UID:2fd9b876-0968-4bf6-8261-da4b37282e36
+UID:7caf6e1c-8d7d-44f7-8b6e-ba029ba21757
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
-DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
- d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
- ox office records and was honored with a Billboard Award...
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:The Millenium Tour 2025
-UID:29470df4-5e55-4f6c-a78e-57dc6419e4a4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
+DTSTAMP:20250331T020610Z
 DESCRIPTION:After a long and successful career, UK rock royalty, You Me At 
  Six, have announce their split. Frontman Josh Franceschi says “When we st
  arted YMAS we were kids. We only ever wanted longevity, to...
 DTEND;VALUE=DATE:20250403
 DTSTART;VALUE=DATE:20250403
 SUMMARY:You Me At Six
-UID:e3dc93a0-af4b-4501-b8f1-867b14c20fa5
+UID:fd364d6b-bc29-4f7c-a3a8-e07a1a7870c0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
-DESCRIPTION:Get in touch with Hospitality Finder to secure your VIP ticket
- s and hospitality packages to see Oasis at Wembley Stadium in 2025.
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:OASIS
-UID:b24faad5-a1f8-49d4-b819-39bf3457f69a
+DTSTAMP:20250331T020610Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20250403
+DTSTART;VALUE=DATE:20250403
+SUMMARY:Holding Absence
+UID:6e3e1c39-afab-45e7-a24a-11d58708d65a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
-DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
- n on 4/21/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250421
-DTSTART;VALUE=DATE:20250421
-SUMMARY:Satinder Sartaaj
-UID:4d27b8e3-6a97-4396-9497-cb3b1849422f
+DTSTAMP:20250331T020610Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20250404
+DTSTART;VALUE=DATE:20250404
+SUMMARY:Kid Kapichi
+UID:41a9e5df-c65f-42ec-9195-a6ddf3a18f1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
-DESCRIPTION:Lana Del Rey UK & Ireland Tour 2025 – Wembley Stadium 2025 UK
-  and Ireland Tour – Thursday 3rd, and Friday 4th July 2025 Lana Del Rey i
- s one of the world’s most popular solo artists, and she will...
-DTEND;VALUE=DATE:20250703
-DTSTART;VALUE=DATE:20250703
-SUMMARY:Lana Del Rey
-UID:be2bf23b-3e95-4570-916a-fde2555736dc
+DTSTAMP:20250331T020610Z
+DESCRIPTION:Destroy Lonely rap tickets on sale now - Ticombo - the world's 
+ biggest marketplace for Destroy Lonely rap Tickets in the world.
+DTEND;VALUE=DATE:20250403
+DTSTART;VALUE=DATE:20250403
+SUMMARY:Destroy Lonely
+UID:f6559bf0-662a-4ca0-801e-abb1a6ba9c28
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
-DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/16
- /2025 at 5:00 PM
-DTEND;VALUE=DATE:20250816
-DTSTART;VALUE=DATE:20250816
-SUMMARY:BLACKPINK
-UID:091c4fef-d053-41f6-8422-1471047aabb9
+DTSTAMP:20250331T020610Z
+DESCRIPTION:An Alternative band from Blackpool UK. FY1 Forever
+DTEND;VALUE=DATE:20250403
+DTSTART;VALUE=DATE:20250403
+SUMMARY:Boston Manor
+UID:9d0f35ac-f343-43a7-84c5-a6565d3255ab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250330T020746Z
-DESCRIPTION:Find tickets for Olly Murs with Blue at OVO Arena Wembley in Lo
- ndon on 5/18/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250518
-DTSTART;VALUE=DATE:20250518
-SUMMARY:Olly Murs
-UID:cbba1871-8a33-4ac3-bf47-bf1e63266d1f
+DTSTAMP:20250331T020610Z
+DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
+ na Wembley in London on 4/17/2025 at 6:00 PM
+DTEND;VALUE=DATE:20250417
+DTSTART;VALUE=DATE:20250417
+SUMMARY:Alkaline
+UID:c8080f42-e549-4f85-adba-f5fa67d0dbd5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250331T020610Z
+DESCRIPTION:Following his Halftime Show and his Las Vegas Residency, Usher 
+ will be returning to Europe in 2025, see him live with exclusive VIP ticket
+ s at The O2 Arena.
+DTEND;VALUE=DATE:20250402
+DTSTART;VALUE=DATE:20250402
+SUMMARY:USHER
+UID:2a39fc7e-2bb8-463d-b98d-b42b0f7c455a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250331T020610Z
+DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
+ d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
+ ox office records and was honored with a Billboard Award...
+DTEND;VALUE=DATE:20250504
+DTSTART;VALUE=DATE:20250504
+SUMMARY:The Millenium Tour 2025
+UID:0615d5c2-ff0c-4e0a-ae49-927690a91824
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250331T020610Z
+DESCRIPTION:Desi Live & Desi Beatz UK presentJASMINE SANDLAS LIVE IN CONCER
+ T'The Gulabi World Tour' FRIDAY 4th APRIL 2025Indigo at the O2 LONDON GET R
+ EADY! The Gulabi Queen FINALLY comes to the UK to perform...
+DTEND;VALUE=DATE:20250404
+DTSTART;VALUE=DATE:20250404
+SUMMARY:Jasmine Sandlas - The Gulabi World Tour 2025
+UID:631ae761-d0fb-4304-8969-73f822978759
 END:VEVENT
 END:VCALENDAR
