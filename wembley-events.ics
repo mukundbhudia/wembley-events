@@ -3,98 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
-DESCRIPTION:Rahat Fateh Ali Khan, nephew of the legendary late Ustad Nusra
- t Fateh Ali Khan, was mentored under him since birth and is now the King o
- f Qawwali and Sufi music and the glorious voice behind hit...
-DTEND;VALUE=DATE:20250405
-DTSTART;VALUE=DATE:20250405
-SUMMARY:Rahat Fateh Ali Khan
-UID:ece7cdfb-7aee-41b1-ace5-b52380a8ba96
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
+DTSTAMP:20250406T020650Z
 DESCRIPTION:TICKETS Cards and Collectables Show: London Trading Card Event 
  – Presented by WHATNOT 6th April 2025 Boxpark Wembley Join us for the ult
  imate convention f...
 DTEND;VALUE=DATE:20250406
 DTSTART;VALUE=DATE:20250406
 SUMMARY:Cards and Collectables TCG and Sports Event Presented by WHATNOT
-UID:bc2c7c83-760d-4eaa-9404-0e69239b3992
+UID:250d0e94-c284-4e98-8991-87d0f5cdb5d2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
+DTSTAMP:20250406T020650Z
+DESCRIPTION:Following his Halftime Show and his Las Vegas Residency, Usher 
+ will be returning to Europe in 2025, see him live with exclusive VIP ticket
+ s at The O2 Arena.
+DTEND;VALUE=DATE:20250406
+DTSTART;VALUE=DATE:20250406
+SUMMARY:USHER
+UID:35a22044-9435-4736-a895-4695f2b267b6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250406T020650Z
 DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
  na Wembley in London on 4/17/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:981fa530-3c13-4322-a466-21b3579fc22c
+UID:99e3b001-0e7c-408c-b1ec-38dc9966d1a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
+DTSTAMP:20250406T020650Z
 DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
  d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
  ox office records and was honored with a Billboard Award...
 DTEND;VALUE=DATE:20250504
 DTSTART;VALUE=DATE:20250504
 SUMMARY:The Millenium Tour 2025
-UID:c58d627c-33e6-4e80-a10f-858b585aed19
+UID:a6c7136f-4e71-4116-85df-9ad6f41f5c0e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
-DESCRIPTION:Following his Halftime Show and his Las Vegas Residency, Usher 
- will be returning to Europe in 2025, see him live with exclusive VIP ticket
- s at The O2 Arena.
-DTEND;VALUE=DATE:20250405
-DTSTART;VALUE=DATE:20250405
-SUMMARY:USHER
-UID:f97f2887-3d63-4fe2-b2ec-5fa4f96a7781
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
+DTSTAMP:20250406T020650Z
 DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
  del, and music video director. Lana Del Rey website.
 DTEND;VALUE=DATE:20250703
 DTSTART;VALUE=DATE:20250703
 SUMMARY:Lana Del Rey
-UID:621201eb-1eaf-4f63-8b1b-f75f5dc98be7
+UID:8267b084-e0a8-4ee8-8ff5-a8b6151da70a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
-DESCRIPTION:Get in touch with Hospitality Finder to secure your VIP ticket
- s and hospitality packages to see Oasis at Wembley Stadium in 2025.
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:OASIS
-UID:a09c8434-ee8a-4e48-9a37-2d7663020e10
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
+DTSTAMP:20250406T020650Z
 DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
  n on 4/21/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250421
 DTSTART;VALUE=DATE:20250421
 SUMMARY:Satinder Sartaaj
-UID:70c17894-4ced-4085-b3a8-b80f0cc26f2e
+UID:634e5e8e-f7d2-40df-b19a-15faec2be4d9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
+DTSTAMP:20250406T020650Z
 DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
  tional Express journeys from across the UK.
 DTEND;VALUE=DATE:20250620
 DTSTART;VALUE=DATE:20250620
 SUMMARY:Dua Lipa
-UID:2954dcf9-3234-45a5-b2fc-939bf4607d25
+UID:009e3934-08e2-4ea2-8027-45154b34ee2e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250405T015846Z
-DESCRIPTION:Expect a blistering performance from one of the highest regarde
- d professional tribute bands currently working in the UK. Totally Blondie a
- re a group of fantastic musicians fronted by a stunning...
-DTEND;VALUE=DATE:20250405
-DTSTART;VALUE=DATE:20250405
-SUMMARY:Totally Blondie
-UID:fd549839-291b-4789-b65d-f653f2da652a
+DTSTAMP:20250406T020650Z
+DESCRIPTION:Listen to music from cnnor’s library (107,565 tracks played).
+  cnnor’s top artists: Larry June, Shawny Binladen, Kanye West. Get your o
+ wn music profile at Last.fm, the world’s largest social music...
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Linkin Park: From Zero World Tour 2025
+UID:88186f68-07ea-4612-8e06-7a16f1f71607
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250406T020650Z
+DESCRIPTION:Official tickets and information for Trey Songz at OVO Arena, W
+ embley in London from Ents24 - rated Excellent on Trustpilot.
+DTEND;VALUE=DATE:20250504
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Trey Songz
+UID:10aa07b5-89eb-45b4-b1e0-67153b689bb9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250406T020650Z
+DESCRIPTION:Find tickets for Eisbrecher with Heldmaschine at O2 Shepherds B
+ ush Empire in London on 4/6/2025 at 7:00 PM
+DTEND;VALUE=DATE:20250406
+DTSTART;VALUE=DATE:20250406
+SUMMARY:Eisbrecher with Heldmaschine
+UID:020ceb4f-4191-4fc2-9ce8-13276b25fcc9
 END:VEVENT
 END:VCALENDAR
