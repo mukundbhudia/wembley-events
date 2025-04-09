@@ -3,98 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
+DTSTAMP:20250409T020131Z
 DESCRIPTION:Seize your chance to see the world’s most famous ice dancing 
  duo, Torvill & Dean perform together on ice, before they retire from skatin
  g for good! Join British ice skating legends Jayne Torvill...
-DTEND;VALUE=DATE:20250413
-DTSTART;VALUE=DATE:20250413
-SUMMARY:Torvill and Dean
-UID:e67288f3-6ac4-4653-958b-b7672d794b0a
+DTEND;VALUE=DATE:20250411
+DTSTART;VALUE=DATE:20250411
+SUMMARY:Torvill & Dean: Our Last Dance
+UID:26ac435e-2800-46fb-9a37-d3f217d83cf8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
+DTSTAMP:20250409T020131Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 4/12/2025 at 2:30 PM
 DTEND;VALUE=DATE:20250412
 DTSTART;VALUE=DATE:20250412
 SUMMARY:Starlight Express
-UID:cf054914-cf4a-4f84-a1a0-888d3ee3e5bc
+UID:2175230d-4685-4a27-94bb-a65bc0d6cdbb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
-DESCRIPTION:Performer, comedian and global YouTube sensation Kurtis Conner 
- returns with his largest stand-up comedy tour yet, ‘The Goodfellow World 
- Tour’. Show start time: 18:00 Curfew: 23:00
-DTEND;VALUE=DATE:20250411
-DTSTART;VALUE=DATE:20250411
-SUMMARY:Kurtis Conner
-UID:decfbb4d-fe0c-48f2-ae11-fc59fe12d31f
+DTSTAMP:20250409T020131Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 4/9/2025 at 2:30 PM
+DTEND;VALUE=DATE:20250409
+DTSTART;VALUE=DATE:20250409
+SUMMARY:Starlight Express
+UID:2cbd9158-9763-404b-a52f-e193805dd379
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
+DTSTAMP:20250409T020131Z
 DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
  na Wembley in London on 4/17/2025 at 6:00 PM
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:69d289a6-d797-463b-9446-fb0ac68af036
+UID:5d7cccc5-30c3-4c84-8daf-78fdeb6f9be5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
-DESCRIPTION:Following his Halftime Show and his Las Vegas Residency, Usher 
- will be returning to Europe in 2025, see him live with exclusive VIP ticket
- s at The O2 Arena.
-DTEND;VALUE=DATE:20250408
-DTSTART;VALUE=DATE:20250408
-SUMMARY:USHER
-UID:d9b1d802-b2d5-4b3c-99b0-82d62ff2da43
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
+DTSTAMP:20250409T020131Z
 DESCRIPTION:Following his Halftime Show and his Las Vegas Residency, Usher 
  will be returning to Europe in 2025, see him live with exclusive VIP ticket
  s at The O2 Arena.
 DTEND;VALUE=DATE:20250409
 DTSTART;VALUE=DATE:20250409
 SUMMARY:USHER
-UID:fe70a9fe-7080-416d-afc0-d9109b10f1df
+UID:a15b2556-6479-40cd-9b7e-724b23e5c60f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
+DTSTAMP:20250409T020131Z
+DESCRIPTION:Find tickets for Armaan Malik at indigo at The O2 in London on 
+ 4/13/2025 at 6:00 PM
+DTEND;VALUE=DATE:20250413
+DTSTART;VALUE=DATE:20250413
+SUMMARY:Armaan Malik
+UID:ad64755d-d578-461f-b499-48d71fd0afde
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250409T020131Z
 DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
  d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
  ox office records and was honored with a Billboard Award...
 DTEND;VALUE=DATE:20250504
 DTSTART;VALUE=DATE:20250504
 SUMMARY:The Millenium Tour 2025
-UID:76667b31-0c69-4508-a0cd-eb3e4ee05edf
+UID:411bc38f-ba71-4dd4-9464-80a1973240fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
-DESCRIPTION:Find tickets for Armaan Malik at indigo at The O2 in London on 
- 4/13/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250413
-DTSTART;VALUE=DATE:20250413
-SUMMARY:Armaan Malik
-UID:5310ac84-feed-45a4-9e28-09dfb2c7a3f4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
-DESCRIPTION:Find tickets for Nate Bargatze at Eventim Apollo in London on 4
- /12/2025 at 7:00 PM
-DTEND;VALUE=DATE:20250412
-DTSTART;VALUE=DATE:20250412
-SUMMARY:Nate Bargatze: Big Dumb Eyes World Tour
-UID:b22e5ada-5e52-4f69-af58-a4eda9591b8b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250408T020134Z
+DTSTAMP:20250409T020131Z
 DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
  n on 4/21/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250421
 DTSTART;VALUE=DATE:20250421
 SUMMARY:Satinder Sartaaj
-UID:19788ce6-4774-4276-82b0-50e734a5d584
+UID:4e1913bf-3d29-4f55-9de2-87aa4d85311d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250409T020131Z
+DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
+ nion tour. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Oasis
+UID:a06e6485-8477-449e-ba40-ae98dd4bc23b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250409T020131Z
+DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
+ tional Express journeys from across the UK.
+DTEND;VALUE=DATE:20250620
+DTSTART;VALUE=DATE:20250620
+SUMMARY:Dua Lipa
+UID:604f0b0f-1c50-4a29-b2d3-5ede6cdec1eb
 END:VEVENT
 END:VCALENDAR
