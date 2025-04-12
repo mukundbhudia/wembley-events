@@ -3,97 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
+DTSTAMP:20250412T015913Z
 DESCRIPTION:DAY RAVE – The Ultimate Caribbean Day Party 🌴🎶🔥 TICK
  ETS HERE Saturday 12th April 2025 📌 Boxpark Wembley | 3PM – 11PM Get r
  eady for DAY RAVE...
 DTEND;VALUE=DATE:20250412
 DTSTART;VALUE=DATE:20250412
 SUMMARY:Day Rave - Caribbean Day Party
-UID:33c55eb5-c709-428b-8e68-a19d097f0b82
+UID:7fddd620-d8ca-4379-8d9d-7320fd611663
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
-DESCRIPTION:Seize your chance to see the world’s most famous ice dancing 
- duo, Torvill & Dean perform together on ice, before they retire from skatin
- g for good! Join British ice skating legends Jayne Torvill...
-DTEND;VALUE=DATE:20250411
-DTSTART;VALUE=DATE:20250411
-SUMMARY:Torvill and Dean - Our Last Dance
-UID:493fdc08-4a06-4feb-9ef7-9a93cfb0063d
+DTSTAMP:20250412T015913Z
+DESCRIPTION:Done at Troubadour Wembley Park Theatre London Saturday 12th o
+ f April 2025 14:30
+DTEND;VALUE=DATE:20250412
+DTSTART;VALUE=DATE:20250412
+SUMMARY:Done
+UID:787a70a0-42bf-4bff-b375-942a2fe62ddc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
+DTSTAMP:20250412T015913Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 4/12/2025 at 2:30 PM
 DTEND;VALUE=DATE:20250412
 DTSTART;VALUE=DATE:20250412
 SUMMARY:Starlight Express
-UID:dbefd9f2-99e8-44f5-a68e-79dbd23f73eb
+UID:51cdfb46-3da3-4b80-b8c7-38fdd6755b4a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
-DESCRIPTION:Find tickets for Alkaline with RajahWild and Armanii at OVO Are
- na Wembley in London on 4/17/2025 at 6:00 PM
+DTSTAMP:20250412T015913Z
+DESCRIPTION:Seize your chance to see the world’s most famous ice dancing 
+ duo, Torvill & Dean perform together on ice, before they retire from skatin
+ g for good! Join British ice skating legends Jayne Torvill...
+DTEND;VALUE=DATE:20250412
+DTSTART;VALUE=DATE:20250412
+SUMMARY:Torvill & Dean - EVENING
+UID:8945762b-5a9c-4548-806e-32980ada6b49
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250412T015913Z
+DESCRIPTION:Alkaline, a 30-year-old Jamaican-born songwriter and performer
+ , rose to prominence in 2013 and has since established himself as a leadin
+ g independent artist in the Caribbean. Known as the...
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:b5d212dd-c5bb-400c-83f2-51b8b4d4290d
+UID:8210c7ff-c119-4351-b227-ff2bf7eb6988
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
-DESCRIPTION:Find tickets for Armaan Malik at indigo at The O2 in London on 
- 4/13/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250413
-DTSTART;VALUE=DATE:20250413
-SUMMARY:Armaan Malik
-UID:7df1264f-4d37-4887-865a-98631677c041
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
+DTSTAMP:20250412T015913Z
 DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
  d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
  ox office records and was honored with a Billboard Award...
 DTEND;VALUE=DATE:20250504
 DTSTART;VALUE=DATE:20250504
 SUMMARY:The Millenium Tour 2025
-UID:3ab16ad2-7081-4f1f-9a0f-3b4aca806cc1
+UID:b02858aa-1ace-4475-9e05-0daa5161bc6a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
+DTSTAMP:20250412T015913Z
+DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
+ del, and music video director. Lana Del Rey website.
+DTEND;VALUE=DATE:20250703
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Lana Del Rey
+UID:8e9fe586-5d8d-4fd1-8fa9-59bc8bffc678
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250412T015913Z
+DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
+ r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
+ spitality Finder.
+DTEND;VALUE=DATE:20250626
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Guns N Roses
+UID:3dc3a82f-130a-437b-91b8-125cf501ca60
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250412T015913Z
 DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
  n on 4/21/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250421
 DTSTART;VALUE=DATE:20250421
 SUMMARY:Satinder Sartaaj
-UID:fb5d3b70-9983-4e64-9e85-3db28ddbc716
+UID:f6a88799-2c67-4241-b741-0b056dad071e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
-DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
- tional Express journeys from across the UK.
-DTEND;VALUE=DATE:20250620
-DTSTART;VALUE=DATE:20250620
-SUMMARY:Dua Lipa
-UID:14ea46b1-4106-4ddf-9872-b7e44d5e5089
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
-DESCRIPTION:Find tickets for Vijay Antony at OVO Arena Wembley in London o
- n 5/2/2025 at 1:00 AM
-DTEND;VALUE=DATE:20250502
-DTSTART;VALUE=DATE:20250502
-SUMMARY:Vijay Antony
-UID:59cf22f8-4f85-4209-b3b2-9ce7b300eeee
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250411T020212Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:Trey Songz
-UID:70290e94-572a-413e-85b1-85032a0c3349
+DTSTAMP:20250412T015913Z
+DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
+ erful voice. His voice gives him the range needed to execute almost every s
+ tyle of song, whether it being jazz, trance, pop, or...
+DTEND;VALUE=DATE:20250531
+DTSTART;VALUE=DATE:20250531
+SUMMARY:Moein
+UID:1973e626-42bd-40c3-9b60-b2d6f27c012c
 END:VEVENT
 END:VCALENDAR
