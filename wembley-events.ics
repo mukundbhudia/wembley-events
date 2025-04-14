@@ -3,99 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
-DESCRIPTION:DAY RAVE – The Ultimate Caribbean Day Party 🌴🎶🔥 TICK
- ETS HERE Saturday 12th April 2025 📌 Boxpark Wembley | 3PM – 11PM Get r
- eady for DAY RAVE...
-DTEND;VALUE=DATE:20250413
-DTSTART;VALUE=DATE:20250413
-SUMMARY:Day Rave - Caribbean Day Party
-UID:75b47c08-6249-4a98-8e8d-85025e726251
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
-DESCRIPTION:Seize your chance to see the world’s most famous ice dancing 
- duo, Torvill & Dean perform together on ice, before they retire from skatin
- g for good! Join British ice skating legends Jayne Torvill...
-DTEND;VALUE=DATE:20250413
-DTSTART;VALUE=DATE:20250413
-SUMMARY:Torvill & Dean - EVENING
-UID:e3827838-f3a4-48cd-b1d2-850a2a7352f0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
+DTSTAMP:20250414T020616Z
 DESCRIPTION:Alkaline, a 30-year-old Jamaican-born songwriter and performer
  , rose to prominence in 2013 and has since established himself as a leadin
  g independent artist in the Caribbean. Known as the...
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:9272fb4c-908a-4d08-9766-290e9eff5200
+UID:863a235a-736a-45c3-83fa-93c00052a1ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
+DTSTAMP:20250414T020616Z
+DESCRIPTION:Find tickets for sodagreen at OVO Arena Wembley in London on 4/
+ 20/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250420
+DTSTART;VALUE=DATE:20250420
+SUMMARY:Sodagreen
+UID:92ee147e-14cc-4bc3-9d86-0a4205c3fb85
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T020616Z
+DESCRIPTION:Sean Paul and Ashanti | Friday, April 18 11:59pm | London, Engl
+ and HA9 0AA
+DTEND;VALUE=DATE:20250418
+DTSTART;VALUE=DATE:20250418
+SUMMARY:Fat Joe
+UID:b9f95c93-556a-43bd-873d-8456b143bd61
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T020616Z
+DESCRIPTION:Find tickets for Jawbone at Cadogan Hall in London on 4/18/202
+ 5 at 7:00 PM
+DTEND;VALUE=DATE:20250418
+DTSTART;VALUE=DATE:20250418
+SUMMARY:Imelda May
+UID:8c859d4a-ff92-4de7-ac2d-95781996de57
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T020616Z
 DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
  d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
  ox office records and was honored with a Billboard Award...
 DTEND;VALUE=DATE:20250504
 DTSTART;VALUE=DATE:20250504
 SUMMARY:The Millenium Tour 2025
-UID:dc97eb06-df59-464c-bb04-b61861d1d64c
+UID:7cef6174-af52-40c6-979f-53998e5df787
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
+DTSTAMP:20250414T020616Z
 DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
  Best Comics of All Time. He started doing stand-up at the age of nineteen a
  t open mics in his native Toronto, and spent the next...
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:3399a28d-486b-4f49-8823-9243933c1ffb
+UID:5e44d313-40de-4b19-af4a-0fc313cc6eb2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
-DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
- del, and music video director. Lana Del Rey website.
-DTEND;VALUE=DATE:20250703
-DTSTART;VALUE=DATE:20250703
-SUMMARY:Lana Del Rey
-UID:cf147773-411c-4dde-9962-7017442ec0da
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
+DTSTAMP:20250414T020616Z
 DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
  n on 4/21/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250421
 DTSTART;VALUE=DATE:20250421
 SUMMARY:Satinder Sartaaj
-UID:2d76eab8-8cf7-4d26-b464-91f9831088e0
+UID:ee0b9b70-e2c5-4639-a352-007d74c9e65c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
+DTSTAMP:20250414T020616Z
+DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
+ del, and music video director. Lana Del Rey website.
+DTEND;VALUE=DATE:20250703
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Lana Del Rey
+UID:f639eaad-24f7-46e6-a648-d2ee24bbd62f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T020616Z
+DESCRIPTION:Find tickets for Self Esteem at Duke of Yorks Theatre in Londo
+ n on 4/17/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250417
+DTSTART;VALUE=DATE:20250417
+SUMMARY:Self Esteem
+UID:dc03a565-de93-4f45-9389-b41fd4f25f93
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T020616Z
 DESCRIPTION:Aurora: What Happened To The Earth? Party 5 + Special Guests a
  t OVO Arena Wembley in Wembley Park.
 DTEND;VALUE=DATE:20250503
 DTSTART;VALUE=DATE:20250503
 SUMMARY:AURORA
-UID:14d70648-e418-4e8e-a400-aaf2fc609272
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
-DESCRIPTION:Find tickets for Armaan Malik at indigo at The O2 in London on 
- 4/13/2025 at 6:00 PM
-DTEND;VALUE=DATE:20250413
-DTSTART;VALUE=DATE:20250413
-SUMMARY:Armaan Malik
-UID:db43fb2d-7af7-4e82-a039-27c8181f4799
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250413T032800Z
-DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
- erful voice. His voice gives him the range needed to execute almost every s
- tyle of song, whether it being jazz, trance, pop, or...
-DTEND;VALUE=DATE:20250531
-DTSTART;VALUE=DATE:20250531
-SUMMARY:Moein
-UID:e07d778a-9285-404d-af0f-86055f9cc9da
+UID:5409d959-0b41-4867-ab8e-7d2b9a51e409
 END:VEVENT
 END:VCALENDAR
