@@ -3,97 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
+DTSTAMP:20250417T020259Z
 DESCRIPTION:Alkaline, a 30-year-old Jamaican-born songwriter and performer
  , rose to prominence in 2013 and has since established himself as a leadin
  g independent artist in the Caribbean. Known as the...
 DTEND;VALUE=DATE:20250417
 DTSTART;VALUE=DATE:20250417
 SUMMARY:Alkaline
-UID:140c0de8-c85a-47c6-b55c-a62bc0d8a130
+UID:125865e4-d0e7-4929-a5b5-12b3af9ec3f7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
+DTSTAMP:20250417T020259Z
 DESCRIPTION:The mandopop legends sodagreen are bringing their 20th Annivers
  ary Concert Tour (《二十年一刻》巡迴演唱會) to London this Apri
  l . Already enthralling over 12 cities with 25 unforgettable sold out...
 DTEND;VALUE=DATE:20250420
 DTSTART;VALUE=DATE:20250420
 SUMMARY:Sodagreen
-UID:0291fd71-4222-48ba-9c74-00bcb3193898
+UID:ee3f1cf9-2f7b-45f8-aa2a-189ad26b8a2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
+DTSTAMP:20250417T020259Z
+DESCRIPTION:Alkaline Armani hails from Waltham, Kingston Jamaica. He attend
+ ed Kingston College and was the winner of the JCDC all island musical perfo
+ rmance in 2018 before moving to NYC . He has created a...
+DTEND;VALUE=DATE:20250417
+DTSTART;VALUE=DATE:20250417
+SUMMARY:Armanii
+UID:53422a2c-7839-4219-a2de-564535628b5f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250417T020259Z
 DESCRIPTION:Sean Paul and Ashanti | Friday, April 18 11:59pm | London, Engl
  and HA9 0AA
 DTEND;VALUE=DATE:20250418
 DTSTART;VALUE=DATE:20250418
 SUMMARY:Ashanti
-UID:eb404a97-94cc-49bb-b102-1e549c28f362
+UID:5fdb5394-e34b-4f86-a4cd-3a03d57f0ae1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
+DTSTAMP:20250417T020259Z
 DESCRIPTION:Find tickets for Jawbone at Cadogan Hall in London on 4/18/202
  5 at 7:00 PM
 DTEND;VALUE=DATE:20250418
 DTSTART;VALUE=DATE:20250418
 SUMMARY:Imelda May
-UID:0d20c082-1062-4460-baec-e0b1a22d6d51
+UID:1790e9a1-eafb-4965-a8cc-07c8f36fe5b3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
+DTSTAMP:20250417T020259Z
+DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
+ n on 4/21/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250421
+DTSTART;VALUE=DATE:20250421
+SUMMARY:Satinder Sartaaj
+UID:429b5732-9211-4748-9832-15c8d03e1bef
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250417T020259Z
 DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
  d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
  ox office records and was honored with a Billboard Award...
 DTEND;VALUE=DATE:20250504
 DTSTART;VALUE=DATE:20250504
 SUMMARY:The Millenium Tour 2025
-UID:0aaaa936-6c2c-4506-9268-c5a236557465
+UID:45653790-dbde-42e3-af10-551950306a3e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
-DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
- n on 4/21/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250421
-DTSTART;VALUE=DATE:20250421
-SUMMARY:Satinder Sartaaj
-UID:b278a27c-ba21-4940-89e5-dca9591af470
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
+DTSTAMP:20250417T020259Z
 DESCRIPTION:Find tickets for Vijay Antony at OVO Arena Wembley in London o
  n 5/2/2025 at 1:00 AM
 DTEND;VALUE=DATE:20250502
 DTSTART;VALUE=DATE:20250502
 SUMMARY:Vijay Antony
-UID:f4e6e13e-4feb-4376-8be4-bef3a0f41e2d
+UID:67ced8a4-a3fc-4827-b7ee-cd9427a352f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
+DTSTAMP:20250417T020259Z
 DESCRIPTION:Aurora: What Happened To The Earth? Party 5 + Special Guests a
  t OVO Arena Wembley in Wembley Park.
 DTEND;VALUE=DATE:20250503
 DTSTART;VALUE=DATE:20250503
 SUMMARY:AURORA
-UID:c53bc2ab-f9e5-4580-a4d7-a645882255b4
+UID:a6c878e7-e7c6-4d7e-a375-e7d6294135f1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
-DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
- erful voice. His voice gives him the range needed to execute almost every s
- tyle of song, whether it being jazz, trance, pop, or...
-DTEND;VALUE=DATE:20250531
-DTSTART;VALUE=DATE:20250531
-SUMMARY:Moein
-UID:c7994ff9-312f-4b10-b0c9-8ec3cf5e88b3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250416T020431Z
-DESCRIPTION:Find tickets for Self Esteem at Duke of Yorks Theatre in Londo
- n on 4/17/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250417
-DTSTART;VALUE=DATE:20250417
-SUMMARY:Self Esteem
-UID:8e9602d3-8f6f-4fc5-8aa5-49cd094379c9
+DTSTAMP:20250417T020259Z
+DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
+ Best Comics of All Time. He started doing stand-up at the age of nineteen a
+ t open mics in his native Toronto, and spent the next...
+DTEND;VALUE=DATE:20250517
+DTSTART;VALUE=DATE:20250517
+SUMMARY:Russell Peters
+UID:e877b10a-d6f8-4880-9ed3-05012a633641
 END:VEVENT
 END:VCALENDAR
