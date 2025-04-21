@@ -3,100 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
-DESCRIPTION:The mandopop legends sodagreen are bringing their 20th Annivers
- ary Concert Tour (《二十年一刻》巡迴演唱會) to London this Apri
- l . Already enthralling over 12 cities with 25 unforgettable sold out...
-DTEND;VALUE=DATE:20250420
-DTSTART;VALUE=DATE:20250420
-SUMMARY:Sodagreen
-UID:be51e31c-bc25-41da-bf09-e44efd1ae311
+DTSTAMP:20250421T021203Z
+DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
+ n on 4/21/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250421
+DTSTART;VALUE=DATE:20250421
+SUMMARY:Satinder Sartaaj
+UID:a7a187f4-e1e4-4169-bfe9-689f4f4416e0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
-DESCRIPTION:OVMBR PRESENTS: PRETTY GIRLS RUN OVMBR🎥 OVMBR returns to BOX
- PARK but this time it’s run by the pretty girls. Expect fun, vibes and gr
- eat music all blen...
-DTEND;VALUE=DATE:20250420
-DTSTART;VALUE=DATE:20250420
-SUMMARY:PRETTY GIRLS RUN OVMBR
-UID:42c55c82-8c34-4182-91fe-b76253acf5a4
+DTSTAMP:20250421T021203Z
+DESCRIPTION:Sony Interactive Entertainment, RoadCo Entertainment, GEA Live
+ , Senbla and RG Live are excited to unveil PlayStation: The Concert, a grou
+ ndbreaking live music event that brings the most iconic...
+DTEND;VALUE=DATE:20250427
+DTSTART;VALUE=DATE:20250427
+SUMMARY:PlayStation: The Concert
+UID:e68a8490-bcd4-4bff-82c9-c4dc307a583d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
+DTSTAMP:20250421T021203Z
+DESCRIPTION:Book return coach travel to Wembley Stadium, London for FA Cup 
+ semi-final games
+DTEND;VALUE=DATE:20250426
+DTSTART;VALUE=DATE:20250426
+SUMMARY:FA Cup semi-finals 2025
+UID:d0b62c24-8f07-4be2-b6b2-c661678010b3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250421T021203Z
+DESCRIPTION:Find tickets for thrown at Electric Ballroom in London on 4/26/
+ 2025 at 6:00 PM
+DTEND;VALUE=DATE:20250426
+DTSTART;VALUE=DATE:20250426
+SUMMARY:Thrown - Excessive Guilt
+UID:d4d7b42d-9fd6-4ce8-aa8d-1e2a7fb74d4b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250421T021203Z
 DESCRIPTION:The Man who is been ruling the word “OG VIBE” since 2005, 
  being every 90s kids favourite. Vijay Antony is well known for Tamil rap an
  d this genre began to rise in Kollywood from him. Among his...
 DTEND;VALUE=DATE:20250502
 DTSTART;VALUE=DATE:20250502
 SUMMARY:Vijay Antony
-UID:ae5f12a5-54c9-443d-995c-91564583a7a8
+UID:de995da6-683e-4cc4-8536-d58078d750a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
-DESCRIPTION:Aurora: What Happened To The Earth? Party 5 + Special Guests a
- t OVO Arena Wembley in Wembley Park.
-DTEND;VALUE=DATE:20250503
-DTSTART;VALUE=DATE:20250503
-SUMMARY:Aurora
-UID:cc3a8275-4558-45bc-9678-5e1997043d6f
+DTSTAMP:20250421T021203Z
+DESCRIPTION:The 2023 Grammy-nominated British vocal ensemble VOCES8 is prou
+ d to inspire people through music and share the joy of singing. Touring glo
+ bally, the group performs an extensive repertory both in...
+DTEND;VALUE=DATE:20250422
+DTSTART;VALUE=DATE:20250422
+SUMMARY:VOCES8
+UID:20665851-d766-448f-9f87-ea52a62857d3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
-DESCRIPTION:With Trey Songz, Omarion and Bow Wow headlining + Jeremih, Lloy
- d and Sammie The Millenium Tour 2025 is a influential US tour which broke b
- ox office records and was honored with a Billboard Award...
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:The Millenium Tour 2025
-UID:c8d1045a-eaeb-4c11-b439-d9932dec83ce
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
-DESCRIPTION:Find tickets for Satinder Sartaaj at OVO Arena Wembley in Londo
- n on 4/21/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250421
-DTSTART;VALUE=DATE:20250421
-SUMMARY:Satinder Sartaaj
-UID:19fe5ed8-a385-48b4-aebf-07b24cd4a90d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
-DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
- del, and music video director. Lana Del Rey website.
-DTEND;VALUE=DATE:20250703
-DTSTART;VALUE=DATE:20250703
-SUMMARY:Lana Del Rey
-UID:274fa47c-13f3-475a-8202-54c10202f97e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
+DTSTAMP:20250421T021203Z
 DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
  Best Comics of All Time. He started doing stand-up at the age of nineteen a
  t open mics in his native Toronto, and spent the next...
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:7113612d-d18a-497a-a014-41fa9b1807cc
+UID:49163a08-6073-40bf-955e-bf4f7a9432ce
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
-DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
- erful voice. His voice gives him the range needed to execute almost every s
- tyle of song, whether it being jazz, trance, pop, or...
-DTEND;VALUE=DATE:20250531
-DTSTART;VALUE=DATE:20250531
-SUMMARY:Moein
-UID:5a3e3529-d9bf-41b0-8f67-7d023bab3cd9
+DTSTAMP:20250421T021203Z
+DESCRIPTION:Find and buy Luther Live tickets at AXS.com. Find upcoming even
+ t tour dates and schedules for Luther Live at AXS.com.
+DTEND;VALUE=DATE:20250426
+DTSTART;VALUE=DATE:20250426
+SUMMARY:Luther Live
+UID:be7b37fe-4642-4d47-8d7e-5fda4736644d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250420T021502Z
+DTSTAMP:20250421T021203Z
+DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
+ del, and music video director. Lana Del Rey website.
+DTEND;VALUE=DATE:20250703
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Lana Del Rey
+UID:4842a615-c93c-4f6e-ac60-9ad2a21570eb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250421T021203Z
 DESCRIPTION:Buy & sell tickets for Trey Songz | The SSE Arena Wembley (OVO 
  Arena), London | Sun, May 4, 7:00 PM. Find fair, safe and secure tickets o
  n TicketSwap's marketplace.
 DTEND;VALUE=DATE:20250504
 DTSTART;VALUE=DATE:20250504
 SUMMARY:Trey Songz
-UID:288a0bba-a94c-4dfe-9a74-cf68727c154a
+UID:502ff21d-16bc-466e-be76-bde659fe289c
 END:VEVENT
 END:VCALENDAR
