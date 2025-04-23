@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
+DTSTAMP:20250423T020434Z
 DESCRIPTION:Sony Interactive Entertainment, RoadCo Entertainment, GEA Live
  , Senbla and RG Live are excited to unveil PlayStation: The Concert, a grou
  ndbreaking live music event that brings the most iconic...
 DTEND;VALUE=DATE:20250427
 DTSTART;VALUE=DATE:20250427
 SUMMARY:PlayStation: The Concert
-UID:9d62a5b5-8133-4db1-8194-5707acd0bede
+UID:2133c1bf-9546-41a8-925b-896f97c626d9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
+DTSTAMP:20250423T020434Z
 DESCRIPTION:Book return coach travel to Wembley Stadium, London for FA Cup 
  semi-final games
 DTEND;VALUE=DATE:20250426
 DTSTART;VALUE=DATE:20250426
 SUMMARY:FA Cup semi-finals 2025
-UID:acfb852b-ac8f-4a3c-aa9c-6fdad9e69806
+UID:082f8c11-d6f8-4fcf-a499-69094aaeff12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
+DTSTAMP:20250423T020434Z
 DESCRIPTION:The Man who is been ruling the word “OG VIBE” since 2005, 
  being every 90s kids favourite. Vijay Antony is well known for Tamil rap an
  d this genre began to rise in Kollywood from him. Among his...
 DTEND;VALUE=DATE:20250502
 DTSTART;VALUE=DATE:20250502
 SUMMARY:Vijay Antony
-UID:9480567a-3c19-4a89-a2c5-9ec0491e5bd0
+UID:5f627249-d5d4-47f1-8029-5ee2bdb1bf95
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
+DTSTAMP:20250423T020434Z
 DESCRIPTION:The 2023 Grammy-nominated British vocal ensemble VOCES8 is prou
  d to inspire people through music and share the joy of singing. Touring glo
  bally, the group performs an extensive repertory both in...
-DTEND;VALUE=DATE:20250422
-DTSTART;VALUE=DATE:20250422
+DTEND;VALUE=DATE:20250423
+DTSTART;VALUE=DATE:20250423
 SUMMARY:VOCES8
-UID:d27df43c-7281-4909-9a75-1d6e1b0fceae
+UID:10d6dc9d-a794-4567-9d3e-88de6488fed1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
+DTSTAMP:20250423T020434Z
+DESCRIPTION:Find tickets for thrown at Electric Ballroom in London on 4/26/
+ 2025 at 6:00 PM
+DTEND;VALUE=DATE:20250426
+DTSTART;VALUE=DATE:20250426
+SUMMARY:Thrown - Excessive Guilt
+UID:28beae30-5e97-48ae-aef6-7e841d32e906
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250423T020434Z
 DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
  Best Comics of All Time. He started doing stand-up at the age of nineteen a
  t open mics in his native Toronto, and spent the next...
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:bb44d410-78b9-4145-93e5-47132f39897b
+UID:01f4ea98-9646-4dc8-a658-c5669566ff48
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
+DTSTAMP:20250423T020434Z
 DESCRIPTION:Find and buy Luther Live tickets at AXS.com. Find upcoming even
  t tour dates and schedules for Luther Live at AXS.com.
 DTEND;VALUE=DATE:20250426
 DTSTART;VALUE=DATE:20250426
 SUMMARY:Luther Live
-UID:f6fa8758-36ba-4adb-8034-a9a1b5c1ef58
+UID:b2b282da-1b7f-4b2a-a697-f615bae953c6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
+DTSTAMP:20250423T020434Z
 DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
  del, and music video director. Lana Del Rey website.
 DTEND;VALUE=DATE:20250703
 DTSTART;VALUE=DATE:20250703
 SUMMARY:Lana Del Rey
-UID:73fbaaf3-7020-466b-ad74-5a9a3192c967
+UID:f1a7de21-1d44-4e6d-abc9-b3187125180c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
+DTSTAMP:20250423T020434Z
 DESCRIPTION:Buy & sell tickets for Trey Songz | The SSE Arena Wembley (OVO 
  Arena), London | Sun, May 4, 7:00 PM. Find fair, safe and secure tickets o
  n TicketSwap's marketplace.
 DTEND;VALUE=DATE:20250504
 DTSTART;VALUE=DATE:20250504
 SUMMARY:Trey Songz
-UID:f84ad622-d021-4d0b-a0a5-2cb5013c90dc
+UID:b00194a0-610f-423a-918b-edcd8347c83a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
+DTSTAMP:20250423T020434Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:7eafe6f2-0d82-424a-a1f9-bbf2521a929c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250422T020353Z
-DESCRIPTION:Aurora: What Happened To The Earth? Party 5 + Special Guests a
- t OVO Arena Wembley in Wembley Park.
-DTEND;VALUE=DATE:20250503
-DTSTART;VALUE=DATE:20250503
-SUMMARY:AURORA
-UID:dbabd754-2aef-4bd5-a741-1e868092ae2a
+UID:1a052ad4-80a2-43ab-b66e-2950f83fd3fb
 END:VEVENT
 END:VCALENDAR
