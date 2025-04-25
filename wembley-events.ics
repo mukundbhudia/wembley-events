@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
+DTSTAMP:20250425T020510Z
 DESCRIPTION:Sony Interactive Entertainment, RoadCo Entertainment, GEA Live
  , Senbla and RG Live are excited to unveil PlayStation: The Concert, a grou
  ndbreaking live music event that brings the most iconic...
 DTEND;VALUE=DATE:20250427
 DTSTART;VALUE=DATE:20250427
 SUMMARY:Playstation | The Concert
-UID:423ded6e-1731-4e2f-b3ac-66c4f9714bf3
+UID:6efeef6a-b8b0-480a-b18f-afd24d1e15c7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
+DTSTAMP:20250425T020510Z
 DESCRIPTION:Book return coach travel to Wembley Stadium, London for FA Cup 
  semi-final games
 DTEND;VALUE=DATE:20250426
 DTSTART;VALUE=DATE:20250426
 SUMMARY:FA Cup semi-finals 2025
-UID:6d6b2e51-cb0f-4301-b827-ac1b27da887f
+UID:b45dd405-5d84-4d5b-bef2-0c1cc2724b2b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
+DTSTAMP:20250425T020510Z
 DESCRIPTION:Find tickets for thrown at Electric Ballroom in London on 4/26/
  2025 at 6:00 PM
 DTEND;VALUE=DATE:20250426
 DTSTART;VALUE=DATE:20250426
 SUMMARY:Thrown - Excessive Guilt
-UID:fccc501a-006f-4191-8bb6-f009d5162376
+UID:0c20be33-395f-4f6b-97f4-f87221ca8338
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
+DTSTAMP:20250425T020510Z
 DESCRIPTION:Aurora: What Happened To The Earth? Party 5 + Special Guests a
  t OVO Arena Wembley in Wembley Park.
 DTEND;VALUE=DATE:20250503
 DTSTART;VALUE=DATE:20250503
 SUMMARY:Aurora
-UID:74967ed2-b805-49c3-b170-3fed764f4cd4
+UID:7feeead8-6729-4fbc-bfdd-46156dc645d8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
+DTSTAMP:20250425T020510Z
 DESCRIPTION:The Man who is been ruling the word “OG VIBE” since 2005, 
  being every 90s kids favourite. Vijay Antony is well known for Tamil rap an
  d this genre began to rise in Kollywood from him. Among his...
 DTEND;VALUE=DATE:20250502
 DTSTART;VALUE=DATE:20250502
 SUMMARY:Vijay Antony
-UID:a7466c91-7b6a-48e0-9c74-395d2ba33233
+UID:ec5bac71-74bb-46ab-bcef-345a5bc5a619
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
+DTSTAMP:20250425T020510Z
 DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
  del, and music video director. Lana Del Rey website.
 DTEND;VALUE=DATE:20250703
 DTSTART;VALUE=DATE:20250703
 SUMMARY:Lana Del Rey
-UID:5d233380-0846-4b02-a4e1-f00da5dce5d0
+UID:ba2bea8f-50b9-4f98-9d47-85664ff2c0fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
+DTSTAMP:20250425T020510Z
 DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
  Best Comics of All Time. He started doing stand-up at the age of nineteen a
  t open mics in his native Toronto, and spent the next...
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:6ad7cda5-4478-4195-bd37-2611362365d9
+UID:236141d0-0c7e-4f4c-b732-d5475805e3e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
-DESCRIPTION:Buy & sell tickets for Trey Songz | The SSE Arena Wembley (OVO 
- Arena), London | Sun, May 4, 7:00 PM. Find fair, safe and secure tickets o
- n TicketSwap's marketplace.
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:Trey Songz
-UID:9f57aa1f-78bb-4978-9dc2-4583b1c6c88b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
+DTSTAMP:20250425T020510Z
 DESCRIPTION:Linkin Park - From Zero World Tour 2025 tickets : The buttons a
  bove allow you to select between links to different suppliers who may have 
  different availability, offers and fees.
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
 SUMMARY:JPEGMAFIA
-UID:61b1df8c-d311-4012-a35a-5e18491b166d
+UID:13574a3e-c834-48fb-aa9c-091784a081e4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T020456Z
+DTSTAMP:20250425T020510Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:8f24ef38-db86-40b2-b6a9-ebcd2c77ace8
+UID:931b04c2-0509-477e-9504-5c07d8ba12e7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250425T020510Z
+DESCRIPTION:Greg Davies is heading back out on tour for the first time in 
+ 7 years with his brand-new 2025 stand-up show Full Fat Legend. Star of show
+ s such as Taskmaster, The Inbetweeners, The Cleaner, Never...
+DTEND;VALUE=DATE:20250612
+DTSTART;VALUE=DATE:20250612
+SUMMARY:Greg Davies
+UID:1449a278-8c28-4d4d-8069-c2b53c4038de
 END:VEVENT
 END:VCALENDAR
