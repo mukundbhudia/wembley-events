@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
-DESCRIPTION:Sony Interactive Entertainment, RoadCo Entertainment, GEA Live
- , Senbla and RG Live are excited to unveil PlayStation: The Concert, a grou
- ndbreaking live music event that brings the most iconic...
-DTEND;VALUE=DATE:20250427
-DTSTART;VALUE=DATE:20250427
-SUMMARY:PlayStation: The Concert
-UID:9e318987-6274-4c05-becf-8b5ec1f5e89c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
-DESCRIPTION:Aurora: What Happened To The Earth? Party 5 + Special Guests a
- t OVO Arena Wembley in Wembley Park.
-DTEND;VALUE=DATE:20250503
-DTSTART;VALUE=DATE:20250503
-SUMMARY:Aurora
-UID:0677085c-a910-4d1f-a91b-f51a7eec4384
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
+DTSTAMP:20250428T021024Z
 DESCRIPTION:The Man who is been ruling the word “OG VIBE” since 2005, 
  being every 90s kids favourite. Vijay Antony is well known for Tamil rap an
  d this genre began to rise in Kollywood from him. Among his...
 DTEND;VALUE=DATE:20250502
 DTSTART;VALUE=DATE:20250502
 SUMMARY:Vijay Antony
-UID:e06a589c-340d-4249-83eb-2a7fd0e37d27
+UID:f72e3c36-01fe-4855-96c6-877974e745c8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
-DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
- del, and music video director. Lana Del Rey website.
-DTEND;VALUE=DATE:20250703
-DTSTART;VALUE=DATE:20250703
-SUMMARY:Lana Del Rey
-UID:24a7c39c-4d3c-43ed-8830-266a6d09003b
+DTSTAMP:20250428T021024Z
+DESCRIPTION:Aurora: What Happened To The Earth? Party 5 + Special Guests a
+ t OVO Arena Wembley in Wembley Park.
+DTEND;VALUE=DATE:20250503
+DTSTART;VALUE=DATE:20250503
+SUMMARY:Aurora
+UID:aab289b1-9b8d-431e-9b9d-539a00a3ff30
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
-DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
- Best Comics of All Time. He started doing stand-up at the age of nineteen a
- t open mics in his native Toronto, and spent the next...
-DTEND;VALUE=DATE:20250517
-DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters
-UID:c3fa7de2-6ee3-48ae-8b57-342025f2d405
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
-DESCRIPTION:Linkin Park - From Zero World Tour 2025 tickets : The buttons a
- bove allow you to select between links to different suppliers who may have 
- different availability, offers and fees.
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:JPEGMAFIA
-UID:29bfa71c-bf85-46be-b1c8-84402812e54e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
-DESCRIPTION:Find tickets for thrown at Electric Ballroom in London on 4/26/
- 2025 at 6:00 PM
-DTEND;VALUE=DATE:20250427
-DTSTART;VALUE=DATE:20250427
-SUMMARY:Thrown - Excessive Guilt
-UID:88667ce9-bee6-4949-90f9-8355bec846b3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
-DESCRIPTION:Greg Davies is heading back out on tour for the first time in 
- 7 years with his brand-new 2025 stand-up show Full Fat Legend. Star of show
- s such as Taskmaster, The Inbetweeners, The Cleaner, Never...
-DTEND;VALUE=DATE:20250612
-DTSTART;VALUE=DATE:20250612
-SUMMARY:Greg Davies
-UID:b383c981-6e0b-43cd-96a7-2fd160b12739
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
-DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
- erful voice. His voice gives him the range needed to execute almost every s
- tyle of song, whether it being jazz, trance, pop, or...
-DTEND;VALUE=DATE:20250531
-DTSTART;VALUE=DATE:20250531
-SUMMARY:Moein
-UID:a340d0ea-1f7e-462b-9655-d503889c157f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250427T021533Z
+DTSTAMP:20250428T021024Z
 DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
  ys: - Blocks A and B are not raked and other customers may stand during th
  e performance. - Blocks C and D are tiered behind these. ...
 DTEND;VALUE=DATE:20250504
 DTSTART;VALUE=DATE:20250504
 SUMMARY:Trey Songz
-UID:131a730c-d3b3-4aaf-a2c5-f80b33f8f374
+UID:3b8d3cf7-f47c-4f32-a6ec-627c4c68b3b9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250428T021024Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20250504
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Lloyd
+UID:11bbad05-cc9a-4e60-a6ed-1255dcf79c70
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250428T021024Z
+DESCRIPTION:The Millennium Tour | Sunday, May 4 11:59pm | London, England H
+ A9 0AA
+DTEND;VALUE=DATE:20250504
+DTSTART;VALUE=DATE:20250504
+SUMMARY:The Millennium Tour
+UID:50b8a614-53c7-46ad-b037-df61427fb819
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250428T021024Z
+DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
+ ys: - Blocks A and B are not raked and other customers may stand during th
+ e performance. - Blocks C and D are tiered behind these. ...
+DTEND;VALUE=DATE:20250504
+DTSTART;VALUE=DATE:20250504
+SUMMARY:Bow Wow
+UID:fc782892-1924-4795-875f-94619c636b6f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250428T021024Z
+DESCRIPTION:Natural can be described as innate or instinctive in essence, d
+ isposition or temperament. Quite simply, natural can be summed up as God-gi
+ ven or God-inspired because it comes so easily. When 20...
+DTEND;VALUE=DATE:20250430
+DTSTART;VALUE=DATE:20250430
+SUMMARY:Mario, Eric Bellinger
+UID:98fd0e43-b7b3-4dca-9264-b17fad0b6b14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250428T021024Z
+DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
+ Best Comics of All Time. He started doing stand-up at the age of nineteen a
+ t open mics in his native Toronto, and spent the next...
+DTEND;VALUE=DATE:20250517
+DTSTART;VALUE=DATE:20250517
+SUMMARY:Russell Peters
+UID:bb84ccd3-70a9-4e5f-8f04-c0be9fa270c9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250428T021024Z
+DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
+ del, and music video director. Lana Del Rey website.
+DTEND;VALUE=DATE:20250703
+DTSTART;VALUE=DATE:20250703
+SUMMARY:Lana Del Rey
+UID:6b5d4f5a-e989-4abf-98ef-16a5db52bfae
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250428T021024Z
+DESCRIPTION:Linkin Park - From Zero World Tour 2025 tickets : The buttons a
+ bove allow you to select between links to different suppliers who may have 
+ different availability, offers and fees.
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:JPEGMAFIA
+UID:64ed0a41-db67-42a9-aead-1d62d0278b0e
 END:VEVENT
 END:VCALENDAR
