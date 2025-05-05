@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
-DESCRIPTION:Aurora: What Happened To The Earth? Party 5 + Special Guests a
- t OVO Arena Wembley in Wembley Park.
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:Aurora
-UID:6b971c1c-c59b-4b4f-944b-2583fa063f75
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:Trey Songz
-UID:f7f69aad-1de6-445c-b3a3-7cced181adb4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:Lloyd
-UID:836b71ca-bd60-470b-9cfe-6d77c396cc4b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
-DESCRIPTION:The Millennium Tour | Sunday, May 4 11:59pm | London, England H
- A9 0AA
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:The Millenium Tour
-UID:e8cf7e19-a77f-4f41-a756-85908565e4c4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
-DESCRIPTION:Please be advised that Wembley Arena seating is divided into ba
- ys: - Blocks A and B are not raked and other customers may stand during th
- e performance. - Blocks C and D are tiered behind these. ...
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:Bow Wow
-UID:a95332d3-defc-4330-a741-4b887f3a1050
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
-DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
- Best Comics of All Time. He started doing stand-up at the age of nineteen a
- t open mics in his native Toronto, and spent the next...
-DTEND;VALUE=DATE:20250517
-DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters
-UID:1d2341e5-21b2-48da-9287-bb2c21dd5675
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
-DESCRIPTION:Celestial Sanctuary are here to firmly stamp their boot into yo
- ur skull and make their own unique mark on the future of DEATH METAL… For
- med in 2019, Celestial Sanctuary burst onto the scene with...
-DTEND;VALUE=DATE:20250504
-DTSTART;VALUE=DATE:20250504
-SUMMARY:INCINERATION FESTIVAL 2025 — Our Black Heart
-UID:b7a1b2d9-7b82-42af-9af9-a28746316f11
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
+DTSTAMP:20250505T021550Z
 DESCRIPTION:André Rieu is coming back to the UK in 2025! The King of Waltz
   will be returning with his 60-member Johann Strauss Orchestra and many int
  ernational soloists to dazzle the audience with a...
 DTEND;VALUE=DATE:20250508
 DTSTART;VALUE=DATE:20250508
 SUMMARY:André Rieu
-UID:a4d9a3e3-ae30-4a82-acde-9b47609a2fa4
+UID:d7bc636e-3967-4d0b-ab95-71486a0d652e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
+DTSTAMP:20250505T021550Z
+DESCRIPTION:Buy Omarion tickets with Spotify. Find Omarion tour schedule, c
+ oncert details, and tickets.
+DTEND;VALUE=DATE:20250505
+DTSTART;VALUE=DATE:20250505
+SUMMARY:Trey Songz
+UID:11450628-39d8-4686-96fb-8a92eec0ab29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250505T021550Z
+DESCRIPTION:TICKETS Get ready to start Summer 2025! Uncle Wray’s Nephews 
+ return to Boxpark Wembley for a Bank Holiday Special. We are bringing the b
+ est in Dancehall, Soca, Reggae, Hip-Hop & R&B to heart of...
+DTEND;VALUE=DATE:20250505
+DTSTART;VALUE=DATE:20250505
+SUMMARY:Uncle Wray's Nephews
+UID:06fd37bf-332e-499f-bedb-effae7e10569
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250505T021550Z
+DESCRIPTION:André Rieu is coming back to the UK in 2025! The King of Waltz
+  will be returning with his 60-member Johann Strauss Orchestra and many int
+ ernational soloists to dazzle the audience with a...
+DTEND;VALUE=DATE:20250509
+DTSTART;VALUE=DATE:20250509
+SUMMARY:André Rieu
+UID:3f4523c1-87de-4b71-a602-84fc13775c3c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250505T021550Z
+DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
+ Best Comics of All Time. He started doing stand-up at the age of nineteen a
+ t open mics in his native Toronto, and spent the next...
+DTEND;VALUE=DATE:20250517
+DTSTART;VALUE=DATE:20250517
+SUMMARY:Russell Peters
+UID:82375bce-352a-49e0-ab84-364f51f28166
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250505T021550Z
+DESCRIPTION:“These were songs that I would’ve probably written in anoth
+ er life,” says Macy Gray in her trademark rasp. She’s been asked to ide
+ ntify the common denominator linking the wildly varied songs on...
+DTEND;VALUE=DATE:20250506
+DTSTART;VALUE=DATE:20250506
+SUMMARY:Macy Gray
+UID:819f4697-b65f-4721-b990-7b4197f950e0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250505T021550Z
+DESCRIPTION:Following his powerhouse Apple Music Super Bowl LVIII Halftime 
+ performance, his incredibly successful two year, 100 sold out shows, My Way
+ : The Las Vegas Residency run and the now legendary...
+DTEND;VALUE=DATE:20250507
+DTSTART;VALUE=DATE:20250507
+SUMMARY:USHER
+UID:4b286133-a265-4b61-a7b2-31ed956decac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250505T021550Z
+DESCRIPTION:🌙✨***FLEETWOOD MAC FANS*** ✨🌙 Get ready to be enchant
+ ed by the seductive melodies of Fleetwood Mac, from their Peter Green days 
+ all the way to the majestic Tango In The Night era. 🎸 Relive the...
+DTEND;VALUE=DATE:20250508
+DTSTART;VALUE=DATE:20250508
+SUMMARY:Fleetwood Shack
+UID:9e70b97f-65ce-4bbd-83ca-489b9e327853
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250505T021550Z
+DESCRIPTION:“These were songs that I would’ve probably written in anoth
+ er life,” says Macy Gray in her trademark rasp. She’s been asked to ide
+ ntify the common denominator linking the wildly varied songs on...
+DTEND;VALUE=DATE:20250508
+DTSTART;VALUE=DATE:20250508
+SUMMARY:Macy Gray
+UID:fc296694-4ec0-4c7f-95c4-57e42d8e9e0d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250505T021550Z
 DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
  del, and music video director. Lana Del Rey website.
 DTEND;VALUE=DATE:20250703
 DTSTART;VALUE=DATE:20250703
 SUMMARY:Lana Del Rey
-UID:bd3f17a8-cf60-4835-8694-3fbd125b98d8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250504T022113Z
-DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
- mbley on Sunday, June 8. This performance marks their very first headlinin
- g concert in the UK and follows YOASOBI's 2024 sold out...
-DTEND;VALUE=DATE:20250608
-DTSTART;VALUE=DATE:20250608
-SUMMARY:YOASOBI
-UID:bce13992-b465-4eeb-b0b9-0b082e76d2fe
+UID:607e9722-895f-42b3-b6cd-510be1f6544a
 END:VEVENT
 END:VCALENDAR
