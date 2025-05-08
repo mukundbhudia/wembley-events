@@ -3,76 +3,84 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
+DTSTAMP:20250508T021353Z
 DESCRIPTION:André Rieu is coming back to the UK in 2025! The King of Waltz
   will be returning with his 60-member Johann Strauss Orchestra and many int
  ernational soloists to dazzle the audience with a...
 DTEND;VALUE=DATE:20250508
 DTSTART;VALUE=DATE:20250508
 SUMMARY:André Rieu
-UID:60ba26e5-4198-4fd6-95e4-41423da6d4dc
+UID:0de927af-1abb-4a0a-8e3d-1b2c5dce0d9b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
-DESCRIPTION:Join us for the best pre-show party in the O2 to get you in th
- e mood. We'll be serving the best cocktails in the arena, it's too good to 
- miss. We have something for everyone with our 2 hour...
-DTEND;VALUE=DATE:20250507
-DTSTART;VALUE=DATE:20250507
-SUMMARY:USHER
-UID:22297062-73d0-48ad-88e6-a70a85350aee
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
-DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
- Best Comics of All Time. He started doing stand-up at the age of nineteen a
- t open mics in his native Toronto, and spent the next...
+DTSTAMP:20250508T021353Z
+DESCRIPTION:Russell Peters was recently named as one of Rolling Stone’s 5
+ 0 Best Comics of All Time. He started doing stand-up at the age of nineteen
+  at open mics in his native Toronto, and spent the next...
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:e3ced381-2a54-4679-9f9c-f245c9468c64
+UID:25431ee8-d111-43b3-ae76-aa3b0b3e0bd6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
-DESCRIPTION:André Rieu is coming back to the UK in 2025! The King of Waltz
-  will be returning with his 60-member Johann Strauss Orchestra and many int
- ernational soloists to dazzle the audience with a...
-DTEND;VALUE=DATE:20250509
-DTSTART;VALUE=DATE:20250509
-SUMMARY:André Rieu
-UID:9761510a-f1ab-4233-8eaa-b6d814427b64
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
-DESCRIPTION:“These were songs that I would’ve probably written in anoth
- er life,” says Macy Gray in her trademark rasp. She’s been asked to ide
- ntify the common denominator linking the wildly varied songs on...
-DTEND;VALUE=DATE:20250508
-DTSTART;VALUE=DATE:20250508
-SUMMARY:Macy Gray
-UID:7e709ad8-b1c7-4bee-a95c-e30e4c454e92
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
-DESCRIPTION:Lana Del Rey, at Wembley Stadium in London on Friday 4 July 202
- 5 at 00:00 hours. Live-music. Nightlondon
-DTEND;VALUE=DATE:20250704
-DTSTART;VALUE=DATE:20250704
-SUMMARY:Lana Del Rey
-UID:d25f845e-3bfd-4639-9bd1-00f5a0fd18d0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
+DTSTAMP:20250508T021353Z
 DESCRIPTION:🌙✨***FLEETWOOD MAC FANS*** ✨🌙 Get ready to be enchant
  ed by the seductive melodies of Fleetwood Mac, from their Peter Green days 
  all the way to the majestic Tango In The Night era. 🎸 Relive the...
 DTEND;VALUE=DATE:20250508
 DTSTART;VALUE=DATE:20250508
 SUMMARY:Fleetwood Shack
-UID:17597e4c-f69b-4e2d-a9c5-907f47a3e9ae
+UID:1cdc1edb-bad5-45a4-b9e5-52ba622d3012
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
+DTSTAMP:20250508T021353Z
+DESCRIPTION:Lana Del Rey, at Wembley Stadium in London on Friday 4 July 202
+ 5 at 00:00 hours. Live-music. Nightlondon
+DTEND;VALUE=DATE:20250704
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Lana Del Rey
+UID:b233142c-d696-4d92-88f3-1401074a5adc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250508T021353Z
+DESCRIPTION:London's premier pop and fancy dress party throw a Dua Lipa cel
+ ebration
+DTEND;VALUE=DATE:20250620
+DTSTART;VALUE=DATE:20250620
+SUMMARY:Dua Lipa
+UID:0a6cdd63-36d3-4d3b-9463-784de10bc7f2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250508T021353Z
+DESCRIPTION:Greg Davies is heading back out on tour for the first time in 
+ 7 years with his brand-new 2025 stand-up show Full Fat Legend. Star of show
+ s such as Taskmaster, The Inbetweeners, The Cleaner, Never...
+DTEND;VALUE=DATE:20250612
+DTSTART;VALUE=DATE:20250612
+SUMMARY:Greg Davies
+UID:cc50e0be-1b09-48e0-83b8-4a546b5bf276
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250508T021353Z
+DESCRIPTION:Linkin Park - From Zero World Tour 2025 tickets : The buttons a
+ bove allow you to select between links to different suppliers who may have 
+ different availability, offers and fees.
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:JPEGMAFIA
+UID:6c4f8a37-0c4c-437c-8d16-a1aaf96d9d67
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250508T021353Z
+DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
+ hers bring back their iconic anthems
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Oasis
+UID:ef8d5cbe-a354-417f-aa01-763fc7887ed9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250508T021353Z
 DESCRIPTION:We and our 137 partners store and/or access information on a de
  vice, such as unique IDs in cookies to process personal data. You may accep
  t or manage your choices by clicking below or at any time...
@@ -80,25 +88,16 @@ DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Guns N' Roses: Because What You Want & What You Get Are Two Complet
  ely Different Things
-UID:9f51903f-fa26-4502-8484-5e7c0a72dcd7
+UID:2436525f-cd56-4e62-b06b-c39b591c88a7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
-DESCRIPTION:Concert: American singer, songwriter, record producer, poet, mo
- del, and music video director. Lana Del Rey website.
-DTEND;VALUE=DATE:20250703
-DTSTART;VALUE=DATE:20250703
-SUMMARY:Lana Del Rey
-UID:cafecfa0-f750-422c-8259-a9ed3b371026
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250507T020746Z
-DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
- mbley on Sunday, June 8. This performance marks their very first headlinin
- g concert in the UK and follows YOASOBI's 2024 sold out...
-DTEND;VALUE=DATE:20250608
-DTSTART;VALUE=DATE:20250608
-SUMMARY:YOASOBI
-UID:9c7e576e-18d8-499f-86fd-472b3d72598f
+DTSTAMP:20250508T021353Z
+DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
+ erful voice. His voice gives him the range needed to execute almost every s
+ tyle of song, whether it being jazz, trance, pop, or...
+DTEND;VALUE=DATE:20250531
+DTSTART;VALUE=DATE:20250531
+SUMMARY:Moein
+UID:9147865e-8965-4e2e-8efb-9e23865d41b3
 END:VEVENT
 END:VCALENDAR
