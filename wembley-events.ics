@@ -3,74 +3,75 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
+DTSTAMP:20250511T021858Z
 DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
  Best Comics of All Time. He started doing stand-up at the age of nineteen a
  t open mics in his native Toronto, and spent the next...
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:1c8a2ba9-2591-4170-9e93-74c7d5cd3bf2
+UID:100922fc-a678-419b-a00c-0337e14690f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
+DTSTAMP:20250511T021858Z
 DESCRIPTION:Lana Del Rey, at Wembley Stadium in London on Friday 4 July 202
  5 at 00:00 hours. Live-music. Nightlondon
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:147349f9-ad4b-470f-a858-aef77bf89ce5
+UID:c878dd3a-2153-4115-9d19-55e50ad27e71
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
+DTSTAMP:20250511T021858Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
 SUMMARY:YOASOBI
-UID:2ab79e06-48ca-4845-b7e7-bf521f2c6440
+UID:84e4ed91-e5f5-49e6-b865-a283a51932c8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
+DTSTAMP:20250511T021858Z
 DESCRIPTION:London's premier pop and fancy dress party throw a Dua Lipa cel
  ebration
 DTEND;VALUE=DATE:20250620
 DTSTART;VALUE=DATE:20250620
 SUMMARY:Dua Lipa
-UID:1177b0b2-f2cb-4b4a-814b-87ff91fbdc43
+UID:a359f111-0835-40d3-87b8-29949023241a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
+DTSTAMP:20250511T021858Z
 DESCRIPTION:Greg Davies is heading back out on tour for the first time in 
  7 years with his brand-new 2025 stand-up show Full Fat Legend. Star of show
  s such as Taskmaster, The Inbetweeners, The Cleaner, Never...
 DTEND;VALUE=DATE:20250612
 DTSTART;VALUE=DATE:20250612
 SUMMARY:Greg Davies
-UID:54d97000-ace6-44b6-8afd-ebe4c0bbd444
+UID:0322bd39-70ff-4b85-adc7-01da83b85304
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
+DTSTAMP:20250511T021858Z
 DESCRIPTION:Linkin Park - From Zero World Tour 2025 tickets : The buttons a
  bove allow you to select between links to different suppliers who may have 
  different availability, offers and fees.
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
-SUMMARY:JPEGMAFIA
-UID:3f6f6058-a034-4185-b9e9-b7de462cfe43
+SUMMARY:Linkin Park
+UID:e67f9050-dd8e-463f-81d9-69c5faca2c67
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
-DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
- hers bring back their iconic anthems
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Oasis
-UID:affc20da-611e-4ddc-958a-1517c599dd75
+DTSTAMP:20250511T021858Z
+DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
+ r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
+ spitality Finder.
+DTEND;VALUE=DATE:20250626
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Guns N Roses
+UID:5dab68da-ff69-4582-a361-a6f1d4874f82
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
+DTSTAMP:20250511T021858Z
 DESCRIPTION:We and our 137 partners store and/or access information on a de
  vice, such as unique IDs in cookies to process personal data. You may accep
  t or manage your choices by clicking below or at any time...
@@ -78,25 +79,25 @@ DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Guns N' Roses: Because What You Want & What You Get Are Two Complet
  ely Different Things
-UID:79697bb5-506a-464f-8591-f4d576709abc
+UID:cf86cdbc-534b-4633-b4ca-61cb844e50eb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
+DTSTAMP:20250511T021858Z
+DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
+ hers bring back their iconic anthems
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Oasis
+UID:b835f614-2812-4f30-bef0-813cc257bf4d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250511T021858Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:2f10f118-da16-4afe-862f-da376b9d122f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250510T020249Z
-DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/26/
- 2025 at 5:00 PM
-DTEND;VALUE=DATE:20250826
-DTSTART;VALUE=DATE:20250826
-SUMMARY:Coldplay
-UID:ab5e79b6-de2a-45d5-9e12-4dc37ec654dd
+UID:25b33c8c-0408-49f3-8e91-6d1cc7c58f9f
 END:VEVENT
 END:VCALENDAR
