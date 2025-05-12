@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
+DTSTAMP:20250512T021704Z
 DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
  Best Comics of All Time. He started doing stand-up at the age of nineteen a
  t open mics in his native Toronto, and spent the next...
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:100922fc-a678-419b-a00c-0337e14690f8
+UID:2cebc79e-bfe9-44e8-8407-4486bbd15341
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
+DTSTAMP:20250512T021704Z
+DESCRIPTION:Olly Murs plus very special guests BLUE. Fifteen years of hits 
+ live at OVO Arena Wembley in Wembley Park on 18th May 2025!
+DTEND;VALUE=DATE:20250518
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Olly Murs
+UID:504c3311-e30c-406c-aef8-f7bd497b8d44
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250512T021704Z
 DESCRIPTION:Lana Del Rey, at Wembley Stadium in London on Friday 4 July 202
  5 at 00:00 hours. Live-music. Nightlondon
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:c878dd3a-2153-4115-9d19-55e50ad27e71
+UID:d6a9998a-1d3f-47c2-bfa1-3e6230428d1e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
+DTSTAMP:20250512T021704Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
 SUMMARY:YOASOBI
-UID:84e4ed91-e5f5-49e6-b865-a283a51932c8
+UID:b1180cef-5865-46ab-bf61-639c8c2ea60c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
+DTSTAMP:20250512T021704Z
 DESCRIPTION:London's premier pop and fancy dress party throw a Dua Lipa cel
  ebration
 DTEND;VALUE=DATE:20250620
 DTSTART;VALUE=DATE:20250620
 SUMMARY:Dua Lipa
-UID:a359f111-0835-40d3-87b8-29949023241a
+UID:b90bafb2-87fb-4490-a4c1-be578b366099
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
-DESCRIPTION:Greg Davies is heading back out on tour for the first time in 
- 7 years with his brand-new 2025 stand-up show Full Fat Legend. Star of show
- s such as Taskmaster, The Inbetweeners, The Cleaner, Never...
-DTEND;VALUE=DATE:20250612
-DTSTART;VALUE=DATE:20250612
-SUMMARY:Greg Davies
-UID:0322bd39-70ff-4b85-adc7-01da83b85304
+DTSTAMP:20250512T021704Z
+DESCRIPTION:Singer and songwriter Andy Grammer returns with his latest albu
+ m Monster , inspired by complex feelings filtered through rousing instrumen
+ tals, reflective ballads and rejuvenating jams alike.
+DTEND;VALUE=DATE:20250518
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Andy Grammer
+UID:d2f06b0d-b305-49ad-8bab-2b90606aa2ad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
+DTSTAMP:20250512T021704Z
 DESCRIPTION:Linkin Park - From Zero World Tour 2025 tickets : The buttons a
  bove allow you to select between links to different suppliers who may have 
  different availability, offers and fees.
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
 SUMMARY:Linkin Park
-UID:e67f9050-dd8e-463f-81d9-69c5faca2c67
+UID:9ceaf273-e901-4aa6-90f0-8bed1e66187f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
-DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
- r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
- spitality Finder.
-DTEND;VALUE=DATE:20250626
-DTSTART;VALUE=DATE:20250626
-SUMMARY:Guns N Roses
-UID:5dab68da-ff69-4582-a361-a6f1d4874f82
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
-DESCRIPTION:We and our 137 partners store and/or access information on a de
- vice, such as unique IDs in cookies to process personal data. You may accep
- t or manage your choices by clicking below or at any time...
-DTEND;VALUE=DATE:20250626
-DTSTART;VALUE=DATE:20250626
-SUMMARY:Guns N' Roses: Because What You Want & What You Get Are Two Complet
- ely Different Things
-UID:cf86cdbc-534b-4633-b4ca-61cb844e50eb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
-DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
- hers bring back their iconic anthems
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Oasis
-UID:b835f614-2812-4f30-bef0-813cc257bf4d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250511T021858Z
+DTSTAMP:20250512T021704Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:25b33c8c-0408-49f3-8e91-6d1cc7c58f9f
+UID:ee1e316d-0c8a-42df-88c5-2c384784fdbf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250512T021704Z
+DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
+ r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
+ spitality Finder.
+DTEND;VALUE=DATE:20250626
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Guns N Roses
+UID:c4d1ecb4-10f1-4325-acc4-96bb064e4b56
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250512T021704Z
+DESCRIPTION:We and our 136 partners store and/or access information on a de
+ vice, such as unique IDs in cookies to process personal data. You may accep
+ t or manage your choices by clicking below or at any time...
+DTEND;VALUE=DATE:20250626
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Guns N' Roses: Because What You Want & What You Get Are Two Complet
+ ely Different Things
+UID:2658d72d-feaa-40c8-8eb8-79e17bfedb90
 END:VEVENT
 END:VCALENDAR
