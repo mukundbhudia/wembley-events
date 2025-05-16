@@ -3,53 +3,35 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
+DTSTAMP:20250516T021446Z
 DESCRIPTION:Olly Murs plus very special guests BLUE. Fifteen years of hits 
  live at OVO Arena Wembley in Wembley Park on 18th May 2025!
 DTEND;VALUE=DATE:20250518
 DTSTART;VALUE=DATE:20250518
 SUMMARY:Olly Murs
-UID:2744fc9e-3796-492b-8298-53b648b81651
+UID:9902b4e7-2c33-4ec1-9aa0-31edf38c5682
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
+DTSTAMP:20250516T021446Z
 DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
  Best Comics of All Time. He started doing stand-up at the age of nineteen a
  t open mics in his native Toronto, and spent the next...
 DTEND;VALUE=DATE:20250517
 DTSTART;VALUE=DATE:20250517
 SUMMARY:Russell Peters
-UID:dd961c61-12a3-422d-9d16-cafc5f641337
+UID:9f9e0526-429d-4df4-b963-5751be41f2ed
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
-DESCRIPTION:Find tickets for Carolina Durante showing at the Various Londo
- n Venues - London, GB Saturday May 17, 7:00PM
-DTEND;VALUE=DATE:20250516
-DTSTART;VALUE=DATE:20250516
-SUMMARY:Casa Faro Festival: Friday
-UID:f5f1dd22-d551-433d-8750-e7a1f9e40fde
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
+DTSTAMP:20250516T021446Z
 DESCRIPTION:Lana Del Rey, at Wembley Stadium in London on Friday 4 July 202
  5 at 00:00 hours. Live-music. Nightlondon
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:34d24f1c-8971-41cb-8087-3b3451e4896c
+UID:fa2267e4-4483-4893-abc3-95b093a4d6a8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
-DESCRIPTION:Find tickets for The fin. at Oslo Hackney in London on 5/18/202
- 5 at 7:00 PM
-DTEND;VALUE=DATE:20250518
-DTSTART;VALUE=DATE:20250518
-SUMMARY:She Her Her Hers
-UID:95f9915a-817f-42d7-8996-8b651fd6e12a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
+DTSTAMP:20250516T021446Z
 DESCRIPTION:We and our 136 partners store and/or access information on a de
  vice, such as unique IDs in cookies to process personal data. You may accep
  t or manage your choices by clicking below or at any time...
@@ -57,44 +39,63 @@ DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Guns N' Roses: Because What You Want & What You Get Are Two Complet
  ely Different Things
-UID:7e86ed18-4b4f-44dc-bc41-b3f1dc2f54a6
+UID:61e5b3b9-dbf7-46a0-8090-060fa83fac71
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
+DTSTAMP:20250516T021446Z
+DESCRIPTION:Find tickets for The fin. at Oslo Hackney in London on 5/18/202
+ 5 at 7:00 PM
+DTEND;VALUE=DATE:20250518
+DTSTART;VALUE=DATE:20250518
+SUMMARY:She Her Her Hers
+UID:1c5547b7-dcb8-420e-83f6-7427afbc0f49
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250516T021446Z
 DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
  hers bring back their iconic anthems
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:085ceb5e-216b-4626-927d-3e063ebf7b66
+UID:4684d173-1fd2-4be6-96b1-13f1d7bdb118
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
+DTSTAMP:20250516T021446Z
 DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
  tional Express journeys from across the UK.
 DTEND;VALUE=DATE:20250620
 DTSTART;VALUE=DATE:20250620
 SUMMARY:Dua Lipa
-UID:22e10cca-e34b-4a74-9c26-97ec4464ba33
+UID:86968878-af26-468a-8ecb-fbf7301fca2b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
+DTSTAMP:20250516T021446Z
 DESCRIPTION:Linkin Park - From Zero World Tour 2025 tickets : The buttons a
  bove allow you to select between links to different suppliers who may have 
  different availability, offers and fees.
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
 SUMMARY:Linkin Park
-UID:3dfde56f-b17c-44be-8dda-0239c4bfde37
+UID:543ded3e-aa69-466b-9b81-4ebfad24166d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250515T020644Z
+DTSTAMP:20250516T021446Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:23557b7f-0f84-4c89-aa67-156104f5bdf4
+UID:374b2378-2830-4fad-8c5b-75abd83ff053
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250516T021446Z
+DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
+ r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
+ spitality Finder.
+DTEND;VALUE=DATE:20250626
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Guns N Roses
+UID:844c5bf5-73a5-4cdc-a395-e23c6026c99f
 END:VEVENT
 END:VCALENDAR
