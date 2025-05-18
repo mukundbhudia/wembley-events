@@ -3,99 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
-DESCRIPTION:Russell Peters was recently named as one of Rolling Stone's 50 
- Best Comics of All Time. He started doing stand-up at the age of nineteen a
- t open mics in his native Toronto, and spent the next...
-DTEND;VALUE=DATE:20250517
-DTSTART;VALUE=DATE:20250517
-SUMMARY:Russell Peters
-UID:dd05abc2-c449-4972-84b6-318d2bb0ecf4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
-DESCRIPTION:Olly Murs plus very special guests BLUE. Fifteen years of hits 
- live at OVO Arena Wembley in Wembley Park on 18th May 2025!
+DTSTAMP:20250518T022054Z
+DESCRIPTION:Olly Murs, at Wembley Arena in London on Sunday 18 May 2025 at 
+ 00:00 hours. Live-music. Nightlondon
 DTEND;VALUE=DATE:20250518
 DTSTART;VALUE=DATE:20250518
 SUMMARY:Olly Murs
-UID:1ada47cb-df6d-458c-b0d3-3592a61a6864
+UID:6b1d672b-fd7b-4d17-b63d-5fa63671db5c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
+DTSTAMP:20250518T022054Z
+DESCRIPTION:U14 accom/Floor14+ (14-15 accom by adult) Antony Costa, Duncan 
+ James, Lee Ryan and Simon Webbe more widely known as Blue have sold 15 mill
+ ion records worldwide. In the UK they’ve had 3 number 1...
+DTEND;VALUE=DATE:20250518
+DTSTART;VALUE=DATE:20250518
+SUMMARY:Blue
+UID:fdafcaa6-6e8d-422c-9048-1bdab18bcddf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250518T022054Z
 DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
  tional Express journeys from across the UK.
 DTEND;VALUE=DATE:20250620
 DTSTART;VALUE=DATE:20250620
-SUMMARY:Dua Lipa - Radical Optimism Tour
-UID:fcb77f7a-c22c-4e67-9966-8a69de15f6fa
+SUMMARY:Dua Lipa
+UID:245aa231-90bf-4df2-a4bd-e32842016b0f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
-DESCRIPTION:Find tickets for The fin. at Oslo Hackney in London on 5/18/202
- 5 at 7:00 PM
+DTSTAMP:20250518T022054Z
+DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
+ 2025 at 5:00 PM
+DTEND;VALUE=DATE:20250822
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Coldplay
+UID:117331d4-8a6b-4a35-ac30-b1d697d58bad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250518T022054Z
+DESCRIPTION:Buy Mark Porter tickets with Spotify. Find Mark Porter tour sch
+ edule, concert details, and tickets.
 DTEND;VALUE=DATE:20250518
 DTSTART;VALUE=DATE:20250518
-SUMMARY:She Her Her Hers
-UID:cceed592-95c6-45ce-b4db-8add83747358
+SUMMARY:The Glenn Miller Orchestra
+UID:56dae8bc-e84c-45d6-a3e5-846cc064a568
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
+DTSTAMP:20250518T022054Z
 DESCRIPTION:Lana Del Rey London is set to be an unforgettable event, takin
  g place at the iconic Wembley Stadium in London, United Kingdom. Scheduled 
  for July 4, 2025, at 17:00, this concert promises to be a...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:8f3e8619-773f-47f6-938c-cc8675285271
+UID:ce56ffc7-b6a6-41e1-a376-4df38d70fac9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
+DTSTAMP:20250518T022054Z
 DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
  hers bring back their iconic anthems
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:04b5e739-2628-4e3d-88c1-7941c2c05484
+UID:7e57f8f9-e6e8-4097-800f-25a7ce46eace
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
-DESCRIPTION:Brad Delson, Michael Shinoda, and Robert Bourdon effectively st
- arted Linkin Park while attending high school in Southern California, but t
- he band wasn't complete until Shinoda met Joe Hahn at art...
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:Linkin Park
-UID:70e27c06-32b2-4122-ad84-29c6b5b80906
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
+DTSTAMP:20250518T022054Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:59d4d9ea-bf77-4736-b963-3c695d0c61b2
+UID:899b7b2f-2c6e-4fcc-875f-e328d50a9043
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
+DTSTAMP:20250518T022054Z
 DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
  r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
  spitality Finder.
 DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Guns N Roses
-UID:f250376e-f61d-4de1-8048-5bf18db07950
+UID:5c23817b-a9dc-4c71-8e9a-c850192f2cbd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250517T020551Z
-DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
- voices of rock'n'roll, with an artistic resume to match the brilliant ligh
- t of the image. First as the camera-ready front man for...
-DTEND;VALUE=DATE:20250624
-DTSTART;VALUE=DATE:20250624
-SUMMARY:Billy Idol
-UID:f5253b21-6fe3-489f-8af3-4b660a3165fb
+DTSTAMP:20250518T022054Z
+DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
+ y Stadium this June! This year's huge one-day event will include performanc
+ es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Mariah Carey
+UID:c265e243-f21f-40be-97ed-a04fa2d1b5e1
 END:VEVENT
 END:VCALENDAR
