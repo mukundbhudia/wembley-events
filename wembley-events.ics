@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
-DESCRIPTION:Olly Murs, at Wembley Arena in London on Sunday 18 May 2025 at 
- 00:00 hours. Live-music. Nightlondon
-DTEND;VALUE=DATE:20250518
-DTSTART;VALUE=DATE:20250518
-SUMMARY:Olly Murs
-UID:6b1d672b-fd7b-4d17-b63d-5fa63671db5c
+DTSTAMP:20250519T021947Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 5/23/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250523
+DTSTART;VALUE=DATE:20250523
+SUMMARY:Starlight Express
+UID:def95148-5a81-4c77-a3ff-9db5fe459855
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
-DESCRIPTION:U14 accom/Floor14+ (14-15 accom by adult) Antony Costa, Duncan 
- James, Lee Ryan and Simon Webbe more widely known as Blue have sold 15 mill
- ion records worldwide. In the UK they’ve had 3 number 1...
-DTEND;VALUE=DATE:20250518
-DTSTART;VALUE=DATE:20250518
-SUMMARY:Blue
-UID:fdafcaa6-6e8d-422c-9048-1bdab18bcddf
+DTSTAMP:20250519T021947Z
+DESCRIPTION:Tagged as ‘The Nation’s Girl Group’ BINI is composed of 8
+  members- Aiah, Colet, Gwen, Maloi, Stacey, Jhoanna, Mikha, and Sheena. BIN
+ I is currently the Top OPM (Original Pinoy Music) Group, OPM...
+DTEND;VALUE=DATE:20250525
+DTSTART;VALUE=DATE:20250525
+SUMMARY:BINI, BINIVERSE WORLD TOUR
+UID:37fa52ea-3adb-4187-b0ca-ed0377f85698
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
+DTSTAMP:20250519T021947Z
+DESCRIPTION:Find tickets for Errol at Brockwell Park in London on 5/25/202
+ 5 at 12:00 PM
+DTEND;VALUE=DATE:20250525
+DTSTART;VALUE=DATE:20250525
+SUMMARY:Errol
+UID:e281c20e-c629-4d8b-98ed-6ddc57495da6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T021947Z
+DESCRIPTION:Find tickets for Zinadelphia at Doña in London on 5/21/2025 at
+  7:00 PM
+DTEND;VALUE=DATE:20250521
+DTSTART;VALUE=DATE:20250521
+SUMMARY:Zinadelphia
+UID:8f55b77f-cb39-4d73-b7b4-1ccb927aeedb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T021947Z
+DESCRIPTION:London's #1 jazz, funk and soul feast is back for its 6th editi
+ on! Join us on the 25th of May in Brixton for #xthetracks25
+DTEND;VALUE=DATE:20250525
+DTSTART;VALUE=DATE:20250525
+SUMMARY:Jordan Rakei
+UID:c2f64843-e61b-4b00-825b-a2156c0c6863
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T021947Z
 DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
  tional Express journeys from across the UK.
 DTEND;VALUE=DATE:20250620
 DTSTART;VALUE=DATE:20250620
 SUMMARY:Dua Lipa
-UID:245aa231-90bf-4df2-a4bd-e32842016b0f
+UID:97bf1afc-6d18-45f4-a025-d0e6f36c955a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
-DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
- 2025 at 5:00 PM
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
-SUMMARY:Coldplay
-UID:117331d4-8a6b-4a35-ac30-b1d697d58bad
+DTSTAMP:20250519T021947Z
+DESCRIPTION:Last.fm concert page for Supergrass: I Should Coco 30th Anniver
+ sary Tour at Roundhouse (London) on May 21, 2025. Discuss the gig, get conc
+ ert tickets, see who's attending, find similar events.
+DTEND;VALUE=DATE:20250521
+DTSTART;VALUE=DATE:20250521
+SUMMARY:Supergrass
+UID:296651eb-4806-482d-9aeb-7a65abc158e5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
-DESCRIPTION:Buy Mark Porter tickets with Spotify. Find Mark Porter tour sch
- edule, concert details, and tickets.
-DTEND;VALUE=DATE:20250518
-DTSTART;VALUE=DATE:20250518
-SUMMARY:The Glenn Miller Orchestra
-UID:56dae8bc-e84c-45d6-a3e5-846cc064a568
+DTSTAMP:20250519T021947Z
+DESCRIPTION:Brad Delson, Michael Shinoda, and Robert Bourdon effectively st
+ arted Linkin Park while attending high school in Southern California, but t
+ he band wasn't complete until Shinoda met Joe Hahn at art...
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Linkin Park
+UID:2499645f-2e0d-46bf-8752-f6177c3db8b0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
-DESCRIPTION:Lana Del Rey London is set to be an unforgettable event, takin
- g place at the iconic Wembley Stadium in London, United Kingdom. Scheduled 
- for July 4, 2025, at 17:00, this concert promises to be a...
-DTEND;VALUE=DATE:20250704
-DTSTART;VALUE=DATE:20250704
-SUMMARY:Lana Del Rey
-UID:ce56ffc7-b6a6-41e1-a376-4df38d70fac9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
-DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
- hers bring back their iconic anthems
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Oasis
-UID:7e57f8f9-e6e8-4097-800f-25a7ce46eace
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
+DTSTAMP:20250519T021947Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:899b7b2f-2c6e-4fcc-875f-e328d50a9043
+UID:92f97f47-bb7c-4872-aed0-7a93e17ff2d9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
-DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
- r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
- spitality Finder.
-DTEND;VALUE=DATE:20250626
-DTSTART;VALUE=DATE:20250626
-SUMMARY:Guns N Roses
-UID:5c23817b-a9dc-4c71-8e9a-c850192f2cbd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250518T022054Z
-DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
- y Stadium this June! This year's huge one-day event will include performanc
- es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Mariah Carey
-UID:c265e243-f21f-40be-97ed-a04fa2d1b5e1
+DTSTAMP:20250519T021947Z
+DESCRIPTION:Lana Del Rey London is set to be an unforgettable event, takin
+ g place at the iconic Wembley Stadium in London, United Kingdom. Scheduled 
+ for July 4, 2025, at 17:00, this concert promises to be a...
+DTEND;VALUE=DATE:20250704
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Lana Del Rey
+UID:ce842fcc-f4a4-40ee-8a0b-51482a7dfb1e
 END:VEVENT
 END:VCALENDAR
