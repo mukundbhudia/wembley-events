@@ -3,99 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 5/23/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250523
-DTSTART;VALUE=DATE:20250523
-SUMMARY:Starlight Express
-UID:3208dcf8-c5d9-42b2-9065-0eca3793413e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
+DTSTAMP:20250521T021453Z
 DESCRIPTION:Tagged as ‘The Nation’s Girl Group’ BINI is composed of 8
   members- Aiah, Colet, Gwen, Maloi, Stacey, Jhoanna, Mikha, and Sheena. BIN
  I is currently the Top OPM (Original Pinoy Music) Group, OPM...
 DTEND;VALUE=DATE:20250525
 DTSTART;VALUE=DATE:20250525
 SUMMARY:BINI, BINIVERSE WORLD TOUR
-UID:6d3fd877-70b2-4b62-a306-3b19ba40be8d
+UID:60855904-3694-4fd9-af6d-6be62329349c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
+DTSTAMP:20250521T021453Z
 DESCRIPTION:Find tickets for Errol at Brockwell Park in London on 5/25/202
  5 at 12:00 PM
 DTEND;VALUE=DATE:20250525
 DTSTART;VALUE=DATE:20250525
 SUMMARY:Errol
-UID:ffc30a29-8421-42b4-8045-59668f513e0c
+UID:7e847d6e-0a16-4064-993d-4b5705f478dc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
-DESCRIPTION:London's #1 jazz, funk and soul feast is back for its 6th editi
- on! Join us on the 25th of May in Brixton for #xthetracks25
-DTEND;VALUE=DATE:20250525
-DTSTART;VALUE=DATE:20250525
-SUMMARY:Jordan Rakei
-UID:3ba07309-992b-4e2a-b62c-11c3cb37a909
+DTSTAMP:20250521T021453Z
+DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
+ O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
+ ne of London’s most iconic venues BOXPARK WEMBLEY. This...
+DTEND;VALUE=DATE:20250614
+DTSTART;VALUE=DATE:20250614
+SUMMARY:SUMMER W/ SIKA[WEMBLEY]
+UID:b8db03b5-7071-420c-95d7-c77771334bab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
-DESCRIPTION:Last.fm concert page for Supergrass: I Should Coco 30th Anniver
- sary Tour at Roundhouse (London) on May 21, 2025. Discuss the gig, get conc
- ert tickets, see who's attending, find similar events.
+DTSTAMP:20250521T021453Z
+DESCRIPTION:Supergrass at The Roundhouse🌟 Step into a world of wonder at
+  Supergrass London Tickets , where extraordinary moments await! 🏛️ Loc
+ ated at The Roundhouse in dynamic London , EN
 DTEND;VALUE=DATE:20250521
 DTSTART;VALUE=DATE:20250521
 SUMMARY:Supergrass
-UID:6a348e76-4bd1-4ee9-badc-b7b614dcf41d
+UID:4bc00e8d-e318-4a9d-8a46-c289ffb18a62
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
-DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
- erful voice. His voice gives him the range needed to execute almost every s
- tyle of song, whether it being jazz, trance, pop, or...
-DTEND;VALUE=DATE:20250531
-DTSTART;VALUE=DATE:20250531
-SUMMARY:Moein
-UID:31988df1-53de-4dac-9b25-81e1f7771ca5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
+DTSTAMP:20250521T021453Z
 DESCRIPTION:Lana Del Rey London is set to be an unforgettable event, takin
  g place at the iconic Wembley Stadium in London, United Kingdom. Scheduled 
  for July 4, 2025, at 17:00, this concert promises to be a...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:983da27c-4d29-40cd-b542-26ca67649adc
+UID:861e89ac-dc71-44c6-9589-7b86426a9d28
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
+DTSTAMP:20250521T021453Z
+DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
+ voices of rock'n'roll, with an artistic resume to match the brilliant ligh
+ t of the image. First as the camera-ready front man for...
+DTEND;VALUE=DATE:20250624
+DTSTART;VALUE=DATE:20250624
+SUMMARY:Billy Idol
+UID:b1694459-6bb5-4c6e-8ca3-1ec40dd0327c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250521T021453Z
 DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
  hers bring back their iconic anthems
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:cb172437-5248-4de0-8953-5cc0efa57bda
+UID:5f09aa49-1625-49c2-b6d8-a0e26e0f826f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
-DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
- r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
- spitality Finder.
-DTEND;VALUE=DATE:20250626
-DTSTART;VALUE=DATE:20250626
-SUMMARY:Guns N Roses
-UID:ebd18096-22c5-4ba5-9851-1fd55bd10c1f
+DTSTAMP:20250521T021453Z
+DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
+ erful voice. His voice gives him the range needed to execute almost every s
+ tyle of song, whether it being jazz, trance, pop, or...
+DTEND;VALUE=DATE:20250531
+DTSTART;VALUE=DATE:20250531
+SUMMARY:Moein
+UID:944bdfd0-031f-4486-9a37-24c7c939e3c3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250520T021521Z
+DTSTAMP:20250521T021453Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
 SUMMARY:YOASOBI
-UID:01273813-e453-4bcc-8473-181a8ef60352
+UID:48b2426f-ab76-4b66-b859-3fe815b97f74
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250521T021453Z
+DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
+ r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
+ spitality Finder.
+DTEND;VALUE=DATE:20250626
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Guns N Roses
+UID:f32cb27c-031e-4cef-94e4-28bc1597fe62
 END:VEVENT
 END:VCALENDAR
