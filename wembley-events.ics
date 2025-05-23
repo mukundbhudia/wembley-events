@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:Tagged as ‘The Nation’s Girl Group’ BINI is composed of 8
   members- Aiah, Colet, Gwen, Maloi, Stacey, Jhoanna, Mikha, and Sheena. BIN
  I is currently the Top OPM (Original Pinoy Music) Group, OPM...
 DTEND;VALUE=DATE:20250525
 DTSTART;VALUE=DATE:20250525
 SUMMARY:BINI, BINIVERSE WORLD TOUR
-UID:c6097cb4-6bac-42f9-aec6-4576a8aa3238
+UID:f075aab1-7e36-457f-9588-0f595ee8327a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:Find tickets for Errol at Brockwell Park in London on 5/25/202
  5 at 12:00 PM
 DTEND;VALUE=DATE:20250525
 DTSTART;VALUE=DATE:20250525
 SUMMARY:Errol
-UID:8d846723-b257-4717-a13f-104d450fc94f
+UID:71a05dc8-8413-4484-adf2-e063c6ad1e66
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
  O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
  ne of London’s most iconic venues BOXPARK WEMBLEY. This...
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:e0134019-2b27-4ac5-bba0-2d76e394a492
+UID:87c3f6fc-eec5-4ff2-96db-3691d95c2533
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
  voices of rock'n'roll, with an artistic resume to match the brilliant ligh
  t of the image. First as the camera-ready front man for...
 DTEND;VALUE=DATE:20250624
 DTSTART;VALUE=DATE:20250624
 SUMMARY:Billy Idol
-UID:69ac74b5-1b51-4e31-8ee2-448d61f51a04
+UID:e8cad177-b106-4bef-ac16-51d1521e9a87
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:Lana Del Rey London is set to be an unforgettable event, takin
  g place at the iconic Wembley Stadium in London, United Kingdom. Scheduled 
  for July 4, 2025, at 17:00, this concert promises to be a...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:54f8bf47-9138-4434-a073-aba14c226d92
+UID:ea6de750-ff7f-4793-92c0-d056b46994b3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
  hers bring back their iconic anthems
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:ad77868d-ab28-4289-b1ad-86c78f38ce18
+UID:34c065ff-c58c-4511-8bd2-8d57668fbeb1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:22970c65-19b8-4206-bf4e-1ecb19a7467b
+UID:d05c2b91-92eb-4c1b-9c95-c9387e732cbc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
 SUMMARY:YOASOBI
-UID:fd9f163f-9474-458c-9f8b-6b5cc8736d63
+UID:a4c55770-7f7a-47d7-9a52-e7c90ef843a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
  r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
  spitality Finder.
 DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Guns N Roses
-UID:948f06b1-4555-482e-8627-124d5be67e6c
+UID:7149be44-151c-4ad4-95d8-ee48253980fb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250522T021430Z
+DTSTAMP:20250523T021403Z
 DESCRIPTION:Searching for information and tickets regarding Hurts - 15 Year
  s of Happiness | O2 Academy Brixton taking place in London on May 22, 2025 
  (UTC)? Trip.com has you covered. Check the dates...
-DTEND;VALUE=DATE:20250522
-DTSTART;VALUE=DATE:20250522
+DTEND;VALUE=DATE:20250523
+DTSTART;VALUE=DATE:20250523
 SUMMARY:Hurts - 15 Years of Happiness
-UID:df5dc843-2f29-4cef-bfbe-5bee488413ea
+UID:02324198-6446-49c6-a539-45faffc3bf4c
 END:VEVENT
 END:VCALENDAR
