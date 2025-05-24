@@ -3,101 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
+DTSTAMP:20250524T020426Z
 DESCRIPTION:Tagged as ‘The Nation’s Girl Group’ BINI is composed of 8
   members- Aiah, Colet, Gwen, Maloi, Stacey, Jhoanna, Mikha, and Sheena. BIN
  I is currently the Top OPM (Original Pinoy Music) Group, OPM...
 DTEND;VALUE=DATE:20250525
 DTSTART;VALUE=DATE:20250525
 SUMMARY:BINI, BINIVERSE WORLD TOUR
-UID:f075aab1-7e36-457f-9588-0f595ee8327a
+UID:8fb09a0b-26fe-424c-8280-ad1513b1a4ec
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
+DTSTAMP:20250524T020426Z
 DESCRIPTION:Find tickets for Errol at Brockwell Park in London on 5/25/202
  5 at 12:00 PM
 DTEND;VALUE=DATE:20250525
 DTSTART;VALUE=DATE:20250525
 SUMMARY:Errol
-UID:71a05dc8-8413-4484-adf2-e063c6ad1e66
+UID:6286cb81-b813-4fb9-ba06-99c1b7c9187a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
+DTSTAMP:20250524T020426Z
+DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
+ y Stadium this June! This year's huge one-day event will include performanc
+ es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Summertime Ball
+UID:3aa945d0-896d-4e12-8dd6-5a4fa5823704
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250524T020426Z
 DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
  O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
  ne of London’s most iconic venues BOXPARK WEMBLEY. This...
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:87c3f6fc-eec5-4ff2-96db-3691d95c2533
+UID:cf269002-d949-4b5e-a1c5-e180009c8f2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
-DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
- voices of rock'n'roll, with an artistic resume to match the brilliant ligh
- t of the image. First as the camera-ready front man for...
-DTEND;VALUE=DATE:20250624
-DTSTART;VALUE=DATE:20250624
-SUMMARY:Billy Idol
-UID:e8cad177-b106-4bef-ac16-51d1521e9a87
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
-DESCRIPTION:Lana Del Rey London is set to be an unforgettable event, takin
- g place at the iconic Wembley Stadium in London, United Kingdom. Scheduled 
- for July 4, 2025, at 17:00, this concert promises to be a...
-DTEND;VALUE=DATE:20250704
-DTSTART;VALUE=DATE:20250704
-SUMMARY:Lana Del Rey
-UID:ea6de750-ff7f-4793-92c0-d056b46994b3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
-DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
- hers bring back their iconic anthems
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
+DTSTAMP:20250524T020426Z
+DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
+ isiting Wembley Stadium. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:34c065ff-c58c-4511-8bd2-8d57668fbeb1
+UID:cdb7c1ee-9116-4e85-93a8-7e78593d7df3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
+DTSTAMP:20250524T020426Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:d05c2b91-92eb-4c1b-9c95-c9387e732cbc
+UID:143ca95a-73c2-452a-9cb8-bc4e6afdec26
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
+DTSTAMP:20250524T020426Z
+DESCRIPTION:Find tickets for New Found Glory at Hatfield Park in Hatfield o
+ n 5/24/2025 at 5:00 PM
+DTEND;VALUE=DATE:20250524
+DTSTART;VALUE=DATE:20250524
+SUMMARY:New Found Glory
+UID:ff7e0c38-1d10-486c-864e-e7bc1362a149
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250524T020426Z
+DESCRIPTION:Lana Del Rey London is set to be an unforgettable event, takin
+ g place at the iconic Wembley Stadium in London, United Kingdom. Scheduled 
+ for July 4, 2025, at 17:00, this concert promises to be a...
+DTEND;VALUE=DATE:20250704
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Lana Del Rey
+UID:95b9e968-04dd-4261-9f97-52f75b704c9f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250524T020426Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Dua Lipa, Dove Cameron, Alessi Rose
+UID:925dbb19-ba4c-4baa-a51b-5cddebc0a41e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250524T020426Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
 SUMMARY:YOASOBI
-UID:a4c55770-7f7a-47d7-9a52-e7c90ef843a9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
-DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
- r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
- spitality Finder.
-DTEND;VALUE=DATE:20250626
-DTSTART;VALUE=DATE:20250626
-SUMMARY:Guns N Roses
-UID:7149be44-151c-4ad4-95d8-ee48253980fb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250523T021403Z
-DESCRIPTION:Searching for information and tickets regarding Hurts - 15 Year
- s of Happiness | O2 Academy Brixton taking place in London on May 22, 2025 
- (UTC)? Trip.com has you covered. Check the dates...
-DTEND;VALUE=DATE:20250523
-DTSTART;VALUE=DATE:20250523
-SUMMARY:Hurts - 15 Years of Happiness
-UID:02324198-6446-49c6-a539-45faffc3bf4c
+UID:4b041997-4841-48cd-a8d7-80d5f86f14e0
 END:VEVENT
 END:VCALENDAR
