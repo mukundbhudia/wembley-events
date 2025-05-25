@@ -3,98 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
+DTSTAMP:20250525T022345Z
 DESCRIPTION:Tagged as ‘The Nation’s Girl Group’ BINI is composed of 8
   members- Aiah, Colet, Gwen, Maloi, Stacey, Jhoanna, Mikha, and Sheena. BIN
  I is currently the Top OPM (Original Pinoy Music) Group, OPM...
 DTEND;VALUE=DATE:20250525
 DTSTART;VALUE=DATE:20250525
 SUMMARY:BINI, BINIVERSE WORLD TOUR
-UID:8fb09a0b-26fe-424c-8280-ad1513b1a4ec
+UID:d52b8666-03c7-4254-8702-c97f36ff677d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
+DTSTAMP:20250525T022345Z
 DESCRIPTION:Find tickets for Errol at Brockwell Park in London on 5/25/202
  5 at 12:00 PM
 DTEND;VALUE=DATE:20250525
 DTSTART;VALUE=DATE:20250525
 SUMMARY:Errol
-UID:6286cb81-b813-4fb9-ba06-99c1b7c9187a
+UID:8ac2f531-fec0-4638-b482-50c8557d9dd1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
-DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
- y Stadium this June! This year's huge one-day event will include performanc
- es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Summertime Ball
-UID:3aa945d0-896d-4e12-8dd6-5a4fa5823704
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
+DTSTAMP:20250525T022345Z
 DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
  O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
  ne of London’s most iconic venues BOXPARK WEMBLEY. This...
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:cf269002-d949-4b5e-a1c5-e180009c8f2a
+UID:e2d07ce2-ac43-4053-9a92-e12fcf4746ca
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
-DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
- isiting Wembley Stadium. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250802
-DTSTART;VALUE=DATE:20250802
+DTSTAMP:20250525T022345Z
+DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
+ y Stadium this June! This year's huge one-day event will include performanc
+ es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Summertime Ball
+UID:49546542-e5b8-48e6-ab59-4375d4fab64d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T022345Z
+DESCRIPTION:Find tickets for The Kurfew at Syon Park in Brentford on 5/25/2
+ 025 at 12:00 PM
+DTEND;VALUE=DATE:20250525
+DTSTART;VALUE=DATE:20250525
+SUMMARY:The Kurfew
+UID:dd1ef08d-8a27-42ca-a8b3-224cdc4bc455
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T022345Z
+DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
+ voices of rock'n'roll, with an artistic resume to match the brilliant ligh
+ t of the image. First as the camera-ready front man for...
+DTEND;VALUE=DATE:20250624
+DTSTART;VALUE=DATE:20250624
+SUMMARY:Billy Idol
+UID:4f4e082d-41e8-42df-8f9c-111b83598451
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T022345Z
+DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
+ hers bring back their iconic anthems
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:cdb7c1ee-9116-4e85-93a8-7e78593d7df3
+UID:269851a4-8267-4858-b40d-5df9bbebbd08
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
+DTSTAMP:20250525T022345Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:143ca95a-73c2-452a-9cb8-bc4e6afdec26
+UID:90d8b051-35ac-48d9-b942-9ae3bc2f8099
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
-DESCRIPTION:Find tickets for New Found Glory at Hatfield Park in Hatfield o
- n 5/24/2025 at 5:00 PM
-DTEND;VALUE=DATE:20250524
-DTSTART;VALUE=DATE:20250524
-SUMMARY:New Found Glory
-UID:ff7e0c38-1d10-486c-864e-e7bc1362a149
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
-DESCRIPTION:Lana Del Rey London is set to be an unforgettable event, takin
- g place at the iconic Wembley Stadium in London, United Kingdom. Scheduled 
- for July 4, 2025, at 17:00, this concert promises to be a...
-DTEND;VALUE=DATE:20250704
-DTSTART;VALUE=DATE:20250704
-SUMMARY:Lana Del Rey
-UID:95b9e968-04dd-4261-9f97-52f75b704c9f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20250621
-DTSTART;VALUE=DATE:20250621
-SUMMARY:Dua Lipa, Dove Cameron, Alessi Rose
-UID:925dbb19-ba4c-4baa-a51b-5cddebc0a41e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250524T020426Z
+DTSTAMP:20250525T022345Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
-SUMMARY:YOASOBI
-UID:4b041997-4841-48cd-a8d7-80d5f86f14e0
+SUMMARY:Yoasobi
+UID:3cc0e58d-259b-42ee-a1f2-f3bca617380b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T022345Z
+DESCRIPTION:✨Oasis will perform in Cardiff, Wales (CRF)!😎 July 4, 2025
+  Friday & July 5, 2025 Saturday This is not a drill 🚨 OASIS are BACK and
+  have announced their first UK and Ireland live dates in sixteen...
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Oasis
+UID:c4206d49-e2aa-4ca0-80c4-2cc6d2ff2f30
 END:VEVENT
 END:VCALENDAR
