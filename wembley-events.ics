@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
-DESCRIPTION:Tagged as ‘The Nation’s Girl Group’ BINI is composed of 8
-  members- Aiah, Colet, Gwen, Maloi, Stacey, Jhoanna, Mikha, and Sheena. BIN
- I is currently the Top OPM (Original Pinoy Music) Group, OPM...
-DTEND;VALUE=DATE:20250525
-DTSTART;VALUE=DATE:20250525
-SUMMARY:BINI, BINIVERSE WORLD TOUR
-UID:d52b8666-03c7-4254-8702-c97f36ff677d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
-DESCRIPTION:Find tickets for Errol at Brockwell Park in London on 5/25/202
- 5 at 12:00 PM
-DTEND;VALUE=DATE:20250525
-DTSTART;VALUE=DATE:20250525
-SUMMARY:Errol
-UID:8ac2f531-fec0-4638-b482-50c8557d9dd1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
-DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
- O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
- ne of London’s most iconic venues BOXPARK WEMBLEY. This...
-DTEND;VALUE=DATE:20250614
-DTSTART;VALUE=DATE:20250614
-SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:e2d07ce2-ac43-4053-9a92-e12fcf4746ca
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
-DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
- y Stadium this June! This year's huge one-day event will include performanc
- es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Summertime Ball
-UID:49546542-e5b8-48e6-ab59-4375d4fab64d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
-DESCRIPTION:Find tickets for The Kurfew at Syon Park in Brentford on 5/25/2
- 025 at 12:00 PM
-DTEND;VALUE=DATE:20250525
-DTSTART;VALUE=DATE:20250525
-SUMMARY:The Kurfew
-UID:dd1ef08d-8a27-42ca-a8b3-224cdc4bc455
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
-DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
- voices of rock'n'roll, with an artistic resume to match the brilliant ligh
- t of the image. First as the camera-ready front man for...
-DTEND;VALUE=DATE:20250624
-DTSTART;VALUE=DATE:20250624
-SUMMARY:Billy Idol
-UID:4f4e082d-41e8-42df-8f9c-111b83598451
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
-DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
- hers bring back their iconic anthems
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Oasis
-UID:269851a4-8267-4858-b40d-5df9bbebbd08
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
+DTSTAMP:20250526T021823Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:90d8b051-35ac-48d9-b942-9ae3bc2f8099
+UID:f37da514-b0ec-42a6-a674-7e793eeefac8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
+DTSTAMP:20250526T021823Z
+DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
+ venue customers
+DTEND;VALUE=DATE:20250601
+DTSTART;VALUE=DATE:20250601
+SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
+ 0yr olds
+UID:c4b1d173-ced5-4b29-b481-30c13bad3d30
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250526T021823Z
+DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
+ O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
+ ne of London’s most iconic venues BOXPARK WEMBLEY. This...
+DTEND;VALUE=DATE:20250614
+DTSTART;VALUE=DATE:20250614
+SUMMARY:SUMMER W/ SIKA[WEMBLEY]
+UID:611bd73a-4d17-40c5-810b-9b780a5245c7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250526T021823Z
+DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
+ y Stadium this June! This year's huge one-day event will include performanc
+ es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Summertime Ball
+UID:d7f47e7c-96cb-4832-b9f1-6343bb557015
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250526T021823Z
+DESCRIPTION:Good Times go to every length to capture the raw funk, soul & d
+ isco dynamics of Nile Rodgers’ music and bring it to life on stage with a
+  full 90-minute stage show. This energy-packed experience...
+DTEND;VALUE=DATE:20250531
+DTSTART;VALUE=DATE:20250531
+SUMMARY:Good Times Live at Hampton Hub Club
+UID:9af4013e-d93c-4e74-a8ea-a2a13295f5d2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250526T021823Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
 SUMMARY:Yoasobi
-UID:3cc0e58d-259b-42ee-a1f2-f3bca617380b
+UID:840d7cfb-cc59-4921-a3cd-ede814132b23
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250525T022345Z
+DTSTAMP:20250526T021823Z
+DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
+ hers bring back their iconic anthems
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Oasis
+UID:ca4b3f2d-7486-4a07-a440-79ed30893057
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250526T021823Z
+DESCRIPTION:BABYMETAL tickets on sale now - Ticombo - the world's biggest m
+ arketplace for BABYMETAL Tickets in the world.
+DTEND;VALUE=DATE:20250530
+DTSTART;VALUE=DATE:20250530
+SUMMARY:BABYMETAL
+UID:1a19d341-3ac1-4eba-a267-bd32e30c318b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250526T021823Z
 DESCRIPTION:✨Oasis will perform in Cardiff, Wales (CRF)!😎 July 4, 2025
   Friday & July 5, 2025 Saturday This is not a drill 🚨 OASIS are BACK and
   have announced their first UK and Ireland live dates in sixteen...
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:c4206d49-e2aa-4ca0-80c4-2cc6d2ff2f30
+UID:79413b49-cfd8-429b-84a2-2531b6ee2b37
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250526T021823Z
+DESCRIPTION:Get in touch with Hospitality Finder to secure your VIP ticket
+ s and hospitality packages to see Oasis at Wembley Stadium in 2025.
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Oasis
+UID:22782779-40ca-40a6-80d9-f066e18e60f2
 END:VEVENT
 END:VCALENDAR
