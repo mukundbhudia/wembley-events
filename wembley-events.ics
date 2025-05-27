@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
+DTSTAMP:20250527T021304Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:f37da514-b0ec-42a6-a674-7e793eeefac8
+UID:bfd7ed11-840e-49c2-a271-a75b41b4d5be
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
+DTSTAMP:20250527T021304Z
 DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
  venue customers
 DTEND;VALUE=DATE:20250601
 DTSTART;VALUE=DATE:20250601
 SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
  0yr olds
-UID:c4b1d173-ced5-4b29-b481-30c13bad3d30
+UID:f1b00181-fc5d-4f24-a7b4-878580fd1542
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
+DTSTAMP:20250527T021304Z
 DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
  O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
  ne of London’s most iconic venues BOXPARK WEMBLEY. This...
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:611bd73a-4d17-40c5-810b-9b780a5245c7
+UID:d2ae34d0-5c25-4cb1-b73b-ffba82792837
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
+DTSTAMP:20250527T021304Z
 DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
  y Stadium this June! This year's huge one-day event will include performanc
  es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Summertime Ball
-UID:d7f47e7c-96cb-4832-b9f1-6343bb557015
+UID:c40e1378-8aca-4560-8193-148d272cdf50
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
+DTSTAMP:20250527T021304Z
 DESCRIPTION:Good Times go to every length to capture the raw funk, soul & d
  isco dynamics of Nile Rodgers’ music and bring it to life on stage with a
   full 90-minute stage show. This energy-packed experience...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Good Times Live at Hampton Hub Club
-UID:9af4013e-d93c-4e74-a8ea-a2a13295f5d2
+UID:1e6a70de-5b1b-4451-bfdd-189d35fefb8d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
+DTSTAMP:20250527T021304Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
 SUMMARY:Yoasobi
-UID:840d7cfb-cc59-4921-a3cd-ede814132b23
+UID:51c6a5ed-f86e-4b83-befd-65ce83ebfae5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
+DTSTAMP:20250527T021304Z
 DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
  hers bring back their iconic anthems
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:ca4b3f2d-7486-4a07-a440-79ed30893057
+UID:5b6640a8-dffa-457c-af68-e50e648b78d3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
+DTSTAMP:20250527T021304Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Dua Lipa, Dove Cameron, Alessi Rose
+UID:57d3ef7d-3258-44bb-9294-df2df43330c8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250527T021304Z
 DESCRIPTION:BABYMETAL tickets on sale now - Ticombo - the world's biggest m
  arketplace for BABYMETAL Tickets in the world.
 DTEND;VALUE=DATE:20250530
 DTSTART;VALUE=DATE:20250530
 SUMMARY:BABYMETAL
-UID:1a19d341-3ac1-4eba-a267-bd32e30c318b
+UID:16f9d0d2-3dae-485e-a24a-2c365b011f3b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
+DTSTAMP:20250527T021304Z
 DESCRIPTION:✨Oasis will perform in Cardiff, Wales (CRF)!😎 July 4, 2025
   Friday & July 5, 2025 Saturday This is not a drill 🚨 OASIS are BACK and
   have announced their first UK and Ireland live dates in sixteen...
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:79413b49-cfd8-429b-84a2-2531b6ee2b37
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250526T021823Z
-DESCRIPTION:Get in touch with Hospitality Finder to secure your VIP ticket
- s and hospitality packages to see Oasis at Wembley Stadium in 2025.
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:Oasis
-UID:22782779-40ca-40a6-80d9-f066e18e60f2
+UID:07b438f8-6ccb-46c7-a50f-1616d82b88fe
 END:VEVENT
 END:VCALENDAR
