@@ -3,100 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
+DTSTAMP:20250531T020720Z
 DESCRIPTION:Moein is celebrated by all walks of life for his incredibly pow
  erful voice. His voice gives him the range needed to execute almost every s
  tyle of song, whether it being jazz, trance, pop, or...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Moein
-UID:f708ec2c-aa68-486d-86b1-de5c113d098c
+UID:a8a6dee7-c205-41ba-b478-b87770dc7445
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
+DTSTAMP:20250531T020720Z
 DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
  O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
  ne of London’s most iconic venues BOXPARK WEMBLEY. This...
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:eb6d7177-1b47-4a7d-8fe1-636e3ae9bfec
+UID:be3f1602-ae3d-46e7-97ac-3e2d9eb6eb48
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
-DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
- voices of rock'n'roll, with an artistic resume to match the brilliant ligh
- t of the image. First as the camera-ready front man for...
-DTEND;VALUE=DATE:20250624
-DTSTART;VALUE=DATE:20250624
-SUMMARY:Billy Idol
-UID:0a19d747-9d7c-48b4-a012-0d25250ed172
+DTSTAMP:20250531T020720Z
+DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
+ y Stadium this June! This year's huge one-day event will include performanc
+ es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Summertime Ball
+UID:4d62b2b7-54ab-4f43-9f1e-a8efd415b81e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
+DTSTAMP:20250531T020720Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
 SUMMARY:YOASOBI
-UID:c8a35e9e-4fab-492b-8937-6bfce4236f23
+UID:0394f571-5f9f-4ab6-a475-0a06a450aee7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
+DTSTAMP:20250531T020720Z
 DESCRIPTION:✨Oasis will perform in Cardiff, Wales (CRF)!😎 July 4, 2025
   Friday & July 5, 2025 Saturday This is not a drill 🚨 OASIS are BACK and
   have announced their first UK and Ireland live dates in sixteen...
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:d9bd6eb2-53ee-40a0-8ddb-057e005d19fe
+UID:ec6ea8a1-e0db-4f45-a05c-8e0d2bc3c3e3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
+DTSTAMP:20250531T020720Z
 DESCRIPTION:Good Times go to every length to capture the raw funk, soul & d
  isco dynamics of Nile Rodgers’ music and bring it to life on stage with a
   full 90-minute stage show. This energy-packed experience...
 DTEND;VALUE=DATE:20250531
 DTSTART;VALUE=DATE:20250531
 SUMMARY:Good Times Live at Hampton Hub Club
-UID:e6679a1e-3d13-4dc3-840c-9a717cc49bb7
+UID:26fe0194-214b-45ee-a754-45b60aa141b5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
+DTSTAMP:20250531T020720Z
 DESCRIPTION:Following a series of sensational live shows in 2024 - includin
  g headline performances at festivals including Coachella, Reading & Leeds, 
  and Rock en Seine, now Lana Del Rey returns with herfirst...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:36a14609-3d1a-4321-8944-ced231e4bb8d
+UID:d59e4e5e-484e-4bde-9a71-a0afaa89958a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
-DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
- y Stadium this June! This year's huge one-day event will include performanc
- es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Music Festival Capital's Summertime Ball
-UID:fb3678f7-9b8d-40d1-a8ad-8004dafc1ae1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20250621
-DTSTART;VALUE=DATE:20250621
-SUMMARY:Dua Lipa, Dove Cameron, Alessi Rose
-UID:700229d0-ec55-4eb8-9155-69ab16aba926
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250530T020817Z
+DTSTAMP:20250531T020720Z
 DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
  hers bring back their iconic anthems
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:026f2a1b-bc9e-4bb6-8f85-7b7239fd1d25
+UID:6ea1993c-0f37-4f5f-8488-cca318944ca5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250531T020720Z
+DESCRIPTION:Brad Delson, Michael Shinoda, and Robert Bourdon effectively st
+ arted Linkin Park while attending high school in Southern California, but t
+ he band wasn't complete until Shinoda met Joe Hahn at art...
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Linkin Park
+UID:b3cb0409-0b66-44e1-91e3-b3a2a25ec194
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250531T020720Z
+DESCRIPTION:Coldplay Venue: Wembley Stadium London, LND Date: 31 August, 20
+ 25 - 06:45 PM
+DTEND;VALUE=DATE:20250831
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Coldplay
+UID:96f0c0ef-b314-4a97-9aa7-8bb4655d990e
 END:VEVENT
 END:VCALENDAR
