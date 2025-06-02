@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
+DTSTAMP:20250602T022057Z
+DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
+ mbley on Sunday, June 8. This performance marks their very first headlinin
+ g concert in the UK and follows YOASOBI’s 2024 sold out...
+DTEND;VALUE=DATE:20250608
+DTSTART;VALUE=DATE:20250608
+SUMMARY:Yoasobi
+UID:956f68d5-1355-4202-9f10-79d67fa02c3a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250602T022057Z
+DESCRIPTION:Challenge Cup Finals - doors open 11am TICKETS AVAILABLE FROM T
+ HE BULLS TEAM SHOP ONLY
+DTEND;VALUE=DATE:20250607
+DTSTART;VALUE=DATE:20250607
+SUMMARY:Betfred Challenge Cup Final
+UID:a7a1e080-3375-4b19-be0f-f0c5ab3113c9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250602T022057Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 6/6/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250606
+DTSTART;VALUE=DATE:20250606
+SUMMARY:Starlight Express
+UID:da975616-3adb-4b48-aea8-6998d7296873
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250602T022057Z
+DESCRIPTION:Feel the heartbeat of music pulsing through your veins as you e
+ mbark on an unforgettable journey with the incomparable Lara Fabian. This i
+ s not just a concert—it's a once-in-a-lifetime experience...
+DTEND;VALUE=DATE:20250603
+DTSTART;VALUE=DATE:20250603
+SUMMARY:Lara Fabian
+UID:4d4410a3-c250-4967-999f-2429a1f69bcf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250602T022057Z
+DESCRIPTION:Join Blue Check Wembley for the 2025 Betfred Challenge Cup Fina
+ ls! Enjoy a buzzing pre-match party and celebrate after the games with grea
+ t food, drinks, and music. Make your Wembley day...
+DTEND;VALUE=DATE:20250607
+DTSTART;VALUE=DATE:20250607
+SUMMARY:THE BETFRED CHALLENGE CUP FINAL
+UID:2f226285-e37b-4488-9835-f43070f0f2aa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250602T022057Z
+DESCRIPTION:TICKETS HERE Come and vibe with CHARMAINE & THE WEDDZ at our fa
+ mily rave event – FAMJAM!❤️💛💚 BRINGING ALL CULTURES TOGETHER! 
+ Join us for a FA...
+DTEND;VALUE=DATE:20250608
+DTSTART;VALUE=DATE:20250608
+SUMMARY:Fam Jam - Rep Your Flag Edition
+UID:df52bf13-c64e-4350-8ae4-964665cfb657
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250602T022057Z
 DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
  O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
  ne of London’s most iconic venues BOXPARK WEMBLEY. This...
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:4e713f15-5c17-4a7a-a9a5-9a57c4ae00be
+UID:e1f96da9-3012-4475-a1ef-67a8b658f24d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
+DTSTAMP:20250602T022057Z
 DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
  y Stadium this June! This year's huge one-day event will include performanc
  es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Summertime Ball
-UID:3aca88a3-a065-48df-9d19-f53f655190c2
+UID:15ad93b9-39b7-4bf3-80c2-577a1a1a9f9e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
-DESCRIPTION:✨Oasis will perform in Cardiff, Wales (CRF)!😎 July 4, 2025
-  Friday & July 5, 2025 Saturday This is not a drill 🚨 OASIS are BACK and
-  have announced their first UK and Ireland live dates in sixteen...
-DTEND;VALUE=DATE:20250802
-DTSTART;VALUE=DATE:20250802
-SUMMARY:Oasis
-UID:a9855272-469e-49a8-a108-168d6f815160
+DTSTAMP:20250602T022057Z
+DESCRIPTION:Searching for information and tickets regarding LIDO Festival 2
+ 025 | Victoria Park taking place in London on Jun 6–Jun 15, 2025 (UTC)? T
+ rip.com has you covered. Check the dates, itineraries, and...
+DTEND;VALUE=DATE:20250606
+DTSTART;VALUE=DATE:20250606
+SUMMARY:Massive Attack
+UID:bf18eaa8-e213-4a09-b734-3ea8e29df82e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
-DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
- mbley on Sunday, June 8. This performance marks their very first headlinin
- g concert in the UK and follows YOASOBI's 2024 sold out...
-DTEND;VALUE=DATE:20250608
-DTSTART;VALUE=DATE:20250608
-SUMMARY:Yoasobi
-UID:48cd9667-a574-4229-b8db-52f2d0b3d64e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
-DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
- voices of rock'n'roll, with an artistic resume to match the brilliant ligh
- t of the image. First as the camera-ready front man for...
-DTEND;VALUE=DATE:20250624
-DTSTART;VALUE=DATE:20250624
-SUMMARY:Billy Idol
-UID:3a3c5fe2-d48c-4772-8da9-883cd084bc87
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
-DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
- hers bring back their iconic anthems
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Oasis
-UID:5cf00ce5-d024-4301-b658-ff841e5456a1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
-DESCRIPTION:Get in touch with Hospitality Finder to secure your VIP ticket
- s and hospitality packages to see Oasis at Wembley Stadium in 2025.
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:Oasis
-UID:d1f142d0-d806-4adf-898c-cec0b3180976
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
-DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
- 2025 at 5:00 PM
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
-SUMMARY:Coldplay
-UID:8ef3e02c-2fba-4f24-bed6-c03afeb56cbb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
-DESCRIPTION:This month, BOXPARK Wembley welcomes back a family favourite 
- – The Kids’ Table! The Kids’ Table will be taking over Boxpark Wemble
- y, every Sunday from (excluding large event days), to provide...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:THE KIDS’ TABLE
-UID:1b6588a7-71ed-4469-94bf-08590f753c90
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250601T023542Z
-DESCRIPTION:Coldplay Venue: Wembley Stadium London, LND Date: 31 August, 20
- 25 - 06:45 PM
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay
-UID:bc1a43db-b04f-4aa9-bcd6-ac4952f054f6
+DTSTAMP:20250602T022057Z
+DESCRIPTION:Find tickets for Robert Cray at Royal Festival Hall in London o
+ n 6/6/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250606
+DTSTART;VALUE=DATE:20250606
+SUMMARY:Robert Cray
+UID:ad2ef877-3c46-4cba-94f8-c09f99404bf4
 END:VEVENT
 END:VCALENDAR
