@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
+DTSTAMP:20250608T022651Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
- g concert in the UK and follows YOASOBI’s 2024 sold out...
+ g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250608
 DTSTART;VALUE=DATE:20250608
 SUMMARY:YOASOBI
-UID:8dd1f9bf-e770-49fd-b25c-3a3933a9a6cf
+UID:c1167299-79ef-45aa-9270-aee17a6ee018
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
-DESCRIPTION:Challenge Cup Finals - doors open 11am TICKETS AVAILABLE FROM T
- HE BULLS TEAM SHOP ONLY
-DTEND;VALUE=DATE:20250607
-DTSTART;VALUE=DATE:20250607
-SUMMARY:Betfred Challenge Cup Final
-UID:78da86f4-fb1e-4238-889e-2b6bd2ffc104
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 6/6/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250607
-DTSTART;VALUE=DATE:20250607
-SUMMARY:Starlight Express
-UID:7d0b9b5f-1ec5-4972-8949-7befad74e9d6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
+DTSTAMP:20250608T022651Z
 DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
  O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
  ne of London’s most iconic venues BOXPARK WEMBLEY. This...
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:60fe4719-2ffa-4478-b5ee-d281a1135140
+UID:6fe8b066-6a2a-4400-9693-911e4f082370
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
+DTSTAMP:20250608T022651Z
 DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
  y Stadium this June! This year's huge one-day event will include performanc
  es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Summertime Ball
-UID:614f0aab-4720-4d57-b4cf-c1e7d5689f52
+UID:594f8600-b87b-475c-b9bb-918f387d714c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
-DESCRIPTION:Searching for information and tickets regarding LIDO Festival 2
- 025 | Victoria Park taking place in London on Jun 6–Jun 15, 2025 (UTC)? T
- rip.com has you covered. Check the dates, itineraries, and...
-DTEND;VALUE=DATE:20250607
-DTSTART;VALUE=DATE:20250607
-SUMMARY:Massive Attack
-UID:916fa4aa-de93-4f6a-9f24-d2de97889ee6
+DTSTAMP:20250608T022651Z
+DESCRIPTION:Following a series of sensational live shows in 2024 - includin
+ g headline performances at festivals including Coachella, Reading & Leeds, 
+ and Rock en Seine, now Lana Del Rey returns with herfirst...
+DTEND;VALUE=DATE:20250704
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Lana Del Rey
+UID:e6db1f1f-1430-4247-bc23-ef094afc95fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
+DTSTAMP:20250608T022651Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:cb7167af-bf43-4fc7-9504-f20f8dd6d812
+UID:e114f16e-7c04-45b4-8858-2d092ee2ee28
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
-DESCRIPTION:Looking for Official Robbie Williams Premium Ticket and Hotel E
- xperiences? You will be sent to an external third party website. View packa
- ges i input i Information
-DTEND;VALUE=DATE:20250607
-DTSTART;VALUE=DATE:20250607
-SUMMARY:Robbie Williams
-UID:d9f842f3-abbf-4c3f-a391-0ef8d86c4d15
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
+DTSTAMP:20250608T022651Z
 DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
  voices of rock'n'roll, with an artistic resume to match the brilliant ligh
  t of the image. First as the camera-ready front man for...
 DTEND;VALUE=DATE:20250624
 DTSTART;VALUE=DATE:20250624
 SUMMARY:Billy Idol
-UID:5958ceb0-fd4c-40bc-b2f2-327d56a4c064
+UID:db1c9624-daad-48b3-b367-782808eb6605
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250607T021454Z
+DTSTAMP:20250608T022651Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250609
 DTSTART;VALUE=DATE:20250609
 SUMMARY:YOASOBI
-UID:89dd23bd-c908-446d-9070-92faafe27c7a
+UID:11baab9a-edd9-4dc3-b486-7d312398bdf8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250608T022651Z
+DESCRIPTION:Dua Lipa has announced that she will be performing her new Radi
+ cal Optimism tour at Wembley Stadium. Enquire for VIP hospitality places.
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Dua Lipa
+UID:856d52cb-da29-4861-83cc-ca6b3332d7ba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250608T022651Z
+DESCRIPTION:© Copyright 2025 Bauer Media. All Rights Reserved. Editoral Co
+ mplaints . All use is subject to our Terms & conditions and Privacy Policy
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Linkin Park
+UID:154fcaea-e16d-49d3-9095-7f56bb18d298
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250608T022651Z
+DESCRIPTION:Get in touch with Hospitality Finder to secure your VIP ticket
+ s and hospitality packages to see Oasis at Wembley Stadium in 2025.
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Oasis
+UID:003ac90d-2ab0-45a4-9046-2e6d926d83b7
 END:VEVENT
 END:VCALENDAR
