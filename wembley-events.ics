@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
-DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
- mbley on Sunday, June 8. This performance marks their very first headlinin
- g concert in the UK and follows YOASOBI's 2024 sold out...
-DTEND;VALUE=DATE:20250608
-DTSTART;VALUE=DATE:20250608
-SUMMARY:YOASOBI
-UID:c1167299-79ef-45aa-9270-aee17a6ee018
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
+DTSTAMP:20250609T022329Z
 DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
  O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
  ne of London’s most iconic venues BOXPARK WEMBLEY. This...
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:6fe8b066-6a2a-4400-9693-911e4f082370
+UID:39e3a60b-2cf2-4c4a-a78d-b9dd2b744945
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
+DTSTAMP:20250609T022329Z
 DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
  y Stadium this June! This year's huge one-day event will include performanc
  es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Summertime Ball
-UID:594f8600-b87b-475c-b9bb-918f387d714c
+UID:8b5ebe02-15cd-4744-a743-caae22a7e92d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
-DESCRIPTION:Following a series of sensational live shows in 2024 - includin
- g headline performances at festivals including Coachella, Reading & Leeds, 
- and Rock en Seine, now Lana Del Rey returns with herfirst...
-DTEND;VALUE=DATE:20250704
-DTSTART;VALUE=DATE:20250704
-SUMMARY:Lana Del Rey
-UID:e6db1f1f-1430-4247-bc23-ef094afc95fa
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
-DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
- isiting Wembley Stadium. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250802
-DTSTART;VALUE=DATE:20250802
-SUMMARY:Oasis
-UID:e114f16e-7c04-45b4-8858-2d092ee2ee28
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
-DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
- voices of rock'n'roll, with an artistic resume to match the brilliant ligh
- t of the image. First as the camera-ready front man for...
-DTEND;VALUE=DATE:20250624
-DTSTART;VALUE=DATE:20250624
-SUMMARY:Billy Idol
-UID:db1c9624-daad-48b3-b367-782808eb6605
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
+DTSTAMP:20250609T022329Z
 DESCRIPTION:J-pop superstars YOASOBI announce a London show at OVO Arena We
  mbley on Sunday, June 8. This performance marks their very first headlinin
  g concert in the UK and follows YOASOBI's 2024 sold out...
 DTEND;VALUE=DATE:20250609
 DTSTART;VALUE=DATE:20250609
 SUMMARY:YOASOBI
-UID:11baab9a-edd9-4dc3-b486-7d312398bdf8
+UID:bbf956b2-e870-4207-b0d3-8f116cf6e89c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
-DESCRIPTION:Dua Lipa has announced that she will be performing her new Radi
- cal Optimism tour at Wembley Stadium. Enquire for VIP hospitality places.
-DTEND;VALUE=DATE:20250621
-DTSTART;VALUE=DATE:20250621
-SUMMARY:Dua Lipa
-UID:856d52cb-da29-4861-83cc-ca6b3332d7ba
+DTSTAMP:20250609T022329Z
+DESCRIPTION:Jeff Dunham: Artifical Intelligence at OVO Arena in Wembley Par
+ k.
+DTEND;VALUE=DATE:20250613
+DTSTART;VALUE=DATE:20250613
+SUMMARY:Jeff Dunham
+UID:447791fe-115a-4933-9531-97584095a64a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
-DESCRIPTION:© Copyright 2025 Bauer Media. All Rights Reserved. Editoral Co
- mplaints . All use is subject to our Terms & conditions and Privacy Policy
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:Linkin Park
-UID:154fcaea-e16d-49d3-9095-7f56bb18d298
+DTSTAMP:20250609T022329Z
+DESCRIPTION:Greg Davies is heading back out on tour for the first time in 
+ 7 years with his brand-new 2025 stand-up show Full Fat Legend. Star of show
+ s such as Taskmaster, The Inbetweeners, The Cleaner, Never...
+DTEND;VALUE=DATE:20250612
+DTSTART;VALUE=DATE:20250612
+SUMMARY:Greg Davies: Full Fat Legend
+UID:f82a48f7-a4ef-485e-9fc4-2b13cc590f45
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250608T022651Z
-DESCRIPTION:Get in touch with Hospitality Finder to secure your VIP ticket
- s and hospitality packages to see Oasis at Wembley Stadium in 2025.
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:Oasis
-UID:003ac90d-2ab0-45a4-9046-2e6d926d83b7
+DTSTAMP:20250609T022329Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 6/14/2025 at 2:30 PM
+DTEND;VALUE=DATE:20250614
+DTSTART;VALUE=DATE:20250614
+SUMMARY:Starlight Express
+UID:57b8596b-a323-4f29-8e21-e00c4fd225b8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250609T022329Z
+DESCRIPTION:Done at Troubadour Wembley Park Theatre London Saturday 14th o
+ f June 2025 14:30
+DTEND;VALUE=DATE:20250614
+DTSTART;VALUE=DATE:20250614
+SUMMARY:Done
+UID:ca41a887-5c93-4a60-aa7b-939fe2498a19
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250609T022329Z
+DESCRIPTION:Capital's Summertime Ball with Barclaycard Remember Monday are 
+ the UK’s viral sensation pop-country trio. Having met in college at 17, t
+ hey’ve spent years honing their signature harmonies. Shortly...
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Remember Monday
+UID:fbe28fe3-c46b-4f65-965c-3492953aa610
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250609T022329Z
+DESCRIPTION:Capital's Summertime Ball with Barclaycard Zara Larsson is a Sw
+ edish singer and songwriter. Website: http://zaralarssonofficial.com/ Twitt
+ er: @ZaraLarsson Instagram...
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Zara Larsson
+UID:a648d5e7-539e-4e0a-876d-535b96cc98dd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250609T022329Z
+DESCRIPTION:Following a series of sensational live shows in 2024 - includin
+ g headline performances at festivals including Coachella, Reading & Leeds, 
+ and Rock en Seine, now Lana Del Rey returns with herfirst...
+DTEND;VALUE=DATE:20250704
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Lana Del Rey
+UID:e06f238a-d6a5-47af-ad1d-0d2521c78eff
 END:VEVENT
 END:VCALENDAR
