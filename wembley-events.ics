@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
-DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
- y Stadium this June! This year's huge one-day event will include performanc
- es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Summertime Ball
-UID:2031a70c-dac0-4e87-a5c4-4af51f919684
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
+DTSTAMP:20250612T021706Z
 DESCRIPTION:SUMMER W/ SIKA..THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT T
  O YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to o
  ne of London’s most iconic venues BOXPARK WEMBLEY. This...
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:SUMMER W/ SIKA[WEMBLEY]
-UID:fb79f1d0-2485-40f8-ba7a-1a066d9def2c
+UID:5c83d1d1-30ee-4bc2-a732-731c0b781f22
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
+DTSTAMP:20250612T021706Z
+DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
+ y Stadium this June! This year's huge one-day event will include performanc
+ es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Summertime Ball
+UID:bbdfb357-0d7a-42d4-a4e2-9f01bc41ac9e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250612T021706Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard Reneé Rapp knew she
   was born to perform ever since she was a child. Even in her earliest memor
  ies, her love of music was always present. "I couldn't sit...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Reneé Rapp - Wembley Stadium
-UID:b3bcbe17-a5dc-4607-b6b4-280f0ad5ff96
+UID:a9a4e4e4-0ac5-45ed-a394-1907a49ff873
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
+DTSTAMP:20250612T021706Z
 DESCRIPTION:Jeff Dunham: Artifical Intelligence at OVO Arena in Wembley Par
  k.
 DTEND;VALUE=DATE:20250613
 DTSTART;VALUE=DATE:20250613
 SUMMARY:Jeff Dunham
-UID:e1275c1b-9b66-4432-a533-d589f7150368
+UID:c3c3e38d-408a-4a62-bfe8-85eda36aad45
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
+DTSTAMP:20250612T021706Z
 DESCRIPTION:Greg Davies is heading back out on tour for the first time in 
  7 years with his brand-new 2025 stand-up show Full Fat Legend. Star of show
  s such as Taskmaster, The Inbetweeners, The Cleaner, Never...
 DTEND;VALUE=DATE:20250612
 DTSTART;VALUE=DATE:20250612
 SUMMARY:Greg Davies: Full Fat Legend
-UID:f609487b-532b-4952-adbe-0c2df481fe8b
+UID:28bf4c1e-35c2-4af5-b616-1cc1bb87363f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
+DTSTAMP:20250612T021706Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 6/14/2025 at 2:30 PM
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:Starlight Express
-UID:50d9234d-d4c7-4042-9333-8be13be53c68
+UID:553fba57-1a60-4303-af64-edca1e14fed6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
+DTSTAMP:20250612T021706Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard Remember Monday are 
  the UK’s viral sensation pop-country trio. Having met in college at 17, t
  hey’ve spent years honing their signature harmonies. Shortly...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Remember Monday
-UID:b92f2698-4a8b-4d30-899c-856b7c1c7216
+UID:46a89c7c-e571-4831-9b4c-7484ce5a3ec6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
-DESCRIPTION:Done at Troubadour Wembley Park Theatre London Saturday 14th o
- f June 2025 14:30
-DTEND;VALUE=DATE:20250614
-DTSTART;VALUE=DATE:20250614
-SUMMARY:Done
-UID:e014fbb2-e093-4dd9-a14a-0cc6af460f44
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
+DTSTAMP:20250612T021706Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard Zara Larsson is a Sw
  edish singer and songwriter. Website: http://zaralarssonofficial.com/ Twitt
  er: @ZaraLarsson Instagram...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Zara Larsson
-UID:8e164b29-2f00-4ef1-bb6b-c3f98a32b2e1
+UID:38668088-376a-4aeb-a092-d7d34a65c003
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250611T021830Z
+DTSTAMP:20250612T021706Z
 DESCRIPTION:Netball Super League London Mavericks Vs Manchester Thunder
 DTEND;VALUE=DATE:20250614
 DTSTART;VALUE=DATE:20250614
 SUMMARY:Netball Super League London Mavericks VS Manchester Thunder
-UID:6dedd7a2-6017-4189-a8d4-692f8b0edd58
+UID:69570b33-7082-4600-82e6-fa899edaea0f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250612T021706Z
+DESCRIPTION:Following a series of sensational live shows in 2024 - includin
+ g headline performances at festivals including Coachella, Reading & Leeds, 
+ and Rock en Seine, now Lana Del Rey returns with herfirst...
+DTEND;VALUE=DATE:20250704
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Lana Del Rey
+UID:61a0a4b0-3265-41c2-bf7f-31f195b33bb5
 END:VEVENT
 END:VCALENDAR
