@@ -3,99 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
-DESCRIPTION:Don't miss the return of the Capital Summertime Ball to Wemble
- y Stadium this June! This year's huge one-day event will include performanc
- es from Mariah Carey, Will Smith & DJ Jazzy Jeff, Benson...
+DTSTAMP:20250615T022821Z
+DESCRIPTION:Get ready to experience the UK's biggest summer party with Capi
+ tal’s Summertime Ball with Barclaycard. This highly anticipated event is 
+ returning for 2025 and we’re pulling out all the stops to...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Summertime Ball
-UID:27d4c4a0-dffc-400b-9443-28312f7419a8
+UID:618a8b57-ee55-47c4-9a76-499073324c57
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
-DESCRIPTION:We and our 93 partners store and/or access information on a dev
- ice, such as unique IDs in cookies to process personal data. You may find o
- ut more about the purposes for which we and our partners...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Mariah Carey
-UID:7dea93de-acfb-456c-a183-34a1515a53f2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
+DTSTAMP:20250615T022821Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard Reneé Rapp knew she
   was born to perform ever since she was a child. Even in her earliest memor
  ies, her love of music was always present. "I couldn't sit...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Reneé Rapp - Wembley Stadium
-UID:4976e1f9-addb-4e03-a8e5-24f974730985
+UID:ba35ab59-80ab-4f95-afac-fd0bfa8e37bc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
+DTSTAMP:20250615T022821Z
+DESCRIPTION:We and our 93 partners store and/or access information on a dev
+ ice, such as unique IDs in cookies to process personal data. You may find o
+ ut more about the purposes for which we and our partners...
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
+SUMMARY:Mariah Carey
+UID:f99567b0-0e99-48df-9429-9d9796d26a21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T022821Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 6/14/2025 at 2:30 PM
-DTEND;VALUE=DATE:20250614
-DTSTART;VALUE=DATE:20250614
+DTEND;VALUE=DATE:20250615
+DTSTART;VALUE=DATE:20250615
 SUMMARY:Starlight Express
-UID:ce57ba5b-fa1e-4d81-848d-89f85596b299
+UID:ec25fec8-d7e0-4128-9f9c-86264e8b48e3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
+DTSTAMP:20250615T022821Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard Remember Monday are 
  the UK’s viral sensation pop-country trio. Having met in college at 17, t
  hey’ve spent years honing their signature harmonies. Shortly...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Remember Monday
-UID:8c3b42e6-57e5-4f13-b7dc-807d66e73eec
+UID:8bb8357a-daca-4055-b685-3552b5d2f2d6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
+DTSTAMP:20250615T022821Z
 DESCRIPTION:Capital's Summertime Ball with Barclaycard Zara Larsson is a Sw
  edish singer and songwriter. Website: http://zaralarssonofficial.com/ Twitt
  er: @ZaraLarsson Instagram...
 DTEND;VALUE=DATE:20250615
 DTSTART;VALUE=DATE:20250615
 SUMMARY:Zara Larsson
-UID:926d5b2c-f817-44ef-a85d-617de460e157
+UID:14a7595f-e6fe-49df-aec5-640b937bd145
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
-DESCRIPTION:Netball Super League London Mavericks Vs Manchester Thunder
-DTEND;VALUE=DATE:20250614
-DTSTART;VALUE=DATE:20250614
-SUMMARY:Netball Super League London Mavericks VS Manchester Thunder
-UID:2c3bec40-adda-47ee-8d30-d768b8c8ae86
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
+DTSTAMP:20250615T022821Z
 DESCRIPTION:Following a series of sensational live shows in 2024 - includin
  g headline performances at festivals including Coachella, Reading & Leeds, 
  and Rock en Seine, now Lana Del Rey returns with herfirst...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:9684d6fb-0da7-4085-ab8d-6b438898af4c
+UID:6ec6eba8-0690-491e-94b4-112839e251d3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
-DESCRIPTION:SUMMER W/ SIKA… THE WEMBLEY DEBUT! ANOTHER EXPERIENCE BROUGHT
-  TO YOU BY SIKA. On the 14th of June, SIKA is bringing the ultimate vibe to
-  one of London’s most iconic venues BOXPARK WEMBLEY. This...
-DTEND;VALUE=DATE:20250614
-DTSTART;VALUE=DATE:20250614
-SUMMARY:Summer W/ Sika
-UID:c354706e-5feb-4a3b-a668-c6fbe2ac85bd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250614T021100Z
+DTSTAMP:20250615T022821Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:cd732a76-f68e-4a64-9471-e9306786ce3d
+UID:aef2bbe8-e0d9-41df-82c7-daad4c5bde2a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T022821Z
+DESCRIPTION:3x General Admission Tickets available for transfer via Ticketm
+ aster. Proof and receipt of purchase available. Interested buyers, kindly s
+ end a direct message. Thanks!! ❤️
+DTEND;VALUE=DATE:20250701
+DTSTART;VALUE=DATE:20250701
+SUMMARY:Oasis Concert at Wembley Stadium
+UID:dda83f46-3efc-47f1-9459-da250b94b7b4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T022821Z
+DESCRIPTION:Get ready for a monumental celebration of Afrobeats as the Afro
+ beats Legends Festival takes over OVO Arena Wembley on 26th July 2025! Thi
+ s immersive and entertaining event will feature some of the...
+DTEND;VALUE=DATE:20250726
+DTSTART;VALUE=DATE:20250726
+SUMMARY:Afro Beats Legends
+UID:bdfa31ca-754e-459f-af8b-dc42845d9521
 END:VEVENT
 END:VCALENDAR
