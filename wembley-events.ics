@@ -3,101 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
+DTSTAMP:20250616T022224Z
 DESCRIPTION:Get ready to experience the UK's biggest summer party with Capi
  tal’s Summertime Ball with Barclaycard. This highly anticipated event is 
  returning for 2025 and we’re pulling out all the stops to...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
+DTEND;VALUE=DATE:20250616
+DTSTART;VALUE=DATE:20250616
 SUMMARY:Summertime Ball
-UID:618a8b57-ee55-47c4-9a76-499073324c57
+UID:7a3f1dcb-8d4e-4c1f-bf1b-63e474e4b6ed
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
-DESCRIPTION:Capital's Summertime Ball with Barclaycard Reneé Rapp knew she
-  was born to perform ever since she was a child. Even in her earliest memor
- ies, her love of music was always present. "I couldn't sit...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Reneé Rapp - Wembley Stadium
-UID:ba35ab59-80ab-4f95-afac-fd0bfa8e37bc
+DTSTAMP:20250616T022224Z
+DESCRIPTION:Dua Lipa has announced that she will be performing her new Radi
+ cal Optimism tour at Wembley Stadium. Enquire for VIP hospitality places.
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Dua Lipa
+UID:27a2f8e5-31b7-48f5-9a91-5d7fd7c0d316
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
-DESCRIPTION:We and our 93 partners store and/or access information on a dev
- ice, such as unique IDs in cookies to process personal data. You may find o
- ut more about the purposes for which we and our partners...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Mariah Carey
-UID:f99567b0-0e99-48df-9429-9d9796d26a21
+DTSTAMP:20250616T022224Z
+DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
+ tional Express journeys from across the UK.
+DTEND;VALUE=DATE:20250620
+DTSTART;VALUE=DATE:20250620
+SUMMARY:Dua Lipa
+UID:f5deb167-e82d-41b2-a157-fa2f020d42bd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 6/14/2025 at 2:30 PM
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Starlight Express
-UID:ec25fec8-d7e0-4128-9f9c-86264e8b48e3
+DTSTAMP:20250616T022224Z
+DESCRIPTION:Find tickets for Santhosh Narayanan at OVO Arena Wembley in Lon
+ don on 6/20/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250620
+DTSTART;VALUE=DATE:20250620
+SUMMARY:Santhosh Narayanan
+UID:e7056853-1496-4fbf-85dc-490163cc1570
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
-DESCRIPTION:Capital's Summertime Ball with Barclaycard Remember Monday are 
- the UK’s viral sensation pop-country trio. Having met in college at 17, t
- hey’ve spent years honing their signature harmonies. Shortly...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Remember Monday
-UID:8bb8357a-daca-4055-b685-3552b5d2f2d6
+DTSTAMP:20250616T022224Z
+DESCRIPTION:With Special Guests Dove Cameron Alessi Rose if people don’t 
+ want me to write songs about them they shouldn’t do bad things
+DTEND;VALUE=DATE:20250620
+DTSTART;VALUE=DATE:20250620
+SUMMARY:Alessi Rose
+UID:d4fde0d7-a4b9-4c0a-8bbb-cac9839cbc8a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
-DESCRIPTION:Capital's Summertime Ball with Barclaycard Zara Larsson is a Sw
- edish singer and songwriter. Website: http://zaralarssonofficial.com/ Twitt
- er: @ZaraLarsson Instagram...
-DTEND;VALUE=DATE:20250615
-DTSTART;VALUE=DATE:20250615
-SUMMARY:Zara Larsson
-UID:14a7595f-e6fe-49df-aec5-640b937bd145
+DTSTAMP:20250616T022224Z
+DESCRIPTION:With Special Guests Dove Cameron Alessi Rose if people don’t 
+ want me to write songs about them they shouldn’t do bad things
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Alessi Rose
+UID:3f114310-dd76-4209-901e-c227341061f7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
+DTSTAMP:20250616T022224Z
+DESCRIPTION:Want to sing at Wembley Stadium? Adults & children aged 6-11. R
+ ugby League Finals, Saturday 7th June 2025 EMAIL maestromattheww@yahoo.co.u
+ k stating performer's name & preferred choir Rehearsals...
+DTEND;VALUE=DATE:20250616
+DTSTART;VALUE=DATE:20250616
+SUMMARY:Want to sing at Wembley Stadium?
+UID:8817e0b4-cfd1-4f91-b72e-aa6ef3ac3186
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250616T022224Z
+DESCRIPTION:Find tickets for Chris Brown at Tottenham Hotspur Stadium in Lo
+ ndon on 6/21/2025 at 7:00 PM
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Chris Brown
+UID:7a95d0ff-655f-43d8-ae97-78e80335e230
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250616T022224Z
 DESCRIPTION:Following a series of sensational live shows in 2024 - includin
  g headline performances at festivals including Coachella, Reading & Leeds, 
  and Rock en Seine, now Lana Del Rey returns with herfirst...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:6ec6eba8-0690-491e-94b4-112839e251d3
+UID:df20bcd4-2ed9-4254-965c-124f71445141
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
+DTSTAMP:20250616T022224Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:aef2bbe8-e0d9-41df-82c7-daad4c5bde2a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
-DESCRIPTION:3x General Admission Tickets available for transfer via Ticketm
- aster. Proof and receipt of purchase available. Interested buyers, kindly s
- end a direct message. Thanks!! ❤️
-DTEND;VALUE=DATE:20250701
-DTSTART;VALUE=DATE:20250701
-SUMMARY:Oasis Concert at Wembley Stadium
-UID:dda83f46-3efc-47f1-9459-da250b94b7b4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250615T022821Z
-DESCRIPTION:Get ready for a monumental celebration of Afrobeats as the Afro
- beats Legends Festival takes over OVO Arena Wembley on 26th July 2025! Thi
- s immersive and entertaining event will feature some of the...
-DTEND;VALUE=DATE:20250726
-DTSTART;VALUE=DATE:20250726
-SUMMARY:Afro Beats Legends
-UID:bdfa31ca-754e-459f-af8b-dc42845d9521
+UID:a840cf90-8d99-4c8d-86f7-4efe571a5427
 END:VEVENT
 END:VCALENDAR
