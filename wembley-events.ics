@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
+DTSTAMP:20250618T021803Z
 DESCRIPTION:Dua Lipa has announced that she will be performing her new Radi
  cal Optimism tour at Wembley Stadium. Enquire for VIP hospitality places.
 DTEND;VALUE=DATE:20250621
 DTSTART;VALUE=DATE:20250621
 SUMMARY:Dua Lipa
-UID:d618ff2b-b56e-469b-a9ce-eacfe666c02a
+UID:6c04876a-dcb6-4b0b-9c99-99593cf427aa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
-DESCRIPTION:Find tickets for Santhosh Narayanan at OVO Arena Wembley in Lon
- don on 6/20/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250620
-DTSTART;VALUE=DATE:20250620
-SUMMARY:Santhosh Narayanan
-UID:1c66bacc-2043-4778-8452-6e825595d21b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
+DTSTAMP:20250618T021803Z
 DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
  tional Express journeys from across the UK.
 DTEND;VALUE=DATE:20250620
 DTSTART;VALUE=DATE:20250620
 SUMMARY:Dua Lipa
-UID:93922620-33f6-4870-9701-da735e7bdab1
+UID:8648b54b-4f28-4541-9b56-5c3524f65780
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
+DTSTAMP:20250618T021803Z
+DESCRIPTION:Find tickets for Santhosh Narayanan at OVO Arena Wembley in Lon
+ don on 6/20/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250620
+DTSTART;VALUE=DATE:20250620
+SUMMARY:Santhosh Narayanan
+UID:e1de3f9c-266c-4c5b-b0a6-5d8b64758c51
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250618T021803Z
 DESCRIPTION:With Special Guests Dove Cameron Alessi Rose if people don’t 
  want me to write songs about them they shouldn’t do bad things
 DTEND;VALUE=DATE:20250620
 DTSTART;VALUE=DATE:20250620
 SUMMARY:Alessi Rose
-UID:c1462732-78d9-43ad-8b43-b62a5d89234f
+UID:9fd6edd2-1674-43dc-97c0-d05f0ce5f108
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
+DTSTAMP:20250618T021803Z
 DESCRIPTION:With Special Guests Dove Cameron Alessi Rose if people don’t 
  want me to write songs about them they shouldn’t do bad things
 DTEND;VALUE=DATE:20250621
 DTSTART;VALUE=DATE:20250621
 SUMMARY:Alessi Rose
-UID:5b782965-34ac-47ba-804f-15f9b9eae536
+UID:005c98e6-2fa7-4404-bd58-ded99b6d1977
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
+DTSTAMP:20250618T021803Z
+DESCRIPTION:Find tickets for Chris Brown at Tottenham Hotspur Stadium in Lo
+ ndon on 6/21/2025 at 7:00 PM
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Chris Brown
+UID:e7980779-6d53-496a-aae0-b096fdaba67b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250618T021803Z
 DESCRIPTION:Oasis have announced their long-awaited reunion tour stopping a
  t the iconic Wembley Stadium. Enquire today for the best seats in the house
  .
 DTEND;VALUE=DATE:20250928
 DTSTART;VALUE=DATE:20250928
 SUMMARY:Oasis @ Wembley Stadium
-UID:0d6cf788-c1f7-4d07-9aaf-eb2ffbd59654
+UID:a7fc2a62-4762-4a5c-9663-e84400cb5782
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
-DESCRIPTION:Find tickets for Chris Brown at Tottenham Hotspur Stadium in Lo
- ndon on 6/21/2025 at 7:00 PM
-DTEND;VALUE=DATE:20250621
-DTSTART;VALUE=DATE:20250621
-SUMMARY:Chris Brown
-UID:7ebaa517-a84f-403f-9c99-05ef99856ac7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
+DTSTAMP:20250618T021803Z
 DESCRIPTION:Guns N’ Roses announced they will return to the road on a mas
  sive 2025 European and Middle East Tour, with a huge night at Wembley Stadi
  um. On the Event Day On the day, please bring your...
 DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Guns N Roses
-UID:d768d68c-85a6-44ae-a64d-48346bb6ec0b
+UID:49165901-b7a7-49ef-b382-e65aaad41dfe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
+DTSTAMP:20250618T021803Z
+DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
+ isiting Wembley Stadium. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Oasis
+UID:c8f42bff-1242-4236-b37b-560b85854b0c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250618T021803Z
 DESCRIPTION:Following a series of sensational live shows in 2024 - includin
  g headline performances at festivals including Coachella, Reading & Leeds, 
  and Rock en Seine, now Lana Del Rey returns with herfirst...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:1cfca07c-ad5f-42df-84f8-813ec61c093f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250617T021904Z
-DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
- isiting Wembley Stadium. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250802
-DTSTART;VALUE=DATE:20250802
-SUMMARY:Oasis
-UID:d2c8cd6e-5c5c-415d-81c4-69c899c33202
+UID:95caeb62-7015-4a52-a07c-215d1fd3038d
 END:VEVENT
 END:VCALENDAR
