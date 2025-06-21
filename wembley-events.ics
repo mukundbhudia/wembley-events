@@ -3,93 +3,93 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
+DTSTAMP:20250621T021530Z
+DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
+ tional Express journeys from across the UK.
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Dua Lipa
+UID:53297451-0295-4887-8aeb-10df41c4dc93
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250621T021530Z
 DESCRIPTION:Dua Lipa has announced that she will be performing her new Radi
  cal Optimism tour at Wembley Stadium. Enquire for VIP hospitality places.
 DTEND;VALUE=DATE:20250621
 DTSTART;VALUE=DATE:20250621
 SUMMARY:Dua Lipa
-UID:ac5cd978-3e22-4beb-b7ea-2b9188c7592b
+UID:487151f3-aef5-44d6-8ce4-711de75e1ea9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
-DESCRIPTION:Catch Dua Lipa live at Wembley Stadium, London by coach with Na
- tional Express journeys from across the UK.
-DTEND;VALUE=DATE:20250620
-DTSTART;VALUE=DATE:20250620
-SUMMARY:Dua Lipa
-UID:27e77ccb-80ea-40fc-b415-58df995e20fb
+DTSTAMP:20250621T021530Z
+DESCRIPTION:Wembley Stadium Wembley Stadium, Olympic Way, Wembley, HA9 0, W
+ embley, Brent, Harrow, United Kingdom
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:HU @ Wembley Stadium
+UID:3263c55e-2a5f-488b-bee0-2a37010d0843
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
-DESCRIPTION:Find tickets for Santhosh Narayanan at OVO Arena Wembley in Lon
- don on 6/20/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250620
-DTSTART;VALUE=DATE:20250620
-SUMMARY:Santhosh Narayanan
-UID:70a7a1c5-c313-407d-bed1-995407f756b6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20250620
-DTSTART;VALUE=DATE:20250620
-SUMMARY:Dua Lipa, Dove Cameron, Alessi Rose
-UID:f00e32d0-75f5-4474-8d8f-427efbb922bb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
+DTSTAMP:20250621T021530Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 6/21/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250621
 DTSTART;VALUE=DATE:20250621
 SUMMARY:Starlight Express
-UID:de0c6a9f-ad5b-4267-a614-ec24dd280eb5
+UID:ad151a97-f3f9-4801-8f8d-268ddd4bc976
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
-DESCRIPTION:With Special Guests Dove Cameron Alessi Rose if people don’t 
- want me to write songs about them they shouldn’t do bad things
-DTEND;VALUE=DATE:20250620
-DTSTART;VALUE=DATE:20250620
-SUMMARY:Alessi Rose
-UID:aba66a36-b5ff-4614-abe4-c34ea7ef7a1e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
+DTSTAMP:20250621T021530Z
 DESCRIPTION:With Special Guests Dove Cameron Alessi Rose if people don’t 
  want me to write songs about them they shouldn’t do bad things
 DTEND;VALUE=DATE:20250621
 DTSTART;VALUE=DATE:20250621
 SUMMARY:Alessi Rose
-UID:4dbaa351-1d9b-4570-840c-ca253dfac1b1
+UID:00a1ced7-f557-4a84-ba9d-945559a7a26b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
+DTSTAMP:20250621T021530Z
+DESCRIPTION:With Special Guests Dove Cameron Alessi Rose if people don’t 
+ want me to write songs about them they shouldn’t do bad things
+DTEND;VALUE=DATE:20250621
+DTSTART;VALUE=DATE:20250621
+SUMMARY:Alessi Rose
+UID:c9000da5-4c23-4153-bc0a-c7d0b092f1ae
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250621T021530Z
 DESCRIPTION:Find tickets for Chris Brown at Tottenham Hotspur Stadium in Lo
  ndon on 6/21/2025 at 7:00 PM
 DTEND;VALUE=DATE:20250621
 DTSTART;VALUE=DATE:20250621
 SUMMARY:Chris Brown
-UID:13c59b62-9230-463a-9b3e-8b73b57f5b17
+UID:95b957fa-464d-4a6c-bb97-2f2104ee02f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
-DESCRIPTION:Guns N’ Roses announced they will return to the road on a mas
- sive 2025 European and Middle East Tour, with a huge night at Wembley Stadi
- um. On the Event Day On the day, please bring your...
-DTEND;VALUE=DATE:20250626
-DTSTART;VALUE=DATE:20250626
-SUMMARY:Guns N Roses
-UID:9ab9c593-0495-4028-bf5c-6e11149182ec
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250620T021808Z
+DTSTAMP:20250621T021530Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:0b102e44-9b43-4d90-850d-4c195b5b762a
+UID:4a05a853-61d9-4065-b77a-e4a45fad4d2f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250621T021530Z
+DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
+ 2025 at 5:00 PM
+DTEND;VALUE=DATE:20250822
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Coldplay
+UID:63919b29-13ef-48e1-a4a0-775752e02b20
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250621T021530Z
+DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
+ nion tour. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Oasis @ Wembley Stadium
+UID:482aabed-7f34-4947-a249-fc19f2a5690a
 END:VEVENT
 END:VCALENDAR
