@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 6/21/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250622
-DTSTART;VALUE=DATE:20250622
-SUMMARY:Starlight Express
-UID:9b2ceabb-0ffe-4564-a213-9adb05f9fcd2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
-DESCRIPTION:With Special Guests Dove Cameron Alessi Rose if people don’t 
- want me to write songs about them they shouldn’t do bad things
-DTEND;VALUE=DATE:20250622
-DTSTART;VALUE=DATE:20250622
-SUMMARY:Alessi Rose
-UID:ac5a5db3-1cb5-45a3-bfe9-f2f1bab7ab96
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
-DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
- isiting Wembley Stadium. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250802
-DTSTART;VALUE=DATE:20250802
-SUMMARY:Oasis
-UID:eda11d02-2631-4320-a31d-7426f0af7781
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
-DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
- nion tour. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250927
-DTSTART;VALUE=DATE:20250927
-SUMMARY:Oasis @ Wembley Stadium
-UID:69828339-8ddc-4ac6-8309-83d5a5acce37
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
-DESCRIPTION:Following a series of sensational live shows in 2024 - includin
- g headline performances at festivals including Coachella, Reading & Leeds, 
- and Rock en Seine, now Lana Del Rey returns with herfirst...
-DTEND;VALUE=DATE:20250704
-DTSTART;VALUE=DATE:20250704
-SUMMARY:Lana Del Rey
-UID:4fa7e996-154a-43e0-aaad-e6ab80ebdbb3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
+DTSTAMP:20250623T022640Z
 DESCRIPTION:Guns N’ Roses announced they will return to the road on a mas
  sive 2025 European and Middle East Tour, with a huge night at Wembley Stadi
  um. On the Event Day On the day, please bring your...
 DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Guns N Roses
-UID:f626bea7-eb53-4d57-bb64-6934ae913bd7
+UID:cb03d4f9-412d-411e-9219-f8004cec728e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
-DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
- hers bring back their iconic anthems
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Oasis
-UID:87a66bce-1fd3-4ffc-87a5-391568dd6ed7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
+DTSTAMP:20250623T022640Z
 DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
  voices of rock'n'roll, with an artistic resume to match the brilliant ligh
  t of the image. First as the camera-ready front man for...
 DTEND;VALUE=DATE:20250624
 DTSTART;VALUE=DATE:20250624
 SUMMARY:Billy Idol
-UID:825e64a0-6c64-4934-89e0-a846ae0a8159
+UID:c0a5319d-a845-4c52-9bac-09176a386c36
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
+DTSTAMP:20250623T022640Z
+DESCRIPTION:After a year of monumental returns and record-breaking mileston
+ es, LINKIN PARK—Mike Shinoda, Dave “Phoenix” Farrell, Joe Hahn, Emily
+  Armstrong, and Colin Brittain—announce FROM ZERO WORLD TOUR...
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Linkin Park
+UID:9a7f3ef4-ef44-4a3e-96bf-02fb4ca9cbad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250623T022640Z
+DESCRIPTION:Band from Vancouver Island, Canada.
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Spiritbox
+UID:71c5ee12-3536-4765-8e7f-59224a97fd29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250623T022640Z
+DESCRIPTION:Guns N' Roses: 2025 Since their emergence in 2009, Rival Sons h
+ ave quietly reignited and recharged rock ‘n’ roll with towering vocals,
+  uncompromising riffs, and thunderous grooves. Following the...
+DTEND;VALUE=DATE:20250626
+DTSTART;VALUE=DATE:20250626
+SUMMARY:Guns N' Roses with Rival Sons
+UID:22e1245e-bab9-49ff-892e-3e0900199054
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250623T022640Z
+DESCRIPTION:Following a series of sensational live shows in 2024 - includin
+ g headline performances at festivals including Coachella, Reading & Leeds, 
+ and Rock en Seine, now Lana Del Rey returns with herfirst...
+DTEND;VALUE=DATE:20250704
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Lana Del Rey
+UID:f6fc15fe-a8f5-4e17-a4ea-874001b5207a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250623T022640Z
+DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
+ nion tour. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Oasis
+UID:71eed294-4c7d-44f6-a2da-d639e6e25461
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250623T022640Z
+DESCRIPTION:🎤 Join Spiritbox LIVE at Wembley Stadium on Saturday, June 2
+ 8, 2025! 🎤 Here is the moment you’ve been waiting for! Spiritbox is co
+ ming to Wembley Stadium on Saturday, June 28, 2025
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:JPEGMAFIA
+UID:202f5f12-9219-4008-95dc-a8fa86c22887
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250623T022640Z
+DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
+ hers bring back their iconic anthems
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Oasis
+UID:603c5d35-c8da-4782-bacc-3c3eba20fc27
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250623T022640Z
 DESCRIPTION:Watch G.V Prakash & Radhika Kumar live in London at the OVO Are
  na Wembley on 12-th-Jul-Sat-25 @7.30pm. Get more details and book at Halibu
  ts.com | Halibuts
 DTEND;VALUE=DATE:20250712
 DTSTART;VALUE=DATE:20250712
 SUMMARY:G. V. Prakash Kumar
-UID:6cedcb29-6ca0-4ba6-9300-fc2f9a90ce78
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250622T022817Z
-DESCRIPTION:Oasis have announced their long-awaited reunion tour stopping a
- t the iconic Wembley Stadium. Enquire today for the best seats in the house
- .
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Oasis
-UID:4387a0a5-4f1e-482c-8fb1-89f6072d4a19
+UID:d4465ce0-0281-4650-afe9-ce5e56de242c
 END:VEVENT
 END:VCALENDAR
