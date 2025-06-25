@@ -3,98 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
-DESCRIPTION:For forty-five years, Billy Idol has been one of the faces and 
- voices of rock'n'roll, with an artistic resume to match the brilliant ligh
- t of the image. First as the camera-ready front man for...
-DTEND;VALUE=DATE:20250624
-DTSTART;VALUE=DATE:20250624
-SUMMARY:Billy Idol
-UID:23df3ea7-b0c7-4670-9964-6fd268fed158
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
-DESCRIPTION:Guns N’ Roses announced they will return to the road on a mas
- sive 2025 European and Middle East Tour, with a huge night at Wembley Stadi
- um. On the Event Day On the day, please bring your...
+DTSTAMP:20250625T022014Z
+DESCRIPTION:Enjoy premium seating, VIP lounge access and gourmet dining fo
+ r an unforgettable experience at Guns N' Roses. Secure your tickets with Ho
+ spitality Finder.
 DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Guns N Roses
-UID:797e8d98-9259-44ef-9099-5a58802cc6c7
+UID:15dc9dbe-36eb-4eed-99c0-94b647b9328c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
+DTSTAMP:20250625T022014Z
 DESCRIPTION:After a year of monumental returns and record-breaking mileston
  es, LINKIN PARK—Mike Shinoda, Dave “Phoenix” Farrell, Joe Hahn, Emily
   Armstrong, and Colin Brittain—announce FROM ZERO WORLD TOUR...
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
 SUMMARY:Linkin Park
-UID:be79a254-e29b-407b-ae86-de3d1b8159dc
+UID:cb4f40f7-6e7d-4890-bca0-7aef086a913f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
+DTSTAMP:20250625T022014Z
 DESCRIPTION:Guns N' Roses: 2025 Since their emergence in 2009, Rival Sons h
  ave quietly reignited and recharged rock ‘n’ roll with towering vocals,
   uncompromising riffs, and thunderous grooves. Following the...
 DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Guns N' Roses with Rival Sons
-UID:9356fe42-859b-4910-a3e1-2e9c10658f93
+UID:6ff23d27-dda1-4d34-a9eb-2e060597db06
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
+DTSTAMP:20250625T022014Z
 DESCRIPTION:Band from Vancouver Island, Canada.
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
 SUMMARY:Spiritbox
-UID:a6e4c9ae-ce60-4ad3-a403-901ae7bf3a4f
+UID:22c6a05d-eb9d-4b76-bad9-3e2319d394a6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
+DTSTAMP:20250625T022014Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 6/26/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250626
 DTSTART;VALUE=DATE:20250626
 SUMMARY:Starlight Express
-UID:94693295-9ef4-400f-aa7a-5b606169352d
+UID:8a57a057-59a9-46aa-91ee-8e66baccc6ef
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
+DTSTAMP:20250625T022014Z
 DESCRIPTION:Find tickets for Billy Idol with New Model Army at OVO Arena We
  mbley in London on 6/24/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250624
-DTSTART;VALUE=DATE:20250624
+DTEND;VALUE=DATE:20250625
+DTSTART;VALUE=DATE:20250625
 SUMMARY:Billy Idol with New Model Army
-UID:5f6cff2c-ab02-49ae-a715-7b6827028940
+UID:bd08653f-1dc8-49e9-8076-af18dbb0ea8f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
+DTSTAMP:20250625T022014Z
 DESCRIPTION:Following a series of sensational live shows in 2024 - includin
  g headline performances at festivals including Coachella, Reading & Leeds, 
  and Rock en Seine, now Lana Del Rey returns with herfirst...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:1a6ecf21-4dda-4d61-8e3c-ad2acb87033b
+UID:c16a6d06-eabf-4a00-86ba-46f9b4d0ca82
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
+DTSTAMP:20250625T022014Z
 DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
  nion tour. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250927
 DTSTART;VALUE=DATE:20250927
-SUMMARY:Oasis @ Wembley Stadium
-UID:a24bd7a3-2cf6-4cc1-964b-3ad4cc74ae2e
+SUMMARY:Oasis
+UID:9d93aa34-d9e4-4ede-b22a-2da0d6147107
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250624T021951Z
+DTSTAMP:20250625T022014Z
 DESCRIPTION:🎤 Join Spiritbox LIVE at Wembley Stadium on Saturday, June 2
  8, 2025! 🎤 Here is the moment you’ve been waiting for! Spiritbox is co
  ming to Wembley Stadium on Saturday, June 28, 2025
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
 SUMMARY:JPEGMAFIA
-UID:0ff965d1-6ca7-4275-9f7a-a0a50becefa5
+UID:44213487-34a8-4010-bb6f-d5755f77498c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250625T022014Z
+DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
+ hers bring back their iconic anthems
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Oasis
+UID:ff43d74a-b010-4f0b-9bc1-96ddbdeea936
 END:VEVENT
 END:VCALENDAR
