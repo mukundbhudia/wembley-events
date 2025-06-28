@@ -3,95 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
-DESCRIPTION:After a year of monumental returns and record-breaking mileston
- es, LINKIN PARK—Mike Shinoda, Dave “Phoenix” Farrell, Joe Hahn, Emily
-  Armstrong, and Colin Brittain—announce FROM ZERO WORLD TOUR...
+DTSTAMP:20250628T021548Z
+DESCRIPTION:American nu-metal and alternative rock sextet, featuring founde
+ r members Mike Shinoda - MC/ vocals/ rhythm guitar/ keyboards, Brad Delson 
+ - lead guitar, Dave Farrell - bass/ backing vocals and Joe...
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
 SUMMARY:Linkin Park
-UID:e6d4f74f-2792-4907-be5c-f4cc2c522004
+UID:d5d626be-54c3-4759-b5f5-d0d6ec42dc11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
-DESCRIPTION:Guns N' Roses: 2025 Since their emergence in 2009, Rival Sons h
- ave quietly reignited and recharged rock ‘n’ roll with towering vocals,
-  uncompromising riffs, and thunderous grooves. Following the...
-DTEND;VALUE=DATE:20250627
-DTSTART;VALUE=DATE:20250627
-SUMMARY:Guns N' Roses with Rival Sons
-UID:cdf5e52a-88d3-4096-b076-b5c0dbb450c7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
+DTSTAMP:20250628T021548Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 6/27/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250627
-DTSTART;VALUE=DATE:20250627
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
 SUMMARY:Starlight Express
-UID:89e6b170-7323-4f4a-a04c-ffb3ad82624e
+UID:b0809dbf-9fe0-40d5-b16e-c3bae1c80896
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
-DESCRIPTION:Glasgow Summer Sessions - Simple Minds tickets – Fri, 27 June
-  2025, 5:00 pm at Wembley Stadium
-DTEND;VALUE=DATE:20250627
-DTSTART;VALUE=DATE:20250627
-SUMMARY:Glasgow Summer Sessions - Simple Minds
-UID:753310cc-55ea-4488-b625-93282c9ef0c1
+DTSTAMP:20250628T021548Z
+DESCRIPTION:Band from Vancouver Island, Canada.
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Spiritbox
+UID:853c3bc2-6e9f-4e71-aabe-f457000e77fc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
+DTSTAMP:20250628T021548Z
 DESCRIPTION:🎤 Join Spiritbox LIVE at Wembley Stadium on Saturday, June 2
  8, 2025! 🎤 Here is the moment you’ve been waiting for! Spiritbox is co
  ming to Wembley Stadium on Saturday, June 28, 2025
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
 SUMMARY:JPEGMAFIA
-UID:a68c771f-a52b-4dc2-ae88-c5966cff02f6
+UID:e9415dc7-7d99-415c-8503-68dadee8c538
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
-DESCRIPTION:Band from Vancouver Island, Canada.
+DTSTAMP:20250628T021548Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 6/29/2025 at 1:00 PM
+DTEND;VALUE=DATE:20250629
+DTSTART;VALUE=DATE:20250629
+SUMMARY:Starlight Express
+UID:e3e30102-7e35-4ec6-ac15-702490e45ca5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250628T021548Z
+DESCRIPTION:Elite Muay Thai promotion Top King brings their world-class com
+ petition to Europe. Live in London this June.
 DTEND;VALUE=DATE:20250628
 DTSTART;VALUE=DATE:20250628
-SUMMARY:Spiritbox
-UID:7ab85ba5-7314-4e97-8992-3a7b07822058
+SUMMARY:Top King - Europe Series
+UID:a8108ae1-e5fa-4264-a955-91c707c82737
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
+DTSTAMP:20250628T021548Z
+DESCRIPTION:Find tickets for Iron Maiden at London Stadium in East London o
+ n 6/28/2025 at 5:00 PM
+DTEND;VALUE=DATE:20250628
+DTSTART;VALUE=DATE:20250628
+SUMMARY:Iron Maiden
+UID:e6627e0c-373b-497f-b8a5-2b9ba7a0ffa9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250628T021548Z
+DESCRIPTION:A cinematic concert film immortalizing blur’s biggest shows t
+ o date. Highlights include The Narcissist and St Charles Square from the re
+ cent acclaimed #1 album, ‘The Ballad of Darren’, as well as...
+DTEND;VALUE=DATE:20250704
+DTSTART;VALUE=DATE:20250704
+SUMMARY:Live at Wembley Stadium
+UID:477de042-690d-460c-833d-3d0f72134808
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250628T021548Z
+DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
+ 2025 at 5:00 PM
+DTEND;VALUE=DATE:20250822
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Coldplay
+UID:c1e41982-2fe5-40cb-a06c-624dca3e5465
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250628T021548Z
 DESCRIPTION:Following a series of sensational live shows in 2024 - includin
  g headline performances at festivals including Coachella, Reading & Leeds, 
  and Rock en Seine, now Lana Del Rey returns with herfirst...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:31ef222a-bb57-43f1-9564-134eab9aaf3b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
-DESCRIPTION:Find tickets for Iron Maiden at London Stadium in East London o
- n 6/28/2025 at 5:00 PM
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:Iron Maiden
-UID:5ebba1c0-2e23-4864-9628-c213c62894fe
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
-DESCRIPTION:Stand-up comedy show featuring four comedians
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:Saturday Stand Up Comedy Club, Covent Garden
-UID:c7a5c0c3-6e12-419f-b220-b7fbfc79873d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250627T022001Z
-DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
- nion tour. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250927
-DTSTART;VALUE=DATE:20250927
-SUMMARY:Oasis
-UID:2b4b2c63-5cf1-407e-a44c-9d195827c4fc
+UID:bc844d77-47bf-4e4f-887a-693209df38fb
 END:VEVENT
 END:VCALENDAR
