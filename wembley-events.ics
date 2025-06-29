@@ -3,96 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
-DESCRIPTION:American nu-metal and alternative rock sextet, featuring founde
- r members Mike Shinoda - MC/ vocals/ rhythm guitar/ keyboards, Brad Delson 
- - lead guitar, Dave Farrell - bass/ backing vocals and Joe...
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:Linkin Park
-UID:d5d626be-54c3-4759-b5f5-d0d6ec42dc11
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 6/27/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:Starlight Express
-UID:b0809dbf-9fe0-40d5-b16e-c3bae1c80896
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
-DESCRIPTION:Band from Vancouver Island, Canada.
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:Spiritbox
-UID:853c3bc2-6e9f-4e71-aabe-f457000e77fc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
+DTSTAMP:20250629T023102Z
 DESCRIPTION:🎤 Join Spiritbox LIVE at Wembley Stadium on Saturday, June 2
  8, 2025! 🎤 Here is the moment you’ve been waiting for! Spiritbox is co
  ming to Wembley Stadium on Saturday, June 28, 2025
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250629
+DTSTART;VALUE=DATE:20250629
 SUMMARY:JPEGMAFIA
-UID:e9415dc7-7d99-415c-8503-68dadee8c538
+UID:532395c9-b611-4371-be09-f0d7669a6893
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
+DTSTAMP:20250629T023102Z
+DESCRIPTION:Band from Vancouver Island, Canada.
+DTEND;VALUE=DATE:20250629
+DTSTART;VALUE=DATE:20250629
+SUMMARY:Spiritbox
+UID:141da579-a5c5-4e92-9cdc-85b7d999cb82
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250629T023102Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 6/29/2025 at 1:00 PM
 DTEND;VALUE=DATE:20250629
 DTSTART;VALUE=DATE:20250629
 SUMMARY:Starlight Express
-UID:e3e30102-7e35-4ec6-ac15-702490e45ca5
+UID:ecc34e84-f605-43b6-a2ef-62253b5cd2d4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
-DESCRIPTION:Elite Muay Thai promotion Top King brings their world-class com
- petition to Europe. Live in London this June.
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:Top King - Europe Series
-UID:a8108ae1-e5fa-4264-a955-91c707c82737
+DTSTAMP:20250629T023102Z
+DESCRIPTION:NEXTGENSOUND Presents: Every Gyal A Bubble [The summer starter
+ ] Saturday 28th June 2025 @ A NW LOCATION TBA (100% confirmed & will be rev
+ ealed closer to the time)[LOCATION FATSOMA IS NOT THE REAL...
+DTEND;VALUE=DATE:20250629
+DTSTART;VALUE=DATE:20250629
+SUMMARY:NEXTGENSOUND PROMOTIONS PRESENTS: EVERY GYAL A BUBBLE
+UID:e9df50cb-824f-42c1-875e-856885d4b033
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
-DESCRIPTION:Find tickets for Iron Maiden at London Stadium in East London o
- n 6/28/2025 at 5:00 PM
-DTEND;VALUE=DATE:20250628
-DTSTART;VALUE=DATE:20250628
-SUMMARY:Iron Maiden
-UID:e6627e0c-373b-497f-b8a5-2b9ba7a0ffa9
+DTSTAMP:20250629T023102Z
+DESCRIPTION:Wrong Jovi are the UK’s newest and finest tribute to rock leg
+ ends Bon Jovi. Described by tribute band expert (Channel 4’s The Conventi
+ on Crasher) and TV celebrity Justin Lee-Collins as “the best...
+DTEND;VALUE=DATE:20250629
+DTSTART;VALUE=DATE:20250629
+SUMMARY:Wrong Jovi
+UID:a0337b37-bfc2-4870-aa26-650b0655fa78
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
+DTSTAMP:20250629T023102Z
+DESCRIPTION:Find tickets for Yevgeny Sudbin at The Red Hedgehog in London o
+ n 6/28/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250629
+DTSTART;VALUE=DATE:20250629
+SUMMARY:Yevgeny Sudbin
+UID:764a141a-331f-42c5-b469-b4459e374fd1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250629T023102Z
+DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
+ 2025 at 5:00 PM
+DTEND;VALUE=DATE:20250822
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Coldplay
+UID:98ed4c92-7fa0-4dd5-ad3c-8f75be10543f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250629T023102Z
 DESCRIPTION:A cinematic concert film immortalizing blur’s biggest shows t
  o date. Highlights include The Narcissist and St Charles Square from the re
  cent acclaimed #1 album, ‘The Ballad of Darren’, as well as...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Live at Wembley Stadium
-UID:477de042-690d-460c-833d-3d0f72134808
+UID:5cfdb60c-b687-477c-bef9-cd054d2dabe7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
-DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
- 2025 at 5:00 PM
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
-SUMMARY:Coldplay
-UID:c1e41982-2fe5-40cb-a06c-624dca3e5465
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250628T021548Z
+DTSTAMP:20250629T023102Z
 DESCRIPTION:Following a series of sensational live shows in 2024 - includin
  g headline performances at festivals including Coachella, Reading & Leeds, 
  and Rock en Seine, now Lana Del Rey returns with herfirst...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:bc844d77-47bf-4e4f-887a-693209df38fb
+UID:a607a016-2c62-4822-8c48-f81c06ffe9fc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250629T023102Z
+DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
+ in London on 7/25/2025 at 5:00 PM
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Oasis
+UID:d7d1d6d6-1363-4fb2-a5d5-1f252fd71742
 END:VEVENT
 END:VCALENDAR
