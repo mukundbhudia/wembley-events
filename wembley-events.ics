@@ -3,96 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
+DTSTAMP:20250703T022031Z
 DESCRIPTION:Searching for information and tickets regarding Lana Del Rey U
  K and Ireland Tour 2025 | Wembley Stadium taking place in Wembley on Jul 3
  –Jul 4, 2025 (UTC)? Trip.com has you covered. Check the...
 DTEND;VALUE=DATE:20250703
 DTSTART;VALUE=DATE:20250703
 SUMMARY:Lana Del Rey
-UID:75f836ad-6c1b-4767-ba01-d8e36b582b02
+UID:462fc162-a2a7-4eae-ae07-715b2d0463da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
+DTSTAMP:20250703T022031Z
 DESCRIPTION:Following a series of sensational live shows in 2024 - includin
  g headline performances at festivals including Coachella, Reading & Leeds, 
  and Rock en Seine, now Lana Del Rey returns with herfirst...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Lana Del Rey
-UID:95eedec7-d994-4bb1-90c6-d65ce23d4f1a
+UID:bcf1324c-21b1-49d1-bd12-aa9522770f23
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
+DTSTAMP:20250703T022031Z
 DESCRIPTION:A cinematic concert film immortalizing blur’s biggest shows t
  o date. Highlights include The Narcissist and St Charles Square from the re
  cent acclaimed #1 album, ‘The Ballad of Darren’, as well as...
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Live at Wembley Stadium
-UID:de4f37ea-3455-40c6-a7af-d60244085d91
+UID:74eff9f4-8441-45bf-8e7b-54a69bffdff8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
+DTSTAMP:20250703T022031Z
 DESCRIPTION:
 DTEND;VALUE=DATE:20250704
 DTSTART;VALUE=DATE:20250704
 SUMMARY:Oasis
-UID:c3f88ef7-165e-47e5-a943-0adf9ce289c6
+UID:ca084016-6d53-4d25-a607-bff5cf11a4e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
+DTSTAMP:20250703T022031Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 7/6/2025 at 1:00 PM
 DTEND;VALUE=DATE:20250706
 DTSTART;VALUE=DATE:20250706
 SUMMARY:Starlight Express
-UID:3dae2032-ada7-4a1f-a917-c8e270f50dfd
+UID:f8446b17-fe1c-4985-bca6-ec0e11a68a8c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
+DTSTAMP:20250703T022031Z
 DESCRIPTION:Saturday 5th July - 10.45, 14.00, 17.15 Sunday 6th July - 10.4
  5 In PAW Patrol Live! “The Great Pirate Adventure,” Mayor Goodway is ge
  tting everything shipshape for a big Pirate Day celebration in...
 DTEND;VALUE=DATE:20250705
 DTSTART;VALUE=DATE:20250705
 SUMMARY:PAW Patrol Live!
-UID:0af594f9-f156-4f39-ae00-a746df32f7f4
+UID:91a245d3-4ce5-4d62-a278-741cb071dd8d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
-DESCRIPTION:Oasis reunites for five electrifying nights. The Gallagher brot
- hers bring back their iconic anthems, reigniting Britpop's spirit
-DTEND;VALUE=DATE:20250730
-DTSTART;VALUE=DATE:20250730
-SUMMARY:Oasis
-UID:3b709ba3-b4b8-49cc-9dd5-4749216c3279
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
+DTSTAMP:20250703T022031Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:80585b2d-6879-472c-86a9-cc6492a2fa5b
+UID:3f040c8e-dd08-4f1b-b28d-b1e37ca4bc69
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
-DESCRIPTION:Find tickets for Ludovico Einaudi at Royal Albert Hall in Londo
- n on 7/2/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250702
-DTSTART;VALUE=DATE:20250702
-SUMMARY:Ludovico Einaudi
-UID:336f20b4-9374-4dd9-9701-3ca77465cb76
+DTSTAMP:20250703T022031Z
+DESCRIPTION:Legendary Punjabi artiste, Gurdas Maan, returns to the UK this 
+ July in what is set to be an unprecedented series of shows. Maan's 2025 UK 
+ tour is aptly titled 'Yaar Punjabi' since his last...
+DTEND;VALUE=DATE:20250713
+DTSTART;VALUE=DATE:20250713
+SUMMARY:Gurdas Maan
+UID:7af3b3f1-01a4-447d-8862-fd8e8359dc9e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250702T021933Z
+DTSTAMP:20250703T022031Z
+DESCRIPTION:Saturday 5th July - 10.45, 14.00, 17.15 Sunday 6th July - 10.4
+ 5 In PAW Patrol Live! “The Great Pirate Adventure,” Mayor Goodway is ge
+ tting everything shipshape for a big Pirate Day celebration in...
+DTEND;VALUE=DATE:20250706
+DTSTART;VALUE=DATE:20250706
+SUMMARY:PAW Patrol Live!
+UID:17e91004-2536-443d-9c55-1f10e52ed0cd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250703T022031Z
 DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
  2025 at 5:00 PM
 DTEND;VALUE=DATE:20250822
 DTSTART;VALUE=DATE:20250822
 SUMMARY:Coldplay
-UID:12ebf3c7-1f4d-43cd-a4b2-6811cf442bf4
+UID:1db4dc24-be14-4207-a7be-22b52457bda6
 END:VEVENT
 END:VCALENDAR
