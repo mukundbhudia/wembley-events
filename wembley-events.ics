@@ -3,97 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
-DESCRIPTION:A cinematic concert film immortalizing blur’s biggest shows t
- o date. Highlights include The Narcissist and St Charles Square from the re
- cent acclaimed #1 album, ‘The Ballad of Darren’, as well as...
-DTEND;VALUE=DATE:20250705
-DTSTART;VALUE=DATE:20250705
-SUMMARY:Live at Wembley Stadium
-UID:0873bd36-553d-4dfb-87d9-d59ad6904943
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20250705
-DTSTART;VALUE=DATE:20250705
-SUMMARY:Oasis
-UID:f667b585-1504-49c5-a677-46c24c505f4e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
+DTSTAMP:20250706T022922Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 7/6/2025 at 1:00 PM
 DTEND;VALUE=DATE:20250706
 DTSTART;VALUE=DATE:20250706
 SUMMARY:Starlight Express
-UID:b06deda9-8ffc-4f9d-a194-efde23dd2b3e
+UID:bcc20a7f-0968-4d15-b051-577db5ef20b1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
+DTSTAMP:20250706T022922Z
 DESCRIPTION:Saturday 5th July - 10.45, 14.00, 17.15 Sunday 6th July - 10.4
  5 In PAW Patrol Live! “The Great Pirate Adventure,” Mayor Goodway is ge
  tting everything shipshape for a big Pirate Day celebration in...
 DTEND;VALUE=DATE:20250706
 DTSTART;VALUE=DATE:20250706
 SUMMARY:PAW Patrol Live!
-UID:25c1841e-7bec-44f6-815e-472b1b7687b2
+UID:a21653db-098b-4c9e-8a31-23bdeb59a3e1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
-DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
- isiting Wembley Stadium. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250802
-DTSTART;VALUE=DATE:20250802
-SUMMARY:Oasis
-UID:51fb4241-b5d7-4740-ac65-2b947e2fd77a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
+DTSTAMP:20250706T022922Z
 DESCRIPTION:Legendary Punjabi artiste, Gurdas Maan, returns to the UK this 
  July in what is set to be an unprecedented series of shows. Maan's 2025 UK 
  tour is aptly titled 'Yaar Punjabi' since his last...
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
 SUMMARY:Gurdas Maan
-UID:7d0a21d1-e6f6-4708-ae94-a8370730be1b
+UID:3de785e7-b77f-4410-81c0-3cea2419573f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
-DESCRIPTION:Saturday 5th July - 10.45, 14.00, 17.15 Sunday 6th July - 10.4
- 5 In PAW Patrol Live! “The Great Pirate Adventure,” Mayor Goodway is ge
- tting everything shipshape for a big Pirate Day celebration in...
-DTEND;VALUE=DATE:20250705
-DTSTART;VALUE=DATE:20250705
-SUMMARY:PAW Patrol Live!
-UID:421ee6e4-af8a-4e7a-8f3c-7e26a8ede29b
+DTSTAMP:20250706T022922Z
+DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
+ isiting Wembley Stadium. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Oasis
+UID:add0836f-14c6-4d88-8253-f4926ca0829d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
+DTSTAMP:20250706T022922Z
+DESCRIPTION:We bring to you another Super hit full-family entertainer play
+ , "PATNI NACHAVE ENE KAUN BACHAVE" with Famous and well-known artist KETKI 
+ DAVE (Kyunki Saas Bhi Kabhi Bahu Thi fame). Ketki Dave, a...
+DTEND;VALUE=DATE:20250706
+DTSTART;VALUE=DATE:20250706
+SUMMARY:Patni Nachave Ene Kon Bachave
+UID:89d85945-3868-4c41-9994-395401ab1b00
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250706T022922Z
 DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
  2025 at 5:00 PM
 DTEND;VALUE=DATE:20250822
 DTSTART;VALUE=DATE:20250822
 SUMMARY:Coldplay
-UID:c729d07f-0e85-47c3-a6f4-53f9f3572be3
+UID:c445e44d-7c68-407f-8b88-8f06e430ed84
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
+DTSTAMP:20250706T022922Z
 DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
  hers bring back their iconic anthems
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:19dd7103-d593-4974-9e1f-f4bda0e0927a
+UID:5902c0a8-aaef-45e4-8c1f-fccb6a1fc848
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250705T021520Z
-DESCRIPTION:We bring to you another Super hit full-family entertainer play
- , "PATNI NACHAVE ENE KAUN BACHAVE" with Famous and well-known artist KETKI 
- DAVE (Kyunki Saas Bhi Kabhi Bahu Thi fame). Ketki Dave, a...
-DTEND;VALUE=DATE:20250705
-DTSTART;VALUE=DATE:20250705
-SUMMARY:Patni Nachave Ene Kon Bachave
-UID:e1822ed4-1888-4be8-9b2f-ba7dce8233e6
+DTSTAMP:20250706T022922Z
+DESCRIPTION:Find tickets for Anthrax at Finsbury Park in London on 7/6/202
+ 5 at 5:00 PM
+DTEND;VALUE=DATE:20250706
+DTSTART;VALUE=DATE:20250706
+SUMMARY:Anthrax
+UID:3e397770-01ef-4218-9b02-d69b77fc0658
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250706T022922Z
+DESCRIPTION:Oasis reunites for five electrifying nights. The Gallagher brot
+ hers bring back their iconic anthems, reigniting Britpop's spirit
+DTEND;VALUE=DATE:20250730
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Oasis
+UID:44d86e50-05d1-49ce-80ad-d57ec8a215d5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250706T022922Z
+DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
+ nion tour. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Oasis
+UID:66c7c29b-900b-4894-a342-e222d909b6ab
 END:VEVENT
 END:VCALENDAR
