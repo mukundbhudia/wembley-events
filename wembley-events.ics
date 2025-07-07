@@ -3,96 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 7/6/2025 at 1:00 PM
-DTEND;VALUE=DATE:20250706
-DTSTART;VALUE=DATE:20250706
-SUMMARY:Starlight Express
-UID:bcc20a7f-0968-4d15-b051-577db5ef20b1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
-DESCRIPTION:Saturday 5th July - 10.45, 14.00, 17.15 Sunday 6th July - 10.4
- 5 In PAW Patrol Live! “The Great Pirate Adventure,” Mayor Goodway is ge
- tting everything shipshape for a big Pirate Day celebration in...
-DTEND;VALUE=DATE:20250706
-DTSTART;VALUE=DATE:20250706
-SUMMARY:PAW Patrol Live!
-UID:a21653db-098b-4c9e-8a31-23bdeb59a3e1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
+DTSTAMP:20250707T022555Z
 DESCRIPTION:Legendary Punjabi artiste, Gurdas Maan, returns to the UK this 
  July in what is set to be an unprecedented series of shows. Maan's 2025 UK 
  tour is aptly titled 'Yaar Punjabi' since his last...
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
 SUMMARY:Gurdas Maan
-UID:3de785e7-b77f-4410-81c0-3cea2419573f
+UID:20c16fe9-a7c7-4575-ba4b-3ad0221e2700
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
-DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
- isiting Wembley Stadium. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250802
-DTSTART;VALUE=DATE:20250802
-SUMMARY:Oasis
-UID:add0836f-14c6-4d88-8253-f4926ca0829d
+DTSTAMP:20250707T022555Z
+DESCRIPTION:JIMMY O. YANG is a comedian and actor best known for SILICON VA
+ LLEY, CRAZY RICH ASIANS, LOVE HARD and SPACE FORCE, where he also served a
+ s a writer. He will be starring in the upcoming limited...
+DTEND;VALUE=DATE:20250711
+DTSTART;VALUE=DATE:20250711
+SUMMARY:Jimmy O. Yang
+UID:23e434ef-0bc8-4ef5-992e-c52f0bfcee70
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
-DESCRIPTION:We bring to you another Super hit full-family entertainer play
- , "PATNI NACHAVE ENE KAUN BACHAVE" with Famous and well-known artist KETKI 
- DAVE (Kyunki Saas Bhi Kabhi Bahu Thi fame). Ketki Dave, a...
-DTEND;VALUE=DATE:20250706
-DTSTART;VALUE=DATE:20250706
-SUMMARY:Patni Nachave Ene Kon Bachave
-UID:89d85945-3868-4c41-9994-395401ab1b00
+DTSTAMP:20250707T022555Z
+DESCRIPTION:Watch G.V Prakash & Radhika Kumar live in London at the OVO Are
+ na Wembley on 12-th-Jul-Sat-25 @7.30pm. Get more details and book at Halibu
+ ts.com | Halibuts
+DTEND;VALUE=DATE:20250712
+DTSTART;VALUE=DATE:20250712
+SUMMARY:G. V. Prakash Kumar
+UID:6dbe8e6f-931d-4b5e-9304-67c7c02608f7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
+DTSTAMP:20250707T022555Z
+DESCRIPTION:Find tickets for DJ Moma at Boxpark Wembley in London on 7/12/2
+ 025 at 3:00 PM
+DTEND;VALUE=DATE:20250712
+DTSTART;VALUE=DATE:20250712
+SUMMARY:DJ mOma
+UID:76d81a37-d5d7-492d-ac7e-ee75dea29645
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250707T022555Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 7/11/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250711
+DTSTART;VALUE=DATE:20250711
+SUMMARY:Starlight Express
+UID:fc4333d9-3f4c-4928-9e11-7dac9d5457c8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250707T022555Z
+DESCRIPTION:Boogietown Leslie Sebastian Charles, aka Billy Ocean, was born 
+ in Fyzabad, Trinidad and Tobago and moved to England with his family at th
+ e age of eight. In his teenage years, he sang regularly in...
+DTEND;VALUE=DATE:20250712
+DTSTART;VALUE=DATE:20250712
+SUMMARY:Billy Ocean
+UID:8564cb2c-08a2-43d9-8fbd-f53c6dddabe7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250707T022555Z
+DESCRIPTION:Kew The Music: Gipsy Kings featuring Nicolas Reyes The Gipsy Ki
+ ngs featuring Nicolas Reyes showcases the long-time original voice of the b
+ and performing all the original Gipsy Kings music in its...
+DTEND;VALUE=DATE:20250713
+DTSTART;VALUE=DATE:20250713
+SUMMARY:Nicolas Reyes
+UID:7a047e12-a86a-43dc-940b-c5b4210fc615
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250707T022555Z
+DESCRIPTION:Sure, Kew Gardens is maybe London’s most iconic setting to en
+ joy some horticultural marvels and catch some rays, but it’s also home to
+  this fun little music festival, which is looking to be a...
+DTEND;VALUE=DATE:20250708
+DTSTART;VALUE=DATE:20250708
+SUMMARY:Craig David Presents Ts5
+UID:518f68ec-7195-409c-94f8-bcc79873af25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250707T022555Z
 DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
  2025 at 5:00 PM
 DTEND;VALUE=DATE:20250822
 DTSTART;VALUE=DATE:20250822
 SUMMARY:Coldplay
-UID:c445e44d-7c68-407f-8b88-8f06e430ed84
+UID:91496194-6905-45d7-8b68-531278017463
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
-DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
- hers bring back their iconic anthems
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
+DTSTAMP:20250707T022555Z
+DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
+ isiting Wembley Stadium. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:5902c0a8-aaef-45e4-8c1f-fccb6a1fc848
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
-DESCRIPTION:Find tickets for Anthrax at Finsbury Park in London on 7/6/202
- 5 at 5:00 PM
-DTEND;VALUE=DATE:20250706
-DTSTART;VALUE=DATE:20250706
-SUMMARY:Anthrax
-UID:3e397770-01ef-4218-9b02-d69b77fc0658
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
-DESCRIPTION:Oasis reunites for five electrifying nights. The Gallagher brot
- hers bring back their iconic anthems, reigniting Britpop's spirit
-DTEND;VALUE=DATE:20250730
-DTSTART;VALUE=DATE:20250730
-SUMMARY:Oasis
-UID:44d86e50-05d1-49ce-80ad-d57ec8a215d5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250706T022922Z
-DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
- nion tour. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250927
-DTSTART;VALUE=DATE:20250927
-SUMMARY:Oasis
-UID:66c7c29b-900b-4894-a342-e222d909b6ab
+UID:ce3b5bc7-0638-4b15-bd4e-825308663f39
 END:VEVENT
 END:VCALENDAR
