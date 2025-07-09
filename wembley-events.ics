@@ -3,99 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
+DTSTAMP:20250709T022216Z
 DESCRIPTION:Legendary Punjabi artiste, Gurdas Maan, returns to the UK this 
  July in what is set to be an unprecedented series of shows. Maan's 2025 UK 
  tour is aptly titled 'Yaar Punjabi' since his last...
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
 SUMMARY:Gurdas Maan
-UID:d53196b4-52ca-4d9a-a1b3-292a1b09b432
+UID:1bd349b0-1b51-4c02-914d-d2ab9969805b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
+DTSTAMP:20250709T022216Z
 DESCRIPTION:Watch G.V Prakash & Radhika Kumar live in London at the OVO Are
  na Wembley on 12-th-Jul-Sat-25 @7.30pm. Get more details and book at Halibu
  ts.com | Halibuts
 DTEND;VALUE=DATE:20250712
 DTSTART;VALUE=DATE:20250712
 SUMMARY:G. V. Prakash Kumar
-UID:27679b11-2494-4655-a6a5-c2a21809dad4
+UID:f441ffd4-d76c-485e-a737-d77f8dba7789
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
+DTSTAMP:20250709T022216Z
 DESCRIPTION:JIMMY O. YANG is a comedian and actor best known for SILICON VA
  LLEY, CRAZY RICH ASIANS, LOVE HARD and SPACE FORCE, where he also served a
  s a writer. He will be starring in the upcoming limited...
 DTEND;VALUE=DATE:20250711
 DTSTART;VALUE=DATE:20250711
 SUMMARY:Jimmy O. Yang
-UID:e0f68c09-56d7-4108-b0c8-25ab7ef039cb
+UID:336cac89-c9f6-43e4-bef1-bd1006d12069
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
+DTSTAMP:20250709T022216Z
 DESCRIPTION:Find tickets for DJ Moma at Boxpark Wembley in London on 7/12/2
  025 at 3:00 PM
 DTEND;VALUE=DATE:20250712
 DTSTART;VALUE=DATE:20250712
 SUMMARY:DJ mOma
-UID:be846bf5-10ff-44d0-a29a-9bda3ea6bf89
+UID:1655b042-177c-47ff-8a93-b2ef3e797a70
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
+DTSTAMP:20250709T022216Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 7/11/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250711
 DTSTART;VALUE=DATE:20250711
 SUMMARY:Starlight Express
-UID:37b56cdf-4666-4346-935c-fefc838ce692
+UID:4ee6ecf7-22c3-4d72-9cee-f1f65354c446
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
-DESCRIPTION:Boogietown Leslie Sebastian Charles, aka Billy Ocean, was born 
- in Fyzabad, Trinidad and Tobago and moved to England with his family at th
- e age of eight. In his teenage years, he sang regularly in...
-DTEND;VALUE=DATE:20250712
-DTSTART;VALUE=DATE:20250712
-SUMMARY:Billy Ocean
-UID:e4fc584a-99fe-4661-bd0b-33ac6f0f9384
+DTSTAMP:20250709T022216Z
+DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
+ hers bring back their iconic anthems
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Oasis
+UID:eb42a1fc-c2f2-4d9f-ba00-c7b240e8eb5e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
-DESCRIPTION:Kew The Music: Gipsy Kings featuring Nicolas Reyes The Gipsy Ki
- ngs featuring Nicolas Reyes showcases the long-time original voice of the b
- and performing all the original Gipsy Kings music in its...
-DTEND;VALUE=DATE:20250713
-DTSTART;VALUE=DATE:20250713
-SUMMARY:Nicolas Reyes
-UID:491b29e9-f5fa-4f5b-8305-82960864c5d2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
+DTSTAMP:20250709T022216Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:eab73daa-1cd1-4cf6-8205-3524b078cb5b
+UID:0c61cf8b-105f-4841-ba37-e54ea90a3077
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
+DTSTAMP:20250709T022216Z
 DESCRIPTION:Sure, Kew Gardens is maybe London’s most iconic setting to en
  joy some horticultural marvels and catch some rays, but it’s also home to
   this fun little music festival, which is looking to be a...
-DTEND;VALUE=DATE:20250708
-DTSTART;VALUE=DATE:20250708
+DTEND;VALUE=DATE:20250709
+DTSTART;VALUE=DATE:20250709
 SUMMARY:Craig David Presents Ts5
-UID:33d376da-f350-4d2c-9fe9-39c32cffcf30
+UID:4bda7805-c7bf-48b6-948c-4ec30552014f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250708T022042Z
-DESCRIPTION:Oasis reunites for five electrifying nights. The Gallagher brot
- hers bring back their iconic anthems, reigniting Britpop's spirit
-DTEND;VALUE=DATE:20250730
-DTSTART;VALUE=DATE:20250730
+DTSTAMP:20250709T022216Z
+DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
+ 2025 at 5:00 PM
+DTEND;VALUE=DATE:20250822
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Coldplay
+UID:25eefcf5-3220-44f7-a420-6fddb463c299
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250709T022216Z
+DESCRIPTION:Oasis - Tour 2025 span 04/07/2025 Cardiff span 05/07/2025 Cardi
+ ff span 11/07/2025 Manchester span 12/07/2025 Manchester span 16/07/2025 Ma
+ nchester span 19/07/2025 Manchester span 20/07/2025...
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250725
 SUMMARY:Oasis
-UID:15630ebc-4b51-4245-b2ac-b696fa14504f
+UID:5ec7ffde-4c98-41a7-a184-791326f559c9
 END:VEVENT
 END:VCALENDAR
