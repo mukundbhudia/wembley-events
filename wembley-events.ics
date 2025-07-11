@@ -3,98 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
+DTSTAMP:20250711T022526Z
 DESCRIPTION:Legendary Punjabi artiste, Gurdas Maan, returns to the UK this 
  July in what is set to be an unprecedented series of shows. Maan's 2025 UK 
  tour is aptly titled 'Yaar Punjabi' since his last...
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
 SUMMARY:Gurdas Maan
-UID:7ab10ff8-9bdd-450b-848c-d842e5df5c54
+UID:f26163ad-251e-474f-acab-e2ef05bd996f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
+DTSTAMP:20250711T022526Z
 DESCRIPTION:Watch G.V Prakash & Radhika Kumar live in London at the OVO Are
  na Wembley on 12-th-Jul-Sat-25 @7.30pm. Get more details and book at Halibu
  ts.com | Halibuts
 DTEND;VALUE=DATE:20250712
 DTSTART;VALUE=DATE:20250712
 SUMMARY:G. V. Prakash Kumar
-UID:6db3c1be-5ff4-4952-bd2d-499cb37b9535
+UID:de5636d5-d50d-4a45-aa01-39ab91914b12
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
+DTSTAMP:20250711T022526Z
 DESCRIPTION:Jimmy O. Yang is a Hong Kong-American actor and stand-up comedi
  an, best known for starring as Jian-Yang in the HBO comedy series "Silicon 
  Valley", as well as Dr. Chan Kaifang in the Netflix comedy...
 DTEND;VALUE=DATE:20250711
 DTSTART;VALUE=DATE:20250711
 SUMMARY:Jimmy O. Yang
-UID:c732d8a3-cfde-4233-be8c-2fc38d683aa2
+UID:fd176e6f-5b0c-42a1-afac-4d1cf0ff9c8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
+DTSTAMP:20250711T022526Z
 DESCRIPTION:Find tickets for DJ Moma at Boxpark Wembley in London on 7/12/2
  025 at 3:00 PM
 DTEND;VALUE=DATE:20250712
 DTSTART;VALUE=DATE:20250712
 SUMMARY:DJ mOma
-UID:bf749791-2ca5-4706-b4fd-b849ba53cbc8
+UID:3ee7026d-89eb-48ad-9b0e-6eefda56950a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
+DTSTAMP:20250711T022526Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 7/11/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250711
 DTSTART;VALUE=DATE:20250711
 SUMMARY:Starlight Express
-UID:c2f9dd02-08ea-4c10-8d0a-01533b4fd682
+UID:0d906f55-bae1-43c9-94a4-afa729377d48
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
+DTSTAMP:20250711T022526Z
+DESCRIPTION:No description
+DTEND;VALUE=DATE:20250713
+DTSTART;VALUE=DATE:20250713
+SUMMARY:Selhurst Park Stadium Tour
+UID:f5fe6de3-6845-48f9-9b2d-38e86256ff2d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250711T022526Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:4240ccfe-4ac3-4c6e-aac0-33c7a9e512a5
+UID:8a0ee478-dc2e-4ed9-9019-bc3c29081e27
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
+DTSTAMP:20250711T022526Z
 DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
  hers bring back their iconic anthems
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:d971cda6-9022-4525-b765-1b3d73da3162
+UID:6df50a24-1279-4a9d-a698-3522395d7b81
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
+DTSTAMP:20250711T022526Z
 DESCRIPTION:Sure, Kew Gardens is maybe London’s most iconic setting to en
  joy some horticultural marvels and catch some rays, but it’s also home to
   this fun little music festival, which is looking to be a...
-DTEND;VALUE=DATE:20250710
-DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+DTSTART;VALUE=DATE:20250711
 SUMMARY:Craig David Presents Ts5
-UID:50442f0e-92d2-4604-8d46-475e9ba9ae29
+UID:5f8702c2-e32e-4949-855d-47d76200bc26
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
+DTSTAMP:20250711T022526Z
 DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
  2025 at 5:00 PM
 DTEND;VALUE=DATE:20250822
 DTSTART;VALUE=DATE:20250822
 SUMMARY:Coldplay
-UID:fb0b54c9-6500-43f8-8122-46960e1e5115
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250710T022217Z
-DESCRIPTION:Oasis have announced their long-awaited reunion tour stopping a
- t the iconic Wembley Stadium. Enquire today for the best seats in the house
- .
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Oasis
-UID:8017d825-bc92-47a1-a22d-1b0244d63163
+UID:15e6cefc-17f5-4f5c-8421-0ea15942bc16
 END:VEVENT
 END:VCALENDAR
