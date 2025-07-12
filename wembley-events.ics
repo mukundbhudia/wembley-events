@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
+DTSTAMP:20250712T022537Z
 DESCRIPTION:Legendary Punjabi artiste, Gurdas Maan, returns to the UK this 
  July in what is set to be an unprecedented series of shows. Maan's 2025 UK 
  tour is aptly titled 'Yaar Punjabi' since his last...
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
 SUMMARY:Gurdas Maan
-UID:f26163ad-251e-474f-acab-e2ef05bd996f
+UID:0b6702e7-34c5-4463-80b2-752b355758c2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
-DESCRIPTION:Watch G.V Prakash & Radhika Kumar live in London at the OVO Are
- na Wembley on 12-th-Jul-Sat-25 @7.30pm. Get more details and book at Halibu
- ts.com | Halibuts
+DTSTAMP:20250712T022537Z
+DESCRIPTION:G. V. Prakash is an Indian music composer, playback singer, act
+ or, and film producer known for his work in Tamil cinema.
 DTEND;VALUE=DATE:20250712
 DTSTART;VALUE=DATE:20250712
-SUMMARY:G. V. Prakash Kumar
-UID:de5636d5-d50d-4a45-aa01-39ab91914b12
+SUMMARY:G.V Prakash Kumar
+UID:5d55e55a-1f3b-4dac-9052-32e25d5ca2d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
-DESCRIPTION:Jimmy O. Yang is a Hong Kong-American actor and stand-up comedi
- an, best known for starring as Jian-Yang in the HBO comedy series "Silicon 
- Valley", as well as Dr. Chan Kaifang in the Netflix comedy...
-DTEND;VALUE=DATE:20250711
-DTSTART;VALUE=DATE:20250711
-SUMMARY:Jimmy O. Yang
-UID:fd176e6f-5b0c-42a1-afac-4d1cf0ff9c8e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
+DTSTAMP:20250712T022537Z
 DESCRIPTION:Find tickets for DJ Moma at Boxpark Wembley in London on 7/12/2
  025 at 3:00 PM
 DTEND;VALUE=DATE:20250712
 DTSTART;VALUE=DATE:20250712
 SUMMARY:DJ mOma
-UID:3ee7026d-89eb-48ad-9b0e-6eefda56950a
+UID:b9285df1-44f2-45fb-82c1-6cec38d6073d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
+DTSTAMP:20250712T022537Z
+DESCRIPTION:LONDON TOWN! Saturday, July 12th we are back for another bange
+ r at @ Boxpark Wembley! Music by DJ mOma, Mister S, Elladhc, Gadget, Donni
+ e Sunshine & Beatriixx Hosted by Gitoo, Gadget, Maine...
+DTEND;VALUE=DATE:20250712
+DTSTART;VALUE=DATE:20250712
+SUMMARY:Everyday People London
+UID:0e46bc34-9ee4-47be-96af-6ec80df26868
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250712T022537Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 7/11/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250711
-DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+DTSTART;VALUE=DATE:20250712
 SUMMARY:Starlight Express
-UID:0d906f55-bae1-43c9-94a4-afa729377d48
+UID:f0cfe960-1426-4ec5-8649-94ad90472433
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
+DTSTAMP:20250712T022537Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 7/13/2025 at 5:30 PM
+DTEND;VALUE=DATE:20250713
+DTSTART;VALUE=DATE:20250713
+SUMMARY:Starlight Express
+UID:a259b4b9-cfdf-45e2-b33b-9a6ec6ac3b1d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250712T022537Z
+DESCRIPTION:Sure, Kew Gardens is maybe London’s most iconic setting to en
+ joy some horticultural marvels and catch some rays, but it’s also home to
+  this fun little music festival, which is looking to be a...
+DTEND;VALUE=DATE:20250712
+DTSTART;VALUE=DATE:20250712
+SUMMARY:Craig David Presents Ts5
+UID:d2544e22-2a0a-49bb-8ff0-08d47c3753c1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250712T022537Z
+DESCRIPTION:Kew The Music: Gipsy Kings featuring Nicolas Reyes The Gipsy Ki
+ ngs featuring Nicolas Reyes showcases the long-time original voice of the b
+ and performing all the original Gipsy Kings music in its...
+DTEND;VALUE=DATE:20250713
+DTSTART;VALUE=DATE:20250713
+SUMMARY:Nicolas Reyes
+UID:955d8890-54ff-4bda-b746-be4616e54c9e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250712T022537Z
 DESCRIPTION:No description
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
 SUMMARY:Selhurst Park Stadium Tour
-UID:f5fe6de3-6845-48f9-9b2d-38e86256ff2d
+UID:5769afb0-df10-4d6a-a041-a870b5cd918d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
+DTSTAMP:20250712T022537Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:8a0ee478-dc2e-4ed9-9019-bc3c29081e27
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
-DESCRIPTION:Oasis reunites for four electrifying nights. The Gallagher brot
- hers bring back their iconic anthems
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Oasis
-UID:6df50a24-1279-4a9d-a698-3522395d7b81
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
-DESCRIPTION:Sure, Kew Gardens is maybe London’s most iconic setting to en
- joy some horticultural marvels and catch some rays, but it’s also home to
-  this fun little music festival, which is looking to be a...
-DTEND;VALUE=DATE:20250711
-DTSTART;VALUE=DATE:20250711
-SUMMARY:Craig David Presents Ts5
-UID:5f8702c2-e32e-4949-855d-47d76200bc26
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250711T022526Z
-DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
- 2025 at 5:00 PM
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
-SUMMARY:Coldplay
-UID:15e6cefc-17f5-4f5c-8421-0ea15942bc16
+UID:a53faa30-16b9-4b51-909c-3333b2dfeb10
 END:VEVENT
 END:VCALENDAR
