@@ -3,96 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
+DTSTAMP:20250713T023446Z
 DESCRIPTION:Legendary Punjabi artiste, Gurdas Maan, returns to the UK this 
  July in what is set to be an unprecedented series of shows. Maan's 2025 UK 
  tour is aptly titled 'Yaar Punjabi' since his last...
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
 SUMMARY:Gurdas Maan
-UID:0b6702e7-34c5-4463-80b2-752b355758c2
+UID:ee970d82-167d-4ad1-9a93-342f3ca289b9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
+DTSTAMP:20250713T023446Z
 DESCRIPTION:G. V. Prakash is an Indian music composer, playback singer, act
  or, and film producer known for his work in Tamil cinema.
-DTEND;VALUE=DATE:20250712
-DTSTART;VALUE=DATE:20250712
-SUMMARY:G.V Prakash Kumar
-UID:5d55e55a-1f3b-4dac-9052-32e25d5ca2d7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
-DESCRIPTION:Find tickets for DJ Moma at Boxpark Wembley in London on 7/12/2
- 025 at 3:00 PM
-DTEND;VALUE=DATE:20250712
-DTSTART;VALUE=DATE:20250712
-SUMMARY:DJ mOma
-UID:b9285df1-44f2-45fb-82c1-6cec38d6073d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
-DESCRIPTION:LONDON TOWN! Saturday, July 12th we are back for another bange
- r at @ Boxpark Wembley! Music by DJ mOma, Mister S, Elladhc, Gadget, Donni
- e Sunshine & Beatriixx Hosted by Gitoo, Gadget, Maine...
-DTEND;VALUE=DATE:20250712
-DTSTART;VALUE=DATE:20250712
-SUMMARY:Everyday People London
-UID:0e46bc34-9ee4-47be-96af-6ec80df26868
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 7/11/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250712
-DTSTART;VALUE=DATE:20250712
-SUMMARY:Starlight Express
-UID:f0cfe960-1426-4ec5-8649-94ad90472433
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 7/13/2025 at 5:30 PM
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
-SUMMARY:Starlight Express
-UID:a259b4b9-cfdf-45e2-b33b-9a6ec6ac3b1d
+SUMMARY:G.V Prakash Kumar
+UID:9820edad-d4f8-411a-8754-8e4a8daa8993
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
+DTSTAMP:20250713T023446Z
+DESCRIPTION:Experience 'Done' at the Troubadour Wembley Park Theatre, a cel
+ ebrated venue in London. This modern theatre, boasts a capacity of over 1,0
+ 00 seats and state-of-the-art facilities, providing an...
+DTEND;VALUE=DATE:20250713
+DTSTART;VALUE=DATE:20250713
+SUMMARY:Done
+UID:5af6fc09-f5f6-488a-ad74-7516148852d5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250713T023446Z
 DESCRIPTION:Sure, Kew Gardens is maybe London’s most iconic setting to en
  joy some horticultural marvels and catch some rays, but it’s also home to
   this fun little music festival, which is looking to be a...
-DTEND;VALUE=DATE:20250712
-DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+DTSTART;VALUE=DATE:20250713
 SUMMARY:Craig David Presents Ts5
-UID:d2544e22-2a0a-49bb-8ff0-08d47c3753c1
+UID:98cf8359-53f8-41e1-9860-c0d6387ec647
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
+DTSTAMP:20250713T023446Z
 DESCRIPTION:Kew The Music: Gipsy Kings featuring Nicolas Reyes The Gipsy Ki
  ngs featuring Nicolas Reyes showcases the long-time original voice of the b
  and performing all the original Gipsy Kings music in its...
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
 SUMMARY:Nicolas Reyes
-UID:955d8890-54ff-4bda-b746-be4616e54c9e
+UID:69c20a5b-6f8d-497a-b4d7-f50d597668b9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
+DTSTAMP:20250713T023446Z
 DESCRIPTION:No description
 DTEND;VALUE=DATE:20250713
 DTSTART;VALUE=DATE:20250713
 SUMMARY:Selhurst Park Stadium Tour
-UID:5769afb0-df10-4d6a-a041-a870b5cd918d
+UID:cf8bf283-91c3-42c2-8882-d86e057bd429
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250712T022537Z
+DTSTAMP:20250713T023446Z
+DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
+ 2025 at 5:00 PM
+DTEND;VALUE=DATE:20250822
+DTSTART;VALUE=DATE:20250822
+SUMMARY:Coldplay
+UID:b037ee57-8689-44c0-87fa-d28c351d79ab
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250713T023446Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:a53faa30-16b9-4b51-909c-3333b2dfeb10
+UID:2df1f718-d472-4cbd-9b40-2cc5ef3f7490
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250713T023446Z
+DESCRIPTION:Oasis have announced their long-awaited reunion tour stopping a
+ t the iconic Wembley Stadium. Enquire today for the best seats in the house
+ .
+DTEND;VALUE=DATE:20250928
+DTSTART;VALUE=DATE:20250928
+SUMMARY:Oasis
+UID:cac9d772-5f2d-4dc6-aad7-737d443195c2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250713T023446Z
+DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
+ nion tour. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Oasis
+UID:6c3171a7-a275-4ad9-888a-3473f365819a
 END:VEVENT
 END:VCALENDAR
