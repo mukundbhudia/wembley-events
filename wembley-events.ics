@@ -3,97 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
-DESCRIPTION:Legendary Punjabi artiste, Gurdas Maan, returns to the UK this 
- July in what is set to be an unprecedented series of shows. Maan's 2025 UK 
- tour is aptly titled 'Yaar Punjabi' since his last...
-DTEND;VALUE=DATE:20250713
-DTSTART;VALUE=DATE:20250713
-SUMMARY:Gurdas Maan
-UID:ee970d82-167d-4ad1-9a93-342f3ca289b9
+DTSTAMP:20250714T023001Z
+DESCRIPTION:Organisers Miles Franklin of Sunshine Horizon Promotions and He
+ ritage Music Group has put together an amazing line-up of artists from all 
+ over the world. Jamaica, USA, France, UK, Cuba, South...
+DTEND;VALUE=DATE:20250720
+DTSTART;VALUE=DATE:20250720
+SUMMARY:One World Music Festival
+UID:2b72a847-2f41-4d0d-b774-4d38798a15a8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
-DESCRIPTION:G. V. Prakash is an Indian music composer, playback singer, act
- or, and film producer known for his work in Tamil cinema.
-DTEND;VALUE=DATE:20250713
-DTSTART;VALUE=DATE:20250713
-SUMMARY:G.V Prakash Kumar
-UID:9820edad-d4f8-411a-8754-8e4a8daa8993
+DTSTAMP:20250714T023001Z
+DESCRIPTION:AEG Presents is thrilled to announce that rock'n'roll legends L
+ ynyrd Skynyrd are set to make their triumphant return to the United Kingdo
+ m in July this year. The upcoming arena tour marks their...
+DTEND;VALUE=DATE:20250719
+DTSTART;VALUE=DATE:20250719
+SUMMARY:Blackberry Smoke
+UID:bf382889-ad2b-40f8-bc78-904f7666d135
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
-DESCRIPTION:Experience 'Done' at the Troubadour Wembley Park Theatre, a cel
- ebrated venue in London. This modern theatre, boasts a capacity of over 1,0
- 00 seats and state-of-the-art facilities, providing an...
-DTEND;VALUE=DATE:20250713
-DTSTART;VALUE=DATE:20250713
-SUMMARY:Done
-UID:5af6fc09-f5f6-488a-ad74-7516148852d5
+DTSTAMP:20250714T023001Z
+DESCRIPTION:Bad Friends with comedians Andrew Santino and Bobby Lee bring t
+ he #1 comedy podcast in the world to the live stage for an evening of stand
+ -up comedy, half truths, social no-no's and animal...
+DTEND;VALUE=DATE:20250718
+DTSTART;VALUE=DATE:20250718
+SUMMARY:Bad Friends with Andrew Santino and Bobby Lee
+UID:d255ae4c-9dde-4f59-bfad-27dd30f14425
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
-DESCRIPTION:Sure, Kew Gardens is maybe London’s most iconic setting to en
- joy some horticultural marvels and catch some rays, but it’s also home to
-  this fun little music festival, which is looking to be a...
-DTEND;VALUE=DATE:20250713
-DTSTART;VALUE=DATE:20250713
-SUMMARY:Craig David Presents Ts5
-UID:98cf8359-53f8-41e1-9860-c0d6387ec647
+DTSTAMP:20250714T023001Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 7/17/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250717
+DTSTART;VALUE=DATE:20250717
+SUMMARY:Starlight Express
+UID:37392246-e283-419f-b547-44601963f71c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
-DESCRIPTION:Kew The Music: Gipsy Kings featuring Nicolas Reyes The Gipsy Ki
- ngs featuring Nicolas Reyes showcases the long-time original voice of the b
- and performing all the original Gipsy Kings music in its...
-DTEND;VALUE=DATE:20250713
-DTSTART;VALUE=DATE:20250713
-SUMMARY:Nicolas Reyes
-UID:69c20a5b-6f8d-497a-b4d7-f50d597668b9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
+DTSTAMP:20250714T023001Z
 DESCRIPTION:No description
-DTEND;VALUE=DATE:20250713
-DTSTART;VALUE=DATE:20250713
-SUMMARY:Selhurst Park Stadium Tour
-UID:cf8bf283-91c3-42c2-8882-d86e057bd429
+DTEND;VALUE=DATE:20250720
+DTSTART;VALUE=DATE:20250720
+SUMMARY:Done
+UID:363b6eb9-c593-4fea-9e61-efa0b8d5e851
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
+DTSTAMP:20250714T023001Z
+DESCRIPTION:Done at Troubadour Wembley Park Theatre London Thursday 17th o
+ f July 2025 19:30
+DTEND;VALUE=DATE:20250716
+DTSTART;VALUE=DATE:20250716
+SUMMARY:Done
+UID:ea3782f8-09b3-4aec-a665-aecf2df8283f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T023001Z
+DESCRIPTION:Presented by Disorder one of London's hottest indie clubnights 
+ comes a series of special Oasis Wembley aftershow parties at Crystal Club, 
+ 1 minute walk from Wembley Stadium. Join us where we'll be...
+DTEND;VALUE=DATE:20250726
+DTSTART;VALUE=DATE:20250726
+SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
+UID:ab14c8d0-3f4c-49f6-b265-b30350520ea8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T023001Z
 DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
  2025 at 5:00 PM
 DTEND;VALUE=DATE:20250822
 DTSTART;VALUE=DATE:20250822
 SUMMARY:Coldplay
-UID:b037ee57-8689-44c0-87fa-d28c351d79ab
+UID:d9e6d437-8f09-4b58-bb53-9b3090d22ea1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
+DTSTAMP:20250714T023001Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:2df1f718-d472-4cbd-9b40-2cc5ef3f7490
+UID:530a6490-c954-4435-a6d7-c6f473de1ba3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
-DESCRIPTION:Oasis have announced their long-awaited reunion tour stopping a
- t the iconic Wembley Stadium. Enquire today for the best seats in the house
- .
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Oasis
-UID:cac9d772-5f2d-4dc6-aad7-737d443195c2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250713T023446Z
-DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
- nion tour. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250927
-DTSTART;VALUE=DATE:20250927
-SUMMARY:Oasis
-UID:6c3171a7-a275-4ad9-888a-3473f365819a
+DTSTAMP:20250714T023001Z
+DESCRIPTION:The Dualers Return home to South East London for their 2025 tou
+ r featuring new tracks from their upcoming \'Beach Life\' album. \n
+DTEND;VALUE=DATE:20250719
+DTSTART;VALUE=DATE:20250719
+SUMMARY:The Dualers
+UID:8e7660b5-8e0d-4a21-8e96-8e2c39182404
 END:VEVENT
 END:VCALENDAR
