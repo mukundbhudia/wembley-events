@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
+DTSTAMP:20250715T022910Z
 DESCRIPTION:Organisers Miles Franklin of Sunshine Horizon Promotions and He
  ritage Music Group has put together an amazing line-up of artists from all 
  over the world. Jamaica, USA, France, UK, Cuba, South...
 DTEND;VALUE=DATE:20250720
 DTSTART;VALUE=DATE:20250720
 SUMMARY:One World Music Festival
-UID:2b72a847-2f41-4d0d-b774-4d38798a15a8
+UID:4ee86b07-b005-43d8-a19b-4f10f603e25f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
+DTSTAMP:20250715T022910Z
 DESCRIPTION:AEG Presents is thrilled to announce that rock'n'roll legends L
  ynyrd Skynyrd are set to make their triumphant return to the United Kingdo
  m in July this year. The upcoming arena tour marks their...
 DTEND;VALUE=DATE:20250719
 DTSTART;VALUE=DATE:20250719
 SUMMARY:Blackberry Smoke
-UID:bf382889-ad2b-40f8-bc78-904f7666d135
+UID:2c9aab8b-4722-443b-9e50-e051ccf1d106
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
+DTSTAMP:20250715T022910Z
 DESCRIPTION:Bad Friends with comedians Andrew Santino and Bobby Lee bring t
  he #1 comedy podcast in the world to the live stage for an evening of stand
  -up comedy, half truths, social no-no's and animal...
 DTEND;VALUE=DATE:20250718
 DTSTART;VALUE=DATE:20250718
 SUMMARY:Bad Friends with Andrew Santino and Bobby Lee
-UID:d255ae4c-9dde-4f59-bfad-27dd30f14425
+UID:3468f652-f29a-439f-b60a-91c60c96794b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
+DTSTAMP:20250715T022910Z
+DESCRIPTION:Done at Troubadour Wembley Park Theatre London Saturday 19th o
+ f July 2025 19:30
+DTEND;VALUE=DATE:20250719
+DTSTART;VALUE=DATE:20250719
+SUMMARY:Done
+UID:4ecb77ab-8567-4e3b-b89e-73bd92d58b84
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250715T022910Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 7/17/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250717
 DTSTART;VALUE=DATE:20250717
 SUMMARY:Starlight Express
-UID:37392246-e283-419f-b547-44601963f71c
+UID:7ab7cfb6-db29-4875-8f8c-0c710e8da3ec
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
+DTSTAMP:20250715T022910Z
 DESCRIPTION:No description
 DTEND;VALUE=DATE:20250720
 DTSTART;VALUE=DATE:20250720
 SUMMARY:Done
-UID:363b6eb9-c593-4fea-9e61-efa0b8d5e851
+UID:947049c7-b324-4a82-ac15-593a00aa69ef
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
+DTSTAMP:20250715T022910Z
 DESCRIPTION:Done at Troubadour Wembley Park Theatre London Thursday 17th o
  f July 2025 19:30
 DTEND;VALUE=DATE:20250716
 DTSTART;VALUE=DATE:20250716
 SUMMARY:Done
-UID:ea3782f8-09b3-4aec-a665-aecf2df8283f
+UID:8d93e0ec-f494-4be2-9edd-0fe85df3f4a5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
+DTSTAMP:20250715T022910Z
 DESCRIPTION:Presented by Disorder one of London's hottest indie clubnights 
  comes a series of special Oasis Wembley aftershow parties at Crystal Club, 
  1 minute walk from Wembley Stadium. Join us where we'll be...
 DTEND;VALUE=DATE:20250726
 DTSTART;VALUE=DATE:20250726
 SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
-UID:ab14c8d0-3f4c-49f6-b265-b30350520ea8
+UID:6410a675-d1c5-418f-9ba6-511424d2ff68
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
-DESCRIPTION:Find tickets for Coldplay at Wembley Stadium in London on 8/22/
- 2025 at 5:00 PM
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
-SUMMARY:Coldplay
-UID:d9e6d437-8f09-4b58-bb53-9b3090d22ea1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
+DTSTAMP:20250715T022910Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:530a6490-c954-4435-a6d7-c6f473de1ba3
+UID:53d59c82-d7c1-48cd-91cb-292695f02f5e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250714T023001Z
+DTSTAMP:20250715T022910Z
 DESCRIPTION:The Dualers Return home to South East London for their 2025 tou
  r featuring new tracks from their upcoming \'Beach Life\' album. \n
 DTEND;VALUE=DATE:20250719
 DTSTART;VALUE=DATE:20250719
 SUMMARY:The Dualers
-UID:8e7660b5-8e0d-4a21-8e96-8e2c39182404
+UID:c0a368df-4bf6-4673-bed4-401d2214c235
 END:VEVENT
 END:VCALENDAR
