@@ -3,98 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
+DTSTAMP:20250719T022156Z
 DESCRIPTION:Organisers Miles Franklin of Sunshine Horizon Promotions and He
  ritage Music Group has put together an amazing line-up of artists from all 
  over the world. Jamaica, USA, France, UK, Cuba, South...
 DTEND;VALUE=DATE:20250720
 DTSTART;VALUE=DATE:20250720
 SUMMARY:One World Music Festival
-UID:3f5fb300-d1fb-4e52-8b40-1422873562eb
+UID:4401f939-271a-4034-af69-e8db253efc4f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
+DTSTAMP:20250719T022156Z
 DESCRIPTION:AEG Presents is thrilled to announce that rock'n'roll legends L
  ynyrd Skynyrd are set to make their triumphant return to the United Kingdo
  m in July this year. The upcoming arena tour marks their...
 DTEND;VALUE=DATE:20250719
 DTSTART;VALUE=DATE:20250719
-SUMMARY:Blackberry Smoke
-UID:92d07b00-7a79-43b1-99bc-3d483510e36b
+SUMMARY:Lynyrd Skynyrd - Tour 2025
+UID:6a144b9e-d6c3-4fad-b0a6-06afefe909db
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
+DTSTAMP:20250719T022156Z
 DESCRIPTION:Done at Troubadour Wembley Park Theatre London Saturday 19th o
  f July 2025 19:30
 DTEND;VALUE=DATE:20250719
 DTSTART;VALUE=DATE:20250719
 SUMMARY:Done
-UID:7eb7716b-8153-42f2-8098-3c96bced482b
+UID:ec79c85f-0e3d-456e-8393-ae16e51576d4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
-DESCRIPTION:Bad Friends with comedians Andrew Santino and Bobby Lee bring t
- he #1 comedy podcast in the world to the live stage for an evening of stand
- -up comedy, half truths, social no-no's and animal...
-DTEND;VALUE=DATE:20250718
-DTSTART;VALUE=DATE:20250718
-SUMMARY:Bad Friends with Andrew Santino and Bobby Lee
-UID:6e1ce365-34d0-4619-a4b6-3a7c735af82c
+DTSTAMP:20250719T022156Z
+DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
+ isiting Wembley Stadium. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Oasis
+UID:3fea7ccd-600e-47ad-8255-cd1afa72fa30
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
+DTSTAMP:20250719T022156Z
+DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
+ in London on 7/25/2025 at 5:00 PM
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Richard Ashcroft with Cast
+UID:2060ae55-a943-4291-a916-a929e80c05b3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250719T022156Z
 DESCRIPTION:Presented by Disorder one of London's hottest indie clubnights 
  comes a series of special Oasis Wembley aftershow parties at Crystal Club, 
  1 minute walk from Wembley Stadium. Join us where we'll be...
 DTEND;VALUE=DATE:20250725
 DTSTART;VALUE=DATE:20250725
 SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
-UID:42370a8f-11b0-4784-8d77-1d6165a8f2fe
+UID:6f53f6bc-8265-4b3d-b1e4-d4b48207fc03
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
-DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
- isiting Wembley Stadium. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250802
-DTSTART;VALUE=DATE:20250802
-SUMMARY:Oasis
-UID:37e6dce2-9423-41da-9ca8-77d03a5e57a2
+DTSTAMP:20250719T022156Z
+DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
+ er" will take place in London. Dimash performs songs in Kazakh, English, Ru
+ ssian, French, Chinese, Spanish, and Italian across a wide...
+DTEND;VALUE=DATE:20251112
+DTSTART;VALUE=DATE:20251112
+SUMMARY:Dimash Qudaibergen
+UID:60da2fcc-2898-4309-a2b6-85d35abca325
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
-DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
- in London on 7/25/2025 at 5:00 PM
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:Richard Ashcroft with Cast
-UID:ae40b2d0-25db-4a42-9fcd-1c8f57d579c3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
-DESCRIPTION:The Dualers Return home to South East London for their 2025 tou
- r featuring new tracks from their upcoming \'Beach Life\' album. \n
-DTEND;VALUE=DATE:20250719
-DTSTART;VALUE=DATE:20250719
-SUMMARY:The Dualers
-UID:41792802-7ffc-4526-9b83-505cb0bf359f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
+DTSTAMP:20250719T022156Z
 DESCRIPTION:Oasis - Tour 2025 span 04/07/2025 Cardiff span 05/07/2025 Cardi
  ff span 11/07/2025 Manchester span 12/07/2025 Manchester span 16/07/2025 Ma
  nchester span 19/07/2025 Manchester span 20/07/2025...
 DTEND;VALUE=DATE:20250726
 DTSTART;VALUE=DATE:20250726
 SUMMARY:Oasis
-UID:2c523cbd-bd63-4dbc-9574-6533d2d413be
+UID:5b7df52b-577d-480f-9b26-50118d1d34e6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250718T022802Z
-DESCRIPTION:Oasis will return to Wembley Stadium for their long-awaited reu
- nion tour. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250927
-DTSTART;VALUE=DATE:20250927
-SUMMARY:Oasis
-UID:f656e280-b063-4f37-a233-1ef47a074a7d
+DTSTAMP:20250719T022156Z
+DESCRIPTION:The Dualers Return home to South East London for their 2025 tou
+ r featuring new tracks from their upcoming \'Beach Life\' album. \n
+DTEND;VALUE=DATE:20250719
+DTSTART;VALUE=DATE:20250719
+SUMMARY:The Dualers
+UID:bc1aed72-934b-42b7-b60c-c4a451732214
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250719T022156Z
+DESCRIPTION:Wembley Stadium, Empire Way, Wembley, HA9 0WS
+DTEND;VALUE=DATE:20250719
+DTSTART;VALUE=DATE:20250719
+SUMMARY:Oleksandr Usyk - Daniel Dubois
+UID:d727e1f1-2f5a-43e1-a7cc-4c60dc246f8a
 END:VEVENT
 END:VCALENDAR
