@@ -3,97 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
+DTSTAMP:20250720T023708Z
 DESCRIPTION:Organisers Miles Franklin of Sunshine Horizon Promotions and He
  ritage Music Group has put together an amazing line-up of artists from all 
  over the world. Jamaica, USA, France, UK, Cuba, South...
 DTEND;VALUE=DATE:20250720
 DTSTART;VALUE=DATE:20250720
 SUMMARY:One World Music Festival
-UID:4401f939-271a-4034-af69-e8db253efc4f
+UID:3b887dff-9db7-4df6-aae7-cb2d6ded56c8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
-DESCRIPTION:AEG Presents is thrilled to announce that rock'n'roll legends L
- ynyrd Skynyrd are set to make their triumphant return to the United Kingdo
- m in July this year. The upcoming arena tour marks their...
-DTEND;VALUE=DATE:20250719
-DTSTART;VALUE=DATE:20250719
-SUMMARY:Lynyrd Skynyrd - Tour 2025
-UID:6a144b9e-d6c3-4fad-b0a6-06afefe909db
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
-DESCRIPTION:Done at Troubadour Wembley Park Theatre London Saturday 19th o
- f July 2025 19:30
-DTEND;VALUE=DATE:20250719
-DTSTART;VALUE=DATE:20250719
-SUMMARY:Done
-UID:ec79c85f-0e3d-456e-8393-ae16e51576d4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
+DTSTAMP:20250720T023708Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:3fea7ccd-600e-47ad-8255-cd1afa72fa30
+UID:8cdc44c7-155e-4ebb-8cfa-2ab8daa0908b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
+DTSTAMP:20250720T023708Z
 DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
  in London on 7/25/2025 at 5:00 PM
 DTEND;VALUE=DATE:20250725
 DTSTART;VALUE=DATE:20250725
 SUMMARY:Richard Ashcroft with Cast
-UID:2060ae55-a943-4291-a916-a929e80c05b3
+UID:12ac8b01-214a-4644-a6d0-73a243be7173
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
-DESCRIPTION:Presented by Disorder one of London's hottest indie clubnights 
- comes a series of special Oasis Wembley aftershow parties at Crystal Club, 
- 1 minute walk from Wembley Stadium. Join us where we'll be...
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
-UID:6f53f6bc-8265-4b3d-b1e4-d4b48207fc03
+DTSTAMP:20250720T023708Z
+DESCRIPTION:"Join Ms. Appleberry, JJ, Cody, Nina and Cece for a lively Melo
+ n Patch musical adventure in this exciting touring production. This interac
+ tive live show brings CoComelon's vibrant world to life...
+DTEND;VALUE=DATE:20250720
+DTSTART;VALUE=DATE:20250720
+SUMMARY:Cocomelon Sing-Along Live
+UID:8c8876fe-2dd1-4b9a-88ae-f6bf84974c00
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
+DTSTAMP:20250720T023708Z
+DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
+ light up London's Wembley Stadium. Enquire today with Hospitality Finder.
+DTEND;VALUE=DATE:20250831
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Coldplay
+UID:55d7fb96-09dc-4b86-9d3b-da3fb617351f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250720T023708Z
 DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
  er" will take place in London. Dimash performs songs in Kazakh, English, Ru
  ssian, French, Chinese, Spanish, and Italian across a wide...
 DTEND;VALUE=DATE:20251112
 DTSTART;VALUE=DATE:20251112
 SUMMARY:Dimash Qudaibergen
-UID:60da2fcc-2898-4309-a2b6-85d35abca325
+UID:e2f9ed1c-165c-473b-96d6-b71ac97a515a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
+DTSTAMP:20250720T023708Z
 DESCRIPTION:Oasis - Tour 2025 span 04/07/2025 Cardiff span 05/07/2025 Cardi
  ff span 11/07/2025 Manchester span 12/07/2025 Manchester span 16/07/2025 Ma
  nchester span 19/07/2025 Manchester span 20/07/2025...
 DTEND;VALUE=DATE:20250726
 DTSTART;VALUE=DATE:20250726
 SUMMARY:Oasis
-UID:5b7df52b-577d-480f-9b26-50118d1d34e6
+UID:1c14b849-4221-4e56-b651-7a8dacdb4d75
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
-DESCRIPTION:The Dualers Return home to South East London for their 2025 tou
- r featuring new tracks from their upcoming \'Beach Life\' album. \n
-DTEND;VALUE=DATE:20250719
-DTSTART;VALUE=DATE:20250719
-SUMMARY:The Dualers
-UID:bc1aed72-934b-42b7-b60c-c4a451732214
+DTSTAMP:20250720T023708Z
+DESCRIPTION:Oasis The Official Richard Ashcroft Facebook Page Web - www.ric
+ hardashcroft.com Twitter - http://po.st/AshcroftTW Instagram - http://po.st
+ /AshcroftInst YouTube - http://po.st/AshcroftYT Spotify ...
+DTEND;VALUE=DATE:20250730
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Richard Ashcroft with Cast
+UID:c7eddf5a-5fad-432f-a8f3-b130b0f50819
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250719T022156Z
-DESCRIPTION:Wembley Stadium, Empire Way, Wembley, HA9 0WS
-DTEND;VALUE=DATE:20250719
-DTSTART;VALUE=DATE:20250719
-SUMMARY:Oleksandr Usyk - Daniel Dubois
-UID:d727e1f1-2f5a-43e1-a7cc-4c60dc246f8a
+DTSTAMP:20250720T023708Z
+DESCRIPTION:Find tickets for Nepathya at OVO Arena Wembley in London on 8/9
+ /2025 at 8:00 PM
+DTEND;VALUE=DATE:20250809
+DTSTART;VALUE=DATE:20250809
+SUMMARY:Nepathya
+UID:ede375d1-5aab-4fff-91f1-dad2288eeac6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250720T023708Z
+DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/15
+ /2025 at 5:00 PM
+DTEND;VALUE=DATE:20250815
+DTSTART;VALUE=DATE:20250815
+SUMMARY:BLACKPINK
+UID:6b8cc3cc-31f0-45f0-b539-012779c9eeed
 END:VEVENT
 END:VCALENDAR
