@@ -3,98 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
-DESCRIPTION:Organisers Miles Franklin of Sunshine Horizon Promotions and He
- ritage Music Group has put together an amazing line-up of artists from all 
- over the world. Jamaica, USA, France, UK, Cuba, South...
-DTEND;VALUE=DATE:20250720
-DTSTART;VALUE=DATE:20250720
-SUMMARY:One World Music Festival
-UID:3b887dff-9db7-4df6-aae7-cb2d6ded56c8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
-DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
- isiting Wembley Stadium. Enquire today for the best seats in the house.
-DTEND;VALUE=DATE:20250802
-DTSTART;VALUE=DATE:20250802
-SUMMARY:Oasis
-UID:8cdc44c7-155e-4ebb-8cfa-2ab8daa0908b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
+DTSTAMP:20250721T023404Z
 DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
  in London on 7/25/2025 at 5:00 PM
 DTEND;VALUE=DATE:20250725
 DTSTART;VALUE=DATE:20250725
 SUMMARY:Richard Ashcroft with Cast
-UID:12ac8b01-214a-4644-a6d0-73a243be7173
+UID:75acd2ab-fa9a-4f46-b376-1ad4411f5e4c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
-DESCRIPTION:"Join Ms. Appleberry, JJ, Cody, Nina and Cece for a lively Melo
- n Patch musical adventure in this exciting touring production. This interac
- tive live show brings CoComelon's vibrant world to life...
-DTEND;VALUE=DATE:20250720
-DTSTART;VALUE=DATE:20250720
-SUMMARY:Cocomelon Sing-Along Live
-UID:8c8876fe-2dd1-4b9a-88ae-f6bf84974c00
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
-DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
- light up London's Wembley Stadium. Enquire today with Hospitality Finder.
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay
-UID:55d7fb96-09dc-4b86-9d3b-da3fb617351f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
-DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
- er" will take place in London. Dimash performs songs in Kazakh, English, Ru
- ssian, French, Chinese, Spanish, and Italian across a wide...
-DTEND;VALUE=DATE:20251112
-DTSTART;VALUE=DATE:20251112
-SUMMARY:Dimash Qudaibergen
-UID:e2f9ed1c-165c-473b-96d6-b71ac97a515a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
+DTSTAMP:20250721T023404Z
 DESCRIPTION:Oasis - Tour 2025 span 04/07/2025 Cardiff span 05/07/2025 Cardi
  ff span 11/07/2025 Manchester span 12/07/2025 Manchester span 16/07/2025 Ma
  nchester span 19/07/2025 Manchester span 20/07/2025...
 DTEND;VALUE=DATE:20250726
 DTSTART;VALUE=DATE:20250726
 SUMMARY:Oasis
-UID:1c14b849-4221-4e56-b651-7a8dacdb4d75
+UID:a2b9a0b1-1660-47c8-825c-9f8568336a2c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
-DESCRIPTION:Oasis The Official Richard Ashcroft Facebook Page Web - www.ric
- hardashcroft.com Twitter - http://po.st/AshcroftTW Instagram - http://po.st
- /AshcroftInst YouTube - http://po.st/AshcroftYT Spotify ...
-DTEND;VALUE=DATE:20250730
-DTSTART;VALUE=DATE:20250730
+DTSTAMP:20250721T023404Z
+DESCRIPTION:Oasis - Tour 2025 span 04/07/2025 Cardiff span 05/07/2025 Cardi
+ ff span 11/07/2025 Manchester span 12/07/2025 Manchester span 16/07/2025 Ma
+ nchester span 19/07/2025 Manchester span 20/07/2025...
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Oasis Live '25
+UID:16e7d109-7925-46a5-bc53-871c976ba110
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T023404Z
+DESCRIPTION:EXO member and solo artist BAEKHYUN will be embarking on his fi
+ rst solo world tour since debut. His agency INB100 announced on Apr 30th th
+ rough its official social media channels that the '2025...
+DTEND;VALUE=DATE:20250722
+DTSTART;VALUE=DATE:20250722
+SUMMARY:Baekhyun
+UID:216574ef-ffeb-4071-a5b9-d7eecfc38766
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T023404Z
+DESCRIPTION:No description
+DTEND;VALUE=DATE:20250724
+DTSTART;VALUE=DATE:20250724
+SUMMARY:Done
+UID:27899bc9-e8e1-47d2-8709-ebae2853c28d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T023404Z
+DESCRIPTION:Presented by Disorder one of London's hottest indie clubnights 
+ comes a series of special Oasis Wembley aftershow parties at Crystal Club, 
+ 1 minute walk from Wembley Stadium. Join us where we'll be...
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
+UID:201995d9-535b-4420-8bbd-5a205d8b5ca1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T023404Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 7/25/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250725
+SUMMARY:Starlight Express
+UID:39953ebc-b265-4a36-b791-47df6490d6ac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T023404Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 7/23/2025 at 2:30 PM
+DTEND;VALUE=DATE:20250724
+DTSTART;VALUE=DATE:20250724
+SUMMARY:Starlight Express
+UID:69f1c890-d9ba-4405-9b60-d46ef85feb29
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250721T023404Z
+DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
+ in London on 7/26/2025 at 5:00 PM
+DTEND;VALUE=DATE:20250726
+DTSTART;VALUE=DATE:20250726
 SUMMARY:Richard Ashcroft with Cast
-UID:c7eddf5a-5fad-432f-a8f3-b130b0f50819
+UID:d11e9a13-e086-45f0-b3a8-dbd361edbe1b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
-DESCRIPTION:Find tickets for Nepathya at OVO Arena Wembley in London on 8/9
- /2025 at 8:00 PM
-DTEND;VALUE=DATE:20250809
-DTSTART;VALUE=DATE:20250809
-SUMMARY:Nepathya
-UID:ede375d1-5aab-4fff-91f1-dad2288eeac6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250720T023708Z
-DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/15
- /2025 at 5:00 PM
-DTEND;VALUE=DATE:20250815
-DTSTART;VALUE=DATE:20250815
-SUMMARY:BLACKPINK
-UID:6b8cc3cc-31f0-45f0-b539-012779c9eeed
+DTSTAMP:20250721T023404Z
+DESCRIPTION:This is it, it’s actually happening! Oasis reunion is confir
+ med as Liam and Noel mend their 15 year fallout! Their reunion announcement
+  comes right before the 30-year anniversary of Definitely...
+DTEND;VALUE=DATE:20250725
+DTSTART;VALUE=DATE:20250725
+SUMMARY:OASIS Fanpark 25 Jul
+UID:91d95bb8-26d0-412b-9972-d365849fac9c
 END:VEVENT
 END:VCALENDAR
