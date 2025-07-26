@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
-DESCRIPTION:Oasis - Tour 2025 span 04/07/2025 Cardiff span 05/07/2025 Cardi
- ff span 11/07/2025 Manchester span 12/07/2025 Manchester span 16/07/2025 Ma
- nchester span 19/07/2025 Manchester span 20/07/2025...
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:Oasis
-UID:31c8810a-c266-469a-8df8-cccf6f7d202f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
+DTSTAMP:20250726T022334Z
 DESCRIPTION:Presented by Disorder one of London's hottest indie clubnights 
  comes a series of special Oasis Wembley aftershow parties at Crystal Club, 
  1 minute walk from Wembley Stadium. Join us where we'll be...
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+DTSTART;VALUE=DATE:20250726
 SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
-UID:7cf6bf64-86d2-44b8-8147-d46c603e82f9
+UID:921bea4d-8fd8-4e89-ae84-20268ca44c2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
-DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
- in London on 7/25/2025 at 5:00 PM
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:Richard Ashcroft with Cast
-UID:797c519c-844b-4c41-be3e-26d698cef560
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
+DTSTAMP:20250726T022334Z
 DESCRIPTION:Oasis - Tour 2025 span 04/07/2025 Cardiff span 05/07/2025 Cardi
  ff span 11/07/2025 Manchester span 12/07/2025 Manchester span 16/07/2025 Ma
  nchester span 19/07/2025 Manchester span 20/07/2025...
 DTEND;VALUE=DATE:20250726
 DTSTART;VALUE=DATE:20250726
 SUMMARY:Oasis
-UID:616b93c7-1156-4232-9ec8-df13bb0f1a62
+UID:7f7824c0-b50f-4201-bc00-b11820715438
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
+DTSTAMP:20250726T022334Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 7/26/2025 at 5:30 PM
 DTEND;VALUE=DATE:20250726
 DTSTART;VALUE=DATE:20250726
 SUMMARY:Starlight Express
-UID:bfd131e7-f9ff-4764-9e09-0b61404b9295
+UID:5e5b6d3f-d48f-427a-9750-02ba4f3a6846
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
+DTSTAMP:20250726T022334Z
 DESCRIPTION:This is it, it’s actually happening! Oasis reunion is confir
  med as Liam and Noel mend their 15 year fallout! Their reunion announcement
   comes right before the 30-year anniversary of Definitely...
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+DTSTART;VALUE=DATE:20250726
 SUMMARY:OASIS Fanpark 25 Jul
-UID:775a4b63-a48d-415e-a9c4-8ca91c8f200a
+UID:4c44f936-c36e-4478-9f1c-386ec9022a9a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
+DTSTAMP:20250726T022334Z
 DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
  in London on 7/26/2025 at 5:00 PM
 DTEND;VALUE=DATE:20250726
 DTSTART;VALUE=DATE:20250726
 SUMMARY:Richard Ashcroft with Cast
-UID:6c7a4f04-543a-4c99-812c-9547656ab294
+UID:0861f3aa-18f6-4207-acd8-39a6c4e60bde
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
+DTSTAMP:20250726T022334Z
 DESCRIPTION:Tony plays BritPop. Oasis, Blur, Pulp, Supergrass, Suede, The V
  erve, Dodgy, Radiohead, The Bluetones, Cranberries, Ash, Cast, Travis, Jame
  s, Stereophonics
 DTEND;VALUE=DATE:20250726
 DTSTART;VALUE=DATE:20250726
 SUMMARY:Ibis Wembley - Oasis
-UID:b4aeb0f7-75fc-4846-810a-04076a4a1b68
+UID:0e5c423f-6d5e-444a-ab3f-0a659dd74aa1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
-DESCRIPTION:THURSDAY IS THE NEW FRIDAY! 2-4-1 COCKTAILS 5PM-7PM EVERY THURS
- DAY!* We get it, you've been working all week in the office and Thursday i
- s the perfect evening to celebrate all your hard work. We...
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:POST WORK POP PARTY
-UID:a483024d-11eb-419a-91d7-994a7b9b8772
+DTSTAMP:20250726T022334Z
+DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
+ isiting Wembley Stadium. Enquire today for the best seats in the house.
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Oasis
+UID:834de398-88fe-45f5-9a2b-0e6c0e66d84f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250725T022741Z
-DESCRIPTION:Tony plays BritPop. Oasis, Blur, Pulp, Supergrass, Suede, The V
- erve, Dodgy, Radiohead, The Bluetones, Cranberries, Ash, Cast, Travis, Jame
- s, Stereophonics
-DTEND;VALUE=DATE:20250725
-DTSTART;VALUE=DATE:20250725
-SUMMARY:Tony plays BritPop
-UID:e0da19ca-50a5-4953-98bd-d32b267484ad
+DTSTAMP:20250726T022334Z
+DESCRIPTION:🎤 Catch Crawlers Live at OVO Arena Wembley on Tuesday, Septe
+ mber 23, 2025 ! 🎤 Ready to experience the night of your life? Crawlers i
+ s bringing their infectious energy and hit songs like Come...
+DTEND;VALUE=DATE:20250923
+DTSTART;VALUE=DATE:20250923
+SUMMARY:Cavetown
+UID:8ee469c8-88db-46c6-a458-bc2d86794f3e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250726T022334Z
+DESCRIPTION:See Oasis when they return to Wembley Stadium in 2025, enquire 
+ today to secure you VIP tickets with premium hospitality.
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Oasis
+UID:d2d3a1a9-c60d-482c-8036-1a72871f1a0a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250726T022334Z
+DESCRIPTION:This is it, it’s actually happening! Oasis reunion is confir
+ med as Liam and Noel mend their 15 year fallout! Their reunion announcement
+  comes right before the 30-year anniversary of Definitely...
+DTEND;VALUE=DATE:20250730
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Oasis
+UID:6323e2a5-6e01-48b9-9ef3-795a5d806fd6
 END:VEVENT
 END:VCALENDAR
