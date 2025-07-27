@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
-DESCRIPTION:Presented by Disorder one of London's hottest indie clubnights 
- comes a series of special Oasis Wembley aftershow parties at Crystal Club, 
- 1 minute walk from Wembley Stadium. Join us where we'll be...
-DTEND;VALUE=DATE:20250726
-DTSTART;VALUE=DATE:20250726
-SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
-UID:921bea4d-8fd8-4e89-ae84-20268ca44c2a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
-DESCRIPTION:Oasis - Tour 2025 span 04/07/2025 Cardiff span 05/07/2025 Cardi
- ff span 11/07/2025 Manchester span 12/07/2025 Manchester span 16/07/2025 Ma
- nchester span 19/07/2025 Manchester span 20/07/2025...
-DTEND;VALUE=DATE:20250726
-DTSTART;VALUE=DATE:20250726
-SUMMARY:Oasis
-UID:7f7824c0-b50f-4201-bc00-b11820715438
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
+DTSTAMP:20250727T023844Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 7/26/2025 at 5:30 PM
-DTEND;VALUE=DATE:20250726
-DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+DTSTART;VALUE=DATE:20250727
 SUMMARY:Starlight Express
-UID:5e5b6d3f-d48f-427a-9750-02ba4f3a6846
+UID:83d8e1f3-495c-49d6-843e-0da72d5c2e80
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
-DESCRIPTION:This is it, it’s actually happening! Oasis reunion is confir
- med as Liam and Noel mend their 15 year fallout! Their reunion announcement
-  comes right before the 30-year anniversary of Definitely...
-DTEND;VALUE=DATE:20250726
-DTSTART;VALUE=DATE:20250726
-SUMMARY:OASIS Fanpark 25 Jul
-UID:4c44f936-c36e-4478-9f1c-386ec9022a9a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
+DTSTAMP:20250727T023844Z
 DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
  in London on 7/26/2025 at 5:00 PM
-DTEND;VALUE=DATE:20250726
-DTSTART;VALUE=DATE:20250726
+DTEND;VALUE=DATE:20250727
+DTSTART;VALUE=DATE:20250727
 SUMMARY:Richard Ashcroft with Cast
-UID:0861f3aa-18f6-4207-acd8-39a6c4e60bde
+UID:b84fd40f-6cb4-46e9-a1c4-aa12168f46d8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
-DESCRIPTION:Tony plays BritPop. Oasis, Blur, Pulp, Supergrass, Suede, The V
- erve, Dodgy, Radiohead, The Bluetones, Cranberries, Ash, Cast, Travis, Jame
- s, Stereophonics
-DTEND;VALUE=DATE:20250726
-DTSTART;VALUE=DATE:20250726
-SUMMARY:Ibis Wembley - Oasis
-UID:0e5c423f-6d5e-444a-ab3f-0a659dd74aa1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
+DTSTAMP:20250727T023844Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:834de398-88fe-45f5-9a2b-0e6c0e66d84f
+UID:93858103-dce2-4837-93cd-04de8f2426ed
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
+DTSTAMP:20250727T023844Z
 DESCRIPTION:🎤 Catch Crawlers Live at OVO Arena Wembley on Tuesday, Septe
  mber 23, 2025 ! 🎤 Ready to experience the night of your life? Crawlers i
  s bringing their infectious energy and hit songs like Come...
 DTEND;VALUE=DATE:20250923
 DTSTART;VALUE=DATE:20250923
 SUMMARY:Cavetown
-UID:8ee469c8-88db-46c6-a458-bc2d86794f3e
+UID:3c292ac1-76e3-4726-bc08-b71cf50af8b9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
+DTSTAMP:20250727T023844Z
 DESCRIPTION:See Oasis when they return to Wembley Stadium in 2025, enquire 
  today to secure you VIP tickets with premium hospitality.
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:d2d3a1a9-c60d-482c-8036-1a72871f1a0a
+UID:53c51ec9-b570-4c19-ae7e-02e7c82101c3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250726T022334Z
+DTSTAMP:20250727T023844Z
 DESCRIPTION:This is it, it’s actually happening! Oasis reunion is confir
  med as Liam and Noel mend their 15 year fallout! Their reunion announcement
   comes right before the 30-year anniversary of Definitely...
 DTEND;VALUE=DATE:20250730
 DTSTART;VALUE=DATE:20250730
 SUMMARY:Oasis
-UID:6323e2a5-6e01-48b9-9ef3-795a5d806fd6
+UID:8454a41a-1bdd-4d4a-86b1-264aba73538c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250727T023844Z
+DESCRIPTION:The Peace One Day Celebration A multi-media entrepreneur, Dave 
+ Stewart is recognized as one of the most respected and accomplished talent
+ s in the music industry today. Beyond his creative work as...
+DTEND;VALUE=DATE:20250921
+DTSTART;VALUE=DATE:20250921
+SUMMARY:Peace One Day Celebration with Dave Stewart, Daryl Hall, Basement J
+ axx and many more
+UID:a8552bd7-0efe-4f0d-a039-8ab70e9641be
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250727T023844Z
+DESCRIPTION:Find tickets for Nepathya at OVO Arena Wembley in London on 8/9
+ /2025 at 8:00 PM
+DTEND;VALUE=DATE:20250809
+DTSTART;VALUE=DATE:20250809
+SUMMARY:Nepathya
+UID:e9484a94-17a5-4213-afc1-3ac181c6d2fd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250727T023844Z
+DESCRIPTION:Following instantly sold out shows in February, iconic rock leg
+ end Marilyn Manson returns this October & November with the One Assassinati
+ on Under God Tour.
+DTEND;VALUE=DATE:20251107
+DTSTART;VALUE=DATE:20251107
+SUMMARY:Marilyn Manson
+UID:30f9cc1b-8b0a-4090-a2a7-80226b5ca9aa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250727T023844Z
+DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
+ er" will take place in London. Dimash performs songs in Kazakh, English, Ru
+ ssian, French, Chinese, Spanish, and Italian across a wide...
+DTEND;VALUE=DATE:20251112
+DTSTART;VALUE=DATE:20251112
+SUMMARY:Dimash Qudaibergen
+UID:690e502e-a57e-44c1-aad4-dbf93b56394c
 END:VEVENT
 END:VCALENDAR
