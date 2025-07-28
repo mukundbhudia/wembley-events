@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 7/26/2025 at 5:30 PM
-DTEND;VALUE=DATE:20250727
-DTSTART;VALUE=DATE:20250727
-SUMMARY:Starlight Express
-UID:83d8e1f3-495c-49d6-843e-0da72d5c2e80
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
-DESCRIPTION:Find tickets for Richard Ashcroft with Cast at Wembley Stadium 
- in London on 7/26/2025 at 5:00 PM
-DTEND;VALUE=DATE:20250727
-DTSTART;VALUE=DATE:20250727
-SUMMARY:Richard Ashcroft with Cast
-UID:b84fd40f-6cb4-46e9-a1c4-aa12168f46d8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
+DTSTAMP:20250728T023454Z
 DESCRIPTION:Oasis have announced their long-awaited reunion with the tour v
  isiting Wembley Stadium. Enquire today for the best seats in the house.
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:93858103-dce2-4837-93cd-04de8f2426ed
+UID:ba0397f0-b1f4-4f2e-ace5-967524646875
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
-DESCRIPTION:🎤 Catch Crawlers Live at OVO Arena Wembley on Tuesday, Septe
- mber 23, 2025 ! 🎤 Ready to experience the night of your life? Crawlers i
- s bringing their infectious energy and hit songs like Come...
-DTEND;VALUE=DATE:20250923
-DTSTART;VALUE=DATE:20250923
-SUMMARY:Cavetown
-UID:3c292ac1-76e3-4726-bc08-b71cf50af8b9
+DTSTAMP:20250728T023454Z
+DESCRIPTION:Experience the ultimate VIP treatment at Hilton London Wembley 
+ - it's going to be 'All In'!
+DTEND;VALUE=DATE:20250730
+DTSTART;VALUE=DATE:20250730
+SUMMARY:‘All In’ VIP Experience 2025
+UID:997f0ba6-2eb2-435a-b7f9-ef181ac369a7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
+DTSTAMP:20250728T023454Z
 DESCRIPTION:See Oasis when they return to Wembley Stadium in 2025, enquire 
  today to secure you VIP tickets with premium hospitality.
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:53c51ec9-b570-4c19-ae7e-02e7c82101c3
+UID:dcf9fa51-3279-4203-a29d-3c32b19ed547
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
+DTSTAMP:20250728T023454Z
 DESCRIPTION:This is it, it’s actually happening! Oasis reunion is confir
  med as Liam and Noel mend their 15 year fallout! Their reunion announcement
   comes right before the 30-year anniversary of Definitely...
 DTEND;VALUE=DATE:20250730
 DTSTART;VALUE=DATE:20250730
 SUMMARY:Oasis
-UID:8454a41a-1bdd-4d4a-86b1-264aba73538c
+UID:69500bae-6d20-4261-be1c-b11d7517b360
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
-DESCRIPTION:The Peace One Day Celebration A multi-media entrepreneur, Dave 
- Stewart is recognized as one of the most respected and accomplished talent
- s in the music industry today. Beyond his creative work as...
-DTEND;VALUE=DATE:20250921
-DTSTART;VALUE=DATE:20250921
-SUMMARY:Peace One Day Celebration with Dave Stewart, Daryl Hall, Basement J
- axx and many more
-UID:a8552bd7-0efe-4f0d-a039-8ab70e9641be
+DTSTAMP:20250728T023454Z
+DESCRIPTION:Oasis The Official Richard Ashcroft Facebook Page Web - www.ric
+ hardashcroft.com Twitter - http://po.st/AshcroftTW Instagram - http://po.st
+ /AshcroftInst YouTube - http://po.st/AshcroftYT Spotify ...
+DTEND;VALUE=DATE:20250730
+DTSTART;VALUE=DATE:20250730
+SUMMARY:Richard Ashcroft with Cast
+UID:d0c8f537-ef81-4fdb-95e9-58a85e115204
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
-DESCRIPTION:Find tickets for Nepathya at OVO Arena Wembley in London on 8/9
- /2025 at 8:00 PM
-DTEND;VALUE=DATE:20250809
-DTSTART;VALUE=DATE:20250809
-SUMMARY:Nepathya
-UID:e9484a94-17a5-4213-afc1-3ac181c6d2fd
+DTSTAMP:20250728T023454Z
+DESCRIPTION:Oasis The Official Richard Ashcroft Facebook Page Web - www.ric
+ hardashcroft.com Twitter - http://po.st/AshcroftTW Instagram - http://po.st
+ /AshcroftInst YouTube - http://po.st/AshcroftYT Spotify ...
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Richard Ashcroft with Cast
+UID:78cef9d8-981f-4dd9-9857-829cbe598ba5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
-DESCRIPTION:Following instantly sold out shows in February, iconic rock leg
- end Marilyn Manson returns this October & November with the One Assassinati
- on Under God Tour.
-DTEND;VALUE=DATE:20251107
-DTSTART;VALUE=DATE:20251107
-SUMMARY:Marilyn Manson
-UID:30f9cc1b-8b0a-4090-a2a7-80226b5ca9aa
+DTSTAMP:20250728T023454Z
+DESCRIPTION:Oasis Wembley Aftershow Parties! Presented by **Disorder** one 
+ of London's hottest indie clubnights comes a series of special **Oasis Wemb
+ ley aftershow parties at Crystal Club, 2 minute walk from...
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
+UID:807d57d6-5ec8-4fa1-be1f-fb41c9614675
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250727T023844Z
-DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
- er" will take place in London. Dimash performs songs in Kazakh, English, Ru
- ssian, French, Chinese, Spanish, and Italian across a wide...
-DTEND;VALUE=DATE:20251112
-DTSTART;VALUE=DATE:20251112
-SUMMARY:Dimash Qudaibergen
-UID:690e502e-a57e-44c1-aad4-dbf93b56394c
+DTSTAMP:20250728T023454Z
+DESCRIPTION:This is it, it’s actually happening! Oasis reunion is confir
+ med as Liam and Noel mend their 15 year fallout! Their reunion announcement
+  comes right before the 30-year anniversary of Definitely...
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:OASIS Fanpark 3 Aug
+UID:715dfceb-296b-457f-b953-d91b67a38272
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T023454Z
+DESCRIPTION:Oasis The Official Richard Ashcroft Facebook Page Web - www.ric
+ hardashcroft.com Twitter - http://po.st/AshcroftTW Instagram - http://po.st
+ /AshcroftInst YouTube - http://po.st/AshcroftYT Spotify ...
+DTEND;VALUE=DATE:20250803
+DTSTART;VALUE=DATE:20250803
+SUMMARY:Richard Ashcroft with Cast
+UID:67e6d0f6-517b-4dc1-860d-54e85aac3ecb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T023454Z
+DESCRIPTION:Join us for a poetic journey through the skies where words tak
+ e flight and creativity soars at our Words Have Wings workshop. Join Brilli
+ antly funny & fun Poet Paul Lyalls […]
+DTEND;VALUE=DATE:20250801
+DTSTART;VALUE=DATE:20250801
+SUMMARY:Words Have Wings: poetry and bird box craft workshop
+UID:1acc1ec0-f254-4eec-8bb7-1c2f5c94636d
 END:VEVENT
 END:VCALENDAR
