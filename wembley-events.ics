@@ -3,101 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
+DTSTAMP:20250731T023018Z
+DESCRIPTION:Experience the ultimate VIP treatment at Hilton London Wembley 
+ - it's going to be 'All In'!
+DTEND;VALUE=DATE:20250731
+DTSTART;VALUE=DATE:20250731
+SUMMARY:‘All In’ VIP Experience 2025
+UID:ae11266b-9205-45fe-8909-48296d2c9307
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250731T023018Z
 DESCRIPTION:OASIS at Wembley Stadium Oasis ended years of feverish speculat
  ion with the confirmation of a long awaited run of UK and Ireland shows for
  ming the domestic leg of their OASIS LIVE ’25 world tour...
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:3d04afb1-6f04-4a8f-b818-ed7c0b8106fd
+UID:36164566-e051-4ea7-94f2-5313b98d6fa0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
+DTSTAMP:20250731T023018Z
 DESCRIPTION:See Oasis when they return to Wembley Stadium in 2025, enquire 
  today to secure you VIP tickets with premium hospitality.
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Oasis
-UID:3dd4f059-ec51-4506-9b9d-d8f7b2d43b98
+UID:6f704b77-1bb7-49a8-ba0a-6973c5f3f8d3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
-DESCRIPTION:Experience the ultimate VIP treatment at Hilton London Wembley 
- - it's going to be 'All In'!
-DTEND;VALUE=DATE:20250730
-DTSTART;VALUE=DATE:20250730
-SUMMARY:‘All In’ VIP Experience 2025
-UID:e957c679-5b8d-498b-9edd-4f4618e884eb
+DTSTAMP:20250731T023018Z
+DESCRIPTION:Done at Troubadour Wembley Park Theatre London Thursday 31st o
+ f July 2025 14:30
+DTEND;VALUE=DATE:20250731
+DTSTART;VALUE=DATE:20250731
+SUMMARY:Done
+UID:a65ec823-1dc4-4e55-8d8d-08fa75047ba8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
-DESCRIPTION:OASIS at Wembley Stadium Oasis ended years of feverish speculat
- ion with the confirmation of a long awaited run of UK and Ireland shows for
- ming the domestic leg of their OASIS LIVE ’25 world tour...
-DTEND;VALUE=DATE:20250730
-DTSTART;VALUE=DATE:20250730
-SUMMARY:Oasis
-UID:ecf6c448-f92d-4acd-ab58-5a9b51a8533c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
+DTSTAMP:20250731T023018Z
 DESCRIPTION:Oasis The Official Richard Ashcroft Facebook Page Web - www.ric
  hardashcroft.com Twitter - http://po.st/AshcroftTW Instagram - http://po.st
  /AshcroftInst YouTube - http://po.st/AshcroftYT Spotify ...
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Richard Ashcroft with Cast
-UID:36ce3ea8-850c-4714-b065-13ae28061813
+UID:c35acac3-5ee9-41fe-850c-2b511bc7eeb5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
+DTSTAMP:20250731T023018Z
 DESCRIPTION:Oasis Wembley Aftershow Parties! Presented by **Disorder** one 
  of London's hottest indie clubnights comes a series of special **Oasis Wemb
  ley aftershow parties at Crystal Club, 2 minute walk from...
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
-UID:843300fb-8698-419b-8a07-6dae9c70a7c4
+UID:f445de94-d42b-4860-a287-8ce304a94f63
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
-DESCRIPTION:This is it, it’s actually happening! Oasis reunion is confir
- med as Liam and Noel mend their 15 year fallout! Their reunion announcement
-  comes right before the 30-year anniversary of Definitely...
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:OASIS Fanpark 3 Aug
-UID:92ec6b3b-5ba5-4ea4-a5f0-f24a5ecee40a
+DTSTAMP:20250731T023018Z
+DESCRIPTION:When Noel Gallagher quit as a guitar tech for local psychedeli
+ c scenesters Inspiral Carpets and joined brother Liam Gallagher's band the 
+ Rain, a new British force was born. Borrowing heavily from...
+DTEND;VALUE=DATE:20250731
+DTSTART;VALUE=DATE:20250731
+SUMMARY:Oasis with Richard Ashcroft at Wembley Stadium (July 30, 2025)
+UID:254f851d-d656-41c1-b838-291102f44063
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
+DTSTAMP:20250731T023018Z
 DESCRIPTION:Oasis The Official Richard Ashcroft Facebook Page Web - www.ric
  hardashcroft.com Twitter - http://po.st/AshcroftTW Instagram - http://po.st
  /AshcroftInst YouTube - http://po.st/AshcroftYT Spotify ...
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Richard Ashcroft with Cast
-UID:77ce818f-8db0-4527-bca0-ca68dc23066a
+UID:21bda17a-6c99-4d4c-8e26-f0246d3cf4aa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
-DESCRIPTION:When Noel Gallagher quit as a guitar tech for local psychedeli
- c scenesters Inspiral Carpets and joined brother Liam Gallagher's band the 
- Rain, a new British force was born. Borrowing heavily from...
-DTEND;VALUE=DATE:20250730
-DTSTART;VALUE=DATE:20250730
-SUMMARY:Richard Ashcroft, Cast
-UID:39eaed4c-92c6-4957-acc4-f99f333c3c22
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250730T023104Z
+DTSTAMP:20250731T023018Z
 DESCRIPTION:Join us for a poetic journey through the skies where words tak
  e flight and creativity soars at our Words Have Wings workshop. Join Brilli
  antly funny & fun Poet Paul Lyalls […]
 DTEND;VALUE=DATE:20250801
 DTSTART;VALUE=DATE:20250801
-SUMMARY:Wembley: Words Have Wings: poetry and bird box craft workshop
-UID:8e219a46-e133-488c-900c-38e79e54bcf2
+SUMMARY:Words Have Wings: poetry and bird box craft workshop
+UID:7fe863f2-4ed2-4e59-938c-87b9b6b02f72
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250731T023018Z
+DESCRIPTION:Paradise In The City
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
+SUMMARY:L.P. Rhythm
+UID:9db64ee5-8412-47e0-a20f-a931f7ba858f
 END:VEVENT
 END:VCALENDAR
