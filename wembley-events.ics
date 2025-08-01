@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
-DESCRIPTION:Experience the ultimate VIP treatment at Hilton London Wembley 
- - it's going to be 'All In'!
-DTEND;VALUE=DATE:20250731
-DTSTART;VALUE=DATE:20250731
-SUMMARY:‘All In’ VIP Experience 2025
-UID:ae11266b-9205-45fe-8909-48296d2c9307
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
+DTSTAMP:20250801T024228Z
 DESCRIPTION:OASIS at Wembley Stadium Oasis ended years of feverish speculat
  ion with the confirmation of a long awaited run of UK and Ireland shows for
  ming the domestic leg of their OASIS LIVE ’25 world tour...
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Oasis
-UID:36164566-e051-4ea7-94f2-5313b98d6fa0
+UID:82a3e446-e2a9-431f-9e4c-9a2877dbb9d4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
-DESCRIPTION:See Oasis when they return to Wembley Stadium in 2025, enquire 
- today to secure you VIP tickets with premium hospitality.
-DTEND;VALUE=DATE:20250803
-DTSTART;VALUE=DATE:20250803
-SUMMARY:Oasis
-UID:6f704b77-1bb7-49a8-ba0a-6973c5f3f8d3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
-DESCRIPTION:Done at Troubadour Wembley Park Theatre London Thursday 31st o
- f July 2025 14:30
-DTEND;VALUE=DATE:20250731
-DTSTART;VALUE=DATE:20250731
-SUMMARY:Done
-UID:a65ec823-1dc4-4e55-8d8d-08fa75047ba8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
+DTSTAMP:20250801T024228Z
 DESCRIPTION:Oasis The Official Richard Ashcroft Facebook Page Web - www.ric
  hardashcroft.com Twitter - http://po.st/AshcroftTW Instagram - http://po.st
  /AshcroftInst YouTube - http://po.st/AshcroftYT Spotify ...
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Richard Ashcroft with Cast
-UID:c35acac3-5ee9-41fe-850c-2b511bc7eeb5
+UID:210e5e46-47eb-415d-be92-888c2393b108
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
+DTSTAMP:20250801T024228Z
 DESCRIPTION:Oasis Wembley Aftershow Parties! Presented by **Disorder** one 
  of London's hottest indie clubnights comes a series of special **Oasis Wemb
  ley aftershow parties at Crystal Club, 2 minute walk from...
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
-UID:f445de94-d42b-4860-a287-8ce304a94f63
+UID:15fb5a65-2c6b-41e8-8a70-a37d54c2d9e4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
-DESCRIPTION:When Noel Gallagher quit as a guitar tech for local psychedeli
- c scenesters Inspiral Carpets and joined brother Liam Gallagher's band the 
- Rain, a new British force was born. Borrowing heavily from...
-DTEND;VALUE=DATE:20250731
-DTSTART;VALUE=DATE:20250731
-SUMMARY:Oasis with Richard Ashcroft at Wembley Stadium (July 30, 2025)
-UID:254f851d-d656-41c1-b838-291102f44063
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
+DTSTAMP:20250801T024228Z
 DESCRIPTION:Oasis The Official Richard Ashcroft Facebook Page Web - www.ric
  hardashcroft.com Twitter - http://po.st/AshcroftTW Instagram - http://po.st
  /AshcroftInst YouTube - http://po.st/AshcroftYT Spotify ...
 DTEND;VALUE=DATE:20250803
 DTSTART;VALUE=DATE:20250803
 SUMMARY:Richard Ashcroft with Cast
-UID:21bda17a-6c99-4d4c-8e26-f0246d3cf4aa
+UID:37968011-70fb-43a6-a2c8-652cdc8f060c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
+DTSTAMP:20250801T024228Z
 DESCRIPTION:Join us for a poetic journey through the skies where words tak
  e flight and creativity soars at our Words Have Wings workshop. Join Brilli
  antly funny & fun Poet Paul Lyalls […]
 DTEND;VALUE=DATE:20250801
 DTSTART;VALUE=DATE:20250801
 SUMMARY:Words Have Wings: poetry and bird box craft workshop
-UID:7fe863f2-4ed2-4e59-938c-87b9b6b02f72
+UID:98bd6578-36d5-4b1b-a0b9-fa589341281a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250731T023018Z
+DTSTAMP:20250801T024228Z
 DESCRIPTION:Paradise In The City
 DTEND;VALUE=DATE:20250802
 DTSTART;VALUE=DATE:20250802
 SUMMARY:L.P. Rhythm
-UID:9db64ee5-8412-47e0-a20f-a931f7ba858f
+UID:fe29ea96-fa5b-4712-a308-dd6380080a14
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250801T024228Z
+DESCRIPTION:For 23-year-old singer/songwriter Cavetown, making music typica
+ lly involves excavating and exposing his most deeply hidden thoughts and fe
+ elings. “It’s a weird dynamic because a lot of the time...
+DTEND;VALUE=DATE:20250923
+DTSTART;VALUE=DATE:20250923
+SUMMARY:Cavetown
+UID:2e266f1b-fa61-4720-a1be-b95768106dc6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250801T024228Z
+DESCRIPTION:Paradise In The City
+DTEND;VALUE=DATE:20250802
+DTSTART;VALUE=DATE:20250802
+SUMMARY:Olive F
+UID:7ca0082e-d581-4872-84fe-432cff71af54
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250801T024228Z
+DESCRIPTION:Find tickets for Nepathya at OVO Arena Wembley in London on 8/9
+ /2025 at 8:00 PM
+DTEND;VALUE=DATE:20250809
+DTSTART;VALUE=DATE:20250809
+SUMMARY:Nepathya
+UID:e9ab5ebc-c89b-498e-b689-d3c8ea99a301
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250801T024228Z
+DESCRIPTION:Following instantly sold out shows in February, iconic rock leg
+ end Marilyn Manson returns this October & November with the One Assassinati
+ on Under God Tour.
+DTEND;VALUE=DATE:20251107
+DTSTART;VALUE=DATE:20251107
+SUMMARY:Marilyn Manson
+UID:58dc319b-0c21-4f57-bad5-9c58da008412
 END:VEVENT
 END:VCALENDAR
