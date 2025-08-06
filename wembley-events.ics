@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
+DTSTAMP:20250806T023148Z
 DESCRIPTION:LONDON TOWN! Saturday, August 9 Everyday PPL are back for thei
  r summer finale at BOXPARK Wembley Park.
 DTEND;VALUE=DATE:20250809
 DTSTART;VALUE=DATE:20250809
 SUMMARY:Everyday People London
-UID:ec98a281-93c8-428b-a3c8-360f7bcfa061
+UID:3b56bd15-c441-40b6-b6cf-544f360f0f04
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
+DTSTAMP:20250806T023148Z
 DESCRIPTION:Find tickets for Nepathya at OVO Arena Wembley in London on 8/9
  /2025 at 8:00 PM
 DTEND;VALUE=DATE:20250809
 DTSTART;VALUE=DATE:20250809
 SUMMARY:Nepathya Live
-UID:cac4d98f-06c9-439c-abbe-1ac74d9bb59a
+UID:ab431da0-a0d4-421a-a3c0-d64234c81a4e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
+DTSTAMP:20250806T023148Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 8/6/2025 at 2:30 PM
+DTEND;VALUE=DATE:20250806
+DTSTART;VALUE=DATE:20250806
+SUMMARY:Starlight Express
+UID:a6c99a6c-204a-49e7-9b79-96f808bec421
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250806T023148Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 8/8/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250808
 DTSTART;VALUE=DATE:20250808
 SUMMARY:Starlight Express
-UID:0309c7bc-5ed7-4984-85e0-54dd53a6cf1a
+UID:3e0ecf37-d7ac-4519-8fbf-65827d87eaf2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
+DTSTAMP:20250806T023148Z
 DESCRIPTION:Madame Tussauds One of London's most famous attractions, which 
  has been in the capital since 1835 (and at its present Marylebone location 
  since 1884). On display are a huge selection of current...
 DTEND;VALUE=DATE:20250807
 DTSTART;VALUE=DATE:20250807
 SUMMARY:Madame Tussauds London - Standard Entry
-UID:68767cf8-7625-40af-a288-042212822783
+UID:a86f3eab-51b4-4081-8f0e-e99a1b0a2c84
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
+DTSTAMP:20250806T023148Z
 DESCRIPTION:Doors: 2:00pm Curfew: 10.00pm *Show times are subject to chang
  e Bag Policy: These events are big-bag free. Only bags smaller than a shee
  t of A4 paper will be permitted. People without bags will...
 DTEND;VALUE=DATE:20250810
 DTSTART;VALUE=DATE:20250810
 SUMMARY:White Lies
-UID:0201af49-4b7b-41ac-9e28-19539f2d4f4d
+UID:4d420d18-02d0-4c71-b7b4-8ca9d9aa0075
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
+DTSTAMP:20250806T023148Z
 DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
  er" will take place in London. Dimash performs songs in Kazakh, English, Ru
  ssian, French, Chinese, Spanish, and Italian across a wide...
 DTEND;VALUE=DATE:20251112
 DTSTART;VALUE=DATE:20251112
 SUMMARY:Dimash Qudaibergen
-UID:1e082f5b-a5da-4aef-9362-1078866eac61
+UID:9b739780-4805-4af2-a802-68530d798f4d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
-DESCRIPTION:JIN will be bringing #RUNSEOKJIN_EP.TOUR in LONDON to The O2 o
- n Tuesday 5 and Wednesday 6 August 2025.
-DTEND;VALUE=DATE:20250805
-DTSTART;VALUE=DATE:20250805
-SUMMARY:Jin
-UID:e3556674-b183-49f7-956e-faa1f19a4a12
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
-DESCRIPTION:COLDPLAY are coming to London! COLDPLAY are back for UK Tour i
- n 2025! Don't miss out! #COLDPLAY
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
+DTSTAMP:20250806T023148Z
+DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
+ light up London's Wembley Stadium. Enquire today with Hospitality Finder.
+DTEND;VALUE=DATE:20250831
+DTSTART;VALUE=DATE:20250831
 SUMMARY:Coldplay
-UID:5a2bb415-c199-4f9a-9401-84a72fb316fa
+UID:3e16e49c-8480-4c4b-a41c-d0619e9361de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
+DTSTAMP:20250806T023148Z
+DESCRIPTION:🎶 The Ultimate CoComelon Experience LIVE at St Martin's Thea
+ tre—This Sunday, August 10, 2025! 🎶 It's that time of the year where e
+ veryone wants to have a musical breath! Your favorite, CoComelon...
+DTEND;VALUE=DATE:20250810
+DTSTART;VALUE=DATE:20250810
+SUMMARY:Cocomelon Sing-Along Live
+UID:098a83f5-7726-4596-8e37-5c27eb620bcb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250806T023148Z
 DESCRIPTION:Today, critically acclaimed singer, songwriter and musician Sa
  m Ryder has announced his biggest headline show to date at London's iconic 
  OVO Arena Wembley on Thursday 6th November. On announcing...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:8b793028-8b8d-48d9-8b59-fb58a423b8e8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250805T023346Z
-DESCRIPTION:Considered one of the most influential British comedians since 
- Charlie Chaplin, (he received the Charlie Chaplin Britannia Award for Excel
- lence in Comedy 2016 BAFTA/LA) Ricky Gervais is the...
-DTEND;VALUE=DATE:20251114
-DTSTART;VALUE=DATE:20251114
-SUMMARY:Ricky Gervais
-UID:ccec50ca-3c44-4c39-a914-52e1da0751d8
+UID:3c8edebf-6d6a-4e41-91a2-23af5ce3d33e
 END:VEVENT
 END:VCALENDAR
