@@ -3,98 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
+DTSTAMP:20250807T023204Z
 DESCRIPTION:LONDON TOWN! Saturday, August 9 Everyday PPL are back for thei
  r summer finale at BOXPARK Wembley Park.
 DTEND;VALUE=DATE:20250809
 DTSTART;VALUE=DATE:20250809
 SUMMARY:Everyday People London
-UID:3b56bd15-c441-40b6-b6cf-544f360f0f04
+UID:1817deaf-c8ba-4c44-80ce-8b9f270cccb0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
+DTSTAMP:20250807T023204Z
 DESCRIPTION:Find tickets for Nepathya at OVO Arena Wembley in London on 8/9
  /2025 at 8:00 PM
 DTEND;VALUE=DATE:20250809
 DTSTART;VALUE=DATE:20250809
 SUMMARY:Nepathya Live
-UID:ab431da0-a0d4-421a-a3c0-d64234c81a4e
+UID:65356c18-3a3e-4807-a7bb-87cde474457b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
+DTSTAMP:20250807T023204Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 8/6/2025 at 2:30 PM
-DTEND;VALUE=DATE:20250806
-DTSTART;VALUE=DATE:20250806
+DTEND;VALUE=DATE:20250807
+DTSTART;VALUE=DATE:20250807
 SUMMARY:Starlight Express
-UID:a6c99a6c-204a-49e7-9b79-96f808bec421
+UID:77e715d6-dc88-4498-93b6-d8001295c641
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
+DTSTAMP:20250807T023204Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 8/8/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250808
 DTSTART;VALUE=DATE:20250808
 SUMMARY:Starlight Express
-UID:3e0ecf37-d7ac-4519-8fbf-65827d87eaf2
+UID:b7ca0922-804a-4394-b211-8381ca0c0e35
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
+DTSTAMP:20250807T023204Z
 DESCRIPTION:Madame Tussauds One of London's most famous attractions, which 
  has been in the capital since 1835 (and at its present Marylebone location 
  since 1884). On display are a huge selection of current...
 DTEND;VALUE=DATE:20250807
 DTSTART;VALUE=DATE:20250807
 SUMMARY:Madame Tussauds London - Standard Entry
-UID:a86f3eab-51b4-4081-8f0e-e99a1b0a2c84
+UID:793ef9ac-618f-4ccb-9df3-929af8480a64
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
-DESCRIPTION:Doors: 2:00pm Curfew: 10.00pm *Show times are subject to chang
- e Bag Policy: These events are big-bag free. Only bags smaller than a shee
- t of A4 paper will be permitted. People without bags will...
-DTEND;VALUE=DATE:20250810
-DTSTART;VALUE=DATE:20250810
-SUMMARY:White Lies
-UID:4d420d18-02d0-4c71-b7b4-8ca9d9aa0075
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
+DTSTAMP:20250807T023204Z
 DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
  er" will take place in London. Dimash performs songs in Kazakh, English, Ru
  ssian, French, Chinese, Spanish, and Italian across a wide...
 DTEND;VALUE=DATE:20251112
 DTSTART;VALUE=DATE:20251112
 SUMMARY:Dimash Qudaibergen
-UID:9b739780-4805-4af2-a802-68530d798f4d
+UID:7beaa975-b7eb-4363-acc4-47688d16ba08
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
-DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
- light up London's Wembley Stadium. Enquire today with Hospitality Finder.
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay
-UID:3e16e49c-8480-4c4b-a41c-d0619e9361de
+DTSTAMP:20250807T023204Z
+DESCRIPTION:🎶 Get Ready for CoComelon Live at St Martin's Theatre on Thu
+ rsday, August 7, 2025! 🎶 This is not just a concert—it's a moment you'
+ ll talk about for years. CoComelon is set to light up St...
+DTEND;VALUE=DATE:20250807
+DTSTART;VALUE=DATE:20250807
+SUMMARY:Cocomelon Sing-Along Live
+UID:f8aa756d-092f-4174-a6ec-57b45475797c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
-DESCRIPTION:🎶 The Ultimate CoComelon Experience LIVE at St Martin's Thea
- tre—This Sunday, August 10, 2025! 🎶 It's that time of the year where e
- veryone wants to have a musical breath! Your favorite, CoComelon...
+DTSTAMP:20250807T023204Z
+DESCRIPTION:The Peace One Day Celebration A multi-media entrepreneur, Dave 
+ Stewart is recognized as one of the most respected and accomplished talent
+ s in the music industry today. Beyond his creative work as...
+DTEND;VALUE=DATE:20250921
+DTSTART;VALUE=DATE:20250921
+SUMMARY:Peace One Day Celebration with Dave Stewart, Daryl Hall, Basement J
+ axx and many more
+UID:25d344fb-2749-4f23-8b5a-8ada6b3280e3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250807T023204Z
+DESCRIPTION:Doors: 2:00pm Curfew: 10.00pm *Show times are subject to chang
+ e Bag Policy: These events are big-bag free. Only bags smaller than a shee
+ t of A4 paper will be permitted. People without bags will...
+DTEND;VALUE=DATE:20250810
+DTSTART;VALUE=DATE:20250810
+SUMMARY:White Lies
+UID:27c16844-ef2d-4800-ac04-cfef4e7e1066
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250807T023204Z
+DESCRIPTION:🎶 Don't Miss CoComelon Live in London on Sunday, August 10, 
+ 2025! 🎶 Are you ready to experience CoComelon like never before? With ch
+ art-topping hits like Wheels on the Bus, Itsy Bitsy Spider and...
 DTEND;VALUE=DATE:20250810
 DTSTART;VALUE=DATE:20250810
 SUMMARY:Cocomelon Sing-Along Live
-UID:098a83f5-7726-4596-8e37-5c27eb620bcb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250806T023148Z
-DESCRIPTION:Today, critically acclaimed singer, songwriter and musician Sa
- m Ryder has announced his biggest headline show to date at London's iconic 
- OVO Arena Wembley on Thursday 6th November. On announcing...
-DTEND;VALUE=DATE:20251106
-DTSTART;VALUE=DATE:20251106
-SUMMARY:Sam Ryder
-UID:3c8edebf-6d6a-4e41-91a2-23af5ce3d33e
+UID:501e5555-5d95-4cf0-b5c9-525d3b5475e2
 END:VEVENT
 END:VCALENDAR
