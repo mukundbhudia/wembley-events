@@ -3,101 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
+DTSTAMP:20250811T023135Z
+DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/16
+ /2025 at 5:00 PM
+DTEND;VALUE=DATE:20250816
+DTSTART;VALUE=DATE:20250816
+SUMMARY:BLACKPINK
+UID:1f2ce980-4c70-4666-b793-c8f810b4fae7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T023135Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 8/14/2025 at 2:30 PM
+DTEND;VALUE=DATE:20250814
+DTSTART;VALUE=DATE:20250814
+SUMMARY:Starlight Express
+UID:6e140e73-9040-437e-a8b2-5c371440bb66
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T023135Z
+DESCRIPTION:A cupsleeve event for Blackpink’s London Concert Date 16th Au
+ gust 2025
+DTEND;VALUE=DATE:20250815
+DTSTART;VALUE=DATE:20250815
+SUMMARY:BLACKPINK
+UID:e494dcd9-b248-4fa2-951d-ffd4e3b30093
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T023135Z
+DESCRIPTION:The Come Mek We Larf Comedy Academy showcases our students perf
+ orming Stand-Up Comedy for the first time. Headlined by AURIE STYLA
+DTEND;VALUE=DATE:20250817
+DTSTART;VALUE=DATE:20250817
+SUMMARY:COME MEK WE LARF COMEDY ACADEMY SHOWCASE
+UID:5b9da10f-71bd-4cc6-879e-224a0fa7a56b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T023135Z
+DESCRIPTION:BLACKPINK FANS AFTERPARTY: BLACKPINK ARE FINALLY HERE!
+DTEND;VALUE=DATE:20250815
+DTSTART;VALUE=DATE:20250815
+SUMMARY:BLACKPINK FANS AFTERPARTY: KPop, KHipHop, EDM
+UID:fc4e0d38-ce24-4340-8046-5babd058cb6c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T023135Z
+DESCRIPTION:🎤 Catch CoComelon Live at St Martin's Theatre on Wednesday, 
+ August 13, 2025 ! 🎤 Ready to experience the night of your life? CoComelo
+ n is bringing their infectious energy and hit songs like...
+DTEND;VALUE=DATE:20250812
+DTSTART;VALUE=DATE:20250812
+SUMMARY:Cocomelon Sing-Along Live
+UID:6107bf5c-9206-48b4-b6e8-3f2c5f93945e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T023135Z
+DESCRIPTION:Summertime Live returns to Windsor Racecourse for 4 stages of l
+ ive music and DJs, headlined by Ministry of Sound Ibiza Anthems! Artful Dod
+ ger is a British R&B & UK garage band from the city of...
+DTEND;VALUE=DATE:20250816
+DTSTART;VALUE=DATE:20250816
+SUMMARY:Artful Dodger
+UID:5eb5139c-a4db-46d6-80ba-cacb6b75a3b9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T023135Z
+DESCRIPTION:"Walk in the footsteps of your favourite players, with a behind
+ -the-scenes Spurs stadium tour. Gain insights into how the players prepare 
+ on matchday, from the changing room to the dugout and...
+DTEND;VALUE=DATE:20250811
+DTSTART;VALUE=DATE:20250811
+SUMMARY:Tottenham Hotspur Stadium Tour
+UID:efeae763-b3de-4e02-a0ce-57fd63e18f4b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T023135Z
+DESCRIPTION:🎤 Experience CoComelon Live at St Martin's Theatre on Thurs
+ day, August 14, 2025! 🎤 The countdown has begun! CoComelon is taking ove
+ r St Martin's Theatre on Thursday, August 14, 2025 , and with...
+DTEND;VALUE=DATE:20250814
+DTSTART;VALUE=DATE:20250814
+SUMMARY:Cocomelon Sing-Along Live
+UID:b420c0b5-6bdc-48ce-a511-b3d34cd748d6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T023135Z
 DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
  er" will take place in London. Dimash performs songs in Kazakh, English, Ru
  ssian, French, Chinese, Spanish, and Italian across a wide...
 DTEND;VALUE=DATE:20251112
 DTSTART;VALUE=DATE:20251112
 SUMMARY:Dimash Qudaibergen
-UID:08c2e2c7-b609-4adc-be4d-d392ac05f266
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
-DESCRIPTION:Doors: 2:00pm Curfew: 10.00pm *Show times are subject to chang
- e Bag Policy: These events are big-bag free. Only bags smaller than a shee
- t of A4 paper will be permitted. People without bags will...
-DTEND;VALUE=DATE:20250810
-DTSTART;VALUE=DATE:20250810
-SUMMARY:White Lies
-UID:6c06c7cc-9d99-45a0-b4d8-91722265e719
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
-DESCRIPTION:The Peace One Day Celebration A multi-media entrepreneur, Dave 
- Stewart is recognized as one of the most respected and accomplished talent
- s in the music industry today. Beyond his creative work as...
-DTEND;VALUE=DATE:20250921
-DTSTART;VALUE=DATE:20250921
-SUMMARY:Peace One Day Celebration with Dave Stewart, Daryl Hall, Basement J
- axx and many more
-UID:b8e4ce16-9e3b-4139-b3d6-a268dae631fa
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
-DESCRIPTION:COLDPLAY are coming to London! COLDPLAY are back for UK Tour i
- n 2025! Don't miss out! #COLDPLAY
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
-SUMMARY:Coldplay
-UID:399b7dba-e361-4a95-87d1-07b6b1d18cf3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
-DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/16
- /2025 at 5:00 PM
-DTEND;VALUE=DATE:20250816
-DTSTART;VALUE=DATE:20250816
-SUMMARY:BLACKPINK
-UID:3c47a6a6-71b0-4fbc-ac78-b5789e1d7ac7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
-DESCRIPTION:🎤 Catch Coldplay Live at Wembley Stadium on Tuesday, August
-  26, 2025 ! 🎤 Ready to experience the night of your life? Coldplay is b
- ringing their infectious energy and hit songs like Yellow...
-DTEND;VALUE=DATE:20250826
-DTSTART;VALUE=DATE:20250826
-SUMMARY:Coldplay
-UID:826ce777-05c7-48d0-b455-095c261cae17
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
-DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
- light up London's Wembley Stadium. Enquire today with Hospitality Finder.
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay
-UID:cb76c7ae-0f96-43b4-8854-544922517442
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
-DESCRIPTION:Today, critically acclaimed singer, songwriter and musician Sa
- m Ryder has announced his biggest headline show to date at London's iconic 
- OVO Arena Wembley on Thursday 6th November. On announcing...
-DTEND;VALUE=DATE:20251106
-DTSTART;VALUE=DATE:20251106
-SUMMARY:Sam Ryder
-UID:1b5d4ce7-79a8-46a9-800e-4bfd1206a882
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
-DESCRIPTION:G.V Prakash & Radhika Kumar at the OVO Arena in Wembley Park.Gu
- sttavo Lima is returning to London following his last performance in 2022 a
- t the OVO Arena Wembley, where he will take the stage...
-DTEND;VALUE=DATE:20250926
-DTSTART;VALUE=DATE:20250926
-SUMMARY:Gusttavo Lima
-UID:e3c110b5-fd79-4d24-91b1-dd5381313b92
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250810T023610Z
-DESCRIPTION:Following instantly sold out shows in February, iconic rock leg
- end Marilyn Manson returns this October & November with the One Assassinati
- on Under God Tour.
-DTEND;VALUE=DATE:20251107
-DTSTART;VALUE=DATE:20251107
-SUMMARY:Marilyn Manson
-UID:e7d2de42-cfab-421c-91c7-0f0170a482e9
+UID:84cb378e-f0e8-4098-9df4-903bdbfe8135
 END:VEVENT
 END:VCALENDAR
