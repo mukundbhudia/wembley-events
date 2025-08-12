@@ -3,97 +3,94 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
+DTSTAMP:20250812T021850Z
+DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/15
+ /2025 at 5:00 PM
+DTEND;VALUE=DATE:20250815
+DTSTART;VALUE=DATE:20250815
+SUMMARY:BLACKPINK
+UID:5fe08be9-22ae-47ea-b882-67e4d64fa6dc
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250812T021850Z
 DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/16
  /2025 at 5:00 PM
 DTEND;VALUE=DATE:20250816
 DTSTART;VALUE=DATE:20250816
 SUMMARY:BLACKPINK
-UID:1f2ce980-4c70-4666-b793-c8f810b4fae7
+UID:995408a6-f27a-45a5-89e8-7aba22ba7752
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
+DTSTAMP:20250812T021850Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 8/14/2025 at 2:30 PM
 DTEND;VALUE=DATE:20250814
 DTSTART;VALUE=DATE:20250814
 SUMMARY:Starlight Express
-UID:6e140e73-9040-437e-a8b2-5c371440bb66
+UID:98cb9681-454d-48f7-a06a-c73ad63fe863
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
-DESCRIPTION:A cupsleeve event for Blackpink’s London Concert Date 16th Au
- gust 2025
+DTSTAMP:20250812T021850Z
+DESCRIPTION:🎤 GOLDEN MIC GAMES NIGHT 🗓️ Thursday 14th August 🕗 7
+ pm-11pm 📍 Boxpark (Wembley) Edwin Junior hosts a special spin off intera
+ ctive games night where YOU the crowd are part of the fun, featuring...
+DTEND;VALUE=DATE:20250814
+DTSTART;VALUE=DATE:20250814
+SUMMARY:Golden Mic Games Night (Wembley)
+UID:4570458e-4af4-44fe-95b4-4af6bd5a369f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250812T021850Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 8/15/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250815
 DTSTART;VALUE=DATE:20250815
-SUMMARY:BLACKPINK
-UID:e494dcd9-b248-4fa2-951d-ffd4e3b30093
+SUMMARY:Starlight Express
+UID:e5c2bff9-f859-4fb1-b3d0-2a5ac7e7e252
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
+DTSTAMP:20250812T021850Z
 DESCRIPTION:The Come Mek We Larf Comedy Academy showcases our students perf
  orming Stand-Up Comedy for the first time. Headlined by AURIE STYLA
 DTEND;VALUE=DATE:20250817
 DTSTART;VALUE=DATE:20250817
 SUMMARY:COME MEK WE LARF COMEDY ACADEMY SHOWCASE
-UID:5b9da10f-71bd-4cc6-879e-224a0fa7a56b
+UID:640e8044-0fb8-4cec-bb93-22cd8ac00fe5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
+DTSTAMP:20250812T021850Z
 DESCRIPTION:BLACKPINK FANS AFTERPARTY: BLACKPINK ARE FINALLY HERE!
 DTEND;VALUE=DATE:20250815
 DTSTART;VALUE=DATE:20250815
 SUMMARY:BLACKPINK FANS AFTERPARTY: KPop, KHipHop, EDM
-UID:fc4e0d38-ce24-4340-8046-5babd058cb6c
+UID:e73147bf-60e0-47de-831d-4e7b14dc563d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
-DESCRIPTION:🎤 Catch CoComelon Live at St Martin's Theatre on Wednesday, 
- August 13, 2025 ! 🎤 Ready to experience the night of your life? CoComelo
- n is bringing their infectious energy and hit songs like...
-DTEND;VALUE=DATE:20250812
-DTSTART;VALUE=DATE:20250812
-SUMMARY:Cocomelon Sing-Along Live
-UID:6107bf5c-9206-48b4-b6e8-3f2c5f93945e
+DTSTAMP:20250812T021850Z
+DESCRIPTION:No description
+DTEND;VALUE=DATE:20250817
+DTSTART;VALUE=DATE:20250817
+SUMMARY:Betwright Stadium Tour
+UID:1cb01283-6f7d-407b-be94-ddf0883c2ab6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
+DTSTAMP:20250812T021850Z
 DESCRIPTION:Summertime Live returns to Windsor Racecourse for 4 stages of l
  ive music and DJs, headlined by Ministry of Sound Ibiza Anthems! Artful Dod
  ger is a British R&B & UK garage band from the city of...
 DTEND;VALUE=DATE:20250816
 DTSTART;VALUE=DATE:20250816
 SUMMARY:Artful Dodger
-UID:5eb5139c-a4db-46d6-80ba-cacb6b75a3b9
+UID:ba390a79-ed00-44c8-91c4-ac04222ea84d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
-DESCRIPTION:"Walk in the footsteps of your favourite players, with a behind
- -the-scenes Spurs stadium tour. Gain insights into how the players prepare 
- on matchday, from the changing room to the dugout and...
-DTEND;VALUE=DATE:20250811
-DTSTART;VALUE=DATE:20250811
-SUMMARY:Tottenham Hotspur Stadium Tour
-UID:efeae763-b3de-4e02-a0ce-57fd63e18f4b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
+DTSTAMP:20250812T021850Z
 DESCRIPTION:🎤 Experience CoComelon Live at St Martin's Theatre on Thurs
  day, August 14, 2025! 🎤 The countdown has begun! CoComelon is taking ove
  r St Martin's Theatre on Thursday, August 14, 2025 , and with...
 DTEND;VALUE=DATE:20250814
 DTSTART;VALUE=DATE:20250814
 SUMMARY:Cocomelon Sing-Along Live
-UID:b420c0b5-6bdc-48ce-a511-b3d34cd748d6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250811T023135Z
-DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
- er" will take place in London. Dimash performs songs in Kazakh, English, Ru
- ssian, French, Chinese, Spanish, and Italian across a wide...
-DTEND;VALUE=DATE:20251112
-DTSTART;VALUE=DATE:20251112
-SUMMARY:Dimash Qudaibergen
-UID:84cb378e-f0e8-4098-9df4-903bdbfe8135
+UID:845d230e-032f-4dc3-9ecb-e800f3a50e08
 END:VEVENT
 END:VCALENDAR
