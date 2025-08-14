@@ -3,96 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
+DTSTAMP:20250814T022105Z
 DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/16
  /2025 at 5:00 PM
 DTEND;VALUE=DATE:20250816
 DTSTART;VALUE=DATE:20250816
 SUMMARY:BLACKPINK
-UID:df0f9c9e-eecc-4fcc-a0d5-5e21ce92631c
+UID:c07a3cfc-0b1c-4b77-b044-825eea67d32b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
-DESCRIPTION:A cupsleeve event for Blackpink’s London Concert Date 16th Au
- gust 2025
-DTEND;VALUE=DATE:20250815
-DTSTART;VALUE=DATE:20250815
-SUMMARY:BLACKPINK
-UID:f4db3ba3-b9cc-4c5b-9208-eb4942201140
+DTSTAMP:20250814T022105Z
+DESCRIPTION:🎤 GOLDEN MIC GAMES NIGHT 🗓️ Thursday 14th August 🕗 7
+ pm-11pm 📍 Boxpark (Wembley) Edwin Junior hosts a special spin off intera
+ ctive games night where YOU the crowd are part of the fun, featuring...
+DTEND;VALUE=DATE:20250814
+DTSTART;VALUE=DATE:20250814
+SUMMARY:Golden Mic Games Night (Wembley)
+UID:ee65a8f6-3357-4f01-ac02-f5e13e11b563
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
+DTSTAMP:20250814T022105Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 8/13/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250813
-DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250814
+DTSTART;VALUE=DATE:20250814
 SUMMARY:Starlight Express - Wednesday 13th August
-UID:754d7ce7-8526-4fe4-848b-3e38c2f9fafd
+UID:9230b276-091d-4c47-ab5c-884cd6f921e2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
+DTSTAMP:20250814T022105Z
 DESCRIPTION:The Come Mek We Larf Comedy Academy showcases our students perf
  orming Stand-Up Comedy for the first time. Headlined by AURIE STYLA
 DTEND;VALUE=DATE:20250817
 DTSTART;VALUE=DATE:20250817
 SUMMARY:COME MEK WE LARF COMEDY ACADEMY SHOWCASE
-UID:44add7fe-5536-4d6a-9679-d47dd39ceb25
+UID:ad662512-529a-42d9-af83-0be1ff2918c2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
+DTSTAMP:20250814T022105Z
 DESCRIPTION:BLACKPINK FANS AFTERPARTY: BLACKPINK ARE FINALLY HERE!
 DTEND;VALUE=DATE:20250815
 DTSTART;VALUE=DATE:20250815
 SUMMARY:BLACKPINK FANS AFTERPARTY: KPop, KHipHop, EDM
-UID:7f990b89-fb59-4b5c-932b-7b73d1f37182
+UID:cd10e907-8777-4bc0-86c8-0c58c95e1b81
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
+DTSTAMP:20250814T022105Z
 DESCRIPTION:Summertime Live returns to Windsor Racecourse for 4 stages of l
  ive music and DJs, headlined by Ministry of Sound Ibiza Anthems! Artful Dod
  ger is a British R&B & UK garage band from the city of...
 DTEND;VALUE=DATE:20250816
 DTSTART;VALUE=DATE:20250816
 SUMMARY:Artful Dodger
-UID:2a8e086b-638a-41a3-b409-d2bff771cae8
+UID:e39b93f2-6313-406e-bca9-87a27e6e3bf2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
-DESCRIPTION:🎤 Experience CoComelon Live at St Martin's Theatre on Thurs
- day, August 14, 2025! 🎤 The countdown has begun! CoComelon is taking ove
- r St Martin's Theatre on Thursday, August 14, 2025 , and with...
-DTEND;VALUE=DATE:20250814
-DTSTART;VALUE=DATE:20250814
-SUMMARY:Cocomelon Sing-Along Live
-UID:1636ec0a-f4ae-4aab-b16a-273a5633104b
+DTSTAMP:20250814T022105Z
+DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
+ light up London's Wembley Stadium. Enquire today with Hospitality Finder.
+DTEND;VALUE=DATE:20250831
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Coldplay
+UID:d95c6972-80c4-4650-9c0b-4acb1be66b02
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
+DTSTAMP:20250814T022105Z
 DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
  er" will take place in London. Dimash performs songs in Kazakh, English, Ru
  ssian, French, Chinese, Spanish, and Italian across a wide...
 DTEND;VALUE=DATE:20251112
 DTSTART;VALUE=DATE:20251112
 SUMMARY:Dimash Qudaibergen
-UID:8963eea6-70ba-4b6b-8c39-cfb2baaf1a77
+UID:e04491c8-2538-4a47-917f-53cb8f611d97
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
+DTSTAMP:20250814T022105Z
 DESCRIPTION:COLDPLAY are coming to London! COLDPLAY are back for UK Tour i
  n 2025! Don't miss out! #COLDPLAY
 DTEND;VALUE=DATE:20250822
 DTSTART;VALUE=DATE:20250822
 SUMMARY:Coldplay
-UID:1b379d28-0cd2-4fa4-8ac1-dbb90263afec
+UID:4d431347-96ed-4486-9ffc-3c913474943c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250813T022011Z
-DESCRIPTION:Considered one of the most influential British comedians since 
- Charlie Chaplin, (he received the Charlie Chaplin Britannia Award for Excel
- lence in Comedy 2016 BAFTA/LA) Ricky Gervais is the...
-DTEND;VALUE=DATE:20251031
-DTSTART;VALUE=DATE:20251031
-SUMMARY:Ricky Gervais
-UID:b52861fa-ef31-4396-a88e-5efe33690c3b
+DTSTAMP:20250814T022105Z
+DESCRIPTION:OASIS at Wembley Stadium Oasis ended years of feverish speculat
+ ion with the confirmation of a long awaited run of UK and Ireland shows for
+ ming the domestic leg of their OASIS LIVE ’25 world tour...
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Oasis
+UID:2c2bb653-1d68-4048-af45-20fe5cb4fd3c
 END:VEVENT
 END:VCALENDAR
