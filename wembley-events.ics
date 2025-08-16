@@ -3,98 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
+DTSTAMP:20250816T021543Z
 DESCRIPTION:Find tickets for BLACKPINK at Wembley Stadium in London on 8/16
- /2025 at 5:00 PM
+ /2025 at 5:30 PM
 DTEND;VALUE=DATE:20250816
 DTSTART;VALUE=DATE:20250816
 SUMMARY:BLACKPINK
-UID:218cef04-1296-4563-9b34-d8226f20a4c7
+UID:61247eb7-f8ca-4632-b17c-f5d233beced8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
+DTSTAMP:20250816T021543Z
 DESCRIPTION:We Outside is more than just an event, its a movement redefinin
  g nightlife and live experiences in London. With a track record of sold-ou
  t shows and high-energy performances, We Outside curates...
 DTEND;VALUE=DATE:20250817
 DTSTART;VALUE=DATE:20250817
 SUMMARY:We Outside: 2 year Anniversay Boxpark Takeover
-UID:c0513b6f-ca28-4c38-b688-e70017b08535
+UID:100d468f-65da-42fd-810c-9a8e8a6d30fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
-DESCRIPTION:🎤 GOLDEN MIC GAMES NIGHT 🗓️ Thursday 14th August 🕗 7
- pm-11pm 📍 Boxpark (Wembley) Edwin Junior hosts a special spin off intera
- ctive games night where YOU the crowd are part of the fun, featuring...
-DTEND;VALUE=DATE:20250815
-DTSTART;VALUE=DATE:20250815
-SUMMARY:Golden Mic Games Night (Wembley)
-UID:eb624468-ca84-4615-aaba-325d01353993
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
+DTSTAMP:20250816T021543Z
 DESCRIPTION:The Come Mek We Larf Comedy Academy showcases our students perf
  orming Stand-Up Comedy for the first time. Headlined by AURIE STYLA
 DTEND;VALUE=DATE:20250817
 DTSTART;VALUE=DATE:20250817
 SUMMARY:COME MEK WE LARF COMEDY ACADEMY SHOWCASE
-UID:2e7e14f1-bd9a-46e8-8ff0-9ae0539c4836
+UID:8e83feb0-bf90-4848-8ad2-749f59632e87
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
+DTSTAMP:20250816T021543Z
 DESCRIPTION:BLACKPINK FANS AFTERPARTY: BLACKPINK ARE FINALLY HERE!
-DTEND;VALUE=DATE:20250815
-DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+DTSTART;VALUE=DATE:20250816
 SUMMARY:BLACKPINK FANS AFTERPARTY: KPop, KHipHop, EDM
-UID:35996d61-ab26-4947-97f6-ab206b3902ad
+UID:0969cc61-5414-4030-8bd1-0aee5de4f9a6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
+DTSTAMP:20250816T021543Z
 DESCRIPTION:Summertime Live returns to Windsor Racecourse for 4 stages of l
  ive music and DJs, headlined by Ministry of Sound Ibiza Anthems! Artful Dod
  ger is a British R&B & UK garage band from the city of...
 DTEND;VALUE=DATE:20250816
 DTSTART;VALUE=DATE:20250816
 SUMMARY:Artful Dodger
-UID:bfd2d70c-6e3c-4872-ba76-df2df263cd54
+UID:797c1954-d889-4063-bd15-52524a45b6b7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
-DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
- light up London's Wembley Stadium. Enquire today with Hospitality Finder.
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay
-UID:ec327cca-ed1e-41d3-8eae-af6c29398a89
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
-DESCRIPTION:The Peace One Day Celebration A multi-media entrepreneur, Dave 
- Stewart is recognized as one of the most respected and accomplished talent
- s in the music industry today. Beyond his creative work as...
-DTEND;VALUE=DATE:20250921
-DTSTART;VALUE=DATE:20250921
-SUMMARY:Peace One Day Celebration with Dave Stewart, Daryl Hall, Basement J
- axx and many more
-UID:ebd05b04-a71c-4e59-8135-2eb7eb805fb6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
+DTSTAMP:20250816T021543Z
 DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
  er" will take place in London. Dimash performs songs in Kazakh, English, Ru
  ssian, French, Chinese, Spanish, and Italian across a wide...
 DTEND;VALUE=DATE:20251112
 DTSTART;VALUE=DATE:20251112
 SUMMARY:Dimash Qudaibergen
-UID:dc503af6-9a1c-47ab-937e-563f283d485b
+UID:ac8983d3-89d7-4df3-a6be-cfdedc9d46d8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250815T022154Z
+DTSTAMP:20250816T021543Z
 DESCRIPTION:COLDPLAY are coming to London! COLDPLAY are back for UK Tour i
  n 2025! Don't miss out! #COLDPLAY
 DTEND;VALUE=DATE:20250822
 DTSTART;VALUE=DATE:20250822
 SUMMARY:Coldplay
-UID:0d9df242-d228-4bc5-aea4-ce024b60c524
+UID:ecf1f392-b871-4ded-9bab-6ccc9cfd4565
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T021543Z
+DESCRIPTION:OASIS at Wembley Stadium Oasis ended years of feverish speculat
+ ion with the confirmation of a long awaited run of UK and Ireland shows for
+ ming the domestic leg of their OASIS LIVE ’25 world tour...
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Oasis
+UID:879dfcf1-b077-4e10-9736-e94f56f320bf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T021543Z
+DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
+ light up London's Wembley Stadium. Enquire today with Hospitality Finder.
+DTEND;VALUE=DATE:20250831
+DTSTART;VALUE=DATE:20250831
+SUMMARY:Coldplay
+UID:6b85fa5a-afc5-4ad9-9b45-8a1a63929d65
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T021543Z
+DESCRIPTION:Today, critically acclaimed singer, songwriter and musician Sa
+ m Ryder has announced his biggest headline show to date at London's iconic 
+ OVO Arena Wembley on Thursday 6th November. On announcing...
+DTEND;VALUE=DATE:20251106
+DTSTART;VALUE=DATE:20251106
+SUMMARY:Sam Ryder
+UID:ba464992-ea9d-4cbd-bd27-1cc52253f90c
 END:VEVENT
 END:VCALENDAR
