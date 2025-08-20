@@ -3,99 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
-DESCRIPTION:Coldplay concert in London on Sun, August 24, 2025 at Wembley S
- tadium
-DTEND;VALUE=DATE:20250823
-DTSTART;VALUE=DATE:20250823
-SUMMARY:Coldplay
-UID:fdd2027d-692f-454a-8069-1407fc2e2a93
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
+DTSTAMP:20250820T020608Z
 DESCRIPTION:Searching for information and tickets regarding Coldplay World 
  Tour | Wembley Stadium taking place in Wembley on 2025年8月22日–9月8
  日 (UTC)? Trip.com has you covered. Check the dates, itineraries, and...
 DTEND;VALUE=DATE:20250821
 DTSTART;VALUE=DATE:20250821
 SUMMARY:Coldplay World Tour | Wembley Stadium
-UID:cb1cf735-74f3-415d-bdde-9b40a1a991f0
+UID:5b85a4ab-60c8-4ac3-a269-484f35c8d42f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
+DTSTAMP:20250820T020608Z
+DESCRIPTION:Coldplay concert in London on Sun, August 24, 2025 at Wembley S
+ tadium
+DTEND;VALUE=DATE:20250823
+DTSTART;VALUE=DATE:20250823
+SUMMARY:Coldplay
+UID:5f5466fd-ef63-46a8-b2e4-29b2c97b6735
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250820T020608Z
 DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
  venue customers
 DTEND;VALUE=DATE:20250824
 DTSTART;VALUE=DATE:20250824
 SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
  0yr olds
-UID:ec29a836-1c26-4ebc-b9b7-a7e6725a9435
+UID:2d318c47-10af-44b5-a2bc-244119fe973b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
+DTSTAMP:20250820T020608Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 8/20/2025 at 2:30 PM
 DTEND;VALUE=DATE:20250821
 DTSTART;VALUE=DATE:20250821
 SUMMARY:Starlight Express
-UID:887aa08a-d8e1-4b34-8fb6-70e5e17b3ca1
+UID:355274d3-d99e-400a-88ae-4e8a0a73addc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
+DTSTAMP:20250820T020608Z
 DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
  light up London's Wembley Stadium. Enquire today with Hospitality Finder.
 DTEND;VALUE=DATE:20250831
 DTSTART;VALUE=DATE:20250831
 SUMMARY:Coldplay
-UID:49470a1a-f7d7-4584-8cee-1df27c63f101
+UID:ac24c353-5501-4074-894f-ece6b03a1131
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
-DESCRIPTION:COLDPLAY FANPARKBOXPARK Wembley will transform into a festival 
- of colour and sound for all the Coldplayers out there heading to Coldplay'
- s Wembley Stadium shows next August!Expect amazing DJs, a...
-DTEND;VALUE=DATE:20250826
-DTSTART;VALUE=DATE:20250826
-SUMMARY:Coldplay
-UID:954b90b4-2ab3-42b6-b26f-0e4b3e237d1a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
-DESCRIPTION:This is it, it's actually happening! Oasis reunion is confirme
- d as Liam and Noel mend their 15 year fallout! Their reunion announcement c
- omes right before the 30-year anniversary of Definitely...
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Oasis
-UID:721824dc-5792-446a-8570-012df689c885
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
+DTSTAMP:20250820T020608Z
 DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
  er" will take place in London. Dimash performs songs in Kazakh, English, Ru
  ssian, French, Chinese, Spanish, and Italian across a wide...
 DTEND;VALUE=DATE:20251112
 DTSTART;VALUE=DATE:20251112
 SUMMARY:Dimash Qudaibergen
-UID:54f0b25f-f05f-45ef-9285-b9fe51819cd6
+UID:090bd0a4-8e95-4765-9bc4-5be0b47b92d1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
+DTSTAMP:20250820T020608Z
+DESCRIPTION:COLDPLAY FANPARKBOXPARK Wembley will transform into a festival 
+ of colour and sound for all the Coldplayers out there heading to Coldplay'
+ s Wembley Stadium shows next August!Expect amazing DJs, a...
+DTEND;VALUE=DATE:20250826
+DTSTART;VALUE=DATE:20250826
+SUMMARY:Coldplay
+UID:b928a529-caaf-42c8-bb11-11da4e05001c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250820T020608Z
+DESCRIPTION:This is it, it's actually happening! Oasis reunion is confirme
+ d as Liam and Noel mend their 15 year fallout! Their reunion announcement c
+ omes right before the 30-year anniversary of Definitely...
+DTEND;VALUE=DATE:20250928
+DTSTART;VALUE=DATE:20250928
+SUMMARY:Oasis
+UID:ba93b0e6-4992-4658-9a0e-bbb7158cd065
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250820T020608Z
 DESCRIPTION:Find tickets for Simply Red with Soul II Soul at OVO Arena Wemb
  ley in London on 10/11/2025 at 6:30 PM
 DTEND;VALUE=DATE:20251011
 DTSTART;VALUE=DATE:20251011
 SUMMARY:Simply Red
-UID:5e5f3c85-eb9d-4b55-81a8-1a14751e4252
+UID:e3421ab9-8cb5-471d-a1ac-cb0a07105a29
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250819T020931Z
-DESCRIPTION:Today, critically acclaimed singer, songwriter and musician Sa
- m Ryder has announced his biggest headline show to date at London's iconic 
- OVO Arena Wembley on Thursday 6th November. On announcing...
-DTEND;VALUE=DATE:20251106
-DTSTART;VALUE=DATE:20251106
-SUMMARY:Sam Ryder
-UID:7f4eb43b-77ae-4bc5-acc4-913898da96d2
+DTSTAMP:20250820T020608Z
+DESCRIPTION:Coldplay concert in London on Fri, August 29, 2025 at Wembley S
+ tadium
+DTEND;VALUE=DATE:20250830
+DTSTART;VALUE=DATE:20250830
+SUMMARY:Coldplay | Music Of The Spheres World Tour
+UID:4c2b6ae3-ce7f-4c85-941c-812afd6ebce1
 END:VEVENT
 END:VCALENDAR
