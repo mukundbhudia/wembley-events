@@ -3,101 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
+DTSTAMP:20250823T020123Z
 DESCRIPTION:Searching for information and tickets regarding Coldplay World 
  Tour | Wembley Stadium taking place in Wembley on 2025年8月22日–9月8
  日 (UTC)? Trip.com has you covered. Check the dates, itineraries, and...
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+DTSTART;VALUE=DATE:20250823
 SUMMARY:Coldplay World Tour | Wembley Stadium
-UID:10aa4bbf-a24d-4788-8ffb-1abb7d642bfc
+UID:f12a8a65-eb84-4698-8f1c-a4b671334c58
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
-DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
- light up London's Wembley Stadium. Enquire today with Hospitality Finder.
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
+DTSTAMP:20250823T020123Z
+DESCRIPTION:Coldplay concert in London on Sun, August 24, 2025 at Wembley S
+ tadium
+DTEND;VALUE=DATE:20250823
+DTSTART;VALUE=DATE:20250823
 SUMMARY:Coldplay
-UID:38e25093-2650-474e-94cd-ac26c16d0b06
+UID:def1cf91-6611-49e1-aea4-e4f3a50c6c84
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
+DTSTAMP:20250823T020123Z
 DESCRIPTION:2 Rooms! Carnival Special! Full Soundsystems in each room! Wes
  t London Dub Club - Ital Power meets Word Sound & Power The Original Roast 
  - Jungle
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+DTSTART;VALUE=DATE:20250823
 SUMMARY:Carnival Special: West London Dub Club x The Original Roast
-UID:ba610c2e-adc3-4ffc-89ab-22b742003b8b
+UID:87ab0435-a011-425e-ba56-53fe61d2c985
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
+DTSTAMP:20250823T020123Z
 DESCRIPTION:Infinity Tickets for this show have now sold out. Please read f
  ull promoter Terms and Conditions No matter what lines, borders, or boundar
  ies seemingly separate us, songs bring us back together...
 DTEND;VALUE=DATE:20250823
 DTSTART;VALUE=DATE:20250823
 SUMMARY:Elyanna
-UID:2d7f59c8-0f93-4287-b14d-980de532ae72
+UID:15187201-4495-43a5-91a2-efba9da87781
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
+DTSTAMP:20250823T020123Z
+DESCRIPTION:Calling all foodies! BOXPARK Wembley is the gourmet street foo
+ d destination of your dreams, right here in the heart of Wembley Park. Wit
+ h an impressive lineup of 22 mouthwatering restaurants and...
+DTEND;VALUE=DATE:20250823
+DTSTART;VALUE=DATE:20250823
+SUMMARY:Coldplay Fanpark 22 Aug
+UID:c55da54d-db63-4d3a-9456-34ee9a4632fa
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250823T020123Z
 DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
  venue customers
 DTEND;VALUE=DATE:20250824
 DTSTART;VALUE=DATE:20250824
 SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
  0yr olds
-UID:163311c6-4233-4051-95e6-4bb27a2bc303
+UID:a4d77663-5ac7-4ea9-bf4b-4c939a345083
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
-DESCRIPTION:Calling all foodies! BOXPARK Wembley is the gourmet street foo
- d destination of your dreams, right here in the heart of Wembley Park. Wit
- h an impressive lineup of 22 mouthwatering restaurants and...
-DTEND;VALUE=DATE:20250822
-DTSTART;VALUE=DATE:20250822
-SUMMARY:COLDPLAY FANPARK
-UID:b549346c-5680-474e-be00-459c44a4067e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
+DTSTAMP:20250823T020123Z
 DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
  light up London's Wembley Stadium. Enquire today with Hospitality Finder.
 DTEND;VALUE=DATE:20250831
 DTSTART;VALUE=DATE:20250831
 SUMMARY:Coldplay
-UID:0c596407-db5c-427f-90d8-e56a961a822f
+UID:a3e57e07-f317-44ca-98ce-e226f70ead09
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
-DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
- er" will take place in London. Dimash performs songs in Kazakh, English, Ru
- ssian, French, Chinese, Spanish, and Italian across a wide...
-DTEND;VALUE=DATE:20251112
-DTSTART;VALUE=DATE:20251112
-SUMMARY:Dimash Qudaibergen
-UID:d2ddce1a-1635-4965-8896-042a3f91e3a4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
+DTSTAMP:20250823T020123Z
 DESCRIPTION:COLDPLAY FANPARKBOXPARK Wembley will transform into a festival 
  of colour and sound for all the Coldplayers out there heading to Coldplay'
  s Wembley Stadium shows next August!Expect amazing DJs, a...
 DTEND;VALUE=DATE:20250826
 DTSTART;VALUE=DATE:20250826
 SUMMARY:Coldplay
-UID:ecbbdda6-e8a3-41f4-92c8-4b761bfcb346
+UID:07280a05-967a-496a-880a-f8d34f07d2e6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250822T020600Z
-DESCRIPTION:This is it, it's actually happening! Oasis reunion is confirme
- d as Liam and Noel mend their 15 year fallout! Their reunion announcement c
- omes right before the 30-year anniversary of Definitely...
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Oasis
-UID:29a78456-2b2b-489f-b309-fb92d3d970b5
+DTSTAMP:20250823T020123Z
+DESCRIPTION:On November 12, 2025, Dimash Qudaibergen's solo concert "Strang
+ er" will take place in London. Dimash performs songs in Kazakh, English, Ru
+ ssian, French, Chinese, Spanish, and Italian across a wide...
+DTEND;VALUE=DATE:20251112
+DTSTART;VALUE=DATE:20251112
+SUMMARY:Dimash Qudaibergen
+UID:85c6ccaf-a0dd-42dc-b62b-8242c3b9ea8b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250823T020123Z
+DESCRIPTION:Coldplay concert in London on Fri, August 29, 2025 at Wembley S
+ tadium
+DTEND;VALUE=DATE:20250830
+DTSTART;VALUE=DATE:20250830
+SUMMARY:Coldplay | Music Of The Spheres World Tour
+UID:27cb4081-7cc5-4901-8928-64c4964dfa98
 END:VEVENT
 END:VCALENDAR
