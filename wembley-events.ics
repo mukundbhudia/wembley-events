@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
-DESCRIPTION:COLDPLAY FANPARKBOXPARK Wembley will transform into a festival 
- of colour and sound for all the Coldplayers out there heading to Coldplay'
- s Wembley Stadium shows next August!Expect amazing DJs, a...
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay Fanpark 31 Aug
-UID:1e5901b0-b066-41af-9eb9-5081f30de046
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
-DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
- light up London's Wembley Stadium. Enquire today with Hospitality Finder.
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay
-UID:ff9e59b6-46c5-4c4c-8067-b0c3b85c8756
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
-DESCRIPTION:Searching for information and tickets regarding Coldplay World 
- Tour | Wembley Stadium taking place in Wembley on 2025年8月22日–9月8
- 日 (UTC)? Trip.com has you covered. Check the dates, itineraries, and...
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay World Tour | Wembley Stadium
-UID:16116e0b-0386-4e62-beeb-50f50e9471ff
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 8/30/2025 at 1:00 PM
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Starlight Express
-UID:042bac68-139f-4ad8-a9da-0d12af04e9a9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
-DESCRIPTION:Don't miss out on one of the biggest shows of 2025 as Coldplay 
- light up London's Wembley Stadium. Enquire today with Hospitality Finder.
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay
-UID:41b6d7d3-abd2-49f3-bb0b-bc67b72d549b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
-DESCRIPTION:Buy & sell tickets for COLDPLAY FANPARK | Boxpark Wembley, Lond
- on | Sat, Aug 30, 11:00 AM. Find fair, safe and secure tickets on TicketSwa
- p's marketplace.
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Coldplay Fanpark 30 Aug
-UID:2de6e4c9-be0f-4b26-9aa5-cddc0e9b08cf
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
-DESCRIPTION:OASIS PRE PARTIES BEFORE ALL WEMBLEY SHOWS! FREE ENTRY. SPINNIN
- G OASIS HITS, B SIDES AND ALBUM TRAX. PLUS RELATED INDIE AND ROCK N ROLL- 6
- 0S, 70S, 90S ETC. 2PM-7PM AT GREENMAN PUB JUST ROUND FROM...
-DTEND;VALUE=DATE:20250927
-DTSTART;VALUE=DATE:20250927
-SUMMARY:Oasis
-UID:28baaa18-110a-49d4-a64e-8de9c456a4d6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
-DESCRIPTION:Find tickets for Simply Red with Soul II Soul at OVO Arena Wemb
- ley in London on 10/11/2025 at 6:30 PM
-DTEND;VALUE=DATE:20251011
-DTSTART;VALUE=DATE:20251011
-SUMMARY:Simply Red
-UID:0d8fdb0d-ed7b-435c-9260-f347deccfd66
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
-DESCRIPTION:Find tickets for Addison Rae at O2 Forum Kentish Town in Londo
- n on 8/30/2025 at 7:00 PM
-DTEND;VALUE=DATE:20250831
-DTSTART;VALUE=DATE:20250831
-SUMMARY:Addison Rae
-UID:aee312e9-fc77-4bcb-a394-9165a5448fa6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250831T020748Z
+DTSTAMP:20250901T022430Z
 DESCRIPTION:Looking for the perfect place to relax, refuel and soak up the 
  event day buzz? You’re spoilt for choice when it comes to food at LDO wit
  h over 20 eateries to sit and dine or grab a bite on the go...
-DTEND;VALUE=DATE:20250904
-DTSTART;VALUE=DATE:20250904
+DTEND;VALUE=DATE:20250907
+DTSTART;VALUE=DATE:20250907
+SUMMARY:ColdPlay: Wembley Stadium
+UID:fa0e40a3-42c6-4d3f-9dad-6213fd854c07
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T022430Z
+DESCRIPTION:Coldplay Venue: Wembley Stadium London, LND Date: 03 September
+ , 2025 - 06:45 PM
+DTEND;VALUE=DATE:20250903
+DTSTART;VALUE=DATE:20250903
 SUMMARY:Coldplay
-UID:75a1a25c-7f06-4fdb-8651-385ada753024
+UID:fa0e5ba9-bbdc-4e9c-8df6-681e12ce634a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T022430Z
+DESCRIPTION:Come and join us before COLDPLAY concert and enjoy huge beer ga
+ rdens with 4 bars Only 3 min away from wembley stadium Bar open 10am close 
+ 2am STADIUM SPORTS BAR 125 WEMBLEY PARK DRIVE HA9 8HQ
+DTEND;VALUE=DATE:20250906
+DTSTART;VALUE=DATE:20250906
+SUMMARY:Coldplay
+UID:624e1207-add3-415a-95de-6ec234c1dbc4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T022430Z
+DESCRIPTION:Coldplay ‘Music Of The Spheres’ - Wembley Stadium
+DTEND;VALUE=DATE:20250901
+DTSTART;VALUE=DATE:20250901
+SUMMARY:Coldplay
+UID:8e562fb5-49a5-4db1-9cb9-b91867555a9c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T022430Z
+DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
+ venue customers
+DTEND;VALUE=DATE:20250907
+DTSTART;VALUE=DATE:20250907
+SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
+ 0yr olds
+UID:dbf9ac52-b273-4ecd-afd8-19a3478827ee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T022430Z
+DESCRIPTION:Searching for information and tickets regarding Coldplay World 
+ Tour | Wembley Stadium taking place in Wembley on 2025年8月22日–9月8
+ 日 (UTC)? Trip.com has you covered. Check the dates, itineraries, and...
+DTEND;VALUE=DATE:20250901
+DTSTART;VALUE=DATE:20250901
+SUMMARY:Coldplay World Tour | Wembley Stadium
+UID:48741900-509e-471d-9dcb-55baf6ae0866
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T022430Z
+DESCRIPTION:Looking for the perfect place to relax, refuel and soak up the 
+ event day buzz? You’re spoilt for choice when it comes to food at LDO wit
+ h over 20 eateries to sit and dine or grab a bite on the go...
+DTEND;VALUE=DATE:20250903
+DTSTART;VALUE=DATE:20250903
+SUMMARY:Coldplay
+UID:cbea2f92-3091-4a1c-a11e-21ac93dea413
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T022430Z
+DESCRIPTION:COLDPLAY FANPARKBOXPARK Wembley will transform into a festival 
+ of colour and sound for all the Coldplayers out there heading to Coldplay'
+ s Wembley Stadium shows next August!Expect amazing DJs, a...
+DTEND;VALUE=DATE:20250901
+DTSTART;VALUE=DATE:20250901
+SUMMARY:Coldplay Fanpark 31 Aug
+UID:9bc5be6e-3fe8-404d-b69c-b258bc772736
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T022430Z
+DESCRIPTION:Tickets are now available for Wembley Mela at King Edward VII P
+ ark, Wembley on Sat 6 Sep 2025 at 11:00AM. Click the link for further infor
+ mation and to secure your tickets now!
+DTEND;VALUE=DATE:20250906
+DTSTART;VALUE=DATE:20250906
+SUMMARY:Wembley Mela
+UID:88380175-8ba5-4618-b79d-efa2ff98bbd8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T022430Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 9/6/2025 at 2:30 PM
+DTEND;VALUE=DATE:20250906
+DTSTART;VALUE=DATE:20250906
+SUMMARY:Starlight Express
+UID:f3b72d67-164f-49f5-9665-8b9ceace0db9
 END:VEVENT
 END:VCALENDAR
