@@ -3,99 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
+DTSTAMP:20250911T020001Z
 DESCRIPTION:Pop-up weekly arts & crafts supervised kids' corners; free for 
  venue customers
 DTEND;VALUE=DATE:20250914
 DTSTART;VALUE=DATE:20250914
 SUMMARY:The Kids' Table Ltd - Free supervised arts & crafts table for 3 - 1
  0yr olds
-UID:8390d3d0-8e40-41ab-9a09-0250f4875a01
+UID:50f38c0a-54b9-44dc-aeae-bd96ab2aacbd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
-DESCRIPTION:Coldplay ‘Music Of The Spheres’ - Wembley Stadium
-DTEND;VALUE=DATE:20250908
-DTSTART;VALUE=DATE:20250908
-SUMMARY:Coldplay
-UID:34e7dbe5-9497-45ca-b63a-ca0966e48dcb
+DTSTAMP:20250911T020001Z
+DESCRIPTION:Infinity Tickets are non-transferrable and must be bought in a 
+ pair. - Infinity Tickets can only be picked up on the day of the show at th
+ e venue box office with a purchase confirmation number...
+DTEND;VALUE=DATE:20250912
+DTSTART;VALUE=DATE:20250912
+SUMMARY:Gustavo Dudamel
+UID:e80edc7f-d062-4894-acf1-0d20916910a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
+DTSTAMP:20250911T020001Z
 DESCRIPTION:Buy & sell tickets for Coldplay | Music of Spheres Tour | Wembl
  ey Stadium, London | Fri, Sep 12, 6:00 PM. TicketSwap – the fair and safe
   ticket marketplace.
 DTEND;VALUE=DATE:20250912
 DTSTART;VALUE=DATE:20250912
 SUMMARY:Coldplay
-UID:c231e888-be76-4167-bf47-5aa03533ed3c
+UID:e9a1c4df-d8fd-4a62-8e57-c4dced8b23de
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
+DTSTAMP:20250911T020001Z
+DESCRIPTION:Searching for information and tickets regarding Coldplay World 
+ Tour | Wembley Stadium taking place in Wembley on 2025年8月22日–9月8
+ 日 (UTC)? Trip.com has you covered. Check the dates, itineraries, and...
+DTEND;VALUE=DATE:20250911
+DTSTART;VALUE=DATE:20250911
+SUMMARY:Coldplay World Tour | Wembley Stadium
+UID:8fcb792f-d9be-46d5-a103-3cc324cf20d6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250911T020001Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 9/10/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250910
-DTSTART;VALUE=DATE:20250910
+DTEND;VALUE=DATE:20250911
+DTSTART;VALUE=DATE:20250911
 SUMMARY:Starlight Express
-UID:39d56ce3-b124-4119-b0a3-f04ea7ebeaf2
+UID:e4fce5d2-b317-42f3-9cb1-d77a317cacf7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
-DESCRIPTION:Come together with a variety of creatives as we test our abilit
- ies creating and performing: spoken words, songs, raps and so much more ove
- r all types of genres. This is an opportunity to test your...
-DTEND;VALUE=DATE:20250909
-DTSTART;VALUE=DATE:20250909
-SUMMARY:VIBES & VERSES
-UID:b25eb149-291f-439e-ad70-989481183ad2
+DTSTAMP:20250911T020001Z
+DESCRIPTION:Saddle up cowboys & cowgirls The UKs biggest country music Dayp
+ arty is riding Back into London after 3 SOLDOUT Shows! Zach Bryan Uk - 100
+ % Confirmed
+DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+SUMMARY:Country Club - Indoor Country Music Festival
+UID:d0cfccb4-159b-44f1-b182-15d23d672421
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
-DESCRIPTION:This is it, it's actually happening! Oasis reunion is confirme
- d as Liam and Noel mend their 15 year fallout! Their reunion announcement c
- omes right before the 30-year anniversary of Definitely...
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
+DTSTAMP:20250911T020001Z
+DESCRIPTION:OASIS PRE PARTIES BEFORE ALL WEMBLEY SHOWS! FREE ENTRY. SPINNIN
+ G OASIS HITS, B SIDES AND ALBUM TRAX. PLUS RELATED INDIE AND ROCK N ROLL- 6
+ 0S, 70S, 90S ETC. 2PM-7PM AT GREENMAN PUB JUST ROUND FROM...
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
 SUMMARY:Oasis
-UID:aae6c32e-fb83-473d-862d-c555f0c6d7b8
+UID:b9ff53f1-4bd2-42be-adbe-35365d7be370
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
-DESCRIPTION:Find tickets for Simply Red with Soul II Soul at OVO Arena Wemb
- ley in London on 10/11/2025 at 6:30 PM
-DTEND;VALUE=DATE:20251011
-DTSTART;VALUE=DATE:20251011
-SUMMARY:Simply Red
-UID:6f89b1c1-534b-4a66-aa0d-5611ed74a3f7
+DTSTAMP:20250911T020001Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 9/12/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250912
+DTSTART;VALUE=DATE:20250912
+SUMMARY:Starlight Express
+UID:230a7298-d202-4461-a4f1-92564776fb95
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
-DESCRIPTION:Marking his biggest-ever UK show, John Summit will be hitting L
- ondon for one night only for a headline set at The O2 that’s not to be mi
- ssed. Taking place on 13 September 2025, this landmark event...
-DTEND;VALUE=DATE:20250913
-DTSTART;VALUE=DATE:20250913
-SUMMARY:John Summit
-UID:c3f2a878-1c17-4420-911f-6441e78c35a9
+DTSTAMP:20250911T020001Z
+DESCRIPTION:Oasis Wembley Aftershow Parties! Presented by Disorder one of L
+ ondon's hottest indie clubnights comes a series of special Oasis Wembley af
+ tershow parties at Crystal Club, 2 minute walk from...
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
+UID:9f543501-3914-4094-9437-00e4e1b41e59
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
-DESCRIPTION:The imaginative recordings produced by Mad Professor (born Nei
- l Fraser 1955, Georgetown in Guyana) demonstrate a mastery of electronic ga
- dgetry. Working from his own studios, Mad Professor has...
-DTEND;VALUE=DATE:20250913
-DTSTART;VALUE=DATE:20250913
-SUMMARY:Mad Professor
-UID:4c9b2346-e34d-40f9-8408-451f930df8c1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250908T020457Z
-DESCRIPTION:Looking for the perfect place to relax, refuel and soak up the 
- event day buzz? You’re spoilt for choice when it comes to food at LDO wit
- h over 20 eateries to sit and dine or grab a bite on the go...
-DTEND;VALUE=DATE:20250908
-DTSTART;VALUE=DATE:20250908
-SUMMARY:ColdPlay: Wembley Stadium
-UID:a9192e82-9457-4d9a-9008-5bd68764a1d8
+DTSTAMP:20250911T020001Z
+DESCRIPTION:Find tickets for Madame Gandhi at Wembley Stadium in London on 
+ 9/17/2025 at 4:00 PM
+DTEND;VALUE=DATE:20250917
+DTSTART;VALUE=DATE:20250917
+SUMMARY:Madame Gandhi @ Wembley Stadium
+UID:b8baf517-0220-4559-989d-66ba6f7bdbe9
 END:VEVENT
 END:VCALENDAR
