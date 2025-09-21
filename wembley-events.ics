@@ -3,95 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
-DESCRIPTION:Post Malone, one of the top-selling music artists of his genera
- tion, has announced back-to-back performances at Tottenham Hotspur Stadium 
- as part of his global tour.
-DTEND;VALUE=DATE:20250920
-DTSTART;VALUE=DATE:20250920
-SUMMARY:Post Malone
-UID:bababa7c-83cb-4d85-bdd3-a7ca4a5f9cd1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
+DTSTAMP:20250921T020757Z
 DESCRIPTION:Saddle up cowboys & cowgirls The UKs biggest country music Dayp
  arty is riding Back into London after 3 SOLDOUT Shows! Zach Bryan Uk - 100
  % Confirmed
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Country Club - Indoor Country Music Festival
-UID:dc12506f-f85e-4385-bf3f-8d6b98dcfca8
+UID:fc83c620-4bc5-4f84-a20f-6efeae5cab6e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
+DTSTAMP:20250921T020757Z
 DESCRIPTION:This is it, it's actually happening! Oasis reunion is confirme
  d as Liam and Noel mend their 15 year fallout! Their reunion announcement c
  omes right before the 30-year anniversary of Definitely...
 DTEND;VALUE=DATE:20250928
 DTSTART;VALUE=DATE:20250928
 SUMMARY:OASIS
-UID:2d42cc14-4409-4c61-80bd-d93eb62af883
+UID:e862853a-f27b-4219-8e8a-34a3c61db123
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 9/19/2025 at 7:30 PM
-DTEND;VALUE=DATE:20250920
-DTSTART;VALUE=DATE:20250920
-SUMMARY:Starlight Express
-UID:287ab996-ca92-44a8-9de7-334f0484ac53
+DTSTAMP:20250921T020757Z
+DESCRIPTION:Oasis Wembley Aftershow Parties! Presented by Disorder one of L
+ ondon's hottest indie clubnights comes a series of special Oasis Wembley af
+ tershow parties at Crystal Club, 2 minute walk from...
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
+UID:40fc3c82-8e22-4865-a27e-80b426c1bcf3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
+DTSTAMP:20250921T020757Z
 DESCRIPTION:Find tickets for Post Malone with Jelly Roll at Tottenham Hotsp
  ur Stadium in London on 9/21/2025 at 5:00 PM
 DTEND;VALUE=DATE:20250921
 DTSTART;VALUE=DATE:20250921
 SUMMARY:Post Malone
-UID:819d71bb-4946-48cd-88a2-037b860e8a40
+UID:690fd63b-afef-4edf-a2f8-16a52fc646ee
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
+DTSTAMP:20250921T020757Z
 DESCRIPTION:No description
 DTEND;VALUE=DATE:20250921
 DTSTART;VALUE=DATE:20250921
 SUMMARY:Chelsea Women V Leicester City Women
-UID:42e380d8-0ee8-423a-a342-d185a1493f63
+UID:8dee9495-dd38-4da0-83de-e5062222487e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
+DTSTAMP:20250921T020757Z
 DESCRIPTION:London we return in November 2025 after our sell out summer sho
  ws! Get ready for a massive 90s & 00s R&B Festival coming November 2025! W
  e have an INSANE event planned with lots of glitter, glam ...
 DTEND;VALUE=DATE:20251122
 DTSTART;VALUE=DATE:20251122
 SUMMARY:R&B Lovers
-UID:0b48b806-2d1f-4e26-9f6c-26589de13ec6
+UID:f34258b0-3dbb-43bb-9d4c-b162f7c536b4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
+DTSTAMP:20250921T020757Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251031
 DTSTART;VALUE=DATE:20251031
 SUMMARY:Ricky Gervais
-UID:bdebd408-38d3-4393-90ca-a17b04190174
+UID:e1614860-f273-4b15-b761-512593fae108
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
+DTSTAMP:20250921T020757Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251014
 DTSTART;VALUE=DATE:20251014
 SUMMARY:CLUB CAN'T HANDLE YK & EUROPE TOUR
-UID:806055bc-6196-4d97-973b-4628b83622f1
+UID:f65411c5-23cd-4b58-af3c-4b7985ce6583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T015448Z
+DTSTAMP:20250921T020757Z
 DESCRIPTION:Since ABBA Voyage launched in 2022, over two and a half millio
  n fans from across the world have seen ABBA take to the stage in a whole ne
  w way. The concert blends cutting edge technology...
 DTEND;VALUE=DATE:20250921
 DTSTART;VALUE=DATE:20250921
 SUMMARY:ABBA Voyage
-UID:b49a33e7-4c7f-4977-bfb2-f1e2cabdbed8
+UID:9d4e8283-2e39-4e38-aacd-9f8c5d81c3da
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250921T020757Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 9/24/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250924
+DTSTART;VALUE=DATE:20250924
+SUMMARY:Starlight Express
+UID:2cdf84d2-935e-427e-8287-f18f08fe10f0
 END:VEVENT
 END:VCALENDAR
