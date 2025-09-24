@@ -3,95 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
-DESCRIPTION:Saddle up cowboys & cowgirls The UKs biggest country music Dayp
- arty is riding Back into London after 3 SOLDOUT Shows! Zach Bryan Uk - 100
- % Confirmed
-DTEND;VALUE=DATE:20251115
-DTSTART;VALUE=DATE:20251115
-SUMMARY:Country Club - Indoor Country Music Festival
-UID:fc83c620-4bc5-4f84-a20f-6efeae5cab6e
+DTSTAMP:20250924T015852Z
+DESCRIPTION:OASIS PRE PARTIES BEFORE ALL WEMBLEY SHOWS! FREE ENTRY. SPINNIN
+ G OASIS HITS, B SIDES AND ALBUM TRAX. PLUS RELATED INDIE AND ROCK N ROLL- 6
+ 0S, 70S, 90S ETC. 2PM-7PM AT GREENMAN PUB JUST ROUND FROM...
+DTEND;VALUE=DATE:20250927
+DTSTART;VALUE=DATE:20250927
+SUMMARY:Oasis
+UID:e7d46018-85b2-47fe-a69e-59eb39bcf6f9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
-DESCRIPTION:This is it, it's actually happening! Oasis reunion is confirme
- d as Liam and Noel mend their 15 year fallout! Their reunion announcement c
- omes right before the 30-year anniversary of Definitely...
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:OASIS
-UID:e862853a-f27b-4219-8e8a-34a3c61db123
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
+DTSTAMP:20250924T015852Z
 DESCRIPTION:Oasis Wembley Aftershow Parties! Presented by Disorder one of L
  ondon's hottest indie clubnights comes a series of special Oasis Wembley af
  tershow parties at Crystal Club, 2 minute walk from...
 DTEND;VALUE=DATE:20250927
 DTSTART;VALUE=DATE:20250927
 SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
-UID:40fc3c82-8e22-4865-a27e-80b426c1bcf3
+UID:a116ee2e-d1c5-4b8d-9b5a-4bb07fd35c92
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
-DESCRIPTION:Find tickets for Post Malone with Jelly Roll at Tottenham Hotsp
- ur Stadium in London on 9/21/2025 at 5:00 PM
-DTEND;VALUE=DATE:20250921
-DTSTART;VALUE=DATE:20250921
-SUMMARY:Post Malone
-UID:690fd63b-afef-4edf-a2f8-16a52fc646ee
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
-DESCRIPTION:No description
-DTEND;VALUE=DATE:20250921
-DTSTART;VALUE=DATE:20250921
-SUMMARY:Chelsea Women V Leicester City Women
-UID:8dee9495-dd38-4da0-83de-e5062222487e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
-DESCRIPTION:London we return in November 2025 after our sell out summer sho
- ws! Get ready for a massive 90s & 00s R&B Festival coming November 2025! W
- e have an INSANE event planned with lots of glitter, glam ...
-DTEND;VALUE=DATE:20251122
-DTSTART;VALUE=DATE:20251122
-SUMMARY:R&B Lovers
-UID:f34258b0-3dbb-43bb-9d4c-b162f7c536b4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251031
-DTSTART;VALUE=DATE:20251031
-SUMMARY:Ricky Gervais
-UID:e1614860-f273-4b15-b761-512593fae108
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251014
-DTSTART;VALUE=DATE:20251014
-SUMMARY:CLUB CAN'T HANDLE YK & EUROPE TOUR
-UID:f65411c5-23cd-4b58-af3c-4b7985ce6583
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
-DESCRIPTION:Since ABBA Voyage launched in 2022, over two and a half millio
- n fans from across the world have seen ABBA take to the stage in a whole ne
- w way. The concert blends cutting edge technology...
-DTEND;VALUE=DATE:20250921
-DTSTART;VALUE=DATE:20250921
-SUMMARY:ABBA Voyage
-UID:9d4e8283-2e39-4e38-aacd-9f8c5d81c3da
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250921T020757Z
+DTSTAMP:20250924T015852Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
  heatre in London on 9/24/2025 at 7:30 PM
 DTEND;VALUE=DATE:20250924
 DTSTART;VALUE=DATE:20250924
 SUMMARY:Starlight Express
-UID:2cdf84d2-935e-427e-8287-f18f08fe10f0
+UID:9a5dd62a-ba7f-4bbd-8a4c-ee5a1bff0545
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T015852Z
+DESCRIPTION:OASISMANIA Live 25 This unmissable Wembley pre-show will be a m
+ ust attend aperitif for all Oasis fans heading to West London to see Manche
+ ster's finest The Dublin Castle, Camden, London. A...
+DTEND;VALUE=DATE:20250926
+DTSTART;VALUE=DATE:20250926
+SUMMARY:OASISMANIA Live '25
+UID:88543018-f5fe-4765-8c26-b3c65d13da69
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T015852Z
+DESCRIPTION:Saddle up cowboys & cowgirls The UKs biggest country music Dayp
+ arty is riding Back into London after 3 SOLDOUT Shows! Zach Bryan Uk - 100
+ % Confirmed
+DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+SUMMARY:Country Club - Indoor Country Music Festival
+UID:70c3a099-b29c-41e7-9ace-1d7d4a9bad41
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T015852Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 9/28/2025 at 1:00 PM
+DTEND;VALUE=DATE:20250928
+DTSTART;VALUE=DATE:20250928
+SUMMARY:Starlight Express
+UID:22c56fa2-c6de-4c02-ad17-9ef9419d49a4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T015852Z
+DESCRIPTION:An event dedicated to the fans of Attack on Titan for the AOT C
+ oncert at OVO Wembley
+DTEND;VALUE=DATE:20250928
+DTSTART;VALUE=DATE:20250928
+SUMMARY:Attack on Titan - Beyond the Walls World Tour
+UID:c150bdda-0f04-460a-9eb7-e3dbe521a876
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T015852Z
+DESCRIPTION:OneRepublic is set to captivate audiences at The O2 in London o
+ n September 26, 2025. Known for their chart-topping hits and electrifying p
+ erformances, OneRepublic promises an unforgettable night...
+DTEND;VALUE=DATE:20250926
+DTSTART;VALUE=DATE:20250926
+SUMMARY:OneRepublic
+UID:89ffa87a-e1be-44e2-a09f-b3f5650d0ed1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T015852Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 9/25/2025 at 7:30 PM
+DTEND;VALUE=DATE:20250925
+DTSTART;VALUE=DATE:20250925
+SUMMARY:Starlight Express
+UID:9edd912f-d9cd-425c-81a8-a515592de710
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250924T015852Z
+DESCRIPTION:RnB & Slow Jams - London | End Of Summer Closing Party London d
+ id you miss us?? After an amazing summer of events outdoor, and an incredib
+ le time in Malta, we return to the capital to close the...
+DTEND;VALUE=DATE:20250928
+DTSTART;VALUE=DATE:20250928
+SUMMARY:Chuckie & Tazer's RNB & Slow Jams Experience
+UID:74449592-715e-44a2-acc0-4961581fa0ec
 END:VEVENT
 END:VCALENDAR
