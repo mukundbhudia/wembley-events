@@ -3,100 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
-DESCRIPTION:This is it, it's actually happening! Oasis reunion is confirme
- d as Liam and Noel mend their 15 year fallout! Their reunion announcement c
- omes right before the 30-year anniversary of Definitely...
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Oasis @ Wembley Stadium
-UID:2bbec658-fbe9-46b1-99d7-78708117bec6
+DTSTAMP:20250930T015711Z
+DESCRIPTION:VIP RECORD FAIRS! The biggest and most established event for mu
+ sic fans in the area. Loads of sellers with bargains galore.
+DTEND;VALUE=DATE:20251005
+DTSTART;VALUE=DATE:20251005
+SUMMARY:Big Record Fair for Boxpark Wembley
+UID:0050ffdf-89b2-4eb1-8aa0-43f3691d5f43
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
-DESCRIPTION:Oasis Wembley Aftershow Parties! Presented by Disorder one of L
- ondon's hottest indie clubnights comes a series of special Oasis Wembley af
- tershow parties at Crystal Club, 2 minute walk from...
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Shakermaker: Oasis Wembley Aftershow Party
-UID:67532350-12f8-46fd-a0de-8581d9628ea1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
+DTSTAMP:20250930T015711Z
 DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 9/28/2025 at 1:00 PM
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
+ heatre in London on 10/2/2025 at 7:30 PM
+DTEND;VALUE=DATE:20251002
+DTSTART;VALUE=DATE:20251002
 SUMMARY:Starlight Express
-UID:087692eb-0403-4aae-835b-0df3e1ae4e1f
+UID:1b98274c-084e-424c-89e0-633cddac665d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
-DESCRIPTION:This is it, it's actually happening! Oasis reunion is confirme
- d as Liam and Noel mend their 15 year fallout! Their reunion announcement c
- omes right before the 30-year anniversary of Definitely...
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:OASIS Fanpark 27 Sep
-UID:5535b80a-5e19-4390-afbb-9e2bba5fa939
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
+DTSTAMP:20250930T015711Z
 DESCRIPTION:Saddle up cowboys & cowgirls The UKs biggest country music Dayp
  arty is riding Back into London after 3 SOLDOUT Shows! Zach Bryan Uk - 100
  % Confirmed
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Country Club - Indoor Country Music Festival
-UID:b0531381-6567-4de7-adff-8ebe2ed64baa
+UID:9f72886e-7e81-47cb-8d44-0d2388c87211
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
-DESCRIPTION:VIP RECORD FAIRS! The biggest and most established event for mu
- sic fans in the area. Loads of sellers with bargains galore.
+DTSTAMP:20250930T015711Z
+DESCRIPTION:GRAMMY® nominated OneRepublic, is comprised of singer/songwrit
+ er and lead vocalist Ryan Tedder, guitarists Zach Filkins and Drew Brown, k
+ eys Brian Willett, bassist and cellist Brent Kutzle, and...
 DTEND;VALUE=DATE:20251005
 DTSTART;VALUE=DATE:20251005
-SUMMARY:Big Record Fair for Boxpark Wembley
-UID:d707f102-e2a8-4fdc-a35d-ec28b0a398fe
+SUMMARY:OneRepublic | Live In Concert
+UID:a6d0085e-d2a1-4093-93c3-9130fa2c6fb9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
-DESCRIPTION:An event dedicated to the fans of Attack on Titan for the AOT C
- oncert at OVO Wembley
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Attack on Titan - Beyond the Walls World Tour
-UID:08516fce-8b7b-410e-b805-fc801b2fb6e1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
-DESCRIPTION:Margins United: a festival celebrating Alternative East & South
- -East Asian Culture. 14 artists; 28 creatives & collectives; 2 brand new sp
- aces; 1 community. Music, arts, workshops, installations...
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Margins United 2025
-UID:a39e69b3-5ae5-4ca9-8912-8e6fd34626dd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
-DESCRIPTION:Europe's biggest RNB KARAOKE DAY PARTY 'CHUCKIE & TAZER's RNB 
- & SLOW JAMS EXPERIENCE' makes its O2 FORUM debut. Security - Bag Policy: La
- rge bags including rucksacks are not allowed. There are no...
-DTEND;VALUE=DATE:20250928
-DTSTART;VALUE=DATE:20250928
-SUMMARY:Chuckie & Tazer's RNB & Slow Jams Experience
-UID:37412fe9-37e5-4077-b6f9-4778a75d3fb6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250928T040753Z
+DTSTAMP:20250930T015711Z
 DESCRIPTION:London we return in November 2025 after our sell out summer sho
  ws! Get ready for a massive 90s & 00s R&B Festival coming November 2025! W
  e have an INSANE event planned with lots of glitter, glam ...
 DTEND;VALUE=DATE:20251122
 DTSTART;VALUE=DATE:20251122
 SUMMARY:R&B Lovers
-UID:c3399d43-12ff-4bba-bdfd-9820027ae377
+UID:d1cced00-7b18-4fb9-80ba-75ead2552b1a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250930T015711Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251106
+DTSTART;VALUE=DATE:20251106
+SUMMARY:Sam Ryder
+UID:49bdfba3-fc57-4af2-b3ce-ab95bffbfb88
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250930T015711Z
+DESCRIPTION:Find tickets for Belly at Electric Ballroom in Camden on 10/1/2
+ 025 at 7:00 PM
+DTEND;VALUE=DATE:20251001
+DTSTART;VALUE=DATE:20251001
+SUMMARY:Belly
+UID:6aedd254-fa59-4930-9402-6881a4b20633
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250930T015711Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251031
+DTSTART;VALUE=DATE:20251031
+SUMMARY:Ricky Gervais
+UID:131bf009-6302-456c-b04b-dbf1d4219108
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250930T015711Z
+DESCRIPTION:Find tickets for Dara O Briain at New Victoria Theatre in Wokin
+ g on 10/1/2025 at 8:00 PM
+DTEND;VALUE=DATE:20251001
+DTSTART;VALUE=DATE:20251001
+SUMMARY:Dara O' Briain - Re:Creation
+UID:55f42473-e0ac-4572-873d-fcb9664edf4c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250930T015711Z
+DESCRIPTION:WESTRINGS TRAVEL STARLIGHT EXPRESS THURSDAY 13TH NOVEMBER 2025 
+ MATINEE PERFORMANCE £79.00 Andrew Lloyd Webber’s STARLIGHT EXPRESS is no
+ w playing in the specially designed STARLIGHT AUDITORIUM at...
+DTEND;VALUE=DATE:20251114
+DTSTART;VALUE=DATE:20251114
+SUMMARY:Starlight Express
+UID:43c8f498-1f4a-4978-b3b2-677d4cd1fcda
 END:VEVENT
 END:VCALENDAR
