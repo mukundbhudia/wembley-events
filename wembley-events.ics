@@ -3,95 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
-DESCRIPTION:VIP RECORD FAIRS! The biggest and most established event for mu
- sic fans in the area. Loads of sellers with bargains galore.
-DTEND;VALUE=DATE:20251005
-DTSTART;VALUE=DATE:20251005
-SUMMARY:Big Record Fair for Boxpark Wembley
-UID:41ee7f8a-80dc-4e8c-83f3-1cdb1339c67a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
-DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
- heatre in London on 10/4/2025 at 2:30 PM
-DTEND;VALUE=DATE:20251005
-DTSTART;VALUE=DATE:20251005
+DTSTAMP:20251007T015815Z
+DESCRIPTION:Starlight Express (Touring) tickets – Wed, 8 Oct 2025, 7:30 p
+ m at Troubadour Wembley Park Theatre
+DTEND;VALUE=DATE:20251009
+DTSTART;VALUE=DATE:20251009
 SUMMARY:Starlight Express
-UID:87c28b1f-f808-4b41-85e7-e0c003477fd6
+UID:6790144a-29fc-4d46-8776-fca58939386a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
+DTSTAMP:20251007T015815Z
+DESCRIPTION:Join us for pre match build up with DJs, live music and maybe 
+ a special guest or two. Make the day one to remember with BOXPARK! 3 huge b
+ ars, over 20 different food vendors, giveaways and tonnes...
+DTEND;VALUE=DATE:20251009
+DTSTART;VALUE=DATE:20251009
+SUMMARY:England v Wales
+UID:290e51e4-8048-4878-b02a-5cc6d2c28838
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251007T015815Z
 DESCRIPTION:Saddle up cowboys & cowgirls The UKs biggest country music Dayp
  arty is riding Back into London after 3 SOLDOUT Shows! Zach Bryan Uk - 100
  % Confirmed
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Country Club - Indoor Country Music Festival
-UID:a81a5bf5-5735-4e18-8465-6b08a48377f6
+UID:4047a05b-fc9e-4f5f-8de6-251219ff6f9f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
-DESCRIPTION:London we return in November 2025 after our sell out summer sho
- ws! Get ready for a massive 90s & 00s R&B Festival coming November 2025! W
- e have an INSANE event planned with lots of glitter, glam ...
-DTEND;VALUE=DATE:20251122
-DTSTART;VALUE=DATE:20251122
-SUMMARY:R&B Lovers
-UID:c5204d04-ed78-4105-8143-cd54aecb865a
+DTSTAMP:20251007T015815Z
+DESCRIPTION:Find tickets for Starlight Express at Troubadour Wembley Park T
+ heatre in London on 10/11/2025 at 7:30 PM
+DTEND;VALUE=DATE:20251012
+DTSTART;VALUE=DATE:20251012
+SUMMARY:Starlight Express
+UID:6d197835-3d31-4865-97ad-bcbe1254af22
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
+DTSTAMP:20251007T015815Z
+DESCRIPTION:Join us for a night of good food, great company, and fundraisin
+ g for a good cause with Frank Bruno and his celebrity friends!
+DTEND;VALUE=DATE:20251008
+DTSTART;VALUE=DATE:20251008
+SUMMARY:FRANK BRUNO & FRIENDS FUNDRAISING CHARITY DINNER
+UID:8b1d5248-e0fb-4670-a3f0-ba6976531376
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251007T015815Z
+DESCRIPTION:Fresh from his most recent stand-up special Armageddon recentl
+ y being nominated for a Grammy award, winning a Golden Globe, hitting Numbe
+ r 1 on Netflix and claiming the world record for the...
+DTEND;VALUE=DATE:20251009
+DTSTART;VALUE=DATE:20251009
+SUMMARY:Ricky Gervais
+UID:b84c0733-24e9-47ec-9f8d-ff503f18d8d7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251007T015815Z
 DESCRIPTION:WESTRINGS TRAVEL STARLIGHT EXPRESS THURSDAY 13TH NOVEMBER 2025 
  MATINEE PERFORMANCE £79.00 Andrew Lloyd Webber’s STARLIGHT EXPRESS is no
  w playing in the specially designed STARLIGHT AUDITORIUM at...
 DTEND;VALUE=DATE:20251114
 DTSTART;VALUE=DATE:20251114
 SUMMARY:Starlight Express
-UID:7eecf309-ddea-4c1d-b7a8-611320060c6f
+UID:1e61a8f7-5e92-4e06-b255-c64379c98e81
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
-DESCRIPTION:Flenn deliver fresh indie-rock energy with driving rhythms and 
- emotive vocals, showcasing dynamic original songs in a powerful live perfor
- mance from the rising band.
-DTEND;VALUE=DATE:20251005
-DTSTART;VALUE=DATE:20251005
-SUMMARY:Flenn ( Officiel )
-UID:52047af9-43dd-4cb6-a01b-4ce4bab13b7b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
+DTSTAMP:20251007T015815Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:ac84e131-7d98-4c84-82fa-b03cb48db844
+UID:99db5096-6df4-4c12-98ab-fda4af7c2d05
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251014
-DTSTART;VALUE=DATE:20251014
-SUMMARY:FLO RIDA
-UID:690f43e1-a48a-469d-b066-bf16471d1704
+DTSTAMP:20251007T015815Z
+DESCRIPTION:Find tickets for Ricky Gervais at The London Palladium in Londo
+ n on 10/11/2025 at 7:30 PM
+DTEND;VALUE=DATE:20251011
+DTSTART;VALUE=DATE:20251011
+SUMMARY:Ricky Gervais
+UID:e0a110c2-300e-4632-887e-48ef6baf0d69
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
-DESCRIPTION:Take return coach travel to Wembley Stadium, London for the 202
- 5 ABK Beer Rugby League Ashes
-DTEND;VALUE=DATE:20251025
-DTSTART;VALUE=DATE:20251025
-SUMMARY:Rugby League Ashes - England vs Australia
-UID:ca8911ce-d3bf-46c7-9582-8b049575fc35
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251005T020752Z
-DESCRIPTION:Starlight Express (Touring) tickets – Wed, 8 Oct 2025, 7:30 p
- m at Troubadour Wembley Park Theatre
-DTEND;VALUE=DATE:20251009
-DTSTART;VALUE=DATE:20251009
-SUMMARY:Starlight Express
-UID:2e03e841-afd7-4d61-aed8-71e92ced90f0
+DTSTAMP:20251007T015815Z
+DESCRIPTION:British indie icons The Kooks have announced that they will be 
+ playing their biggest ever headline show at London’s The O2 on Saturday 1
+ 1 October.The Kooks’ seventh studio album, ‘Never/Know’...
+DTEND;VALUE=DATE:20251011
+DTSTART;VALUE=DATE:20251011
+SUMMARY:The Kooks
+UID:92c57301-ea1b-4672-a7e8-5eb0412fad21
 END:VEVENT
 END:VCALENDAR
