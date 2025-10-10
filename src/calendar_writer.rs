@@ -24,7 +24,9 @@ impl CalendarWriter {
         use super::*;
 
         if self.calendar.is_empty() {
-            eprintln!("Unable to write calendar to file. Calendar has no events. Check if the HTML structure has changed.");
+            eprintln!(
+                "Unable to write calendar to file. Calendar has no events. Check if the HTML structure has changed."
+            );
             Err(CalendarWriterError::EmptyCalendar)
         } else {
             CalendarWriter::write_string_to_file(self.calendar.to_string(), calendar_path)?;
@@ -48,7 +50,9 @@ impl CalendarWriter {
 
         if let Some(prefix) = path.parent() {
             if file_as_string.is_empty() {
-                eprintln!("Unable to write JSON to file. JSON has no events. Check if the HTML structure has changed.");
+                eprintln!(
+                    "Unable to write JSON to file. JSON has no events. Check if the HTML structure has changed."
+                );
                 Err(CalendarWriterError::EmptyCalendar)
             } else if let Err(e) = fs::create_dir_all(prefix) {
                 eprintln!("Unable to directory for calendar. {:#?}", e);
@@ -77,8 +81,8 @@ pub enum CalendarWriterError {
 #[cfg(test)]
 mod tests {
     use crate::{
-        test_files::{serpapi_test_output_json_1, serpapi_test_output_json_2},
         WembleyEvents,
+        test_files::{serpapi_test_output_json_1, serpapi_test_output_json_2},
     };
 
     use super::*;

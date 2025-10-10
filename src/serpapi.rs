@@ -45,12 +45,12 @@ pub struct SerpapiEvents {
 #[cfg(test)]
 mod tests {
     use crate::{
+        WembleyEvents,
         test_files::{
             serpapi_test_output_json_1, serpapi_test_output_json_2, serpapi_test_output_json_4,
             serpapi_test_output_json_5, serpapi_test_output_json_6_missing_date,
             serpapi_test_output_json_7_one_bad_json_event,
         },
-        WembleyEvents,
     };
 
     #[test]

@@ -12,5 +12,5 @@ pub use config::Config;
 pub use event_store::WembleyEvents;
 pub use events::WembleyEvent;
 pub use http::HttpClient;
-pub use retry::{retry_request, RetryConfig, RetryError};
+pub use retry::{RetryConfig, RetryError, retry_request};
 pub use serpapi::{SerpapiEvent, SerpapiEvents};

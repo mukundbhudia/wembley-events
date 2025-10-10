@@ -1,6 +1,6 @@
 use std::time::Duration;
 
-use crate::{retry_request, RetryConfig};
+use crate::{RetryConfig, retry_request};
 
 #[derive(Debug, PartialEq)]
 pub struct HttpResponse {
@@ -71,8 +71,8 @@ pub enum HttpClientError {
 #[cfg(test)]
 mod tests {
     use wiremock::{
-        matchers::{method, path},
         Mock, MockServer, ResponseTemplate,
+        matchers::{method, path},
     };
 
     use super::*;
