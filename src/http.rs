@@ -46,11 +46,31 @@ pub enum HttpClientError {
 
 #[cfg(test)]
 mod tests {
+    use wiremock::{
+        matchers::{method, path},
+        Mock, MockServer, ResponseTemplate,
+    };
+
     use super::*;
+
+    async fn setup_mock_server(http_status: u16) -> MockServer {
+        let mock_server = MockServer::start().await;
+
+        Mock::given(method("GET"))
+            .and(path("/get"))
+            .respond_with(ResponseTemplate::new(http_status))
+            .mount(&mock_server)
+            .await;
+
+        mock_server
+    }
 
     #[tokio::test]
     async fn basic_http_access_test() {
-        let http_response = HttpClient::new("https://httpbin.org/get")
+        let mock_server = setup_mock_server(200).await;
+        let endpoint = format!("{}/get", &mock_server.uri());
+
+        let http_response = HttpClient::new(&endpoint)
             .get_text_from_url()
             .await
             .unwrap();
@@ -60,7 +80,10 @@ mod tests {
 
     #[tokio::test]
     async fn http_client_bad_endpoint() {
-        let http_response = HttpClient::new("https://httpbin.org/ge")
+        let mock_server = setup_mock_server(404).await;
+        let endpoint = format!("{}/get", &mock_server.uri());
+
+        let http_response = HttpClient::new(&endpoint)
             .get_text_from_url()
             .await
             .unwrap();
@@ -70,9 +93,7 @@ mod tests {
 
     #[tokio::test]
     async fn http_client_bad_protocol() {
-        let http_response = HttpClient::new("htt://httpbin.org/get")
-            .get_text_from_url()
-            .await;
+        let http_response = HttpClient::new("htt://localhost").get_text_from_url().await;
 
         assert_eq!(http_response, Err(HttpClientError::RequestError));
     }

@@ -17,3 +17,4 @@ serde_json = "1.0"
 
 [dev-dependencies]
 insta = { version = "1.31", features = ["json"] }
+wiremock = "0.6.5"
