@@ -60,7 +60,7 @@ jobs:
 
           # Macos
           # - { os: macos-11.0, toolchain: stable, target: x86_64-apple-darwin, cross: false }
-          - { os: macos-10.15, toolchain: stable, target: x86_64-apple-darwin, cross: false }
+          # - { os: macos-10.15, toolchain: stable, target: x86_64-apple-darwin, cross: false }
 
           # Windows
           # - { os: windows-2019, toolchain: stable-x86_64-pc-windows-gnu, target: x86_64-pc-windows-gnu, cross: false }
