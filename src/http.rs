@@ -1,3 +1,7 @@
+use std::time::Duration;
+
+use crate::{retry_request, RetryConfig};
+
 #[derive(Debug, PartialEq)]
 pub struct HttpResponse {
     pub status: u16,
@@ -19,19 +23,39 @@ impl HttpClient {
     }
 
     pub async fn get_text_from_url(&self) -> Result<HttpResponse, HttpClientError> {
-        match reqwest::get(&self.url).await {
+        let retry_config = RetryConfig {
+            max_retries: 5,
+            base_delay: Duration::from_millis(200),
+            ..Default::default()
+        };
+        let http_request = || reqwest::get(&self.url);
+
+        match retry_request(http_request, retry_config).await {
             Ok(res) => {
                 let res_status = res.status().as_u16();
+
+                if res_status >= 400 {
+                    eprintln!("HTTP request returned error status: {}.", res_status);
+                    return Err(HttpClientError::RequestError);
+                }
+
                 match res.text().await {
-                    Ok(res_body) => Ok(HttpResponse::new(res_status, res_body)),
+                    Ok(res_body) => {
+                        if res_body.is_empty() {
+                            eprintln!("HTTP response body is empty.");
+                            Err(HttpClientError::ResponseBodyError)
+                        } else {
+                            Ok(HttpResponse::new(res_status, res_body))
+                        }
+                    }
                     Err(e) => {
-                        eprintln!("HTTP response body error: {:#?}", e);
+                        eprintln!("HTTP response body error: {:#?}.", e);
                         Err(HttpClientError::ResponseBodyError)
                     }
                 }
             }
             Err(e) => {
-                eprintln!("HTTP request error: {:#?}", e);
+                eprintln!("HTTP request error after maximum retries: {:#?}.", e);
                 Err(HttpClientError::RequestError)
             }
         }
@@ -53,12 +77,16 @@ mod tests {
 
     use super::*;
 
-    async fn setup_mock_server(http_status: u16) -> MockServer {
+    async fn setup_mock_server(
+        expected_http_status: u16,
+        expected_times_called: u64,
+    ) -> MockServer {
         let mock_server = MockServer::start().await;
 
         Mock::given(method("GET"))
             .and(path("/get"))
-            .respond_with(ResponseTemplate::new(http_status))
+            .respond_with(ResponseTemplate::new(expected_http_status).set_body_string("Hello"))
+            .expect(expected_times_called)
             .mount(&mock_server)
             .await;
 
@@ -67,34 +95,44 @@ mod tests {
 
     #[tokio::test]
     async fn basic_http_access_test() {
-        let mock_server = setup_mock_server(200).await;
+        let mock_server = setup_mock_server(200, 1).await;
         let endpoint = format!("{}/get", &mock_server.uri());
 
-        let http_response = HttpClient::new(&endpoint)
-            .get_text_from_url()
-            .await
-            .unwrap();
+        let http_response = HttpClient::new(&endpoint).get_text_from_url().await;
+        assert!(http_response.is_ok());
+        let http_response = http_response.unwrap();
 
         assert_eq!(200, http_response.status);
     }
 
     #[tokio::test]
     async fn http_client_bad_endpoint() {
-        let mock_server = setup_mock_server(404).await;
+        let mock_server = setup_mock_server(404, 1).await;
         let endpoint = format!("{}/get", &mock_server.uri());
 
-        let http_response = HttpClient::new(&endpoint)
-            .get_text_from_url()
-            .await
-            .unwrap();
+        let http_response = HttpClient::new(&endpoint).get_text_from_url().await;
+        assert!(http_response.is_err());
+        let http_response = http_response.unwrap_err();
+        assert_eq!(http_response, HttpClientError::RequestError);
+    }
 
-        assert_eq!(404, http_response.status);
+    #[tokio::test]
+    async fn http_client_server_error() {
+        let mock_server = setup_mock_server(500, 5).await;
+        let endpoint = format!("{}/get", &mock_server.uri());
+
+        let http_response = HttpClient::new(&endpoint).get_text_from_url().await;
+
+        assert!(http_response.is_err());
+        let http_response_err = http_response.unwrap_err();
+        assert_eq!(http_response_err, HttpClientError::RequestError);
     }
 
     #[tokio::test]
     async fn http_client_bad_protocol() {
         let http_response = HttpClient::new("htt://localhost").get_text_from_url().await;
 
+        assert!(http_response.is_err());
         assert_eq!(http_response, Err(HttpClientError::RequestError));
     }
 
@@ -102,6 +140,7 @@ mod tests {
     async fn http_client_malformed_url() {
         let http_response = HttpClient::new("$^45fd456g*").get_text_from_url().await;
 
+        assert!(http_response.is_err());
         assert_eq!(http_response, Err(HttpClientError::RequestError));
     }
 }
