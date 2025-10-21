@@ -3,27 +3,17 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
-DESCRIPTION:Location: London, LND Venue: Wembley Stadium Date: 20/06/2025 T
- ime: 7:00 pm #Alternativerock #electropop #alternativehiphop #raprock #indi
- epop #poprock #lofihiphop #newjackswing #poprap #punkrap...
-DTEND;VALUE=DATE:20251020
-DTSTART;VALUE=DATE:20251020
-SUMMARY:Dua Lipa at Wembley Stadium
-UID:8b70f9ed-0e61-4f72-a864-aa1650569017
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
+DTSTAMP:20251021T020435Z
 DESCRIPTION:Raver Tots is the Ultimate Family Dance Party Suitable for ALL 
  AGES! HALLOWEEN SPECIAL - GET YOUR FANCY DRESS READY! Get the kids active a
  t the UK’s number one award winning, family friendly rave...
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Raver Tots Halloween Party Wembley
-UID:47e5bc78-658b-4c6b-bcb2-33cccb16b2bc
+UID:e8ca2353-5135-4714-b1d5-248777a1c7f1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
+DTSTAMP:20251021T020435Z
 DESCRIPTION:Get ready to dive into the heartfelt wartime stories from Wembl
  ey’s Preston Park – a unique experience you won’t want to miss! Murie
  l had lived on the Preston Park estate […]
@@ -31,71 +21,80 @@ DTEND;VALUE=DATE:20251022
 DTSTART;VALUE=DATE:20251022
 SUMMARY:Wembley Library Coffee Morning: Wartime letters from Wembley’s Pr
  eston Park
-UID:e7606c11-35f0-4293-b745-cfac77e98122
+UID:407412e9-c26a-4d2f-8016-a8f5802e1cbd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
+DTSTAMP:20251021T020435Z
 DESCRIPTION:Starlight Express (Touring) tickets – Fri, 24 Oct 2025, 7:30
   pm at Troubadour Wembley Park Theatre
 DTEND;VALUE=DATE:20251023
 DTSTART;VALUE=DATE:20251023
 SUMMARY:Starlight Express
-UID:e052f336-f34a-4262-af6f-1256284cf51d
+UID:2b58e248-612f-4930-a435-2f55a8c4d824
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
+DTSTAMP:20251021T020435Z
 DESCRIPTION:Take return coach travel to Wembley Stadium, London for the 202
  5 ABK Beer Rugby League Ashes
 DTEND;VALUE=DATE:20251025
 DTSTART;VALUE=DATE:20251025
 SUMMARY:ABK Rugby League
-UID:bc768c8d-d560-436a-86fb-416d219eb663
+UID:d8eb1986-e3d7-497b-b2ff-52d1f89d09a6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
+DTSTAMP:20251021T020435Z
 DESCRIPTION:Starlight Express (Touring) tickets – Sun, 26 Oct 2025, 5:30
   pm at Troubadour Wembley Park Theatre
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Starlight Express
-UID:86b36808-92f2-41b8-95ab-ba5dd582e4c9
+UID:e35fa624-b22c-4261-93c7-d73b645c677c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
+DTSTAMP:20251021T020435Z
 DESCRIPTION:Akin to the Mickey Mouse Club of days of yore, Kidz Bop is the 
  Number One band in children's music, churning out family-friendly versions 
  of today's pop hits, sung by the industry's future stars...
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Kidz Bop Live
-UID:a9c4725c-b407-49c9-83d5-f4e8e028ca63
+UID:607a8423-ac93-4bb3-a50c-f13f65608384
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
+DTSTAMP:20251021T020435Z
 DESCRIPTION:Saddle up cowboys & cowgirls The UKs biggest country music Dayp
  arty is riding Back into London after 3 SOLDOUT Shows! Zach Bryan Uk - 100
  % Confirmed
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Country Club - Indoor Country Music Festival
-UID:0de35f3b-a56d-42a0-8c7c-9bb5dd92055a
+UID:87438c16-6e07-4ab0-8ffd-012cef0d4b31
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
+DTSTAMP:20251021T020435Z
 DESCRIPTION:Colliding bone-crushing riffs with soaring melodies and one of 
  the most instantly recognisable voices in modern metal, Disturbed have spen
  t over two decades at the forefront of heavy music. Led by...
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Disturbed
-UID:abd5e5df-048d-4907-8fc3-618f18745b71
+UID:2bd30998-c864-4406-9ee8-6beaceb0a72d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251020T125846Z
+DTSTAMP:20251021T020435Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:27df8bf7-553e-4d29-b9fb-122685bea08d
+UID:88e4198d-757d-4269-b372-e4f1e66feb38
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251021T020435Z
+DESCRIPTION:Find tickets for Ricky Gervais at The London Palladium in Londo
+ n on 10/23/2025 at 7:30 PM
+DTEND;VALUE=DATE:20251023
+DTSTART;VALUE=DATE:20251023
+SUMMARY:Ricky Gervais
+UID:b31a662c-98b5-4cee-bd53-9985a9d951d0
 END:VEVENT
 END:VCALENDAR
