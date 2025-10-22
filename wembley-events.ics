@@ -3,17 +3,7 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
-DESCRIPTION:Raver Tots is the Ultimate Family Dance Party Suitable for ALL 
- AGES! HALLOWEEN SPECIAL - GET YOUR FANCY DRESS READY! Get the kids active a
- t the UK’s number one award winning, family friendly rave...
-DTEND;VALUE=DATE:20251026
-DTSTART;VALUE=DATE:20251026
-SUMMARY:Raver Tots Halloween Party Wembley
-UID:e8ca2353-5135-4714-b1d5-248777a1c7f1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
+DTSTAMP:20251022T020830Z
 DESCRIPTION:Get ready to dive into the heartfelt wartime stories from Wembl
  ey’s Preston Park – a unique experience you won’t want to miss! Murie
  l had lived on the Preston Park estate […]
@@ -21,80 +11,88 @@ DTEND;VALUE=DATE:20251022
 DTSTART;VALUE=DATE:20251022
 SUMMARY:Wembley Library Coffee Morning: Wartime letters from Wembley’s Pr
  eston Park
-UID:407412e9-c26a-4d2f-8016-a8f5802e1cbd
+UID:16b13f6f-a009-44fb-9970-7c72f8b5fce5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
+DTSTAMP:20251022T020830Z
 DESCRIPTION:Starlight Express (Touring) tickets – Fri, 24 Oct 2025, 7:30
   pm at Troubadour Wembley Park Theatre
 DTEND;VALUE=DATE:20251023
 DTSTART;VALUE=DATE:20251023
 SUMMARY:Starlight Express
-UID:2b58e248-612f-4930-a435-2f55a8c4d824
+UID:1ad2aa47-a8ac-4e31-b4f7-5cdd3ec671a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
+DTSTAMP:20251022T020830Z
 DESCRIPTION:Take return coach travel to Wembley Stadium, London for the 202
  5 ABK Beer Rugby League Ashes
 DTEND;VALUE=DATE:20251025
 DTSTART;VALUE=DATE:20251025
 SUMMARY:ABK Rugby League
-UID:d8eb1986-e3d7-497b-b2ff-52d1f89d09a6
+UID:caca5151-9668-408c-9821-26dfa6ab6956
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
-DESCRIPTION:Starlight Express (Touring) tickets – Sun, 26 Oct 2025, 5:30
-  pm at Troubadour Wembley Park Theatre
-DTEND;VALUE=DATE:20251026
-DTSTART;VALUE=DATE:20251026
-SUMMARY:Starlight Express
-UID:e35fa624-b22c-4261-93c7-d73b645c677c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
+DTSTAMP:20251022T020830Z
 DESCRIPTION:Akin to the Mickey Mouse Club of days of yore, Kidz Bop is the 
  Number One band in children's music, churning out family-friendly versions 
  of today's pop hits, sung by the industry's future stars...
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Kidz Bop Live
-UID:607a8423-ac93-4bb3-a50c-f13f65608384
+UID:2c6ebb3f-9fc3-45c5-9113-6b71193afb49
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
+DTSTAMP:20251022T020830Z
 DESCRIPTION:Saddle up cowboys & cowgirls The UKs biggest country music Dayp
  arty is riding Back into London after 3 SOLDOUT Shows! Zach Bryan Uk - 100
  % Confirmed
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Country Club - Indoor Country Music Festival
-UID:87438c16-6e07-4ab0-8ffd-012cef0d4b31
+UID:06165c0b-a411-4db0-a46c-ad17ea7b9914
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
-DESCRIPTION:Colliding bone-crushing riffs with soaring melodies and one of 
- the most instantly recognisable voices in modern metal, Disturbed have spen
- t over two decades at the forefront of heavy music. Led by...
+DTSTAMP:20251022T020830Z
+DESCRIPTION:Visit Slug And Lettuce O2 for our event DISTURBED Pre Drinks i
+ n Greenwich on Sunday 26 October 2025.
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Disturbed
-UID:2bd30998-c864-4406-9ee8-6beaceb0a72d
+UID:58c5df4b-c2e9-49d1-a04b-886ad71170b6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
+DTSTAMP:20251022T020830Z
+DESCRIPTION:Buy & sell tickets for RnB & Slow Jams - London Halloween | Exh
+ ibition London, London | Sat, Oct 25, 4:00 PM. TicketSwap – the fair and 
+ safe ticket marketplace.
+DTEND;VALUE=DATE:20251025
+DTSTART;VALUE=DATE:20251025
+SUMMARY:RnB & Slow Jams - London Halloween
+UID:e32b461e-0c41-41df-ab75-9a5f8bc2b9a5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T020830Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:88e4198d-757d-4269-b372-e4f1e66feb38
+UID:26eda173-e0ff-48e9-adef-576fcb8e749f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251021T020435Z
-DESCRIPTION:Find tickets for Ricky Gervais at The London Palladium in Londo
- n on 10/23/2025 at 7:30 PM
-DTEND;VALUE=DATE:20251023
-DTSTART;VALUE=DATE:20251023
+DTSTAMP:20251022T020830Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251031
+DTSTART;VALUE=DATE:20251031
 SUMMARY:Ricky Gervais
-UID:b31a662c-98b5-4cee-bd53-9985a9d951d0
+UID:89cdd684-1fa1-4ad7-93bd-b45ac828202b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T020830Z
+DESCRIPTION:Find tickets for Ricky Gervais at The London Palladium in Londo
+ n on 10/25/2025 at 7:30 PM
+DTEND;VALUE=DATE:20251025
+DTSTART;VALUE=DATE:20251025
+SUMMARY:Ricky Gervais
+UID:f4b3613d-7412-4840-8b0d-a989b222a8f0
 END:VEVENT
 END:VCALENDAR
