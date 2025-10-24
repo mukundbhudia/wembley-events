@@ -3,97 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
+DTSTAMP:20251024T125929Z
 DESCRIPTION:Starlight Express (Touring) tickets – Fri, 24 Oct 2025, 7:30
   pm at Troubadour Wembley Park Theatre
 DTEND;VALUE=DATE:20251024
 DTSTART;VALUE=DATE:20251024
 SUMMARY:Starlight Express
-UID:78243aba-339c-448b-a134-bc700c6f8811
+UID:d3f03e80-6a8e-4cb2-8bfc-2f1b6cc394f6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
+DTSTAMP:20251024T125929Z
 DESCRIPTION:Take return coach travel to Wembley Stadium, London for the 202
  5 ABK Beer Rugby League Ashes
 DTEND;VALUE=DATE:20251025
 DTSTART;VALUE=DATE:20251025
-SUMMARY:Rugby League Ashes - England vs Australia
-UID:84fae840-6769-4014-9834-a7b42e5cb0d2
+SUMMARY:ABK Rugby League
+UID:5939f70c-c800-4ff7-bf7f-34a56b3c972c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
+DTSTAMP:20251024T125929Z
 DESCRIPTION:Akin to the Mickey Mouse Club of days of yore, Kidz Bop is the 
  Number One band in children's music, churning out family-friendly versions 
  of today's pop hits, sung by the industry's future stars...
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Kidz Bop Live
-UID:f87cbb2a-fb49-45d9-a0ca-a0ddc6fa8fd2
+UID:62770f4d-b699-4c61-80f1-acaefaf3dc39
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
+DTSTAMP:20251024T125929Z
 DESCRIPTION:Visit Slug And Lettuce O2 for our event DISTURBED Pre Drinks i
  n Greenwich on Sunday 26 October 2025.
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Disturbed
-UID:0cfa6f11-5b49-4935-9b09-5f68c456fae9
+UID:4fc33060-e927-4f0f-87c4-99b072cd8338
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
-DESCRIPTION:Buy & sell tickets for RnB & Slow Jams - London Halloween | Exh
- ibition London, London | Sat, Oct 25, 4:00 PM. TicketSwap – the fair and 
- safe ticket marketplace.
+DTSTAMP:20251024T125929Z
+DESCRIPTION:WARNING: This party may cause late-night DMs, emotional flashba
+ cks & singing in the dark. Welcome to SLOW JAMS NATION The R&B Only Party y
+ ou’ve been yearning for. SLOW JAMS NATION is strictly for...
 DTEND;VALUE=DATE:20251025
 DTSTART;VALUE=DATE:20251025
 SUMMARY:RnB & Slow Jams - London Halloween
-UID:3a01b6c7-1e2d-4b07-9a53-4f8df7e68acb
+UID:7dfad137-9846-4994-9aaf-148b98b910da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
+DTSTAMP:20251024T125929Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:52538d7e-1abc-4a7e-80df-ebd7062bfaea
+UID:6df5edd5-9858-431d-b877-f4c4c69a3369
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
+DTSTAMP:20251024T125929Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251031
 DTSTART;VALUE=DATE:20251031
 SUMMARY:Ricky Gervais
-UID:5167adfd-4f98-4efb-a620-cf86ddf9a072
+UID:36284d9a-2598-41d2-86f6-04c875632e13
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
+DTSTAMP:20251024T125929Z
 DESCRIPTION:THE ULTIMATE INDOOR FAMILY DANCE PARTY PLAYING THE BEST IN HOUS
  E, GARAGE & DRUM AND BASS SUITABLE FOR ALL AGES! Raver Tots is coming to BO
  XPARK Wembley!
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Raver Tots in Wembley
-UID:fa00dd45-476d-41f1-844c-2ab9c927c462
+UID:f50fd3eb-3a8d-4a39-8bb6-31973ebcb859
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
+DTSTAMP:20251024T125929Z
 DESCRIPTION:Step inside East London’s most magical hidden loft for a DEBU
  T Secret Concert — a candlelit evening of classical music, storytelling a
  nd connection. BYOB, up-close performances from world-class...
 DTEND;VALUE=DATE:20251024
 DTSTART;VALUE=DATE:20251024
 SUMMARY:Secret Concert - Debut
-UID:0242a070-6a4f-4326-a7f9-4a62aa2fff36
+UID:f69dbcb4-5245-4d8c-aaba-903957b25da6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251024T015925Z
-DESCRIPTION:Find tickets for Erykah Badu at Royal Albert Hall in London on 
- 10/25/2025 at 7:30 PM
-DTEND;VALUE=DATE:20251025
-DTSTART;VALUE=DATE:20251025
-SUMMARY:Erykah Badu
-UID:eb2161bc-bf12-4948-b5c2-c68d7b7d6d5f
+DTSTAMP:20251024T125929Z
+DESCRIPTION:ENGLAND VS SERBIA . FANZONE - ENTRY WITH WEMBLEY STADIUM TICKET
+ S ONLY 9am opening time 1 min from wembley park tube station, 4 min walk t
+ o Wembley stadium Kids friendly, Enjoy food drinks with us...
+DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
+SUMMARY:England vs Serbia - Football WC 2026 Qualifier
+UID:f4d4dad3-7bc4-4609-b733-228602e22a23
 END:VEVENT
 END:VCALENDAR
