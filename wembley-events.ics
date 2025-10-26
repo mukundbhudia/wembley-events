@@ -3,98 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
-DESCRIPTION:Take return coach travel to Wembley Stadium, London for the 202
- 5 ABK Beer Rugby League Ashes
-DTEND;VALUE=DATE:20251025
-DTSTART;VALUE=DATE:20251025
-SUMMARY:ABK Rugby League
-UID:f43bd298-a792-4b96-a08c-0a1ed84cb544
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
+DTSTAMP:20251026T021528Z
 DESCRIPTION:Akin to the Mickey Mouse Club of days of yore, Kidz Bop is the 
  Number One band in children's music, churning out family-friendly versions 
  of today's pop hits, sung by the industry's future stars...
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Kidz Bop Live
-UID:924980c1-3769-4b8f-9ee1-75918b6c48d1
+UID:24a2aea7-5719-4515-9dc0-71434a39f077
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
+DTSTAMP:20251026T021528Z
 DESCRIPTION:Visit Slug And Lettuce O2 for our event DISTURBED Pre Drinks i
  n Greenwich on Sunday 26 October 2025.
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Disturbed
-UID:2546f765-95ce-45a9-a0c3-f411d5b1f33d
+UID:dbf4e4b3-7eda-48d3-a8fd-ca311eb2035c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
+DTSTAMP:20251026T021528Z
 DESCRIPTION:WARNING: This party may cause late-night DMs, emotional flashba
  cks & singing in the dark. Welcome to SLOW JAMS NATION The R&B Only Party y
  ou’ve been yearning for. SLOW JAMS NATION is strictly for...
-DTEND;VALUE=DATE:20251025
-DTSTART;VALUE=DATE:20251025
+DTEND;VALUE=DATE:20251026
+DTSTART;VALUE=DATE:20251026
 SUMMARY:RnB & Slow Jams - London Halloween
-UID:a34507c5-d395-4341-acb9-dc2cf9b12aec
+UID:8c5423ed-beb9-4b75-9516-ea28e89888f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
+DTSTAMP:20251026T021528Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before M
  arilyn Manson takes the stage, BOXPARK Wembley is turning up the heat with 
  the ultimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:Marilyn Manson
-UID:a7487861-4b8e-4a56-b029-a1b8e95ef0f5
+UID:459878b0-d572-4ea9-ad99-db50a30a9c7e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
+DTSTAMP:20251026T021528Z
+DESCRIPTION:Listen to Czardas by Lost Revellers. See lyrics and music video
+ s, find Lost Revellers tour dates, buy concert tickets, and more!
+DTEND;VALUE=DATE:20251026
+DTSTART;VALUE=DATE:20251026
+SUMMARY:Matinée Show: Lost Revellers
+UID:9f01af89-6475-4e2d-ae85-fc391c04d398
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251026T021528Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:82a649ea-9d00-48d4-b73c-3110372c43a0
+UID:09969ad6-589c-4909-9224-3d8313db3e84
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
-DESCRIPTION:Listen to Czardas by Lost Revellers. See lyrics and music video
- s, find Lost Revellers tour dates, buy concert tickets, and more!
-DTEND;VALUE=DATE:20251026
-DTSTART;VALUE=DATE:20251026
-SUMMARY:Lost Revellers Concert
-UID:ff01e17d-e4ae-4ac7-bd9f-ea3ee3acc8c8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251031
-DTSTART;VALUE=DATE:20251031
-SUMMARY:Ricky Gervais
-UID:a10096e5-c65a-4b0e-a338-66fc45cfe966
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
+DTSTAMP:20251026T021528Z
 DESCRIPTION:Get ready to meet the coolest creepy crawlies at The Great Big 
  Bug Show – it’s gonna be a buzzing good time! Join poet Simon Mole and 
  musician Gecko […]
 DTEND;VALUE=DATE:20251030
 DTSTART;VALUE=DATE:20251030
 SUMMARY:Wembley Library – The Great Big Bug Show
-UID:dd32096f-aeeb-4837-b13d-3c9a29b429d6
+UID:50a73ced-d5fb-4ddf-abd4-f800109426c6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251025T125121Z
+DTSTAMP:20251026T021528Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251031
+DTSTART;VALUE=DATE:20251031
+SUMMARY:Ricky Gervais
+UID:a39a2c76-fcab-494d-99ea-18f5f2f482ba
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251026T021528Z
 DESCRIPTION:THE ULTIMATE INDOOR FAMILY DANCE PARTY PLAYING THE BEST IN HOUS
  E, GARAGE & DRUM AND BASS SUITABLE FOR ALL AGES! Raver Tots is coming to BO
  XPARK Wembley!
 DTEND;VALUE=DATE:20251026
 DTSTART;VALUE=DATE:20251026
 SUMMARY:Raver Tots in Wembley
-UID:76fd7c03-5f6d-45f9-8508-c1373e55d0b8
+UID:93d18f79-487a-49ce-b552-8d99564dc89c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251026T021528Z
+DESCRIPTION:ENGLAND VS SERBIA . FANZONE - ENTRY WITH WEMBLEY STADIUM TICKET
+ S ONLY 9am opening time 1 min from wembley park tube station, 4 min walk t
+ o Wembley stadium Kids friendly, Enjoy food drinks with us...
+DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
+SUMMARY:England vs Serbia - Football WC 2026 Qualifier
+UID:77ec8733-b6d1-4ad1-9793-eace5187085f
 END:VEVENT
 END:VCALENDAR
