@@ -3,99 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
-DESCRIPTION:Akin to the Mickey Mouse Club of days of yore, Kidz Bop is the 
- Number One band in children's music, churning out family-friendly versions 
- of today's pop hits, sung by the industry's future stars...
-DTEND;VALUE=DATE:20251026
-DTSTART;VALUE=DATE:20251026
-SUMMARY:Kidz Bop Live
-UID:799f9e1e-ea69-4d18-bcc9-11d82eff8646
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
-DESCRIPTION:Visit Slug And Lettuce O2 for our event DISTURBED Pre Drinks i
- n Greenwich on Sunday 26 October 2025.
-DTEND;VALUE=DATE:20251026
-DTSTART;VALUE=DATE:20251026
-SUMMARY:Disturbed
-UID:7f3a6a3f-d8a3-498e-a50a-90c6134712fa
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
-DESCRIPTION:Get ready to kick off the night in true Wembley style. Before M
- arilyn Manson takes the stage, BOXPARK Wembley is turning up the heat with 
- the ultimate pre-party. Expect a full-on celebration of...
-DTEND;VALUE=DATE:20251107
-DTSTART;VALUE=DATE:20251107
-SUMMARY:Marilyn Manson
-UID:922f78a7-888c-45d1-aa74-7e2fe142e08f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
-DESCRIPTION:WARNING: This party may cause late-night DMs, emotional flashba
- cks & singing in the dark. Welcome to SLOW JAMS NATION The R&B Only Party y
- ou’ve been yearning for. SLOW JAMS NATION is strictly for...
-DTEND;VALUE=DATE:20251026
-DTSTART;VALUE=DATE:20251026
-SUMMARY:RnB & Slow Jams - London Halloween
-UID:4d78cb2d-67bf-4526-9f0e-3fdd7bace08f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
-DESCRIPTION:Listen to The Fire Hills by Lost Revellers. See lyrics and musi
- c videos, find Lost Revellers tour dates, buy concert tickets, and more!
-DTEND;VALUE=DATE:20251026
-DTSTART;VALUE=DATE:20251026
-SUMMARY:Matinée Show: Lost Revellers
-UID:53ca010b-dd12-4c88-bc58-769618a685bd
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
-DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
- am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
- ltimate pre-party. Expect a full-on celebration of...
-DTEND;VALUE=DATE:20251106
-DTSTART;VALUE=DATE:20251106
-SUMMARY:Sam Ryder
-UID:3289c2f0-d387-4476-bbdf-2cebc9b08d06
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
+DTSTAMP:20251027T022013Z
 DESCRIPTION:As a child's train set magically comes to life and the engines 
  race to become the fastest in the world, Rusty the steam train has little h
  ope of winning until he is inspired by the legend of the...
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:Starlight Express
-UID:1087f4c3-0908-4d87-8b52-3fa6b7f76e22
+UID:0eaf2746-d612-4e79-8a27-8e4e12d4e3d0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
-DESCRIPTION:THE ULTIMATE INDOOR FAMILY DANCE PARTY PLAYING THE BEST IN HOUS
- E, GARAGE & DRUM AND BASS SUITABLE FOR ALL AGES! Raver Tots is coming to BO
- XPARK Wembley!
-DTEND;VALUE=DATE:20251026
-DTSTART;VALUE=DATE:20251026
-SUMMARY:Raver Tots in Wembley
-UID:4dd4bc64-a550-46b0-b1ee-a7a27c3444b7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
-DESCRIPTION:ENGLAND VS SERBIA . FANZONE - ENTRY WITH WEMBLEY STADIUM TICKET
- S ONLY 9am opening time 1 min from wembley park tube station, 4 min walk t
- o Wembley stadium Kids friendly, Enjoy food drinks with us...
-DTEND;VALUE=DATE:20251113
-DTSTART;VALUE=DATE:20251113
-SUMMARY:England vs Serbia - Football WC 2026 Qualifier
-UID:819ea1a0-8ad2-4499-8dfe-2353294a5136
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251026T125230Z
+DTSTAMP:20251027T022013Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251031
 DTSTART;VALUE=DATE:20251031
 SUMMARY:Ricky Gervais
-UID:772c88d2-11f4-4c70-8788-bcc4b306ea7c
+UID:0f8d910f-9d01-4d1e-b81b-1fa5143a8529
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T022013Z
+DESCRIPTION:Get ready to meet the coolest creepy crawlies at The Great Big 
+ Bug Show - it's gonna be a buzzing good time!
+DTEND;VALUE=DATE:20251030
+DTSTART;VALUE=DATE:20251030
+SUMMARY:Library at Willesden - The Great Big Bug Show
+UID:495028e4-7441-4ee5-9274-39a25c102fdd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T022013Z
+DESCRIPTION:Find Sammy Porter's top tracks, watch videos, see tour dates an
+ d buy concert tickets for Sammy Porter.
+DTEND;VALUE=DATE:20251101
+DTSTART;VALUE=DATE:20251101
+SUMMARY:Sammy Porter @ Boxpark Wembley
+UID:972543b5-675d-40ae-85f0-af5897fd2ecb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T022013Z
+DESCRIPTION:Presented by: Pitch International SOUTH AFRICA v JAPAN SATURDA
+ Y 1ST NOVEMBER 2025 KICK OFF 4:10PM The World Champion Springboks and Japa
+ n will kick start their northern hemisphere tours in an...
+DTEND;VALUE=DATE:20251101
+DTSTART;VALUE=DATE:20251101
+SUMMARY:Südafrika vs Japan
+UID:5c9f0e57-7eb9-4785-aeef-9d41da3fdb7a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T022013Z
+DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
+ am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
+ ltimate pre-party. Expect a full-on celebration of...
+DTEND;VALUE=DATE:20251106
+DTSTART;VALUE=DATE:20251106
+SUMMARY:Sam Ryder
+UID:5e87de17-6842-4cb1-b0ab-493770132a3a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T022013Z
+DESCRIPTION:Every weekend we bring you comedy stars of today alongside the 
+ stars of tomorrow. Lineups regularly include acts from Taskmaster, Mock th
+ e Week, Live at the Apollo, Netflix, QI, Have I Got News...
+DTEND;VALUE=DATE:20251030
+DTSTART;VALUE=DATE:20251030
+SUMMARY:The Best In Stand Up
+UID:2d740679-49b6-4d42-abc5-1dd8e444e6a2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T022013Z
+DESCRIPTION:ROMESH RANGANATHAN's 🎃👟 HIP HOP HALLOWEEN DAY PARTY 👟
+ 🎃 Saturday 1st November | 3PM - 8PM | BOXPARK Shoreditch HIP HOP SAVED M
+ Y HALLOWEEN The Fancy Dress* Hip Hop DAY PARTY Saturday 1st...
+DTEND;VALUE=DATE:20251101
+DTSTART;VALUE=DATE:20251101
+SUMMARY:Hip Hop Saved My Halloween: Day Party
+UID:6fa34758-5c2a-4bd2-9217-f82466c86fde
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T022013Z
+DESCRIPTION:Descending from the mountains are harp and fiddle extravaganza 
+ Mickey & Michelle, whose energetic and virtuosic performances have capture
+ d hearts throughout Australia and New Zealand. Often...
+DTEND;VALUE=DATE:20251031
+DTSTART;VALUE=DATE:20251031
+SUMMARY:Mickey & Michelle
+UID:8de53395-e4d9-46d6-aca9-dab393a44c25
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T022013Z
+DESCRIPTION:ROYA is a Danish musical duo consisting of Sebastian Igens & Li
+ ne Gade, known for their infectious blend of pop, electronic, and authenti
+ c sounds. With their emotionally charged lyrics and...
+DTEND;VALUE=DATE:20251031
+DTSTART;VALUE=DATE:20251031
+SUMMARY:ROYA
+UID:18fbed41-975e-4d13-ae6c-8225dee92513
 END:VEVENT
 END:VCALENDAR
