@@ -3,99 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
+DTSTAMP:20251027T130019Z
 DESCRIPTION:As a child's train set magically comes to life and the engines 
  race to become the fastest in the world, Rusty the steam train has little h
  ope of winning until he is inspired by the legend of the...
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:Starlight Express
-UID:0eaf2746-d612-4e79-8a27-8e4e12d4e3d0
+UID:fdc57bd9-e7f0-4cb7-990a-f7c1ab1741f6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251031
-DTSTART;VALUE=DATE:20251031
-SUMMARY:Ricky Gervais
-UID:0f8d910f-9d01-4d1e-b81b-1fa5143a8529
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
+DTSTAMP:20251027T130019Z
 DESCRIPTION:Get ready to meet the coolest creepy crawlies at The Great Big 
  Bug Show - it's gonna be a buzzing good time!
 DTEND;VALUE=DATE:20251030
 DTSTART;VALUE=DATE:20251030
 SUMMARY:Library at Willesden - The Great Big Bug Show
-UID:495028e4-7441-4ee5-9274-39a25c102fdd
+UID:e1d8a588-078c-4d4d-891e-8a81769decaa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
+DTSTAMP:20251027T130019Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251031
+DTSTART;VALUE=DATE:20251031
+SUMMARY:Ricky Gervais
+UID:5fd9b2ae-0850-4b3b-a5ea-829d18244457
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T130019Z
 DESCRIPTION:Find Sammy Porter's top tracks, watch videos, see tour dates an
  d buy concert tickets for Sammy Porter.
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:Sammy Porter @ Boxpark Wembley
-UID:972543b5-675d-40ae-85f0-af5897fd2ecb
+UID:9975daae-036c-4342-bf3f-f540c5f02627
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
+DTSTAMP:20251027T130019Z
 DESCRIPTION:Presented by: Pitch International SOUTH AFRICA v JAPAN SATURDA
  Y 1ST NOVEMBER 2025 KICK OFF 4:10PM The World Champion Springboks and Japa
  n will kick start their northern hemisphere tours in an...
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:Südafrika vs Japan
-UID:5c9f0e57-7eb9-4785-aeef-9d41da3fdb7a
+UID:3cf0ff89-8e18-4fd6-9b00-cf0eb91094ef
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
+DTSTAMP:20251027T130019Z
+DESCRIPTION:Get ready to unleash your inner performer and experience the th
+ rill of drama and circus skills in person!
+DTEND;VALUE=DATE:20251027
+DTSTART;VALUE=DATE:20251027
+SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
+ fun!
+UID:df41ffb4-1da4-47b6-916f-64863c8614fb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251027T130019Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:5e87de17-6842-4cb1-b0ab-493770132a3a
+UID:9798e40f-fc4d-4485-ab42-839d27b92fdb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
-DESCRIPTION:Every weekend we bring you comedy stars of today alongside the 
- stars of tomorrow. Lineups regularly include acts from Taskmaster, Mock th
- e Week, Live at the Apollo, Netflix, QI, Have I Got News...
-DTEND;VALUE=DATE:20251030
-DTSTART;VALUE=DATE:20251030
-SUMMARY:The Best In Stand Up
-UID:2d740679-49b6-4d42-abc5-1dd8e444e6a2
+DTSTAMP:20251027T130019Z
+DESCRIPTION:Football World Cup 2026 Qualifiers - England vs Serbia live fro
+ m Wembley Stadium on Thursday, November 13, 2025.
+DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
+SUMMARY:England vs Serbia - Football WC 2026 Qualifier
+UID:112e6652-eab5-49a3-841a-c37357861b55
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
-DESCRIPTION:ROMESH RANGANATHAN's 🎃👟 HIP HOP HALLOWEEN DAY PARTY 👟
- 🎃 Saturday 1st November | 3PM - 8PM | BOXPARK Shoreditch HIP HOP SAVED M
- Y HALLOWEEN The Fancy Dress* Hip Hop DAY PARTY Saturday 1st...
-DTEND;VALUE=DATE:20251101
-DTSTART;VALUE=DATE:20251101
-SUMMARY:Hip Hop Saved My Halloween: Day Party
-UID:6fa34758-5c2a-4bd2-9217-f82466c86fde
+DTSTAMP:20251027T130019Z
+DESCRIPTION:WESTRINGS TRAVEL STARLIGHT EXPRESS THURSDAY 13TH NOVEMBER 2025 
+ MATINEE PERFORMANCE £79.00 Andrew Lloyd Webber’s STARLIGHT EXPRESS is no
+ w playing in the specially designed STARLIGHT AUDITORIUM at...
+DTEND;VALUE=DATE:20251114
+DTSTART;VALUE=DATE:20251114
+SUMMARY:Starlight Express
+UID:4620315d-1b23-44c1-be29-fa435a145f93
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
+DTSTAMP:20251027T130019Z
 DESCRIPTION:Descending from the mountains are harp and fiddle extravaganza 
  Mickey & Michelle, whose energetic and virtuosic performances have capture
  d hearts throughout Australia and New Zealand. Often...
 DTEND;VALUE=DATE:20251031
 DTSTART;VALUE=DATE:20251031
 SUMMARY:Mickey & Michelle
-UID:8de53395-e4d9-46d6-aca9-dab393a44c25
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251027T022013Z
-DESCRIPTION:ROYA is a Danish musical duo consisting of Sebastian Igens & Li
- ne Gade, known for their infectious blend of pop, electronic, and authenti
- c sounds. With their emotionally charged lyrics and...
-DTEND;VALUE=DATE:20251031
-DTSTART;VALUE=DATE:20251031
-SUMMARY:ROYA
-UID:18fbed41-975e-4d13-ae6c-8225dee92513
+UID:849116c9-3d99-4a31-ae39-42855a008fdf
 END:VEVENT
 END:VCALENDAR
