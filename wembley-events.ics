@@ -3,95 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
-DESCRIPTION:Experience Starlight Express Touring live at Troubadour Wemble
- y Park Theatre on Nov 01, 2025. Get your tickets now!
-DTEND;VALUE=DATE:20251101
-DTSTART;VALUE=DATE:20251101
+DTSTAMP:20251029T130054Z
+DESCRIPTION:Starlight Express VIP tickets offered by PremiumSeatsUSA.com. A
+ lso offering, Starlight Express VIP Packages, Starlight Express VIP travel 
+ packages and the Starlight Express VIP experience here at...
+DTEND;VALUE=DATE:20251102
+DTSTART;VALUE=DATE:20251102
 SUMMARY:Starlight Express
-UID:63d8c8cc-4683-4aae-9ec6-a5a00e90429b
+UID:3b10beb4-7beb-4a3e-930a-96bc79ce6c3c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
+DTSTAMP:20251029T130054Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251031
 DTSTART;VALUE=DATE:20251031
 SUMMARY:Ricky Gervais
-UID:1e47fd16-3795-499d-90dc-723c3fb04c68
+UID:bd4045fd-f52d-459f-8a4d-898afeebd762
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
-DESCRIPTION:Listen to You (Radio Mix) by George Mensah. See lyrics and musi
- c videos, find George Mensah tour dates, buy concert tickets, and more!
-DTEND;VALUE=DATE:20251101
-DTSTART;VALUE=DATE:20251101
-SUMMARY:George Mensah
-UID:efef0e71-a7af-4dce-98b6-9076bd1d2424
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
+DTSTAMP:20251029T130054Z
 DESCRIPTION:Find Sammy Porter's top tracks, watch videos, see tour dates an
  d buy concert tickets for Sammy Porter.
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:Sammy Porter Concert
-UID:04dac31a-88a1-4874-b599-9b007ded67a5
+UID:68e4cfd9-337f-47b0-ae21-934b287d4c4a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
+DTSTAMP:20251029T130054Z
+DESCRIPTION:Listen to You (Radio Mix) by George Mensah. See lyrics and musi
+ c videos, find George Mensah tour dates, buy concert tickets, and more!
+DTEND;VALUE=DATE:20251101
+DTSTART;VALUE=DATE:20251101
+SUMMARY:George Mensah
+UID:dd00e853-65ee-4731-9ffb-3418a4eb1e41
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T130054Z
 DESCRIPTION:Get ready to unleash your inner performer and experience the th
  rill of drama and circus skills in person!
 DTEND;VALUE=DATE:20251029
 DTSTART;VALUE=DATE:20251029
 SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
  fun!
-UID:1e51f385-03ce-4f7f-84db-b5dfd0977c3a
+UID:37fbf79e-77a3-4763-a7cd-aac19e797743
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
+DTSTAMP:20251029T130054Z
 DESCRIPTION:Presented by: Pitch International SOUTH AFRICA v JAPAN SATURDA
  Y 1ST NOVEMBER 2025 KICK OFF 4:10PM The World Champion Springboks and Japa
  n will kick start their northern hemisphere tours in an...
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:Südafrika vs Japan
-UID:df91a697-6a26-4c6c-95f5-0d8346bc3354
+UID:793ce7cb-748c-4ea7-9379-561c006c2a1c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
+DTSTAMP:20251029T130054Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:364b093d-aa6e-481a-a053-fc8f8417ea4a
+UID:7a45f2f8-941b-4d0a-b28c-8acec9050968
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
+DTSTAMP:20251029T130054Z
 DESCRIPTION:Si Barron is a folk singer and songwriter based in Devon. He ha
  s a deep relationship with English traditional music and a gift for turnin
  g time-honoured melodies into foot-tapping anthems. With...
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Rob Barron
-UID:e5a80b6e-5b97-4d17-916b-1d8e3cb37265
+UID:763dc065-e6cf-4477-8b3c-c5a6cd2d63d9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
+DTSTAMP:20251029T130054Z
 DESCRIPTION:Ticket listings for Wendy James at One in London on 10/29/2025
 DTEND;VALUE=DATE:20251029
 DTSTART;VALUE=DATE:20251029
 SUMMARY:Wendy James
-UID:00600f1f-4ddf-4ce7-a0a7-47fd389bf2c1
+UID:dbf60533-4d5c-435b-b728-e1aa61179b0f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T021650Z
-DESCRIPTION:David Grubb has become a sought-after musician, renowned for hi
- s ability to seamlessly blend musical styles.
+DTSTAMP:20251029T130054Z
+DESCRIPTION:Listen to No Bad Vibes by Nolais. See lyrics and music videos, 
+ find Nolais tour dates, buy concert tickets, and more!
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
-SUMMARY:David Grubb
-UID:e99bdbf5-0e61-4438-a33a-84cef86c2ba9
+SUMMARY:Nolais Concert
+UID:9f25ae23-3dd8-47a7-bc5d-2d5bad5b0b30
 END:VEVENT
 END:VCALENDAR
