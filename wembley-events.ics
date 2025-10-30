@@ -3,96 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
+DTSTAMP:20251030T021508Z
 DESCRIPTION:Starlight Express VIP tickets offered by PremiumSeatsUSA.com. A
  lso offering, Starlight Express VIP Packages, Starlight Express VIP travel 
  packages and the Starlight Express VIP experience here at...
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Starlight Express
-UID:3b10beb4-7beb-4a3e-930a-96bc79ce6c3c
+UID:0be7a8ec-825f-4950-b17a-ec4711b0a90f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
+DTSTAMP:20251030T021508Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251031
 DTSTART;VALUE=DATE:20251031
 SUMMARY:Ricky Gervais
-UID:bd4045fd-f52d-459f-8a4d-898afeebd762
+UID:95687ee3-8629-4194-ad2e-f94a683c19e4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
+DTSTAMP:20251030T021508Z
 DESCRIPTION:Find Sammy Porter's top tracks, watch videos, see tour dates an
  d buy concert tickets for Sammy Porter.
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:Sammy Porter Concert
-UID:68e4cfd9-337f-47b0-ae21-934b287d4c4a
+UID:a2956b1b-cceb-4daf-b628-5f868acf71f1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
+DTSTAMP:20251030T021508Z
 DESCRIPTION:Listen to You (Radio Mix) by George Mensah. See lyrics and musi
  c videos, find George Mensah tour dates, buy concert tickets, and more!
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:George Mensah
-UID:dd00e853-65ee-4731-9ffb-3418a4eb1e41
+UID:baa83210-b150-4dfe-9ed9-6884b0a731d2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
-DESCRIPTION:Get ready to unleash your inner performer and experience the th
- rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251029
-DTSTART;VALUE=DATE:20251029
-SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
- fun!
-UID:37fbf79e-77a3-4763-a7cd-aac19e797743
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
+DTSTAMP:20251030T021508Z
 DESCRIPTION:Presented by: Pitch International SOUTH AFRICA v JAPAN SATURDA
  Y 1ST NOVEMBER 2025 KICK OFF 4:10PM The World Champion Springboks and Japa
  n will kick start their northern hemisphere tours in an...
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
-SUMMARY:Südafrika vs Japan
-UID:793ce7cb-748c-4ea7-9379-561c006c2a1c
+SUMMARY:South Africa vs. Japan National Rugby
+UID:8cbf763a-7ad2-433c-b94e-d2137ba2ecd6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
+DTSTAMP:20251030T021508Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:7a45f2f8-941b-4d0a-b28c-8acec9050968
+UID:bcf08cc1-9ef6-4bb6-84bd-bc7d31964c89
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
+DTSTAMP:20251030T021508Z
 DESCRIPTION:Si Barron is a folk singer and songwriter based in Devon. He ha
  s a deep relationship with English traditional music and a gift for turnin
  g time-honoured melodies into foot-tapping anthems. With...
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Rob Barron
-UID:763dc065-e6cf-4477-8b3c-c5a6cd2d63d9
+UID:b34175b9-3df1-4eef-a348-52cf4f876f15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
-DESCRIPTION:Ticket listings for Wendy James at One in London on 10/29/2025
-DTEND;VALUE=DATE:20251029
-DTSTART;VALUE=DATE:20251029
-SUMMARY:Wendy James
-UID:dbf60533-4d5c-435b-b728-e1aa61179b0f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251029T130054Z
-DESCRIPTION:Listen to No Bad Vibes by Nolais. See lyrics and music videos, 
- find Nolais tour dates, buy concert tickets, and more!
+DTSTAMP:20251030T021508Z
+DESCRIPTION:Buy & sell tickets for Loyle Carner | O2 Academy Brixton, Londo
+ n | Sun, Nov 2, 7:00 PM. Find fair, safe and secure tickets on TicketSwap'
+ s marketplace.
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
-SUMMARY:Nolais Concert
-UID:9f25ae23-3dd8-47a7-bc5d-2d5bad5b0b30
+SUMMARY:Loyle Carner
+UID:ab298a3d-98a6-487f-b39b-99ce43dfc822
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251030T021508Z
+DESCRIPTION:David Grubb has become a sought-after musician, renowned for hi
+ s ability to seamlessly blend musical styles.
+DTEND;VALUE=DATE:20251102
+DTSTART;VALUE=DATE:20251102
+SUMMARY:David Grubb
+UID:4a3d6ee8-5013-47f6-ac59-f4bdaa07b745
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251030T021508Z
+DESCRIPTION:Find tickets for Josh Ross showing at the The Camden Assembly 
+ - London, GB Wednesday Oct 29, 7:00PM Tickets starting at £23.70
+DTEND;VALUE=DATE:20251030
+DTSTART;VALUE=DATE:20251030
+SUMMARY:Josh Ross
+UID:e543c556-f3b6-45e7-8710-4bc605677b4b
 END:VEVENT
 END:VCALENDAR
