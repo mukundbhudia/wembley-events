@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
+DTSTAMP:20251031T020719Z
 DESCRIPTION:Starlight Express VIP tickets offered by PremiumSeatsUSA.com. A
  lso offering, Starlight Express VIP Packages, Starlight Express VIP travel 
  packages and the Starlight Express VIP experience here at...
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Starlight Express
-UID:80de60d3-22c6-4c62-a88a-72037e435691
+UID:d0a153ec-7c91-4b51-a090-ed6eaac5bdb2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
+DTSTAMP:20251031T020719Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251031
 DTSTART;VALUE=DATE:20251031
 SUMMARY:Ricky Gervais
-UID:fbde556b-d0c5-4712-b5f3-6a4a48033978
+UID:5771c922-ac21-4b93-a777-af05a636e033
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
+DTSTAMP:20251031T020719Z
+DESCRIPTION:Lovejuice return to BoxPark Wembley on Sat 01 November. Expect 
+ full venue Halloween production and a HUGE line up!
+DTEND;VALUE=DATE:20251101
+DTSTART;VALUE=DATE:20251101
+SUMMARY:LoveJuice Halloween - Part 1 - Boxpark Wembley - Sat 1 November
+UID:13a5a8f7-c684-40f6-b098-320799d57b2c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T020719Z
 DESCRIPTION:Presented by: Pitch International SOUTH AFRICA v JAPAN SATURDA
  Y 1ST NOVEMBER 2025 KICK OFF 4:10PM The World Champion Springboks and Japa
  n will kick start their northern hemisphere tours in an...
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:South Africa vs. Japan National Rugby
-UID:94b6240b-45e9-4376-abbc-a373c92b4331
+UID:5b330454-3471-4d0d-9e22-4bc1ab1bfaad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
+DTSTAMP:20251031T020719Z
+DESCRIPTION:Get ready to unleash your inner performer and experience the th
+ rill of drama and circus skills in person!
+DTEND;VALUE=DATE:20251031
+DTSTART;VALUE=DATE:20251031
+SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
+ fun!
+UID:c3e50d93-0054-4842-8abd-a9440b51eb23
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T020719Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:66525b15-4303-4227-9d42-fd868d821ae4
+UID:87ffa9da-c2e5-4920-bd49-606d1a1158d0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
+DTSTAMP:20251031T020719Z
 DESCRIPTION:Si Barron is a folk singer and songwriter based in Devon. He ha
  s a deep relationship with English traditional music and a gift for turnin
  g time-honoured melodies into foot-tapping anthems. With...
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Rob Barron
-UID:feabe95a-ab76-400f-ae43-62f90c94cbcb
+UID:4c76631b-12ce-4c53-b5fe-dd53109dc185
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
-DESCRIPTION:The Comedy Store Players have been wowing audiences for many ye
- ars with their improvisational skills, creating unique shows every Sunday i
- n the heart of London’s West End. The concept is simple –...
-DTEND;VALUE=DATE:20251102
-DTSTART;VALUE=DATE:20251102
-SUMMARY:The Comedy Store Players - Sunday 2nd November
-UID:2de6811b-be5f-48cf-b57a-4ff12a9ac3b3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
+DTSTAMP:20251031T020719Z
 DESCRIPTION:Cementing his phenomenal rise, 2025’s dates will see Babatund
  e perform his biggest headline show to date.
-DTEND;VALUE=DATE:20251030
-DTSTART;VALUE=DATE:20251030
+DTEND;VALUE=DATE:20251031
+DTSTART;VALUE=DATE:20251031
 SUMMARY:Babatunde Aleshe | Moved To Hackney Empire | Off Sale
-UID:6e45d25a-2631-4a4a-8db3-de2c4bd3bfb4
+UID:23c473ee-fe99-4c13-82c5-6e52c153dd48
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
+DTSTAMP:20251031T020719Z
 DESCRIPTION:Buy & sell tickets for Loyle Carner | O2 Academy Brixton, Londo
  n | Sun, Nov 2, 7:00 PM. Find fair, safe and secure tickets on TicketSwap'
  s marketplace.
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Loyle Carner
-UID:97a95825-61f1-401c-b6c9-2c051245283b
+UID:d4858d6d-4843-489a-99f9-69c426165c9a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
+DTSTAMP:20251031T020719Z
 DESCRIPTION:David Grubb has become a sought-after musician, renowned for hi
  s ability to seamlessly blend musical styles.
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:David Grubb
-UID:710deddc-b97f-4f78-a042-d6f5d37d5034
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251030T125920Z
-DESCRIPTION:Find tickets for Josh Ross showing at the The Camden Assembly 
- - London, GB Wednesday Oct 29, 7:00PM Tickets starting at £23.70
-DTEND;VALUE=DATE:20251030
-DTSTART;VALUE=DATE:20251030
-SUMMARY:Josh Ross
-UID:41c70667-bc70-41e4-98ec-53762f2eab6a
+UID:c82f1a50-3cd5-490c-822e-b54d302233ca
 END:VEVENT
 END:VCALENDAR
