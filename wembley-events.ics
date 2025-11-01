@@ -3,96 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
-DESCRIPTION:Starlight Express VIP tickets offered by PremiumSeatsUSA.com. A
- lso offering, Starlight Express VIP Packages, Starlight Express VIP travel 
- packages and the Starlight Express VIP experience here at...
+DTSTAMP:20251101T125205Z
+DESCRIPTION:Experience Starlight Express Touring live at Troubadour Wemble
+ y Park Theatre on Nov 01, 2025. Get your tickets now!
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Starlight Express
-UID:fc6eed14-b36a-42f5-934e-c9edd7f993b5
+UID:a9a7bdba-8276-4a3e-a842-e9d972c1a888
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
+DTSTAMP:20251101T125205Z
 DESCRIPTION:Lovejuice return to BoxPark Wembley on Sat 01 November. Expect 
  full venue Halloween production and a HUGE line up!
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:LoveJuice Halloween - Part 1 - Boxpark Wembley - Sat 1 November
-UID:3814f717-1717-4999-9352-cf1d00514c68
+UID:0ada570d-aa8c-43f2-92c1-e78260bbaad5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
+DTSTAMP:20251101T125205Z
 DESCRIPTION:Get ready to unleash your inner performer and experience the th
  rill of drama and circus skills in person!
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
  fun!
-UID:3ca78b8a-7b97-47c1-9431-64c1b341d9f3
+UID:d8160aee-4614-417a-88b4-c531d453ab8f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
+DTSTAMP:20251101T125205Z
 DESCRIPTION:Presented by: Pitch International SOUTH AFRICA v JAPAN SATURDA
  Y 1ST NOVEMBER 2025 KICK OFF 4:10PM The World Champion Springboks and Japa
  n will kick start their northern hemisphere tours in an...
 DTEND;VALUE=DATE:20251101
 DTSTART;VALUE=DATE:20251101
 SUMMARY:South Africa vs. Japan National Rugby
-UID:f1bc8a5f-de02-4274-918f-311073d9bd79
+UID:6ed16620-6113-421a-8df4-d578bff220a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
+DTSTAMP:20251101T125205Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:07c70ca3-b5cd-4180-8ac9-3ee6db48cbe5
+UID:f5ff0ddc-b687-45c6-a82c-df8405316de7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
+DTSTAMP:20251101T125205Z
 DESCRIPTION:Buy & sell tickets for Loyle Carner | O2 Academy Brixton, Londo
  n | Sun, Nov 2, 7:00 PM. Find fair, safe and secure tickets on TicketSwap'
  s marketplace.
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Loyle Carner
-UID:b089b177-86e1-4391-8e53-9bbadd0a9f22
+UID:62c7e9fa-c7d8-4d39-ad7d-909d40bf3613
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
+DTSTAMP:20251101T125205Z
 DESCRIPTION:Two virtuoso guitarists, loads of guitars, and a setlist of wor
  ld-influenced jazz originals
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Dave Jones
-UID:7b89cc58-59b4-4768-937f-dd69f63bffa2
+UID:a0c255f3-d6d3-4037-971f-7cb93591ae76
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
+DTSTAMP:20251101T125205Z
 DESCRIPTION:Age Restrictions: Under 16s need a guardian and under 14s need 
  to be seated. Ravyn Lenae
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Adam Ant
-UID:024d3f07-26c6-4914-a1b3-48defb444d5c
+UID:c8a4a721-ea65-4d42-ae39-6977a25cb4a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
+DTSTAMP:20251101T125205Z
 DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
 DTEND;VALUE=DATE:20251119
 DTSTART;VALUE=DATE:20251119
 SUMMARY:Brand New
-UID:debb0c0a-fc97-4942-8da8-24aa7d005e82
+UID:9b18189c-a5a0-4c22-bfa1-500103b37b54
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T021610Z
+DTSTAMP:20251101T125205Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251125
 DTSTART;VALUE=DATE:20251125
 SUMMARY:My Bloody Valentine
-UID:7d7c31e8-5aae-4ee2-8aae-4f9b583b509b
+UID:380ba0c7-daee-43ce-868a-aa1ea148457f
 END:VEVENT
 END:VCALENDAR
