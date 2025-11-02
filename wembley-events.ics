@@ -3,95 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
-DESCRIPTION:Experience Starlight Express Touring live at Troubadour Wemble
- y Park Theatre on Nov 01, 2025. Get your tickets now!
+DTSTAMP:20251102T021855Z
+DESCRIPTION:Starlight Express VIP tickets offered by PremiumSeatsUSA.com. A
+ lso offering, Starlight Express VIP Packages, Starlight Express VIP travel 
+ packages and the Starlight Express VIP experience here at...
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Starlight Express
-UID:a9a7bdba-8276-4a3e-a842-e9d972c1a888
+UID:45fee4a4-34b2-4387-a509-9de390d4420a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
-DESCRIPTION:Lovejuice return to BoxPark Wembley on Sat 01 November. Expect 
- full venue Halloween production and a HUGE line up!
-DTEND;VALUE=DATE:20251101
-DTSTART;VALUE=DATE:20251101
-SUMMARY:LoveJuice Halloween - Part 1 - Boxpark Wembley - Sat 1 November
-UID:0ada570d-aa8c-43f2-92c1-e78260bbaad5
+DTSTAMP:20251102T021855Z
+DESCRIPTION:RNB2K VIBEZ brings the ultimate celebration of R&B to Wembley P
+ ark, blending nostalgia with modern rhythm in a night that’s all about g
+ ood music and great energy. Taking over BOXPARK Wembley, the...
+DTEND;VALUE=DATE:20251108
+DTSTART;VALUE=DATE:20251108
+SUMMARY:Rnb 2k Vibez
+UID:6d487afc-7478-40ec-bfc4-bd1acc447c51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
-DESCRIPTION:Get ready to unleash your inner performer and experience the th
- rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251101
-DTSTART;VALUE=DATE:20251101
-SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
- fun!
-UID:d8160aee-4614-417a-88b4-c531d453ab8f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
-DESCRIPTION:Presented by: Pitch International SOUTH AFRICA v JAPAN SATURDA
- Y 1ST NOVEMBER 2025 KICK OFF 4:10PM The World Champion Springboks and Japa
- n will kick start their northern hemisphere tours in an...
-DTEND;VALUE=DATE:20251101
-DTSTART;VALUE=DATE:20251101
-SUMMARY:South Africa vs. Japan National Rugby
-UID:6ed16620-6113-421a-8df4-d578bff220a4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
+DTSTAMP:20251102T021855Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:f5ff0ddc-b687-45c6-a82c-df8405316de7
+UID:6287f390-3a80-4e16-a544-6b117cab9fcb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
-DESCRIPTION:Buy & sell tickets for Loyle Carner | O2 Academy Brixton, Londo
- n | Sun, Nov 2, 7:00 PM. Find fair, safe and secure tickets on TicketSwap'
- s marketplace.
+DTSTAMP:20251102T021855Z
+DESCRIPTION:Si Barron is a folk singer and songwriter based in Devon. He ha
+ s a deep relationship with English traditional music and a gift for turnin
+ g time-honoured melodies into foot-tapping anthems. With...
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
-SUMMARY:Loyle Carner
-UID:62c7e9fa-c7d8-4d39-ad7d-909d40bf3613
+SUMMARY:Rob Barron
+UID:a9e2338b-6f3f-4de4-966d-2a2e43f64a0c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
+DTSTAMP:20251102T021855Z
+DESCRIPTION:David Grubb has become a sought-after musician, renowned for hi
+ s ability to seamlessly blend musical styles.
+DTEND;VALUE=DATE:20251102
+DTSTART;VALUE=DATE:20251102
+SUMMARY:David Grubb
+UID:7b26092a-551b-44ba-a742-e5e07485cdd4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251102T021855Z
 DESCRIPTION:Two virtuoso guitarists, loads of guitars, and a setlist of wor
  ld-influenced jazz originals
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Dave Jones
-UID:a0c255f3-d6d3-4037-971f-7cb93591ae76
+UID:1807b0dc-1c3f-4f1c-984f-d171e700dc0c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
-DESCRIPTION:Age Restrictions: Under 16s need a guardian and under 14s need 
- to be seated. Ravyn Lenae
+DTSTAMP:20251102T021855Z
+DESCRIPTION:One of the seminal figures of new wave, Adam Ant (born Stuart L
+ eslie Goddard) had several distinct phases to his career. Initially, he exp
+ lored a jagged, guitar-oriented post-punk with his group...
 DTEND;VALUE=DATE:20251102
 DTSTART;VALUE=DATE:20251102
 SUMMARY:Adam Ant
-UID:c8a4a721-ea65-4d42-ae39-6977a25cb4a3
+UID:1ef125f3-c878-4d7f-b7a6-1a48b4e0f30f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
+DTSTAMP:20251102T021855Z
 DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
 DTEND;VALUE=DATE:20251119
 DTSTART;VALUE=DATE:20251119
 SUMMARY:Brand New
-UID:9b18189c-a5a0-4c22-bfa1-500103b37b54
+UID:b6848236-9fc9-475b-8b1e-3fdea79ba1c3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251101T125205Z
+DTSTAMP:20251102T021855Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251125
 DTSTART;VALUE=DATE:20251125
 SUMMARY:My Bloody Valentine
-UID:380ba0c7-daee-43ce-868a-aa1ea148457f
+UID:2062ca6d-4426-46a0-a3db-11bd91f1d327
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251102T021855Z
+DESCRIPTION:The Comedy Store Players have been wowing audiences for many ye
+ ars with their improvisational skills, creating unique shows every Sunday i
+ n the heart of London’s West End. The concept is simple –...
+DTEND;VALUE=DATE:20251102
+DTSTART;VALUE=DATE:20251102
+SUMMARY:The Comedy Store Players - Sunday 2nd November
+UID:d1c1c855-12f7-4af6-b438-9c1f898d70c8
 END:VEVENT
 END:VCALENDAR
