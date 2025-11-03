@@ -3,97 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
-DESCRIPTION:Starlight Express VIP tickets offered by PremiumSeatsUSA.com. A
- lso offering, Starlight Express VIP Packages, Starlight Express VIP travel 
- packages and the Starlight Express VIP experience here at...
-DTEND;VALUE=DATE:20251102
-DTSTART;VALUE=DATE:20251102
-SUMMARY:Starlight Express
-UID:4fb584ac-bfea-4cd4-bb56-46a9d165451c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
-DESCRIPTION:Get ready to unleash your inner performer and experience the th
- rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251102
-DTSTART;VALUE=DATE:20251102
-SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
- fun!
-UID:c6399566-2d01-481c-af66-5dd06757dc1a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
+DTSTAMP:20251103T125930Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:483a20af-affd-4833-8f23-4104e1480354
+UID:079d7e7f-cbe6-45f2-8ad5-da3117d43549
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
-DESCRIPTION:David Grubb has become a sought-after musician, renowned for hi
- s ability to seamlessly blend musical styles.
-DTEND;VALUE=DATE:20251102
-DTSTART;VALUE=DATE:20251102
-SUMMARY:David Grubb
-UID:23467940-ad55-4f07-b297-2d0fdc75a7dc
+DTSTAMP:20251103T125930Z
+DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
+DTEND;VALUE=DATE:20251105
+DTSTART;VALUE=DATE:20251105
+SUMMARY:Venue Premium Tickets - Zara Larsson
+UID:3c19d6a5-809f-43c2-a407-1ced596d3e06
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
+DTSTAMP:20251103T125930Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before M
  arilyn Manson takes the stage, BOXPARK Wembley is turning up the heat with 
  the ultimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:Marilyn Manson
-UID:5a917703-fd24-457f-988e-b72f2a402f1f
+UID:fdec0fdc-af86-4445-8c1b-e79b2d0467c8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
-DESCRIPTION:Two virtuoso guitarists, loads of guitars, and a setlist of wor
- ld-influenced jazz originals
-DTEND;VALUE=DATE:20251102
-DTSTART;VALUE=DATE:20251102
-SUMMARY:Dave Jones
-UID:32a0a4b2-e033-4218-9c94-6d18db6b088a
+DTSTAMP:20251103T125930Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251105
+DTSTART;VALUE=DATE:20251105
+SUMMARY:Starlight Express
+UID:69859899-01c7-45d4-a4b5-c22b09758a8f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
-DESCRIPTION:The Comedy Store Players have been wowing audiences for many ye
- ars with their improvisational skills, creating unique shows every Sunday i
- n the heart of London’s West End. The concept is simple –...
-DTEND;VALUE=DATE:20251102
-DTSTART;VALUE=DATE:20251102
-SUMMARY:The Comedy Store Players - Sunday 2nd November
-UID:6fcc31ab-0741-4adc-9779-a77883794bad
+DTSTAMP:20251103T125930Z
+DESCRIPTION:Salma Mehar, a dietitian specialist, will provide an update on 
+ culturally tailored nutrition education. Salma will also discuss recipe ada
+ ptations that respect traditional flavours and focus on...
+DTEND;VALUE=DATE:20251107
+DTSTART;VALUE=DATE:20251107
+SUMMARY:Wembley Coffee Morning - Healthy eating for people with Diabetes
+UID:fcf39022-a88f-4b7f-a046-4651412fb29e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
-DESCRIPTION:One of the seminal figures of new wave, Adam Ant (born Stuart L
- eslie Goddard) had several distinct phases to his career. Initially, he exp
- lored a jagged, guitar-oriented post-punk with his group...
-DTEND;VALUE=DATE:20251102
-DTSTART;VALUE=DATE:20251102
-SUMMARY:Adam Ant
-UID:2d2bd37c-2429-45a0-a857-d8fa8fad8c4a
+DTSTAMP:20251103T125930Z
+DESCRIPTION:Starlight Express VIP tickets offered by PremiumSeatsUSA.com. A
+ lso offering, Starlight Express VIP Packages, Starlight Express VIP travel 
+ packages and the Starlight Express VIP experience here at...
+DTEND;VALUE=DATE:20251106
+DTSTART;VALUE=DATE:20251106
+SUMMARY:Starlight Express
+UID:2323fa3f-0a33-4ed8-948c-b9bf0f3a5c51
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
-DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
-DTEND;VALUE=DATE:20251119
-DTSTART;VALUE=DATE:20251119
-SUMMARY:Brand New
-UID:e054fbc9-74e5-4f64-b26f-2f34841d290d
+DTSTAMP:20251103T125930Z
+DESCRIPTION:As a child's train set magically comes to life and the engines 
+ race to become the fastest in the world, Rusty the steam train has little h
+ ope of winning until he is inspired by the legend of the...
+DTEND;VALUE=DATE:20251108
+DTSTART;VALUE=DATE:20251108
+SUMMARY:Starlight Express
+UID:68f831ce-a73b-42d6-8477-cb091a494868
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251102T125121Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251125
-DTSTART;VALUE=DATE:20251125
-SUMMARY:My Bloody Valentine
-UID:736f6ecb-a493-47af-89c2-3bb5664a3462
+DTSTAMP:20251103T125930Z
+DESCRIPTION:Live comedy at Chickenshed presented by Resistance Comedy! Chic
+ kenshed comedy nights continue to deliver laughs as Resistance Comedy brin
+ g some of the best and brightest comedy performers to...
+DTEND;VALUE=DATE:20251107
+DTSTART;VALUE=DATE:20251107
+SUMMARY:Resistance Comedy Friday Night Funnies
+UID:957dee4a-19a1-43a1-b3e0-4f7930ff14c6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T125930Z
+DESCRIPTION:'Retro in places, yet unmistakably modern, House Above The Sun 
+ have taken their myriad of influences and turned them into something specia
+ l' – FATEA House Above The Sun (HATS) are a five piece...
+DTEND;VALUE=DATE:20251107
+DTSTART;VALUE=DATE:20251107
+SUMMARY:House Above The Sun
+UID:990d7b22-0a17-46ed-9677-01da4c424573
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251103T125930Z
+DESCRIPTION:Get ready to unleash your inner performer and experience the th
+ rill of drama and circus skills in person!
+DTEND;VALUE=DATE:20251103
+DTSTART;VALUE=DATE:20251103
+SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
+ fun!
+UID:ab5d00cd-9540-4d10-b118-ec3f15428ce5
 END:VEVENT
 END:VCALENDAR
