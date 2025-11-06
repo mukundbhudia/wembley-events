@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
+DTSTAMP:20251106T021510Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
  am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
  ltimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251106
 DTSTART;VALUE=DATE:20251106
 SUMMARY:Sam Ryder
-UID:27547de0-ae75-4293-8aa4-c104999affc0
+UID:0e959d72-4347-49f4-bfc4-15fea51af6ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
-DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
-DTEND;VALUE=DATE:20251105
-DTSTART;VALUE=DATE:20251105
-SUMMARY:Venue Premium Tickets - Zara Larsson
-UID:fee35aae-c927-4186-ad0c-ccddea4d9954
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
+DTSTAMP:20251106T021510Z
 DESCRIPTION:Get ready to kick off the night in true Wembley style. Before M
  arilyn Manson takes the stage, BOXPARK Wembley is turning up the heat with 
  the ultimate pre-party. Expect a full-on celebration of...
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:Marilyn Manson
-UID:0d0d6016-b553-4d6f-967c-aab30d3bf3bd
+UID:a001e38e-2710-4c7c-a71d-e422b7c6511f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251105
-DTSTART;VALUE=DATE:20251105
-SUMMARY:Starlight Express
-UID:f59d87e9-39ec-4e67-85f4-ff9f58425632
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
+DTSTAMP:20251106T021510Z
 DESCRIPTION:Salma Mehar, a dietitian specialist, will provide an update on 
  culturally tailored nutrition education Salma Mehar, a dietitian specialist
  , will provide an update on culturally tailored nutrition...
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:Wembley Coffee Morning – Healthy eating for people with Diabetes
-UID:9151e23c-ff6f-4255-8523-589957fddbf3
+UID:705949c7-7b08-432d-96ea-318539051f63
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
-DESCRIPTION:Starlight Express VIP tickets offered by PremiumSeatsUSA.com. A
- lso offering, Starlight Express VIP Packages, Starlight Express VIP travel 
- packages and the Starlight Express VIP experience here at...
-DTEND;VALUE=DATE:20251106
-DTSTART;VALUE=DATE:20251106
-SUMMARY:Starlight Express
-UID:b8696cf5-7af5-4986-8794-9fff68ddb8db
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
+DTSTAMP:20251106T021510Z
 DESCRIPTION:As a child's train set magically comes to life and the engines 
  race to become the fastest in the world, Rusty the steam train has little h
  ope of winning until he is inspired by the legend of the...
 DTEND;VALUE=DATE:20251108
 DTSTART;VALUE=DATE:20251108
 SUMMARY:Starlight Express
-UID:2d839044-fc71-4d12-8da8-8f2a8840d718
+UID:76a26f2f-36af-4ba2-9be8-4cd900f4505a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
+DTSTAMP:20251106T021510Z
+DESCRIPTION:Starlight Express VIP tickets offered by PremiumSeatsUSA.com. A
+ lso offering, Starlight Express VIP Packages, Starlight Express VIP travel 
+ packages and the Starlight Express VIP experience here at...
+DTEND;VALUE=DATE:20251106
+DTSTART;VALUE=DATE:20251106
+SUMMARY:Starlight Express
+UID:844b559b-bbe2-442f-9a45-e56f831420c0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251106T021510Z
 DESCRIPTION:Live comedy at Chickenshed presented by Resistance Comedy! Chic
  kenshed comedy nights continue to deliver laughs as Resistance Comedy brin
  g some of the best and brightest comedy performers to...
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:Resistance Comedy Friday Night Funnies
-UID:9b145d96-433f-43c3-9058-2d9141cf6cf7
+UID:b3907748-c9b0-41e6-9141-a42787c7b416
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
+DTSTAMP:20251106T021510Z
+DESCRIPTION:Get ready to unleash your inner performer and experience the th
+ rill of drama and circus skills in person!
+DTEND;VALUE=DATE:20251106
+DTSTART;VALUE=DATE:20251106
+SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
+ fun!
+UID:5fcc1964-4dc5-4c7b-b834-b7806d058c93
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251106T021510Z
 DESCRIPTION:'Retro in places, yet unmistakably modern, House Above The Sun 
  have taken their myriad of influences and turned them into something specia
  l' – FATEA House Above The Sun (HATS) are a five piece...
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:House Above The Sun
-UID:3b463211-df49-407d-8f8c-8f21ac15a239
+UID:486dc17f-fdf4-4c35-9749-62fc52cbc578
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251105T130007Z
-DESCRIPTION:Get ready to unleash your inner performer and experience the th
- rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251105
-DTSTART;VALUE=DATE:20251105
-SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
- fun!
-UID:6db4479b-f2b9-4e37-b7c5-74a48f700f1e
+DTSTAMP:20251106T021510Z
+DESCRIPTION:Surprise You're Dead presents Malevolence.
+DTEND;VALUE=DATE:20251109
+DTSTART;VALUE=DATE:20251109
+SUMMARY:Malevolence
+UID:b18c7d45-6536-4eff-b010-220ab34ea166
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251106T021510Z
+DESCRIPTION:The Plot In You are a metalcore outfit from Hancock County, Ohi
+ o. Formally the side project of Landon Tewers of Before Their Eyes; they co
+ ntinue to rise and reach ever greater audiences. Formed in...
+DTEND;VALUE=DATE:20251106
+DTSTART;VALUE=DATE:20251106
+SUMMARY:The Plot In You
+UID:723ab8be-0d62-40ee-82ab-fa7153564434
 END:VEVENT
 END:VCALENDAR
