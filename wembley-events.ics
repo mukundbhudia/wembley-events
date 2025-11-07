@@ -3,100 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
+DTSTAMP:20251107T020805Z
 DESCRIPTION:Concert: Marilyn Manson (Wembley, Outer London). Friday, 7th No
  vember 2025. Marilyn Manson website.
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:Marilyn Manson
-UID:1ab313fa-5466-44e7-8047-643e6139461c
+UID:817c1d3b-f8f8-4ff1-aae4-9d15223e20fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
-DESCRIPTION:Get ready to kick off the night in true Wembley style. Before S
- am Ryder takes the stage, BOXPARK Wembley is turning up the heat with the u
- ltimate pre-party. Expect a full-on celebration of...
-DTEND;VALUE=DATE:20251106
-DTSTART;VALUE=DATE:20251106
-SUMMARY:Sam Ryder
-UID:885c358b-0098-4507-ac78-1238d8fd3514
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
+DTSTAMP:20251107T020805Z
 DESCRIPTION:Salma Mehar, a dietitian specialist, will provide an update on 
  culturally tailored nutrition education Salma Mehar, a dietitian specialist
  , will provide an update on culturally tailored nutrition...
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:Wembley Coffee Morning – Healthy eating for people with Diabetes
-UID:41e53a34-9b9e-4a3a-8742-a7d2ba306f22
+UID:39a1722d-0f9f-4316-95d0-dcf3277a996f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
-DESCRIPTION:As a child's train set magically comes to life and the engines 
- race to become the fastest in the world, Rusty the steam train has little h
- ope of winning until he is inspired by the legend of the...
-DTEND;VALUE=DATE:20251108
-DTSTART;VALUE=DATE:20251108
-SUMMARY:Starlight Express
-UID:08c35d94-46b8-4894-9958-82bf8f092b63
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
+DTSTAMP:20251107T020805Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251106
-DTSTART;VALUE=DATE:20251106
+DTEND;VALUE=DATE:20251109
+DTSTART;VALUE=DATE:20251109
 SUMMARY:Starlight Express
-UID:8f833ae2-fa6d-4546-a686-e02ebfa5683a
+UID:5c2828ce-ac49-42d9-a4ef-b01baaa3882d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
+DTSTAMP:20251107T020805Z
 DESCRIPTION:Live comedy at Chickenshed presented by Resistance Comedy! Chic
  kenshed comedy nights continue to deliver laughs as Resistance Comedy brin
  g some of the best and brightest comedy performers to...
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:Resistance Comedy Friday Night Funnies
-UID:c346a11e-cc00-42d8-bbe7-268c89316974
+UID:7e7ba03a-f95a-4be4-b773-59a7a7aa6678
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
-DESCRIPTION:Get ready to unleash your inner performer and experience the th
- rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251106
-DTSTART;VALUE=DATE:20251106
-SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
- fun!
-UID:caa88130-bee9-4be5-9361-42862b304930
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
+DTSTAMP:20251107T020805Z
 DESCRIPTION:'Retro in places, yet unmistakably modern, House Above The Sun 
  have taken their myriad of influences and turned them into something specia
  l' – FATEA House Above The Sun (HATS) are a five piece...
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:House Above The Sun
-UID:42291ac6-b982-40c8-97c1-80906d7bcc4f
+UID:907ce5cc-10ea-4fc0-93c4-09753a652aa5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
+DTSTAMP:20251107T020805Z
+DESCRIPTION:Get ready to unleash your inner performer and experience the th
+ rill of drama and circus skills in person!
+DTEND;VALUE=DATE:20251107
+DTSTART;VALUE=DATE:20251107
+SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
+ fun!
+UID:41a7b5d7-804b-46d8-a22a-4998792c4bc4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T020805Z
 DESCRIPTION:Surprise You're Dead presents Malevolence.
 DTEND;VALUE=DATE:20251109
 DTSTART;VALUE=DATE:20251109
 SUMMARY:Malevolence
-UID:3c2d4db3-b44b-4c43-bae0-aa2d466300bc
+UID:c35787ee-5f05-43cc-aab2-d37cf49d9b9d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251106T125946Z
+DTSTAMP:20251107T020805Z
 DESCRIPTION:Listen to Dance to the Shops by Electric Umbrella. See lyrics a
  nd music videos, find Electric Umbrella tour dates, buy concert tickets, an
  d more!
 DTEND;VALUE=DATE:20251107
 DTSTART;VALUE=DATE:20251107
 SUMMARY:Electric Umbrella
-UID:a015196b-ee1a-4576-9e46-a053d45f6450
+UID:9863bf01-5218-4370-8699-0086a524a1ce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T020805Z
+DESCRIPTION:LIVE CREDITS 1977 The Ruts Lilidrop album (Fance) 1980 Ruts dc 
+ Rhythm Collision Vol 1 Kevin Coyne Sanity Stomp Aztec Camera U.S, Tour/som
+ e recording Orchestra Rouge/Passion Fodder (France...
+DTEND;VALUE=DATE:20251108
+DTSTART;VALUE=DATE:20251108
+SUMMARY:The Duel, Tara Rez
+UID:a5744861-b887-4b5e-95a3-a374193abce5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T020805Z
+DESCRIPTION:Known for his cinematic production, emotionally heavy songwriti
+ ng, and hypnotic vocals, AARYAN SHAH has built one of the most devoted unde
+ rground followings in the alt-R&B space, and will be...
+DTEND;VALUE=DATE:20251109
+DTSTART;VALUE=DATE:20251109
+SUMMARY:AARYAN SHAH
+UID:c622d844-d2e5-4ba8-b253-3e89cf61701e
 END:VEVENT
 END:VCALENDAR
