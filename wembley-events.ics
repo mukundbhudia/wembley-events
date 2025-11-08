@@ -3,99 +3,95 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
-DESCRIPTION:Concert: Marilyn Manson (Wembley, Outer London). Friday, 7th No
- vember 2025. Marilyn Manson website.
-DTEND;VALUE=DATE:20251107
-DTSTART;VALUE=DATE:20251107
-SUMMARY:Marilyn Manson
-UID:d736215a-93fa-43fe-9b28-8362ba45365e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
-DESCRIPTION:Salma Mehar, a dietitian specialist, will provide an update on 
- culturally tailored nutrition education Salma Mehar, a dietitian specialist
- , will provide an update on culturally tailored nutrition...
-DTEND;VALUE=DATE:20251107
-DTSTART;VALUE=DATE:20251107
-SUMMARY:Wembley Coffee Morning - Healthy eating for people with Diabetes
-UID:66bee2e1-aeef-48c5-887f-67d2727862af
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
+DTSTAMP:20251108T020118Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251109
 DTSTART;VALUE=DATE:20251109
 SUMMARY:Starlight Express
-UID:5942fcef-974a-4f96-85ea-57acd424dfd3
+UID:125a4547-9ec7-4b00-8c77-e26a51f37629
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
-DESCRIPTION:Live comedy at Chickenshed presented by Resistance Comedy! Chic
- kenshed comedy nights continue to deliver laughs as Resistance Comedy brin
- g some of the best and brightest comedy performers to...
-DTEND;VALUE=DATE:20251107
-DTSTART;VALUE=DATE:20251107
-SUMMARY:Resistance Comedy Friday Night Funnies
-UID:d4aa65f8-446d-419e-9b67-32ea74216848
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
-DESCRIPTION:'Retro in places, yet unmistakably modern, House Above The Sun 
- have taken their myriad of influences and turned them into something specia
- l' – FATEA House Above The Sun (HATS) are a five piece...
-DTEND;VALUE=DATE:20251107
-DTSTART;VALUE=DATE:20251107
-SUMMARY:House Above The Sun
-UID:ab84c065-68ee-44c2-b6b6-e8fb3df0e0b3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
-DESCRIPTION:Get ready to unleash your inner performer and experience the th
- rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251107
-DTSTART;VALUE=DATE:20251107
-SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
- fun!
-UID:6719d163-21ac-4a66-99aa-5595b3cc0e15
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
+DTSTAMP:20251108T020118Z
 DESCRIPTION:Surprise You're Dead presents Malevolence.
 DTEND;VALUE=DATE:20251109
 DTSTART;VALUE=DATE:20251109
 SUMMARY:Malevolence
-UID:85e0a5b4-dacf-4c65-a15e-e729be018e2b
+UID:aebcbcf4-d3f4-426a-b67b-c62f243e7949
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
+DTSTAMP:20251108T020118Z
+DESCRIPTION:Following sold-out concerts at Carnegie Hall in New York, the S
+ ydney Opera House, and major venues in London including the Barbican Centre
+ , Wembley Arena, and the Royal Albert Hall, HAVASI returns...
+DTEND;VALUE=DATE:20251108
+DTSTART;VALUE=DATE:20251108
+SUMMARY:Gladiators Live London Tickets
+UID:4762ef41-7204-40b2-9c80-af032232b14e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251108T020118Z
+DESCRIPTION:Get ready to unleash your inner performer and experience the th
+ rill of drama and circus skills in person!
+DTEND;VALUE=DATE:20251108
+DTSTART;VALUE=DATE:20251108
+SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
+ fun!
+UID:41c445c3-96f2-4c88-9069-94e9424dd374
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251108T020118Z
 DESCRIPTION:Listen to Break It by KARA. See lyrics and music videos, find K
  ARA tour dates, buy concert tickets, and more!
-DTEND;VALUE=DATE:20251107
-DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+DTSTART;VALUE=DATE:20251108
 SUMMARY:KARA
-UID:07f63b93-5cec-4f46-8c33-79b04bfd1bb0
+UID:955785ba-f22d-4e7d-995d-5999179a7f6f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
+DTSTAMP:20251108T020118Z
 DESCRIPTION:LIVE CREDITS 1977 The Ruts Lilidrop album (Fance) 1980 Ruts dc 
  Rhythm Collision Vol 1 Kevin Coyne Sanity Stomp Aztec Camera U.S, Tour/som
  e recording Orchestra Rouge/Passion Fodder (France...
 DTEND;VALUE=DATE:20251108
 DTSTART;VALUE=DATE:20251108
 SUMMARY:The Duel, Tara Rez
-UID:2c4a7f07-f2e4-4b35-ab43-1f4833ccc17f
+UID:3795030e-c867-479b-afe8-e563bc35b222
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251107T125755Z
+DTSTAMP:20251108T020118Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:R&B Xmas Ball - Venue Premium Tickets
+UID:780e036b-f2c4-432b-b6d6-4edb4da9b8e7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251108T020118Z
 DESCRIPTION:Known for his cinematic production, emotionally heavy songwriti
  ng, and hypnotic vocals, AARYAN SHAH has built one of the most devoted unde
  rground followings in the alt-R&B space, and will be...
 DTEND;VALUE=DATE:20251109
 DTSTART;VALUE=DATE:20251109
 SUMMARY:AARYAN SHAH
-UID:d38ec29b-eeb1-4e61-908d-44967e19abea
+UID:aa75c382-5d0b-4e62-9535-e5e16965b5a1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251108T020118Z
+DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
+DTEND;VALUE=DATE:20251119
+DTSTART;VALUE=DATE:20251119
+SUMMARY:Brand New
+UID:9a0067e8-1008-4023-9e57-9af6ac10614d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251108T020118Z
+DESCRIPTION:DHP Presents: Deep Forest : Live Machine Presented by DHP FAMIL
+ Y. This is a 16+ event (under 18’s accompanied).
+DTEND;VALUE=DATE:20251108
+DTSTART;VALUE=DATE:20251108
+SUMMARY:Deep Forest : Live Machine
+UID:21b3c942-2bb1-4f69-a159-78e0000994d9
 END:VEVENT
 END:VCALENDAR
