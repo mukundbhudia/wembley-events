@@ -3,95 +3,94 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
+DTSTAMP:20251109T125228Z
+DESCRIPTION:Starlight Express tickets – Sun, 9 Nov 2025, 1:00 pm at Troub
+ adour Wembley Park Theatre
 DTEND;VALUE=DATE:20251109
 DTSTART;VALUE=DATE:20251109
 SUMMARY:Starlight Express
-UID:05508117-69aa-4fa2-931a-7d18cae03bda
+UID:084afe3c-57e8-4cc9-adcf-e0c08fbf16fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
+DTSTAMP:20251109T125228Z
 DESCRIPTION:Surprise You're Dead presents Malevolence.
 DTEND;VALUE=DATE:20251109
 DTSTART;VALUE=DATE:20251109
 SUMMARY:Malevolence
-UID:1b0cb146-e50e-4a54-ae69-c6b9c375ef35
+UID:124e4903-46a5-4a8e-9649-123ccff756eb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
-DESCRIPTION:Ray Cooper, a.k.a. Chopper, is a story based singer-songwriter 
- and multi-instrumentalist living in Sweden. Previously with Oysterband, Ra
- y decided to go solo in 2013. Since that time he has...
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:Ray Cooper
-UID:a0f624f8-5dba-491d-b0a6-020a4e6c0417
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
-DESCRIPTION:Get ready to unleash your inner performer and experience the th
- rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
- fun!
-UID:2b44263a-f35e-45d0-ab18-8d61330ec62e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
-DESCRIPTION:Known for his cinematic production, emotionally heavy songwriti
- ng, and hypnotic vocals, AARYAN SHAH has built one of the most devoted unde
- rground followings in the alt-R&B space, and will be...
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:AARYAN SHAH
-UID:5a244751-a498-4550-ba6f-3ec771febf62
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
+DTSTAMP:20251109T125228Z
 DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
 DTEND;VALUE=DATE:20251119
 DTSTART;VALUE=DATE:20251119
 SUMMARY:Brand New
-UID:ee7107cd-f547-4919-a150-39308751886c
+UID:4f313d4d-a2c2-486f-8f60-f5eec5806327
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
+DTSTAMP:20251109T125228Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251207
 DTSTART;VALUE=DATE:20251207
 SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:d561c4b2-e420-481c-a14e-337134793d77
+UID:b11626ae-9abf-4b63-a118-f00fcbbf0fd3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
+DTSTAMP:20251109T125228Z
 DESCRIPTION:SWEET LADY (THE OFFICIAL SLOW JAMS PARTY) - 3RD ANNIVERSARY - N
  IVEA PERFORMING LIVE
 DTEND;VALUE=DATE:20251109
 DTSTART;VALUE=DATE:20251109
 SUMMARY:SWEET LADY
-UID:d298fef5-71bc-4df2-bfab-9e4ef6b46aac
+UID:bf700e46-f778-459f-a08a-0de28346974d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
-DESCRIPTION:Listen to Paradigm by Distance. See lyrics and music videos, fi
- nd Distance tour dates, buy concert tickets, and more!
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:Distance
-UID:84754fb9-8221-47a8-be1b-b14bbf557961
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251109T021753Z
+DTSTAMP:20251109T125228Z
 DESCRIPTION:ENGLAND VS SERBIA . FANZONE - ENTRY WITH WEMBLEY STADIUM TICKET
  S ONLY 9am opening time 1 min from wembley park tube station, 4 min walk t
  o Wembley stadium Kids friendly, Enjoy food drinks with us...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Football World Cup 2026 Qualifiers - England vs Serbia
-UID:1ba4b4f6-73bd-482b-a0fb-d3b81f3142cb
+UID:e309ba59-c636-4788-9909-b6e51e012d82
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251109T125228Z
+DESCRIPTION:Ray Cooper, a.k.a. Chopper, is a story based singer-songwriter 
+ and multi-instrumentalist living in Sweden. Previously with Oysterband, Ra
+ y decided to go solo in 2013. Since that time he has...
+DTEND;VALUE=DATE:20251109
+DTSTART;VALUE=DATE:20251109
+SUMMARY:Ray Cooper
+UID:3bc2bbe9-b806-41d9-abe5-cddaf06feed1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251109T125228Z
+DESCRIPTION:Known for his cinematic production, emotionally heavy songwriti
+ ng, and hypnotic vocals, AARYAN SHAH has built one of the most devoted unde
+ rground followings in the alt-R&B space, and will be...
+DTEND;VALUE=DATE:20251109
+DTSTART;VALUE=DATE:20251109
+SUMMARY:AARYAN SHAH
+UID:18c9d53c-a0e8-4632-8fed-269f1c9ce17e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251109T125228Z
+DESCRIPTION:Listen to Paradigm by Distance. See lyrics and music videos, fi
+ nd Distance tour dates, buy concert tickets, and more!
+DTEND;VALUE=DATE:20251109
+DTSTART;VALUE=DATE:20251109
+SUMMARY:Distance
+UID:c6cbfd0f-2018-48c8-a7d8-2ea28ac1ccca
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251109T125228Z
+DESCRIPTION:London we return in November 2025 after our sell out summer sho
+ ws! Get ready for a massive 90s & 00s R&B Festival coming November 2025! W
+ e have an INSANE event planned with lots of glitter, glam ...
+DTEND;VALUE=DATE:20251122
+DTSTART;VALUE=DATE:20251122
+SUMMARY:R&B Lovers
+UID:30cc7936-942a-4945-a59e-de91273991fe
 END:VEVENT
 END:VCALENDAR
