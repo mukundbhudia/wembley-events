@@ -3,94 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
-DESCRIPTION:Starlight Express tickets – Sun, 9 Nov 2025, 1:00 pm at Troub
- adour Wembley Park Theatre
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:Starlight Express
-UID:084afe3c-57e8-4cc9-adcf-e0c08fbf16fa
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
-DESCRIPTION:Surprise You're Dead presents Malevolence.
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:Malevolence
-UID:124e4903-46a5-4a8e-9649-123ccff756eb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
-DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
-DTEND;VALUE=DATE:20251119
-DTSTART;VALUE=DATE:20251119
-SUMMARY:Brand New
-UID:4f313d4d-a2c2-486f-8f60-f5eec5806327
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251207
-DTSTART;VALUE=DATE:20251207
-SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:b11626ae-9abf-4b63-a118-f00fcbbf0fd3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
-DESCRIPTION:SWEET LADY (THE OFFICIAL SLOW JAMS PARTY) - 3RD ANNIVERSARY - N
- IVEA PERFORMING LIVE
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:SWEET LADY
-UID:bf700e46-f778-459f-a08a-0de28346974d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
+DTSTAMP:20251110T021912Z
 DESCRIPTION:ENGLAND VS SERBIA . FANZONE - ENTRY WITH WEMBLEY STADIUM TICKET
  S ONLY 9am opening time 1 min from wembley park tube station, 4 min walk t
  o Wembley stadium Kids friendly, Enjoy food drinks with us...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Football World Cup 2026 Qualifiers - England vs Serbia
-UID:e309ba59-c636-4788-9909-b6e51e012d82
+UID:b7ddfbc5-37e3-4da5-b5bf-8c07e0cdc319
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
-DESCRIPTION:Ray Cooper, a.k.a. Chopper, is a story based singer-songwriter 
- and multi-instrumentalist living in Sweden. Previously with Oysterband, Ra
- y decided to go solo in 2013. Since that time he has...
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:Ray Cooper
-UID:3bc2bbe9-b806-41d9-abe5-cddaf06feed1
+DTSTAMP:20251110T021912Z
+DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
+  specially designed Starlight Auditorium at Troubadour Wembley Park Theatre
+ . Audiences will be immersed inside a world of speed, song...
+DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+SUMMARY:Starlight Express
+UID:9188b060-80d8-404f-8080-40ade5c26b5e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
-DESCRIPTION:Known for his cinematic production, emotionally heavy songwriti
- ng, and hypnotic vocals, AARYAN SHAH has built one of the most devoted unde
- rground followings in the alt-R&B space, and will be...
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:AARYAN SHAH
-UID:18c9d53c-a0e8-4632-8fed-269f1c9ce17e
+DTSTAMP:20251110T021912Z
+DESCRIPTION:Ceci Day is an English-American singer-songwriter known for he
+ r soulful, lyric-driven compositions and distinctive blend of acoustic fol
+ k with elements of rock and country—a sound that lives...
+DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
+SUMMARY:Ceci Day
+UID:c35a03a0-bc25-4079-bd28-92c516cac741
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
-DESCRIPTION:Listen to Paradigm by Distance. See lyrics and music videos, fi
- nd Distance tour dates, buy concert tickets, and more!
-DTEND;VALUE=DATE:20251109
-DTSTART;VALUE=DATE:20251109
-SUMMARY:Distance
-UID:c6cbfd0f-2018-48c8-a7d8-2ea28ac1ccca
+DTSTAMP:20251110T021912Z
+DESCRIPTION:Stand-up comedy show featuring four comedians
+DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+SUMMARY:The Covent Garden Comedy Club
+UID:b27e8fbe-2181-401d-a7e5-eac70e3c75fe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251109T125228Z
-DESCRIPTION:London we return in November 2025 after our sell out summer sho
- ws! Get ready for a massive 90s & 00s R&B Festival coming November 2025! W
- e have an INSANE event planned with lots of glitter, glam ...
-DTEND;VALUE=DATE:20251122
-DTSTART;VALUE=DATE:20251122
-SUMMARY:R&B Lovers
-UID:30cc7936-942a-4945-a59e-de91273991fe
+DTSTAMP:20251110T021912Z
+DESCRIPTION:Starlight Express at Wembley Park Theatre in Wembley , Greater 
+ London
+DTEND;VALUE=DATE:20251114
+DTSTART;VALUE=DATE:20251114
+SUMMARY:Starlight Express
+UID:44012071-7c8a-4b3d-ad97-aa57de56b355
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T021912Z
+DESCRIPTION:Nylon Magazine - "Morley is one artist you shouldn’t have to
+  go through life without listening to" Line Of Best Fit - "Showcasing her v
+ elvet-smooth voice and ability to master the world of...
+DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
+SUMMARY:Tommy Ashby
+UID:2551fbf6-f563-4f6a-9669-bc5e768941c8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T021912Z
+DESCRIPTION:Collywobblers Comedy Jeff Innocent , Michael Akadiri, Suzie Pre
+ ece, Twayna Mayne , Joe Haddad and MC Sion James Don't miss!
+DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
+SUMMARY:Collywobblers Comedy
+UID:30940e58-78d1-4bfd-a005-c0c3b9c9fc8c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T021912Z
+DESCRIPTION:Best known as frontman of the Stranglers, one of the most long-
+ lived and internationally popular bands from the original wave of British p
+ unk, Hugh Cornwell also enjoyed a moderately successful...
+DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
+SUMMARY:Hugh Cornwell
+UID:4fc7a38b-73b3-4706-a954-f3c03f4687ea
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T021912Z
+DESCRIPTION:© Copyright 2025 Bauer Media. All Rights Reserved. Editoral Co
+ mplaints . All use is subject to our Terms & conditions and Privacy Policy
+DTEND;VALUE=DATE:20251110
+DTSTART;VALUE=DATE:20251110
+SUMMARY:Mock Media
+UID:7f02961f-6036-4942-a335-34c2824538cb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251110T021912Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:R&B Xmas Ball - Venue Premium Tickets
+UID:0fb959c5-fff5-4867-9030-bed8d54e1747
 END:VEVENT
 END:VCALENDAR
