@@ -3,96 +3,97 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
+DTSTAMP:20251111T021520Z
 DESCRIPTION:ENGLAND VS SERBIA . FANZONE - ENTRY WITH WEMBLEY STADIUM TICKET
  S ONLY 9am opening time 1 min from wembley park tube station, 4 min walk t
  o Wembley stadium Kids friendly, Enjoy food drinks with us...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Football World Cup 2026 Qualifiers - England vs Serbia
-UID:b7ddfbc5-37e3-4da5-b5bf-8c07e0cdc319
+UID:08985455-fa90-4d1e-aadb-4b2cbf7b9f25
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
+DTSTAMP:20251111T021520Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
   specially designed Starlight Auditorium at Troubadour Wembley Park Theatre
  . Audiences will be immersed inside a world of speed, song...
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Starlight Express
-UID:9188b060-80d8-404f-8080-40ade5c26b5e
+UID:b1187b4a-6b72-4334-9a4c-5450642558d0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
+DTSTAMP:20251111T021520Z
 DESCRIPTION:Ceci Day is an English-American singer-songwriter known for he
  r soulful, lyric-driven compositions and distinctive blend of acoustic fol
  k with elements of rock and country—a sound that lives...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Ceci Day
-UID:c35a03a0-bc25-4079-bd28-92c516cac741
+UID:a9167fe7-6a43-4d76-8b2e-07718c2905cb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
+DTSTAMP:20251111T021520Z
 DESCRIPTION:Stand-up comedy show featuring four comedians
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:The Covent Garden Comedy Club
-UID:b27e8fbe-2181-401d-a7e5-eac70e3c75fe
+UID:5bc58c6f-55c7-4dbb-9a43-2da8c04241b1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
+DTSTAMP:20251111T021520Z
 DESCRIPTION:Starlight Express at Wembley Park Theatre in Wembley , Greater 
  London
 DTEND;VALUE=DATE:20251114
 DTSTART;VALUE=DATE:20251114
 SUMMARY:Starlight Express
-UID:44012071-7c8a-4b3d-ad97-aa57de56b355
+UID:6abbc057-a003-47bb-be07-6c43ec74a91c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
+DTSTAMP:20251111T021520Z
 DESCRIPTION:Nylon Magazine - "Morley is one artist you shouldn’t have to
   go through life without listening to" Line Of Best Fit - "Showcasing her v
  elvet-smooth voice and ability to master the world of...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Tommy Ashby
-UID:2551fbf6-f563-4f6a-9669-bc5e768941c8
+UID:03f42d8b-f317-489f-ba2a-e379ef48f3d4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
+DTSTAMP:20251111T021520Z
 DESCRIPTION:Collywobblers Comedy Jeff Innocent , Michael Akadiri, Suzie Pre
  ece, Twayna Mayne , Joe Haddad and MC Sion James Don't miss!
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Collywobblers Comedy
-UID:30940e58-78d1-4bfd-a005-c0c3b9c9fc8c
+UID:4fd79866-f8cc-47eb-a009-9394d1e3283e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
+DTSTAMP:20251111T021520Z
+DESCRIPTION:Get ready to unleash your inner performer and experience the th
+ rill of drama and circus skills in person!
+DTEND;VALUE=DATE:20251111
+DTSTART;VALUE=DATE:20251111
+SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
+ fun!
+UID:db85e945-8343-42d5-a6d6-43445454c174
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251111T021520Z
 DESCRIPTION:Best known as frontman of the Stranglers, one of the most long-
  lived and internationally popular bands from the original wave of British p
  unk, Hugh Cornwell also enjoyed a moderately successful...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Hugh Cornwell
-UID:4fc7a38b-73b3-4706-a954-f3c03f4687ea
+UID:76730a19-c033-4629-85b6-cd0c3135bc94
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
-DESCRIPTION:© Copyright 2025 Bauer Media. All Rights Reserved. Editoral Co
- mplaints . All use is subject to our Terms & conditions and Privacy Policy
-DTEND;VALUE=DATE:20251110
-DTSTART;VALUE=DATE:20251110
-SUMMARY:Mock Media
-UID:7f02961f-6036-4942-a335-34c2824538cb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251110T021912Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251207
-DTSTART;VALUE=DATE:20251207
-SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:0fb959c5-fff5-4867-9030-bed8d54e1747
+DTSTAMP:20251111T021520Z
+DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
+DTEND;VALUE=DATE:20251119
+DTSTART;VALUE=DATE:20251119
+SUMMARY:Brand New
+UID:c16647b7-a03f-485f-8ae5-663496bdaa7d
 END:VEVENT
 END:VCALENDAR
