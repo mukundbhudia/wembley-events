@@ -3,97 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
+DTSTAMP:20251112T130156Z
 DESCRIPTION:ENGLAND VS SERBIA . FANZONE - ENTRY WITH WEMBLEY STADIUM TICKET
  S ONLY 9am opening time 1 min from wembley park tube station, 4 min walk t
  o Wembley stadium Kids friendly, Enjoy food drinks with us...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:England vs Serbia - Football WC 2026 Qualifier
-UID:80c68f36-a878-4b57-9bb0-f5863504e89b
+UID:92fa6e94-e986-4418-993b-f48c26b6c180
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
+DTSTAMP:20251112T130156Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
   specially designed Starlight Auditorium at Troubadour Wembley Park Theatre
  . Audiences will be immersed inside a world of speed, song...
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Starlight Express
-UID:a1657317-77c5-4ac2-b709-0b67a8baced1
+UID:cb81db78-6ccd-4663-b365-929672c539ec
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
+DTSTAMP:20251112T130156Z
 DESCRIPTION:Collywobblers Comedy Jeff Innocent , Michael Akadiri, Suzie Pre
  ece, Twayna Mayne , Joe Haddad and MC Sion James Don't miss!
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Collywobblers Comedy
-UID:c1f9a844-2370-4a29-b262-0b1aaf3647e4
+UID:b2b277dd-0047-44ae-b252-438e183e7644
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
-DESCRIPTION:Cage Warriors 196 on 15 Nov 2025 at The O2 arena. Find tickets
- , event info and where to watch.
-DTEND;VALUE=DATE:20251115
-DTSTART;VALUE=DATE:20251115
-SUMMARY:Cage Warriors 196
-UID:813fdf82-3a67-4ae9-afd1-a371d62ca74f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
-DESCRIPTION:Starlight Express at Wembley Park Theatre in Wembley , Greater 
- London
-DTEND;VALUE=DATE:20251114
-DTSTART;VALUE=DATE:20251114
-SUMMARY:Starlight Express
-UID:89bb88a6-6deb-4498-b0c1-b96a783a6d1b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
+DTSTAMP:20251112T130156Z
 DESCRIPTION:Ceci Day is an English-American singer-songwriter known for he
  r soulful, lyric-driven compositions and distinctive blend of acoustic fol
  k with elements of rock and country—a sound that lives...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Ceci Day
-UID:1b62add7-bf72-41c6-a7c2-878f9e2c7a3f
+UID:e8ae0bc8-1a75-409d-9b40-937689c53e1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
+DTSTAMP:20251112T130156Z
+DESCRIPTION:Starlight Express at Wembley Park Theatre in Wembley , Greater 
+ London
+DTEND;VALUE=DATE:20251114
+DTSTART;VALUE=DATE:20251114
+SUMMARY:Starlight Express
+UID:19af1f35-4e1d-4e77-b099-93bb044c32df
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251112T130156Z
 DESCRIPTION:Buy Only The Righteous tickets with Spotify. Find Only The Righ
  teous tour schedule, concert details, and tickets.
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:ILLICIT Concert
-UID:1d1dba06-0804-49d3-9cec-9ab3a2b4a4cc
+UID:433de195-404f-410b-9c95-63c43a7caece
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
+DTSTAMP:20251112T130156Z
+DESCRIPTION:Stand-up comedy show featuring four comedians
+DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+SUMMARY:The Covent Garden Comedy Club
+UID:cc62fcd6-73c6-4cd7-92f3-cd6f67a9b59c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251112T130156Z
 DESCRIPTION:Get ready to unleash your inner performer and experience the th
  rill of drama and circus skills in person!
 DTEND;VALUE=DATE:20251112
 DTSTART;VALUE=DATE:20251112
 SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
  fun!
-UID:39ee3840-8c3f-45f6-b8c5-aad399b416d2
+UID:3525eafc-8976-47a9-8b6c-098b58208e8b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
-DESCRIPTION:Stand-up comedy show featuring four comedians
-DTEND;VALUE=DATE:20251115
-DTSTART;VALUE=DATE:20251115
-SUMMARY:The Covent Garden Comedy Club
-UID:8f9f950c-c82c-49de-a0b0-88218312e31f
+DTSTAMP:20251112T130156Z
+DESCRIPTION:Best known as frontman of the Stranglers, one of the most long-
+ lived and internationally popular bands from the original wave of British p
+ unk, Hugh Cornwell also enjoyed a moderately successful...
+DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
+SUMMARY:Hugh Cornwell
+UID:a77f5b6e-f2b5-4046-81ea-785c5c877271
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T021420Z
+DTSTAMP:20251112T130156Z
 DESCRIPTION:Nylon Magazine - "Morley is one artist you shouldn’t have to
   go through life without listening to" Line Of Best Fit - "Showcasing her v
  elvet-smooth voice and ability to master the world of...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Tommy Ashby
-UID:d8a275ab-7072-4e91-bc1b-ff2b41f50a3b
+UID:7fa7492e-3196-4da4-96cc-5c19e006c852
 END:VEVENT
 END:VCALENDAR
