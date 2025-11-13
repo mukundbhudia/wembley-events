@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:ENGLAND VS SERBIA . FANZONE - ENTRY WITH WEMBLEY STADIUM TICKET
  S ONLY 9am opening time 1 min from wembley park tube station, 4 min walk t
  o Wembley stadium Kids friendly, Enjoy food drinks with us...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
-SUMMARY:England vs Serbia - Football WC 2026 Qualifier
-UID:92fa6e94-e986-4418-993b-f48c26b6c180
+SUMMARY:Football World Cup 2026 Qualifiers - England vs Serbia
+UID:06158d42-1e12-485e-87d5-8ca96351ac3b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
   specially designed Starlight Auditorium at Troubadour Wembley Park Theatre
  . Audiences will be immersed inside a world of speed, song...
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Starlight Express
-UID:cb81db78-6ccd-4663-b365-929672c539ec
+UID:675e5590-ac1e-4432-b20f-59d6d021a80c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:Collywobblers Comedy Jeff Innocent , Michael Akadiri, Suzie Pre
  ece, Twayna Mayne , Joe Haddad and MC Sion James Don't miss!
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Collywobblers Comedy
-UID:b2b277dd-0047-44ae-b252-438e183e7644
+UID:a00a59ef-1c86-4640-9eba-068a0129e16c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:Ceci Day is an English-American singer-songwriter known for he
  r soulful, lyric-driven compositions and distinctive blend of acoustic fol
  k with elements of rock and country—a sound that lives...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Ceci Day
-UID:e8ae0bc8-1a75-409d-9b40-937689c53e1f
+UID:ac9e898b-c0cd-4165-a1f6-33983b2a1ccc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:Starlight Express at Wembley Park Theatre in Wembley , Greater 
  London
 DTEND;VALUE=DATE:20251114
 DTSTART;VALUE=DATE:20251114
 SUMMARY:Starlight Express
-UID:19af1f35-4e1d-4e77-b099-93bb044c32df
+UID:25f57888-58bd-4053-bf40-3916dd01474d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:Buy Only The Righteous tickets with Spotify. Find Only The Righ
  teous tour schedule, concert details, and tickets.
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:ILLICIT Concert
-UID:433de195-404f-410b-9c95-63c43a7caece
+UID:3ec57bb8-b6da-40ad-8c22-138a53912437
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:Stand-up comedy show featuring four comedians
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:The Covent Garden Comedy Club
-UID:cc62fcd6-73c6-4cd7-92f3-cd6f67a9b59c
+UID:5e50055f-b42f-42ad-ba60-2d6f990bc8bc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:Get ready to unleash your inner performer and experience the th
  rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251112
-DTSTART;VALUE=DATE:20251112
+DTEND;VALUE=DATE:20251113
+DTSTART;VALUE=DATE:20251113
 SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
  fun!
-UID:3525eafc-8976-47a9-8b6c-098b58208e8b
+UID:e76a51e7-36bb-4072-a320-a362a1e98eb0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:Best known as frontman of the Stranglers, one of the most long-
  lived and internationally popular bands from the original wave of British p
  unk, Hugh Cornwell also enjoyed a moderately successful...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Hugh Cornwell
-UID:a77f5b6e-f2b5-4046-81ea-785c5c877271
+UID:d3ebc69c-a4d2-4be3-a75d-efa914e430d7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251112T130156Z
+DTSTAMP:20251113T021650Z
 DESCRIPTION:Nylon Magazine - "Morley is one artist you shouldn’t have to
   go through life without listening to" Line Of Best Fit - "Showcasing her v
  elvet-smooth voice and ability to master the world of...
 DTEND;VALUE=DATE:20251113
 DTSTART;VALUE=DATE:20251113
 SUMMARY:Tommy Ashby
-UID:7fa7492e-3196-4da4-96cc-5c19e006c852
+UID:f87e6793-d40e-4963-9d03-49e6cdf9d06a
 END:VEVENT
 END:VCALENDAR
