@@ -3,98 +3,96 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
-DESCRIPTION:ENGLAND VS SERBIA . FANZONE - ENTRY WITH WEMBLEY STADIUM TICKET
- S ONLY 9am opening time 1 min from wembley park tube station, 4 min walk t
- o Wembley stadium Kids friendly, Enjoy food drinks with us...
-DTEND;VALUE=DATE:20251113
-DTSTART;VALUE=DATE:20251113
-SUMMARY:Football World Cup 2026 Qualifiers - England vs Serbia
-UID:5e252eed-6976-4913-bd55-f87e414a581c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
+DTSTAMP:20251115T125316Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
   specially designed Starlight Auditorium at Troubadour Wembley Park Theatre
  . Audiences will be immersed inside a world of speed, song...
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:Starlight Express
-UID:afc11e46-bf6b-483f-aef8-a73e19049e2d
+UID:d2bcea8f-0130-4777-bf6d-a5a4fc85364d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
+DTSTAMP:20251115T125316Z
+DESCRIPTION:Join us for a fun and creative workshop where children build th
+ eir own LEGO robots completely from scratch, with no instructions!
+DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+SUMMARY:Build & Code: Robotics Workshop
+UID:d22abc6b-f4de-4996-b1b1-e3334af453e8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251115T125316Z
+DESCRIPTION:The UK’s biggest country music day party is heading to Wemble
+ y Park this November for the ultimate hoedown at BOXPARK Wembley. Get ready
+  for an all-day celebration of country music, complete with...
+DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+SUMMARY:Country Club Indoor Country Music Festival
+UID:92c604c3-2d9b-4c90-aab8-05f0b7224950
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251115T125316Z
+DESCRIPTION:Get ready to unleash your inner performer and experience the th
+ rill of drama and circus skills in person!
+DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
+ fun!
+UID:176814f8-2c6b-417e-89e4-2fc306dbfdab
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251115T125316Z
 DESCRIPTION:Nick Cope has been writing and recording his beautiful and tota
  lly unique songs for children and their families for over 10 years, and per
  forms with his guitar and stunning animations to sell-out...
 DTEND;VALUE=DATE:20251116
 DTSTART;VALUE=DATE:20251116
 SUMMARY:Nick Cope: I’ve Lost My Bobble Hat!
-UID:87c449d7-7ca7-4e10-a7e8-f497713fb699
+UID:eed5c4da-ffbe-45e6-b2df-b7388bcdbdc9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
-DESCRIPTION:Collywobblers Comedy Jeff Innocent , Michael Akadiri, Suzie Pre
- ece, Twayna Mayne , Joe Haddad and MC Sion James Don't miss!
-DTEND;VALUE=DATE:20251113
-DTSTART;VALUE=DATE:20251113
-SUMMARY:Collywobblers Comedy
-UID:1ed70711-1c6f-4144-a9e6-31fb7b1fa360
+DTSTAMP:20251115T125316Z
+DESCRIPTION:Cage Warriors 196 on 15 Nov 2025 at The O2 arena. Find tickets
+ , event info and where to watch.
+DTEND;VALUE=DATE:20251115
+DTSTART;VALUE=DATE:20251115
+SUMMARY:Cage Warriors 196
+UID:cfa08343-b1fd-4ae8-bc11-f61a9667fa11
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
-DESCRIPTION:Starlight Express at Wembley Park Theatre in Wembley , Greater 
- London
-DTEND;VALUE=DATE:20251114
-DTSTART;VALUE=DATE:20251114
-SUMMARY:Starlight Express
-UID:b30f9190-5c4b-460d-a972-f4aa224eac72
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
-DESCRIPTION:Ceci Day is an English-American singer-songwriter known for he
- r soulful, lyric-driven compositions and distinctive blend of acoustic fol
- k with elements of rock and country—a sound that lives...
-DTEND;VALUE=DATE:20251113
-DTSTART;VALUE=DATE:20251113
-SUMMARY:Ceci Day
-UID:ef1b69e3-5a59-49b4-8e57-3978f028221b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
+DTSTAMP:20251115T125316Z
 DESCRIPTION:Buy Only The Righteous tickets with Spotify. Find Only The Righ
  teous tour schedule, concert details, and tickets.
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
 SUMMARY:ILLICIT Concert
-UID:fdca500b-0103-4b39-8120-042664a84161
+UID:39bc226e-a3fe-4cf2-aec5-adc015495c7c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
-DESCRIPTION:Get ready to unleash your inner performer and experience the th
- rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251113
-DTSTART;VALUE=DATE:20251113
-SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
- fun!
-UID:9228f0d4-fd4f-4cf5-bb9f-5bff8a7f5384
+DTSTAMP:20251115T125316Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:R&B Xmas Ball - Venue Premium Tickets
+UID:53c99868-a84d-46bd-af97-dfd878e27b8c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
-DESCRIPTION:Stand-up comedy show featuring four comedians
+DTSTAMP:20251115T125316Z
+DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
+DTEND;VALUE=DATE:20251119
+DTSTART;VALUE=DATE:20251119
+SUMMARY:Brand New
+UID:747d82ee-84aa-44f4-b972-7bf86233a402
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251115T125316Z
+DESCRIPTION:The show that made The Comedy Store famous. World-class stand u
+ p comedy from 5 of the funniest people on the planet in a 2 hour extravagan
+ za of belly laughs. Tickets on the door are limited and...
 DTEND;VALUE=DATE:20251115
 DTSTART;VALUE=DATE:20251115
-SUMMARY:The Covent Garden Comedy Club
-UID:2c3dc5de-015c-4e73-8130-7dfc8a5b2e62
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251113T130118Z
-DESCRIPTION:Best known as frontman of the Stranglers, one of the most long-
- lived and internationally popular bands from the original wave of British p
- unk, Hugh Cornwell also enjoyed a moderately successful...
-DTEND;VALUE=DATE:20251113
-DTSTART;VALUE=DATE:20251113
-SUMMARY:Hugh Cornwell
-UID:2059d22f-1ea2-453d-9598-fb35141606ee
+SUMMARY:The Best in Stand Up - Saturday 15th November 9.30pm
+UID:632f9602-9c5e-4129-8a8c-ab047d552f90
 END:VEVENT
 END:VCALENDAR
