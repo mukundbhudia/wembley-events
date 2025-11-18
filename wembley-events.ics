@@ -3,98 +3,98 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
+DTSTAMP:20251118T130022Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251122
+DTSTART;VALUE=DATE:20251122
+SUMMARY:Starlight Express
+UID:9b9bce1f-cd8e-4a9a-8cfc-616a5d61e2f4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251118T130022Z
 DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
 DTEND;VALUE=DATE:20251119
 DTSTART;VALUE=DATE:20251119
 SUMMARY:Brand New
-UID:d7dd1242-12e6-45d6-97a8-d4f80536c1a1
+UID:635ea72c-774c-40c8-8060-de47ce12b1a3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
+DTSTAMP:20251118T130022Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251119
 DTSTART;VALUE=DATE:20251119
 SUMMARY:Starlight Express
-UID:a6935b60-c1f4-4c4a-819c-1c3608a7b4b2
+UID:515d7db7-6299-41b3-90cc-b60dc7b25c64
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
+DTSTAMP:20251118T130022Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251121
 DTSTART;VALUE=DATE:20251121
 SUMMARY:Starlight Express
-UID:9fe9d7f9-9f5c-4341-beb1-4e32fce0ad33
+UID:a130ee93-c832-4e1c-a9b3-8aee5dd7aeb3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
+DTSTAMP:20251118T130022Z
+DESCRIPTION:🎉 Join us at the incredible Boxpark Wembley for a day of fa
+ mily fun! Have kids, but still love to party? We hear you! That’s why we 
+ created Fly-Kid – the ultimate daytime family rave where you...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
-SUMMARY:Starlight Express
-UID:5e2b01b3-2415-4b31-93ff-8933b932c0df
+SUMMARY:FLY-KID FAMILY RAVE, BOXPARK WEMBLEY
+UID:0d67191e-baf6-4850-95cb-63003d2fc798
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
+DTSTAMP:20251118T130022Z
 DESCRIPTION:The Searchers and Hollies Experience, this unmissable tribute t
  o two of the most iconic bands of the 60s and 70s, comes to The Radlett Cen
  tre on Friday 21st November as part of its 2025 tour. Now...
 DTEND;VALUE=DATE:20251121
 DTSTART;VALUE=DATE:20251121
 SUMMARY:The Searchers and Hollies Experience
-UID:e8af09b9-df33-4995-804b-df7e1ba6c1e9
+UID:6dc98c4e-baf1-48be-bf4f-b1ba6a0fe327
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
-DESCRIPTION:Get ready to unleash your inner performer and experience the th
- rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251117
-DTSTART;VALUE=DATE:20251117
-SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
- fun!
-UID:3a6f4147-82a4-432e-b77c-4b333adedf2f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
+DTSTAMP:20251118T130022Z
 DESCRIPTION:Find tickets for Tony Blackburn at Watford Colosseum in Watfor
  d on 11/18/2025 at 7:30 PM
 DTEND;VALUE=DATE:20251118
 DTSTART;VALUE=DATE:20251118
 SUMMARY:Sound of The 60's Live - Hosted By Tony Blackburn OBE
-UID:39116dc9-356a-481f-8651-60409edcb5e8
+UID:0fe20843-f220-466b-9a7e-60c2cdaa11ba
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
+DTSTAMP:20251118T130022Z
 DESCRIPTION:Ruth Notman is a folk singer/songwriter from Nottingham who is
  , most notably, known for being one of the leading ‘nu-folk revivalists
  ’ in the late 00’s who bridged folk music into the 21st Century...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
 SUMMARY:Ruth Notman @ Green Note
-UID:4d9ee06d-ca0f-4530-b332-d733860f2fab
+UID:28f3df03-9855-4f39-bbc7-c2cc4b0fb777
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
+DTSTAMP:20251118T130022Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251207
 DTSTART;VALUE=DATE:20251207
 SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:e7616f63-32a8-441f-b3ce-4692d5664d6d
+UID:898f4077-6c84-499b-ab05-0a4009ffc9fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251117T130038Z
-DESCRIPTION:A fresh voice from the desert southwest Tashi Trueheart (it’
- s a family name, believe it) grew up in the mountains of Colorado. They are
-  inspired by the intense landscapes that they have called...
-DTEND;VALUE=DATE:20251123
-DTSTART;VALUE=DATE:20251123
-SUMMARY:Tashi T
-UID:ec38e743-7193-4621-829a-56168486d5f7
+DTSTAMP:20251118T130022Z
+DESCRIPTION:Listen to I Feel Bonnie (feat. Bonnie "Prince" Billy) [House Mi
+ x] by Hot Chip. See lyrics and music videos, find Hot Chip tour dates, buy 
+ concert tickets, and more!
+DTEND;VALUE=DATE:20251118
+DTSTART;VALUE=DATE:20251118
+SUMMARY:Hot Chip Concert
+UID:50c7409f-8e99-4f65-a99d-44399b63a807
 END:VEVENT
 END:VCALENDAR
