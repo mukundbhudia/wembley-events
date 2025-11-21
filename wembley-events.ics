@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
+DTSTAMP:20251121T125821Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
 SUMMARY:Starlight Express
-UID:b6c55446-1d7b-449f-9d52-e26a22d4bf11
+UID:d6744327-5690-4dda-8b5e-6cb12e74dc8b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
+DTSTAMP:20251121T125821Z
 DESCRIPTION:🎉 Join us at the incredible Boxpark Wembley for a day of fa
  mily fun! Have kids, but still love to party? We hear you! That’s why we 
  created Fly-Kid – the ultimate daytime family rave where you...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
 SUMMARY:FLY-KID FAMILY RAVE, BOXPARK WEMBLEY
-UID:5151cf41-75ef-409c-9f3f-b5baf7b0d04a
+UID:cdeceb41-83ce-4903-b553-46c46d469312
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
+DTSTAMP:20251121T125821Z
 DESCRIPTION:Get ready to unleash your inner performer and experience the th
  rill of drama and circus skills in person!
 DTEND;VALUE=DATE:20251121
 DTSTART;VALUE=DATE:20251121
 SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
  fun!
-UID:238f51eb-669a-4c69-b3a3-385e5c4cf260
+UID:b8617b1b-48ad-42b1-b51b-459fa7bd5db3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
+DTSTAMP:20251121T125821Z
 DESCRIPTION:The Searchers and Hollies Experience, this unmissable tribute t
  o two of the most iconic bands of the 60s and 70s, comes to The Radlett Cen
  tre on Friday 21st November as part of its 2025 tour. Now...
 DTEND;VALUE=DATE:20251121
 DTSTART;VALUE=DATE:20251121
 SUMMARY:The Searchers and Hollies Experience
-UID:ecfb96c9-1943-4908-b1eb-cef839078e88
+UID:d3bfe18f-0750-4a1f-b477-54172c5e03f0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
+DTSTAMP:20251121T125821Z
+DESCRIPTION:Ruth Notman is a folk singer/songwriter from Nottingham who is
+ , most notably, known for being one of the leading ‘nu-folk revivalists
+ ’ in the late 00’s who bridged folk music into the 21st Century...
+DTEND;VALUE=DATE:20251123
+DTSTART;VALUE=DATE:20251123
+SUMMARY:Ruth Notman @ Green Note
+UID:eaf4e05d-23b0-4f4a-8418-f5b19886d6f9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251121T125821Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:R&B Xmas Ball - Venue Premium Tickets
+UID:8aa1d948-1124-4d4e-9c53-778acc7853e3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251121T125821Z
 DESCRIPTION:Listen to Up and At Them by The Brass Funkeys. See lyrics and m
  usic videos, find The Brass Funkeys tour dates, buy concert tickets, and mo
  re!
 DTEND;VALUE=DATE:20251121
 DTSTART;VALUE=DATE:20251121
 SUMMARY:BRASS FUNKEYS
-UID:11b7ceb3-dff4-4927-851c-ba0371f33796
+UID:fc393bf6-3288-4171-b558-36563c91e720
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251207
-DTSTART;VALUE=DATE:20251207
-SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:11f5665a-e960-4ec0-8a7e-87c0775dd098
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
-DESCRIPTION:Acoustic guitarist Leo Kottke was born in Athens, Georgia, but 
- left town after a year and a half. Raised in 12 different states, he absorb
- ed a variety of musical influences as a child, flirting...
-DTEND;VALUE=DATE:20251123
-DTSTART;VALUE=DATE:20251123
-SUMMARY:Leo Kottke - SOLD OUT
-UID:ca61a55a-6e5f-456d-83c0-761663ba8914
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
+DTSTAMP:20251121T125821Z
 DESCRIPTION:A fresh voice from the desert southwest Tashi Trueheart (it’
  s a family name, believe it) grew up in the mountains of Colorado. They are
   inspired by the intense landscapes that they have called...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
 SUMMARY:Tashi T
-UID:e46b3bd7-371e-4b9b-946b-69d8539d84f0
+UID:914091fa-a2da-4b68-a042-185952b9a229
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251128
-DTSTART;VALUE=DATE:20251128
-SUMMARY:Starlight Express
-UID:3da7b37f-036a-4e47-bea0-ae38c87ce658
+DTSTAMP:20251121T125821Z
+DESCRIPTION:Acoustic guitarist Leo Kottke was born in Athens, Georgia, but 
+ left town after a year and a half. Raised in 12 different states, he absorb
+ ed a variety of musical influences as a child, flirting...
+DTEND;VALUE=DATE:20251123
+DTSTART;VALUE=DATE:20251123
+SUMMARY:Leo Kottke - SOLD OUT
+UID:d58d3619-2495-4c3b-9f1f-69f61551467f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T020733Z
+DTSTAMP:20251121T125821Z
 DESCRIPTION:Amazing DJs (2) ™ Charlie Wayne (Black Country, New Road) jo
  ins forces with Cameron Picton (My New Band Believe, Black Midi) for a nigh
  t on our decks. 11pm-3am.
 DTEND;VALUE=DATE:20251121
 DTSTART;VALUE=DATE:20251121
 SUMMARY:Black Country New Road
-UID:042cc2ef-7e61-4ed5-bd6f-3a08a0638384
+UID:bd737e12-7ae5-485a-909a-d01586454bb4
 END:VEVENT
 END:VCALENDAR
