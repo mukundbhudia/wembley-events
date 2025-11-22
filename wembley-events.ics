@@ -3,101 +3,101 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
+DTSTAMP:20251122T020338Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
 SUMMARY:Starlight Express
-UID:d6744327-5690-4dda-8b5e-6cb12e74dc8b
+UID:88dc59ab-2bf6-4959-a18b-0942e2b82bdb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
+DTSTAMP:20251122T020338Z
 DESCRIPTION:🎉 Join us at the incredible Boxpark Wembley for a day of fa
  mily fun! Have kids, but still love to party? We hear you! That’s why we 
  created Fly-Kid – the ultimate daytime family rave where you...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
 SUMMARY:FLY-KID FAMILY RAVE, BOXPARK WEMBLEY
-UID:cdeceb41-83ce-4903-b553-46c46d469312
+UID:e4144876-95cf-40b1-b418-d90c72eb337b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
+DTSTAMP:20251122T020338Z
 DESCRIPTION:Get ready to unleash your inner performer and experience the th
  rill of drama and circus skills in person!
-DTEND;VALUE=DATE:20251121
-DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+DTSTART;VALUE=DATE:20251122
 SUMMARY:Wembley Library: Shake hands with Freedom! Drama and circus skills 
  fun!
-UID:b8617b1b-48ad-42b1-b51b-459fa7bd5db3
+UID:e10b8ebe-db38-4d79-8c10-c85746f5adc7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
-DESCRIPTION:The Searchers and Hollies Experience, this unmissable tribute t
- o two of the most iconic bands of the 60s and 70s, comes to The Radlett Cen
- tre on Friday 21st November as part of its 2025 tour. Now...
-DTEND;VALUE=DATE:20251121
-DTSTART;VALUE=DATE:20251121
-SUMMARY:The Searchers and Hollies Experience
-UID:d3bfe18f-0750-4a1f-b477-54172c5e03f0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
+DTSTAMP:20251122T020338Z
 DESCRIPTION:Ruth Notman is a folk singer/songwriter from Nottingham who is
  , most notably, known for being one of the leading ‘nu-folk revivalists
  ’ in the late 00’s who bridged folk music into the 21st Century...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
 SUMMARY:Ruth Notman @ Green Note
-UID:eaf4e05d-23b0-4f4a-8418-f5b19886d6f9
+UID:63ea323f-f09c-482c-ac09-4f7241b73799
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251207
-DTSTART;VALUE=DATE:20251207
-SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:8aa1d948-1124-4d4e-9c53-778acc7853e3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
-DESCRIPTION:Listen to Up and At Them by The Brass Funkeys. See lyrics and m
- usic videos, find The Brass Funkeys tour dates, buy concert tickets, and mo
- re!
-DTEND;VALUE=DATE:20251121
-DTSTART;VALUE=DATE:20251121
-SUMMARY:BRASS FUNKEYS
-UID:fc393bf6-3288-4171-b558-36563c91e720
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
+DTSTAMP:20251122T020338Z
 DESCRIPTION:A fresh voice from the desert southwest Tashi Trueheart (it’
  s a family name, believe it) grew up in the mountains of Colorado. They are
   inspired by the intense landscapes that they have called...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
 SUMMARY:Tashi T
-UID:914091fa-a2da-4b68-a042-185952b9a229
+UID:07677bf7-aac1-443d-a0c2-c2d1ac598938
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
+DTSTAMP:20251122T020338Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:R&B Xmas Ball - Venue Premium Tickets
+UID:1d7cf7c0-24e0-4311-ba98-cea3cdc8c9f7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251122T020338Z
+DESCRIPTION:Concert: The brainchild of Liam Howlett, The Prodigy have had a
+ n array of songs including popular hits such as 'Outer Space', 'Charly', 'B
+ reathe' and 'Firestarter'.
+DTEND;VALUE=DATE:20250424
+DTSTART;VALUE=DATE:20250424
+SUMMARY:The Prodigy
+UID:1cd2d36d-21ae-4b0b-b9d4-cc4f776f18d9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251122T020338Z
+DESCRIPTION:A symphonic journey through the music of the father of modern A
+ rabic music, Mohamed Abdelwahab, with the amazing Fatma Said and the brilli
+ ant Nader Abbassi.
+DTEND;VALUE=DATE:20251123
+DTSTART;VALUE=DATE:20251123
+SUMMARY:Abdelwahab
+UID:40517cd1-94f0-4572-b118-b35a8a7be4d6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251122T020338Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251128
+DTSTART;VALUE=DATE:20251128
+SUMMARY:Starlight Express
+UID:2fff7217-7e64-4517-8f36-d8fdc925bc7e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251122T020338Z
 DESCRIPTION:Acoustic guitarist Leo Kottke was born in Athens, Georgia, but 
  left town after a year and a half. Raised in 12 different states, he absorb
  ed a variety of musical influences as a child, flirting...
 DTEND;VALUE=DATE:20251123
 DTSTART;VALUE=DATE:20251123
 SUMMARY:Leo Kottke - SOLD OUT
-UID:d58d3619-2495-4c3b-9f1f-69f61551467f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251121T125821Z
-DESCRIPTION:Amazing DJs (2) ™ Charlie Wayne (Black Country, New Road) jo
- ins forces with Cameron Picton (My New Band Believe, Black Midi) for a nigh
- t on our decks. 11pm-3am.
-DTEND;VALUE=DATE:20251121
-DTSTART;VALUE=DATE:20251121
-SUMMARY:Black Country New Road
-UID:bd737e12-7ae5-485a-909a-d01586454bb4
+UID:2bd26add-4093-4bb6-a6b5-4ea27d0c17ce
 END:VEVENT
 END:VCALENDAR
