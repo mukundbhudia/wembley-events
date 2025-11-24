@@ -3,100 +3,99 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
-DESCRIPTION:🎉 Join us at the incredible Boxpark Wembley for a day of fa
- mily fun! Have kids, but still love to party? We hear you! That’s why we 
- created Fly-Kid – the ultimate daytime family rave where you...
-DTEND;VALUE=DATE:20251123
-DTSTART;VALUE=DATE:20251123
-SUMMARY:FLY-KID FAMILY RAVE, BOXPARK WEMBLEY
-UID:546de3a1-9257-4e62-9c14-46e847b31a83
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
+DTSTAMP:20251124T022243Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251123
-DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251127
+DTSTART;VALUE=DATE:20251127
 SUMMARY:Starlight Express
-UID:897632c0-1b00-4026-b5b8-82b9dd0aabd0
+UID:db59142e-face-468e-8710-643c305f38ac
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
-DESCRIPTION:Ruth Notman is a folk singer/songwriter from Nottingham who is
- , most notably, known for being one of the leading ‘nu-folk revivalists
- ’ in the late 00’s who bridged folk music into the 21st Century...
-DTEND;VALUE=DATE:20251123
-DTSTART;VALUE=DATE:20251123
-SUMMARY:Ruth Notman @ Green Note
-UID:b05510cf-91a7-41c4-8ffb-c15b4aeb563d
+DTSTAMP:20251124T022243Z
+DESCRIPTION:Join us for pre match build up with DJs, live music and maybe 
+ a special guest or two. Make the day one to remember with BOXPARK! 3 huge b
+ ars, over 20 different food vendors, giveaways and tonnes...
+DTEND;VALUE=DATE:20251129
+DTSTART;VALUE=DATE:20251129
+SUMMARY:England v China
+UID:fa7b5198-226d-41fd-9b34-033e900228b7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
+DTSTAMP:20251124T022243Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251207
-DTSTART;VALUE=DATE:20251207
-SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:2f0142e3-9f56-4b44-b41b-7963713b3dad
+DTEND;VALUE=DATE:20251125
+DTSTART;VALUE=DATE:20251125
+SUMMARY:My Bloody Valentine
+UID:16796c20-602c-4311-9419-d58052a4bad9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
-DESCRIPTION:Acoustic guitarist Leo Kottke was born in Athens, Georgia, but 
- left town after a year and a half. Raised in 12 different states, he absorb
- ed a variety of musical influences as a child, flirting...
-DTEND;VALUE=DATE:20251123
-DTSTART;VALUE=DATE:20251123
-SUMMARY:Leo Kottke
-UID:5ab8f9a2-1251-4e2e-be56-ba2004de9bfe
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
-DESCRIPTION:A fresh voice from the desert southwest Tashi Trueheart (it’
- s a family name, believe it) grew up in the mountains of Colorado. They are
-  inspired by the intense landscapes that they have called...
-DTEND;VALUE=DATE:20251123
-DTSTART;VALUE=DATE:20251123
-SUMMARY:Tashi T
-UID:028fc668-e26e-429e-b1b0-27e49441c63a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
-DESCRIPTION:Listen to Meri Jeet by Bohemia. See lyrics and music videos, fi
- nd Bohemia tour dates, buy concert tickets, and more!
-DTEND;VALUE=DATE:20251123
-DTSTART;VALUE=DATE:20251123
-SUMMARY:Bohemia Concert
-UID:77dc6c25-317d-4cb8-b605-43c7c6d81369
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
-DESCRIPTION:A symphonic journey through the music of the father of modern A
- rabic music, Mohamed Abdelwahab, with the amazing Fatma Said and the brilli
- ant Nader Abbassi.
-DTEND;VALUE=DATE:20251123
-DTSTART;VALUE=DATE:20251123
-SUMMARY:Abdelwahab
-UID:4823f984-79e3-48a9-b312-8cb5e61d469a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
+DTSTAMP:20251124T022243Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251128
 DTSTART;VALUE=DATE:20251128
 SUMMARY:Starlight Express
-UID:9b157053-c093-4e38-9075-d67f4c253d75
+UID:191b3071-2ef2-4703-a124-b573b43f801a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251123T125122Z
-DESCRIPTION:Concert: The brainchild of Liam Howlett, The Prodigy have had a
- n array of songs including popular hits such as 'Outer Space', 'Charly', 'B
- reathe' and 'Firestarter'.
-DTEND;VALUE=DATE:20250424
-DTSTART;VALUE=DATE:20250424
-SUMMARY:The Prodigy
-UID:cbb05604-dadf-48c8-980d-dd92684b0dc2
+DTSTAMP:20251124T022243Z
+DESCRIPTION:Step into a winter wonderland of music and magic this November 
+ as BOXPARK Wembley welcomes the Royal Philharmonic Orchestra for a spectacu
+ lar 45-piece live Christmas concert ! TICKETS AVAILABLE...
+DTEND;VALUE=DATE:20251127
+DTSTART;VALUE=DATE:20251127
+SUMMARY:WEMBLEY PARK PRESENTS: ROYAL PHILHARMONIC ORCHESTRA’S CHRISTMAS C
+ RACKERS
+UID:5e1cdf71-a15e-41c2-be09-464ffb227333
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251124T022243Z
+DESCRIPTION:Owl Light Trio have deep roots in traditional music, share a pa
+ ssion for tunes from Ireland, the UK and Brittany
+DTEND;VALUE=DATE:20251126
+DTSTART;VALUE=DATE:20251126
+SUMMARY:Owl Light Trio
+UID:9f006621-a8bd-4634-8e43-3663681ce3ae
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251124T022243Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251130
+DTSTART;VALUE=DATE:20251130
+SUMMARY:Starlight Express
+UID:dea08db6-9e31-40e8-9149-e0435e47826d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251124T022243Z
+DESCRIPTION:Japanese extreme-metal titans DEVILOOF - fusing deathcore, slam
+ ming brutal death metal, and traditional Japanese aesthetics.
+DTEND;VALUE=DATE:20251128
+DTSTART;VALUE=DATE:20251128
+SUMMARY:DEVILOOF Concert
+UID:9b181ea5-e00e-431c-b04b-fbd11f50fa28
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251124T022243Z
+DESCRIPTION:Funk on the Hill – Live with Gina Sedman & Andrew Sedman Sund
+ ay, November 30, 2025 | 3 PM – 10 PM @ 86 Bar & Restaurant, Harrow on the
+  Hill, UK Funk on the Hill returns for another unmissable day...
+DTEND;VALUE=DATE:20251130
+DTSTART;VALUE=DATE:20251130
+SUMMARY:Gina Sedman Live (PA) at FUNK ON THE HILL / The 2026 "That What I S
+ aid MAN! Tour"
+UID:5604799a-6a40-40bc-825d-64df7874d839
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251124T022243Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:R&B Xmas Ball - Venue Premium Tickets
+UID:9b2ff007-079d-49e4-b7d5-5d4789d4a838
 END:VEVENT
 END:VCALENDAR
