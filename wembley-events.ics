@@ -3,45 +3,45 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251127
 DTSTART;VALUE=DATE:20251127
 SUMMARY:Starlight Express
-UID:667f7e19-7f84-4d6e-b9a4-d11ed6922c7d
+UID:2e760318-3fff-4f4c-89ff-0fc03c9ea650
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:Join us for pre match build up with DJs, live music and maybe 
  a special guest or two. Make the day one to remember with BOXPARK! 3 huge b
  ars, over 20 different food vendors, giveaways and tonnes...
 DTEND;VALUE=DATE:20251129
 DTSTART;VALUE=DATE:20251129
 SUMMARY:England v China
-UID:fe308a09-34cd-4246-ae19-eff1d8417f14
+UID:b8f94f63-c728-437c-abc1-3add06738b3f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251125
 DTSTART;VALUE=DATE:20251125
 SUMMARY:My Bloody Valentine
-UID:a69a4fef-615c-4991-8aba-0d39d4158e52
+UID:196ff4c5-f21a-4c31-8144-c6f4f85aea3c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251128
 DTSTART;VALUE=DATE:20251128
 SUMMARY:Starlight Express
-UID:33cad78a-96fa-4327-8226-d9cf4bd98a4a
+UID:e2cc1169-806c-4cc8-8de0-18cdd6823f7c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:Step into a winter wonderland of music and magic this November 
  as BOXPARK Wembley welcomes the Royal Philharmonic Orchestra for a spectacu
  lar 45-piece live Christmas concert ! TICKETS AVAILABLE...
@@ -49,38 +49,38 @@ DTEND;VALUE=DATE:20251127
 DTSTART;VALUE=DATE:20251127
 SUMMARY:WEMBLEY PARK PRESENTS: ROYAL PHILHARMONIC ORCHESTRA’S CHRISTMAS C
  RACKERS
-UID:789de3d5-2fd5-4b37-8d96-08f0c03278bf
+UID:47767b6c-33d1-4183-9051-01edf9ddf919
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:Owl Light Trio have deep roots in traditional music, share a pa
  ssion for tunes from Ireland, the UK and Brittany
 DTEND;VALUE=DATE:20251126
 DTSTART;VALUE=DATE:20251126
 SUMMARY:Owl Light Trio
-UID:7a77fdae-e737-4b35-ab21-62734ba610c7
+UID:b513a012-1b29-48ee-b24d-a6172dd0c9b6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Starlight Express
-UID:e326dc24-77ea-4cd5-b0ce-2c3e9fa87044
+UID:21fd0735-f178-4177-84dd-6a63e4260d56
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:Japanese extreme-metal titans DEVILOOF - fusing deathcore, slam
  ming brutal death metal, and traditional Japanese aesthetics.
 DTEND;VALUE=DATE:20251128
 DTSTART;VALUE=DATE:20251128
 SUMMARY:DEVILOOF Concert
-UID:15883313-1c36-4102-b544-4116723f1b59
+UID:fc254325-62b0-470b-b7a5-9f29393f2cc0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:Funk on the Hill – Live with Gina Sedman & Andrew Sedman Sund
  ay, November 30, 2025 | 3 PM – 10 PM @ 86 Bar & Restaurant, Harrow on the
   Hill, UK Funk on the Hill returns for another unmissable day...
@@ -88,14 +88,14 @@ DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Gina Sedman Live (PA) at FUNK ON THE HILL / The 2026 "That What I S
  aid MAN! Tour"
-UID:8c88c141-9c7b-4ddb-896f-0b081e84db5f
+UID:7826ae09-2501-45b6-87c9-2b65487790a2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T130157Z
+DTSTAMP:20251125T021556Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251207
 DTSTART;VALUE=DATE:20251207
 SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:cf71d118-9f35-426f-9fe0-c2ba6f494a37
+UID:5ec52bff-ab23-4a4f-9a30-92de09eae977
 END:VEVENT
 END:VCALENDAR
