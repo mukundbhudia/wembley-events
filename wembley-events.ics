@@ -3,76 +3,46 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
+DTSTAMP:20251128T020715Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251127
-DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+DTSTART;VALUE=DATE:20251128
 SUMMARY:Starlight Express
-UID:e2ed52df-c020-4cd5-afb6-7238819f9f3b
+UID:39a07a12-cf6e-4492-8c91-1138618b3e98
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
-DESCRIPTION:Step into a winter wonderland of music and magic this November 
- as BOXPARK Wembley welcomes the Royal Philharmonic Orchestra for a spectacu
- lar 45-piece live Christmas concert ! TICKETS AVAILABLE...
-DTEND;VALUE=DATE:20251127
-DTSTART;VALUE=DATE:20251127
-SUMMARY:Christmas with the Royal Philharmonic Orchestra
-UID:8de24a17-fe26-4686-8800-8afe916f863d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
+DTSTAMP:20251128T020715Z
 DESCRIPTION:Join us for pre match build up with DJs, live music and maybe 
  a special guest or two. Make the day one to remember with BOXPARK! 3 huge b
  ars, over 20 different food vendors, giveaways and tonnes...
 DTEND;VALUE=DATE:20251129
 DTSTART;VALUE=DATE:20251129
 SUMMARY:England v China
-UID:0f9cfdb1-c155-4060-8732-43f3bc50c101
+UID:e1134379-d575-44c4-a205-b550748d732d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251128
-DTSTART;VALUE=DATE:20251128
-SUMMARY:Starlight Express
-UID:5ed74cf4-b404-4f2a-b934-f2a54d1f5cb8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
+DTSTAMP:20251128T020715Z
 DESCRIPTION:Japanese extreme-metal titans DEVILOOF - fusing deathcore, slam
  ming brutal death metal, and traditional Japanese aesthetics.
 DTEND;VALUE=DATE:20251128
 DTSTART;VALUE=DATE:20251128
 SUMMARY:DEVILOOF Concert
-UID:dbfe7122-392d-41e3-b73d-723e97ca2981
+UID:337344c5-4e6b-41ee-95fa-a25acb31b01a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
-DESCRIPTION:Progressive Jazz Rock Legends Colosseum will be on the road aga
- in with a new line-up consisting of original frontman Chris Farlowe, guitar
- ist Clem Clempson and bassist Mark Clarke. Formed in 1968...
-DTEND;VALUE=DATE:20251127
-DTSTART;VALUE=DATE:20251127
-SUMMARY:Colosseum
-UID:ea58db1c-14fa-49ed-a131-cd8524dd9c6a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
+DTSTAMP:20251128T020715Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Starlight Express
-UID:47d6ed2c-424a-42ac-b9ab-7c367a1ac4a3
+UID:e90eeccb-48d6-42bc-9d3b-d3357c3f32f5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
+DTSTAMP:20251128T020715Z
 DESCRIPTION:Funk on the Hill – Live with Gina Sedman & Andrew Sedman Sund
  ay, November 30, 2025 | 3 PM – 10 PM @ 86 Bar & Restaurant, Harrow on the
   Hill, UK Funk on the Hill returns for another unmissable day...
@@ -80,24 +50,51 @@ DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Gina Sedman Live (PA) at FUNK ON THE HILL / The 2026 "That What I S
  aid MAN! Tour"
-UID:1ae6da4c-f329-4f5e-b33b-2c540ae09c64
+UID:cb738ebb-8df8-4dc8-bb61-9b7d6671c280
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
+DTSTAMP:20251128T020715Z
 DESCRIPTION:Stand-up comedy show featuring four comedians
 DTEND;VALUE=DATE:20251129
 DTSTART;VALUE=DATE:20251129
 SUMMARY:The Covent Garden Comedy Club
-UID:c3d4290e-4c2e-435f-8593-c186e9186054
+UID:67434310-39ba-4804-857b-09d1858cf122
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251127T130106Z
+DTSTAMP:20251128T020715Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:R&B Xmas Ball - Venue Premium Tickets
+UID:61cc32a0-fe61-4e59-b63d-92e83261ca76
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251128T020715Z
+DESCRIPTION:Concert: The brainchild of Liam Howlett, The Prodigy have had a
+ n array of songs including popular hits such as 'Outer Space', 'Charly', 'B
+ reathe' and 'Firestarter'.
+DTEND;VALUE=DATE:20250424
+DTSTART;VALUE=DATE:20250424
+SUMMARY:The Prodigy
+UID:aa018e89-6531-4439-9ed2-7c061c511b9d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251128T020715Z
+DESCRIPTION:Agnostic Front Lead Guitarist The Outlaw Vinnie Stigma With Spe
+ cial Guest Volores.
+DTEND;VALUE=DATE:20251129
+DTSTART;VALUE=DATE:20251129
+SUMMARY:THE OUTLAW VINNIE STIGMA
+UID:7111bb03-cf55-40a6-b82a-a072f1f11754
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251128T020715Z
 DESCRIPTION:🌟 Join us for an exhilarating ride like no other as we exper
  ience the magical world of Starlight Express! Book your tickets now for thi
  s electrifying production that will take your breath away...
 DTEND;VALUE=DATE:20251226
 DTSTART;VALUE=DATE:20251226
 SUMMARY:Starlight Express
-UID:b7012cd6-3d29-4377-b9b7-cb05e31077ef
+UID:c67f623b-daf4-43d5-b996-8c91df47bfb6
 END:VEVENT
 END:VCALENDAR
