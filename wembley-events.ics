@@ -3,46 +3,54 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251128
-DTSTART;VALUE=DATE:20251128
-SUMMARY:Starlight Express
-UID:61a19573-69cc-4929-b53d-3b53fed0132e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
-DESCRIPTION:Join us for pre match build up with DJs, live music and maybe 
- a special guest or two. Make the day one to remember with BOXPARK! 3 huge b
- ars, over 20 different food vendors, giveaways and tonnes...
+DTSTAMP:20251129T020711Z
+DESCRIPTION:em sat</em><em class='date'>29</em><em class='month'>nov</em><e
+ m class='time'>7:00 pm em em Bajan Independence Dinner & Live Concert Dance
 DTEND;VALUE=DATE:20251129
 DTSTART;VALUE=DATE:20251129
-SUMMARY:England v China
-UID:2580f876-d2bb-4157-b4cd-8ba304f93bd1
+SUMMARY:Bajan Independence Dinner & Live Concert Dance
+UID:dfeda650-df17-456f-97d4-52935a8babb0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
-DESCRIPTION:Japanese extreme-metal titans DEVILOOF - fusing deathcore, slam
- ming brutal death metal, and traditional Japanese aesthetics.
-DTEND;VALUE=DATE:20251128
-DTSTART;VALUE=DATE:20251128
-SUMMARY:DEVILOOF Concert
-UID:9246891f-03f8-4d31-89e5-a6ca6a1a3024
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
+DTSTAMP:20251129T020711Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Starlight Express
-UID:a630d165-33ef-475b-821a-fdadfc774da6
+UID:000ba789-a0f8-4925-a072-513bb82f8026
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
+DTSTAMP:20251129T020711Z
+DESCRIPTION:Join us for pre match build up with DJs, live music and maybe 
+ a special guest or two. Make the day one to remember with BOXPARK! 3 huge b
+ ars, over 20 different food vendors, giveaways and tonnes...
+DTEND;VALUE=DATE:20251129
+DTSTART;VALUE=DATE:20251129
+SUMMARY:England v China
+UID:012cb3ea-7183-44f2-8dee-c93d2c709eec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T020711Z
+DESCRIPTION:Lane 7 Victoria - Late DJ. I started my career as part of So So
+ lid Crew, a British UK garage collective originating from South London in t
+ he early 2000’s. I have since performed at various...
+DTEND;VALUE=DATE:20251129
+DTSTART;VALUE=DATE:20251129
+SUMMARY:Eric Addison / DJ Syndicate
+UID:dc610303-ee7b-4184-9df0-bf37022fd548
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T020711Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:R&B Xmas Ball - Venue Premium Tickets
+UID:010fc242-c0ca-43c1-a6cb-3c4f809808c8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T020711Z
 DESCRIPTION:Funk on the Hill – Live with Gina Sedman & Andrew Sedman Sund
  ay, November 30, 2025 | 3 PM – 10 PM @ 86 Bar & Restaurant, Harrow on the
   Hill, UK Funk on the Hill returns for another unmissable day...
@@ -50,52 +58,44 @@ DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Gina Sedman Live (PA) at FUNK ON THE HILL / The 2026 "That What I S
  aid MAN! Tour"
-UID:6a40e7b5-f27f-43a2-beb8-3de0f9f03cc4
+UID:6258cd40-20dd-486a-bf06-164154d05bdd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
+DTSTAMP:20251129T020711Z
 DESCRIPTION:Stand-up comedy show featuring four comedians
 DTEND;VALUE=DATE:20251129
 DTSTART;VALUE=DATE:20251129
 SUMMARY:The Covent Garden Comedy Club
-UID:eaa62814-2a13-48b3-9b1e-ce0584c5fe09
+UID:4e807a40-ac53-4689-a3f5-ee9494640d33
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251207
-DTSTART;VALUE=DATE:20251207
-SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:0103965a-296a-4858-825a-1b1f447efad7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
-DESCRIPTION:Concert: The brainchild of Liam Howlett, The Prodigy have had a
- n array of songs including popular hits such as 'Outer Space', 'Charly', 'B
- reathe' and 'Firestarter'.
-DTEND;VALUE=DATE:20250424
-DTSTART;VALUE=DATE:20250424
-SUMMARY:The Prodigy
-UID:656a44ba-5bca-4b2b-ac67-41d65a7a9472
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251218
-DTSTART;VALUE=DATE:20251218
-SUMMARY:Starlight Express
-UID:2dd26776-6c9a-4062-95cf-9694f8473107
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251128T125929Z
+DTSTAMP:20251129T020711Z
 DESCRIPTION:🌟 Join us for an exhilarating ride like no other as we exper
  ience the magical world of Starlight Express! Book your tickets now for thi
  s electrifying production that will take your breath away...
 DTEND;VALUE=DATE:20251226
 DTSTART;VALUE=DATE:20251226
 SUMMARY:Starlight Express
-UID:13a98b3d-0f81-4a67-9f90-ee928a244aad
+UID:b730a66c-68d0-4dd5-b53c-0c5747bd51c5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T020711Z
+DESCRIPTION:Concert: The brainchild of Liam Howlett, The Prodigy have had a
+ n array of songs including popular hits such as 'Outer Space', 'Charly', 'B
+ reathe' and 'Firestarter'.
+DTEND;VALUE=DATE:20250424
+DTSTART;VALUE=DATE:20250424
+SUMMARY:The Prodigy
+UID:526fa407-a582-4f0e-ab67-20c9c7183fb2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T020711Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251218
+DTSTART;VALUE=DATE:20251218
+SUMMARY:Starlight Express
+UID:4e5c05e7-5ed4-4f72-a65c-266f313b7c50
 END:VEVENT
 END:VCALENDAR
