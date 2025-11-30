@@ -3,27 +3,27 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
+DTSTAMP:20251130T125448Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Starlight Express
-UID:d13c7039-102d-40c3-9ca1-9079428f70dc
+UID:ce961c89-778f-4cb9-a3df-263a1ad8377e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
+DTSTAMP:20251130T125448Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251218
 DTSTART;VALUE=DATE:20251218
 SUMMARY:Starlight Express
-UID:048f80fc-d87b-4287-baca-59ce8cb4cc3d
+UID:fa1a0d58-b53d-41d9-b192-801cb1913550
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
+DTSTAMP:20251130T125448Z
 DESCRIPTION:Funk on the Hill – Live with Gina Sedman & Andrew Sedman Sund
  ay, November 30, 2025 | 3 PM – 10 PM @ 86 Bar & Restaurant, Harrow on the
   Hill, UK Funk on the Hill returns for another unmissable day...
@@ -31,68 +31,70 @@ DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Gina Sedman Live (PA) at FUNK ON THE HILL / The 2026 "That What I S
  aid MAN! Tour"
-UID:2bae2a60-6344-4843-8b8f-0855f87422d7
+UID:6c92548c-98b4-41c5-8dca-fd869060c11e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
+DTSTAMP:20251130T125448Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251207
 DTSTART;VALUE=DATE:20251207
 SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:32a23f37-1a9e-47f4-a705-fbbd57501d7f
+UID:49215558-62b3-4c0c-9c9b-9e2637062273
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
+DTSTAMP:20251130T125448Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251211
 DTSTART;VALUE=DATE:20251211
 SUMMARY:Starlight Express
-UID:5a898a1b-0b2b-4dea-9644-1c502065371e
+UID:2d7d689b-0166-4953-b156-90afcf4cd772
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
+DTSTAMP:20251130T125448Z
 DESCRIPTION:Elusive London based 3-piece Night Tapes today announce their a
  nticipated debut album portals//polarities, which will be released via Nett
  werk Music Group on September 26th. The band also today...
 DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
 SUMMARY:Night Tapes
-UID:f550dcb7-0a14-4655-a884-a0ec7feba4aa
+UID:cdbf35c4-3ad0-43a5-b1c1-355e71060a00
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
+DTSTAMP:20251130T125448Z
 DESCRIPTION:🌟 Join us for an exhilarating ride like no other as we exper
  ience the magical world of Starlight Express! Book your tickets now for thi
  s electrifying production that will take your breath away...
 DTEND;VALUE=DATE:20251226
 DTSTART;VALUE=DATE:20251226
 SUMMARY:Starlight Express
-UID:15fdbc22-6c3c-4588-93be-324f2df49b00
+UID:36313cd8-bb90-412e-94b4-50a755e1b3e0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
-DESCRIPTION:Sofia Kourtesis takes us on an emotive sonic journey.
+DTSTAMP:20251130T125448Z
+DESCRIPTION:TicketSwap's got you covered – receive Buzzcocks - London - 
+ 100 Club - Nov 30, 2025 tickets safely when buying, get paid swiftly when s
+ elling, and enjoy dedicated support!
 DTEND;VALUE=DATE:20251130
 DTSTART;VALUE=DATE:20251130
-SUMMARY:Sofia Kourtesis
-UID:5097ef73-2cfe-458d-81c4-638b6832be62
+SUMMARY:Buzzcocks + Desperate Measures
+UID:36ed0410-4e0d-4ab9-a3c7-6be82d0e073c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
+DTSTAMP:20251130T125448Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251201
 DTSTART;VALUE=DATE:20251201
 SUMMARY:Roxette
-UID:1bebb3c0-aa51-4559-871e-a4cd700a3127
+UID:ba9fde0a-1bf5-4c09-8ff2-9ec27f24bdcb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T022801Z
+DTSTAMP:20251130T125448Z
 DESCRIPTION:Experience the dazzling spectacle of Starlight Express live on
 DTEND;VALUE=DATE:20251204
 DTSTART;VALUE=DATE:20251204
 SUMMARY:Starlight Express
-UID:b49b6948-dc48-4ab0-bedf-959ff67ab9b1
+UID:7fad1539-2431-43f7-b031-01d4f4f41b34
 END:VEVENT
 END:VCALENDAR
