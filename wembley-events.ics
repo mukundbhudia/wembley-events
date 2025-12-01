@@ -3,98 +3,92 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251130
-DTSTART;VALUE=DATE:20251130
-SUMMARY:Starlight Express
-UID:ce961c89-778f-4cb9-a3df-263a1ad8377e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251218
-DTSTART;VALUE=DATE:20251218
-SUMMARY:Starlight Express
-UID:fa1a0d58-b53d-41d9-b192-801cb1913550
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
-DESCRIPTION:Funk on the Hill – Live with Gina Sedman & Andrew Sedman Sund
- ay, November 30, 2025 | 3 PM – 10 PM @ 86 Bar & Restaurant, Harrow on the
-  Hill, UK Funk on the Hill returns for another unmissable day...
-DTEND;VALUE=DATE:20251130
-DTSTART;VALUE=DATE:20251130
-SUMMARY:Gina Sedman Live (PA) at FUNK ON THE HILL / The 2026 "That What I S
- aid MAN! Tour"
-UID:6c92548c-98b4-41c5-8dca-fd869060c11e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
+DTSTAMP:20251201T023724Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251207
 DTSTART;VALUE=DATE:20251207
 SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:49215558-62b3-4c0c-9c9b-9e2637062273
+UID:5f1d67a6-e5c8-49c7-98a0-d23b8581fa4e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251211
-DTSTART;VALUE=DATE:20251211
-SUMMARY:Starlight Express
-UID:2d7d689b-0166-4953-b156-90afcf4cd772
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
-DESCRIPTION:Elusive London based 3-piece Night Tapes today announce their a
- nticipated debut album portals//polarities, which will be released via Nett
- werk Music Group on September 26th. The band also today...
-DTEND;VALUE=DATE:20251130
-DTSTART;VALUE=DATE:20251130
-SUMMARY:Night Tapes
-UID:cdbf35c4-3ad0-43a5-b1c1-355e71060a00
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
-DESCRIPTION:🌟 Join us for an exhilarating ride like no other as we exper
- ience the magical world of Starlight Express! Book your tickets now for thi
- s electrifying production that will take your breath away...
-DTEND;VALUE=DATE:20251226
-DTSTART;VALUE=DATE:20251226
-SUMMARY:Starlight Express
-UID:36313cd8-bb90-412e-94b4-50a755e1b3e0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
-DESCRIPTION:TicketSwap's got you covered – receive Buzzcocks - London - 
- 100 Club - Nov 30, 2025 tickets safely when buying, get paid swiftly when s
- elling, and enjoy dedicated support!
-DTEND;VALUE=DATE:20251130
-DTSTART;VALUE=DATE:20251130
-SUMMARY:Buzzcocks + Desperate Measures
-UID:36ed0410-4e0d-4ab9-a3c7-6be82d0e073c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
+DTSTAMP:20251201T023724Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251201
 DTSTART;VALUE=DATE:20251201
 SUMMARY:Roxette
-UID:ba9fde0a-1bf5-4c09-8ff2-9ec27f24bdcb
+UID:a1c954d4-e4a9-450d-a2de-3a820b6244ff
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T125448Z
+DTSTAMP:20251201T023724Z
+DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
+DTEND;VALUE=DATE:20251205
+DTSTART;VALUE=DATE:20251205
+SUMMARY:Don Broco
+UID:dd3f7b68-c74b-423a-804f-bf716fb15e4d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T023724Z
 DESCRIPTION:Experience the dazzling spectacle of Starlight Express live on
 DTEND;VALUE=DATE:20251204
 DTSTART;VALUE=DATE:20251204
 SUMMARY:Starlight Express
-UID:7fad1539-2431-43f7-b031-01d4f4f41b34
+UID:2c2ed973-7b6b-4eac-b06c-f2f57a50e5ca
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T023724Z
+DESCRIPTION:Listen to Stallin' by Kojo Funds. See lyrics and music videos, 
+ find Kojo Funds tour dates, buy concert tickets, and more!
+DTEND;VALUE=DATE:20251206
+DTSTART;VALUE=DATE:20251206
+SUMMARY:Kojo Funds - Wembley - BOXPARK Wembley - Dec 6, 2025
+UID:373bc972-929d-4f9a-9cdd-6211dec82ef9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T023724Z
+DESCRIPTION:Get ready to dance the night away at our Bollywood Disco Dandiy
+ a event - a fusion of energetic Bollywood music and traditional Dandiya mov
+ es About this Event Welcome to Bollywood Disco Dandiya!
+DTEND;VALUE=DATE:20251206
+DTSTART;VALUE=DATE:20251206
+SUMMARY:BOLLYWOOD DISCO DANDIYA
+UID:135af786-f45e-4378-9720-4668cff3b883
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T023724Z
+DESCRIPTION:Bazil Meade of the award-winning LCGC presents: Gospel Brunch a
+ t Soul Mama.
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:BRUNCH | Gospel Brunch with The Rev Bazil Meade
+UID:0c1d6edf-3f9e-4324-a9bf-df98952352e7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T023724Z
+DESCRIPTION:Players: Michael van Gerwen Peter Wright Chris Dobey Simon Whit
+ lock Wayne Mardle There will be intervals throughout the event between prof
+ essional darts matches, featuring a stage sporting...
+DTEND;VALUE=DATE:20251205
+DTSTART;VALUE=DATE:20251205
+SUMMARY:A Night At The Darts
+UID:a18192f1-29c2-4639-a271-0f8e5b071235
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T023724Z
+DESCRIPTION:**“JUKAI” EU TOUR 2025** **5:00 PM - VIP Doors + Meet & Gre
+ et 6:00 PM - GA Doors 7:00 PM - Show Starts 8:30 PM - Show Ends 9:00 PM - P
+ olaroid event 10:30 PM – Event Ends** Formed in Tokyo in 2022...
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:DAMNED
+UID:8b6b21cc-5155-49c6-a537-696d702e7125
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T023724Z
+DESCRIPTION:Ross and the Hailstones are a South East London based trio play
+ ing a blend of original and traditional material
+DTEND;VALUE=DATE:20251201
+DTSTART;VALUE=DATE:20251201
+SUMMARY:Ross and The Hailstones
+UID:4c12222c-ae5c-4b90-92c6-319fdb3a0d76
 END:VEVENT
 END:VCALENDAR
