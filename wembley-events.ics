@@ -3,92 +3,94 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
+DTSTAMP:20251203T021759Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251207
 DTSTART;VALUE=DATE:20251207
 SUMMARY:R&B Xmas Ball - Venue Premium Tickets
-UID:fce9952f-f40b-43ce-998f-82bd04abae1e
+UID:9a816850-86a6-4164-8a0d-b52209d810e6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
-DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
-DTEND;VALUE=DATE:20251201
-DTSTART;VALUE=DATE:20251201
-SUMMARY:Roxette
-UID:3b082556-1b2d-4711-a230-435b6a3a47e9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
+DTSTAMP:20251203T021759Z
 DESCRIPTION:There's no pre-party like a BOXPARK pre-party!
 DTEND;VALUE=DATE:20251205
 DTSTART;VALUE=DATE:20251205
 SUMMARY:Don Broco
-UID:3a46eabd-11ab-4a84-9147-6d773360136d
+UID:298d3c76-f235-4ea1-9e2a-2d1ca3d5a49b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
-DESCRIPTION:Experience the dazzling spectacle of Starlight Express live on
-DTEND;VALUE=DATE:20251204
-DTSTART;VALUE=DATE:20251204
-SUMMARY:Starlight Express
-UID:a57f5205-0934-43d1-a6c7-69dc0e9eea18
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
+DTSTAMP:20251203T021759Z
 DESCRIPTION:Listen to Stallin' by Kojo Funds. See lyrics and music videos, 
  find Kojo Funds tour dates, buy concert tickets, and more!
 DTEND;VALUE=DATE:20251206
 DTSTART;VALUE=DATE:20251206
 SUMMARY:Kojo Funds - Wembley - BOXPARK Wembley - Dec 6, 2025
-UID:e8008940-785a-4b36-8627-428ef3577407
+UID:942b5728-abc4-4d29-aaa2-3674362ed191
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
+DTSTAMP:20251203T021759Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251207
+DTSTART;VALUE=DATE:20251207
+SUMMARY:Starlight Express
+UID:b1004a7c-8d30-4dc6-80b1-d2e795e6835d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251203T021759Z
 DESCRIPTION:Get ready to dance the night away at our Bollywood Disco Dandiy
  a event - a fusion of energetic Bollywood music and traditional Dandiya mov
  es About this Event Welcome to Bollywood Disco Dandiya!
 DTEND;VALUE=DATE:20251206
 DTSTART;VALUE=DATE:20251206
 SUMMARY:BOLLYWOOD DISCO DANDIYA
-UID:1dc8dfdc-4a75-4479-8036-888e8ff0a506
+UID:6a5066b9-0f52-49ed-89e2-9260f2d22ab0
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
-DESCRIPTION:Bazil Meade of the award-winning LCGC presents: Gospel Brunch a
- t Soul Mama.
-DTEND;VALUE=DATE:20251207
-DTSTART;VALUE=DATE:20251207
-SUMMARY:BRUNCH | Gospel Brunch with The Rev Bazil Meade
-UID:54d6c39d-897d-4ca9-9b5d-c1e69e0b7fad
+DTSTAMP:20251203T021759Z
+DESCRIPTION:The Starlight Auditorium at Troubadour Wembley Park Theatre is 
+ coming to life with the return of Starlight Express! In spite of finding it
+ s beginnings in failed endeavours, the story of an...
+DTEND;VALUE=DATE:20251210
+DTSTART;VALUE=DATE:20251210
+SUMMARY:Starlight Express
+UID:6f016123-f16f-45de-8759-2a1c07a40a15
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
+DTSTAMP:20251203T021759Z
+DESCRIPTION:Experience the dazzling spectacle of Starlight Express live on
+DTEND;VALUE=DATE:20251204
+DTSTART;VALUE=DATE:20251204
+SUMMARY:Starlight Express
+UID:a21532a2-152f-4f6d-9d89-7f73bcfcebde
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251203T021759Z
 DESCRIPTION:Players: Michael van Gerwen Peter Wright Chris Dobey Simon Whit
  lock Wayne Mardle There will be intervals throughout the event between prof
  essional darts matches, featuring a stage sporting...
 DTEND;VALUE=DATE:20251205
 DTSTART;VALUE=DATE:20251205
 SUMMARY:A Night At The Darts
-UID:9d693fb8-97d9-43bb-ae30-ec349727b1ae
+UID:02eac3fb-9387-45f2-9266-37c21d9d228e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
+DTSTAMP:20251203T021759Z
 DESCRIPTION:**“JUKAI” EU TOUR 2025** **5:00 PM - VIP Doors + Meet & Gre
  et 6:00 PM - GA Doors 7:00 PM - Show Starts 8:30 PM - Show Ends 9:00 PM - P
  olaroid event 10:30 PM – Event Ends** Formed in Tokyo in 2022...
 DTEND;VALUE=DATE:20251207
 DTSTART;VALUE=DATE:20251207
 SUMMARY:DAMNED
-UID:0a1fe9eb-d801-42ab-9fa7-bff11db78a00
+UID:a2d460a7-a37a-4fb1-911c-1bc876d5441b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T130405Z
-DESCRIPTION:Ross and the Hailstones are a South East London based trio play
- ing a blend of original and traditional material
-DTEND;VALUE=DATE:20251201
-DTSTART;VALUE=DATE:20251201
-SUMMARY:Ross and The Hailstones
-UID:9248c2f6-b11b-4fd1-8af9-0f21cc909ad8
+DTSTAMP:20251203T021759Z
+DESCRIPTION:Stand-up comedy show featuring four comedians
+DTEND;VALUE=DATE:20251205
+DTSTART;VALUE=DATE:20251205
+SUMMARY:Friday Stand Up Comedy Club, Covent Garden
+UID:b6c3c240-317a-45a4-9779-abc5185bc196
 END:VEVENT
 END:VCALENDAR
