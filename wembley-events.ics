@@ -3,83 +3,100 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
+DTSTAMP:20251213T021537Z
+DESCRIPTION:Bowling For Soup Teenage years may be fleeting, but it seems 
+ ‘Teenage Dirtbag’ is for life, as Wheatus’ debut single popped up ye
+ t again in 2022, making itself known in a way never seen before in...
 DTEND;VALUE=DATE:20251213
 DTSTART;VALUE=DATE:20251213
 SUMMARY:Punk Rock Factory
-UID:b3b67964-79c4-4f9e-bd3f-d9c0081d1d3a
+UID:8b29163a-347d-4d5c-8268-d3b8f550bf92
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20251212
-DTSTART;VALUE=DATE:20251212
-SUMMARY:Ice Nine Kills
-UID:a8d9613b-ec44-46cd-adda-fb18c0c8a3bb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20251214
-DTSTART;VALUE=DATE:20251214
-SUMMARY:Pradeep Kumar
-UID:505e6eba-7e51-4496-9766-580df2ddf92e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20251214
-DTSTART;VALUE=DATE:20251214
-SUMMARY:Lady Lava
-UID:7d71b700-b31c-4c66-9007-a43e362bd978
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
+DTSTAMP:20251213T021537Z
+DESCRIPTION:Bowling For Soup are Wembley bound! They've headlined festivals
+ , sold out shows the world over, and have never been more popular in their 
+ three decades as a band; Now the Texan pop punk legends...
 DTEND;VALUE=DATE:20251213
 DTSTART;VALUE=DATE:20251213
 SUMMARY:Bowling for Soup
-UID:bd4d706a-404a-48bc-b16c-bfbfdc641d27
+UID:1b5fe486-6cdb-4011-bf77-ac07674db763
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
+DTSTAMP:20251213T021537Z
+DESCRIPTION:Listen to Pallikattu by Pradeep Kumar & Aravind. See lyrics an
+ d music videos, find Pradeep Kumar & Aravind tour dates, buy concert ticket
+ s, and more!
+DTEND;VALUE=DATE:20251214
+DTSTART;VALUE=DATE:20251214
+SUMMARY:Pradeep Kumar
+UID:0b2e95a0-1afa-4d08-b03f-2fca8cb24aa3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251213T021537Z
+DESCRIPTION:Dreamland Events presents ULTRA! Nonstop vibes & chaos! Featuri
+ ng Lil Kerry live with "Bury All" and Lady Lava
+DTEND;VALUE=DATE:20251214
+DTSTART;VALUE=DATE:20251214
+SUMMARY:Lady Lava
+UID:0358ad93-661a-44ff-86a5-49db5f558974
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251213T021537Z
+DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
+  specially designed Starlight Auditorium at Troubadour Wembley Park Theatre
+ . Audiences will be immersed inside a world of speed, song...
 DTEND;VALUE=DATE:20251213
 DTSTART;VALUE=DATE:20251213
 SUMMARY:Starlight Express
-UID:c77417f7-9976-4a79-ad12-13c6bf70b954
+UID:51e412f3-091a-4229-a6f7-b5a40b295084
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20251212
-DTSTART;VALUE=DATE:20251212
-SUMMARY:The Devil Wears Prada
-UID:7edceaf5-1fa2-45f2-976d-ca114380a968
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
+DTSTAMP:20251213T021537Z
+DESCRIPTION:Dreamland Events presents the return of ULTRA, the ultimate sen
+ d off to 2025 and a step into our 10year anniversary season for Dreamland J
+ ouvert 2026!!
 DTEND;VALUE=DATE:20251214
 DTSTART;VALUE=DATE:20251214
 SUMMARY:Ultra
-UID:54c0cc2b-a8b9-4196-b230-7ac5569cd88e
+UID:ecca7d5e-5b55-48b1-8d8d-73bcdb05ffb8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
+DTSTAMP:20251213T021537Z
+DESCRIPTION:Get ready for a night of glitter, bangers, and cocktails that s
+ houldn’t be that strong at Popworld Watling Street in London! 🎉 With 
+ a VERY limited guest list, if your name’s not down, you’re not...
+DTEND;VALUE=DATE:20251213
+DTSTART;VALUE=DATE:20251213
+SUMMARY:What the Pop
+UID:5e9f5f6d-7aa0-4422-872c-484c1c840a8b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251213T021537Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251226
 DTSTART;VALUE=DATE:20251226
 SUMMARY:Starlight Express
-UID:94993be1-7ebf-4449-8af1-8708681b2794
+UID:668eae59-29b7-4942-9409-53f96a7adf8a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T022235Z
-DESCRIPTION:
+DTSTAMP:20251213T021537Z
+DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!
 DTEND;VALUE=DATE:20251219
 DTSTART;VALUE=DATE:20251219
 SUMMARY:Jimmy Carr
-UID:278e9843-c55c-4a55-a3c4-288f1e40c737
+UID:e5b82b8e-4b03-4b69-a7b5-b4bb76e680ac
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251213T021537Z
+DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
+ ril 2026 with very special guest Carl Cox. The World Heavyweight Champions 
+ Re-unite for a tour of straight up ruckus that sees The...
+DTEND;VALUE=DATE:20250424
+DTSTART;VALUE=DATE:20250424
+SUMMARY:The Prodigy
+UID:410b1427-2e89-4d5a-a811-2744a4a8f186
 END:VEVENT
 END:VCALENDAR
