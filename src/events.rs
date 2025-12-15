@@ -1,3 +1,5 @@
+use std::fmt::Display;
+
 use serde::{Deserialize, Serialize};
 
 use crate::SerpapiEvent;
@@ -29,6 +31,16 @@ impl From<SerpapiEvent> for WembleyEvent {
             description: serp_event.description,
             link: serp_event.link,
         }
+    }
+}
+
+impl Display for WembleyEvent {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(
+            f,
+            "Date:{}.\nTime: {}.\nPlace: {}.\nTitle: {}.\nDescription: {}.\nLink: {}.\n",
+            self.date, self.time, self.place, self.title, self.description, self.link
+        )
     }
 }
 

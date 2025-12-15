@@ -1047,23 +1047,23 @@ pub fn serpapi_test_output_json_3_some_fields_missing() -> String {
 pub fn serpapi_test_output_json_4() -> String {
     r##"
       {
-        "args": {}, 
+        "args": {},
         "headers": {
-          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8", 
-          "Accept-Encoding": "gzip, deflate, br", 
-          "Accept-Language": "en-GB,en;q=0.5", 
-          "Dnt": "1", 
-          "Host": "httpbin.org", 
-          "Sec-Fetch-Dest": "document", 
-          "Sec-Fetch-Mode": "navigate", 
-          "Sec-Fetch-Site": "none", 
-          "Sec-Fetch-User": "?1", 
-          "Sec-Gpc": "1", 
-          "Upgrade-Insecure-Requests": "1", 
-          "User-Agent": "Mozilla/5.0 0 Firefox/101.0", 
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+          "Accept-Encoding": "gzip, deflate, br",
+          "Accept-Language": "en-GB,en;q=0.5",
+          "Dnt": "1",
+          "Host": "httpbin.org",
+          "Sec-Fetch-Dest": "document",
+          "Sec-Fetch-Mode": "navigate",
+          "Sec-Fetch-Site": "none",
+          "Sec-Fetch-User": "?1",
+          "Sec-Gpc": "1",
+          "Upgrade-Insecure-Requests": "1",
+          "User-Agent": "Mozilla/5.0 0 Firefox/101.0",
           "X-Amzn-Trace-Id": "Root=1-62aee3e4-1e43e58103263fc73f548b84"
-        }, 
-        "origin": "0.0.0.0", 
+        },
+        "origin": "0.0.0.0",
         "url": "https://httpbin.org/get"
       }
     "##
@@ -1074,14 +1074,14 @@ pub fn serpapi_test_output_json_4() -> String {
 pub fn serpapi_test_output_json_5() -> String {
     r##"
       {
-        "args": {}, 
+        "args": {},
         "headers": {
-          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8", 
-          "Accept-Encoding": "gzip, deflate, br", 
-          "Accept-Language": "en-GB,en;q=0.5", 
-          "Dnt": "1", 
-          "Host": "httpbin.org", 
-          "Sec-Fetch-Dest": "document", 
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+          "Accept-Encoding": "gzip, deflate, br",
+          "Accept-Language": "en-GB,en;q=0.5",
+          "Dnt": "1",
+          "Host": "httpbin.org",
+          "Sec-Fetch-Dest": "document",
     "##
     .to_string()
 }
@@ -1276,6 +1276,165 @@ pub fn serpapi_test_output_json_7_one_bad_json_event() -> String {
       "address": [
         "Wembley Stadium",
         "London, United Kingdom"
+  ]
+}
+    "##.to_string()
+}
+
+#[cfg(test)]
+pub fn serpapi_test_output_json_8_mixed_wembley_non_wembley() -> String {
+    r##"
+{
+  "search_metadata": {
+    "id": "629b5785af5af14447fa62f6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/68c91323104d0721/629b5785af5af14447fa62f6.json",
+    "created_at": "2022-06-04 13:00:53 UTC",
+    "processed_at": "2022-06-04 13:00:53 UTC",
+    "google_events_url": "https://www.google.com/search?q=Events+in+wembley&ibp=htl;events&uule=w+CAIQICIeV2VtYmxleSxFbmdsYW5kLFVuaXRlZCBLaW5nZG9t&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/68c91323104d0721/629b5785af5af14447fa62f6.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "q": "Events in london",
+    "engine": "google_events",
+    "location_requested": "London, England, United Kingdom",
+    "location_used": "London,England,United Kingdom"
+  },
+  "search_information": {
+    "events_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "Concert at Wembley",
+      "date": {
+        "start_date": "Jun 19",
+        "when": "Sun, Jun 19"
+      },
+      "address": [
+        "Club Wembley, Wembley Stadium",
+        "London, United Kingdom"
+      ],
+      "link": "https://www.example.com/wembley-event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=test",
+        "link": "https://www.google.com/maps/place/test",
+        "serpapi_link": "https://serpapi.com/search.json"
+      },
+      "description": "A concert taking place at Wembley Stadium",
+      "ticket_info": [],
+      "venue": {
+        "name": "Wembley Stadium",
+        "rating": 4.5,
+        "reviews": 255,
+        "link": "https://www.google.com/search?hl=en&q=Wembley+Stadium"
+      },
+      "thumbnail": "https://example.com/thumb.jpg"
+    },
+    {
+      "title": "Event at O2 Arena",
+      "date": {
+        "start_date": "Jun 20",
+        "when": "Mon, Jun 20"
+      },
+      "address": [
+        "O2 Arena",
+        "London, United Kingdom"
+      ],
+      "link": "https://www.example.com/o2-event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=test",
+        "link": "https://www.google.com/maps/place/test",
+        "serpapi_link": "https://serpapi.com/search.json"
+      },
+      "description": "A concert at the O2 Arena",
+      "ticket_info": [],
+      "venue": {
+        "name": "O2 Arena",
+        "rating": 4.5,
+        "reviews": 1000,
+        "link": "https://www.google.com/search?hl=en&q=O2+Arena"
+      },
+      "thumbnail": "https://example.com/thumb2.jpg"
+    },
+    {
+      "title": "Event in WEMBLEY Park",
+      "date": {
+        "start_date": "Jun 21",
+        "when": "Tue, Jun 21"
+      },
+      "address": [
+        "Hyde Park",
+        "London, United Kingdom"
+      ],
+      "link": "https://www.example.com/park-event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=test",
+        "link": "https://www.google.com/maps/place/test",
+        "serpapi_link": "https://serpapi.com/search.json"
+      },
+      "description": "An outdoor concert in the park area",
+      "ticket_info": [],
+      "venue": {
+        "name": "Hyde Park",
+        "rating": 4.7,
+        "reviews": 500,
+        "link": "https://www.google.com/search?hl=en&q=Hyde+Park"
+      },
+      "thumbnail": "https://example.com/thumb3.jpg"
+    },
+    {
+      "title": "London Eye Tour",
+      "date": {
+        "start_date": "Jun 22",
+        "when": "Wed, Jun 22"
+      },
+      "address": [
+        "London Eye",
+        "London, United Kingdom"
+      ],
+      "link": "https://www.example.com/eye-event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=test",
+        "link": "https://www.google.com/maps/place/test",
+        "serpapi_link": "https://serpapi.com/search.json"
+      },
+      "description": "Visit the famous London attraction featuring the best wembley views across the city",
+      "ticket_info": [],
+      "venue": {
+        "name": "London Eye",
+        "rating": 4.6,
+        "reviews": 2000,
+        "link": "https://www.google.com/search?hl=en&q=London+Eye"
+      },
+      "thumbnail": "https://example.com/thumb4.jpg"
+    },
+    {
+      "title": "Tower Bridge Event",
+      "date": {
+        "start_date": "Jun 23",
+        "when": "Thu, Jun 23"
+      },
+      "address": [
+        "Tower Bridge",
+        "London, United Kingdom"
+      ],
+      "link": "https://www.example.com/bridge-event",
+      "event_location_map": {
+        "image": "https://www.google.com/maps/vt/data=test",
+        "link": "https://www.google.com/maps/place/test",
+        "serpapi_link": "https://serpapi.com/search.json"
+      },
+      "description": "Historic bridge tour and exhibition",
+      "ticket_info": [],
+      "venue": {
+        "name": "Tower Bridge",
+        "rating": 4.8,
+        "reviews": 1500,
+        "link": "https://www.google.com/search?hl=en&q=Tower+Bridge"
+      },
+      "thumbnail": "https://example.com/thumb5.jpg"
+    }
   ]
 }
     "##.to_string()
