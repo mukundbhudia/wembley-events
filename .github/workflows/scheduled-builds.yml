@@ -22,7 +22,7 @@ jobs:
         run: |
           ./wembley-events
         env:
-          CALENDAR_URL: "https://serpapi.com/search.json?engine=google_events&q=Events+in+wembley&location=Wembley%2C+England%2C+United+Kingdom&api_key="
+          CALENDAR_URL: "https://serpapi.com/search.json?engine=google_events&q=Events+in+wembley&location=Wembley%2C+England%2C+United+Kingdom&hl=en&gl=uk&api_key="
           CALENDAR_SAVE_PATH: "output/wembley-events.ics"
           CALENDAR_JSON_SAVE_PATH: "output/wembley-events.json"
           SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
