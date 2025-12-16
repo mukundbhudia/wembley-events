@@ -3,103 +3,81 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
-DESCRIPTION:If you like fast-paced, edgy one-liners then get ready to be ha
- ppy. Jimmy Carr is going back on tour with his brand-new show 'Jimmy Carr: 
- Laughs Funny'. Jimmy tells jokes, and jokes are like...
-DTEND;VALUE=DATE:20251219
-DTSTART;VALUE=DATE:20251219
-SUMMARY:Jimmy Carr
-UID:8d5ddb8f-fa4e-4d91-8f75-c39508986c4d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
+DTSTAMP:20251216T022323Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251220
 DTSTART;VALUE=DATE:20251220
 SUMMARY:Starlight Express
-UID:41d42d83-9abb-4292-b87b-0c86604effd9
+UID:10baaeac-b06e-4ba0-8f60-9517d8e7c42c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
+DTSTAMP:20251216T022323Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251217
 DTSTART;VALUE=DATE:20251217
 SUMMARY:Starlight Express
-UID:99443b0f-da3d-42b8-a96d-8fba58b0561c
+UID:dff89366-f698-4c7e-9e4e-5a4adce273da
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
+DTSTAMP:20251216T022323Z
+DESCRIPTION:If you like fast-paced, edgy one-liners then get ready to be ha
+ ppy. Jimmy Carr is going back on tour with his brand-new show 'Jimmy Carr: 
+ Laughs Funny'. Jimmy tells jokes, and jokes are like...
+DTEND;VALUE=DATE:20251219
+DTSTART;VALUE=DATE:20251219
+SUMMARY:Jimmy Carr Londres
+UID:1a2e26a1-44cb-4146-8911-93c5b5c1d738
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251216T022323Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20251216
+DTSTART;VALUE=DATE:20251216
+SUMMARY:Falling In Reverse
+UID:9dc3048e-3a7b-4fe3-96e6-1d78fd3bab88
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251216T022323Z
+DESCRIPTION:Get into the groove this festive season at BOXPARK. FESTIVE JAZ
+ Z CLUB brings the sound of classic jazz, live sax & keys, and seasonal cock
+ tails to your winter nights. FOR 2 (2X DRINK & 2X FOOD...
+DTEND;VALUE=DATE:20251221
+DTSTART;VALUE=DATE:20251221
+SUMMARY:FESTIVE JAZZ CLUB
+UID:ce8e36a3-d075-493a-9bbf-6fa5f517ab08
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251216T022323Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20250108
 DTSTART;VALUE=DATE:20250108
 SUMMARY:Starlight Express
-UID:61d54500-9956-407c-a290-9ee305ad8112
+UID:0d95dca8-9f36-49c9-9b86-7e22252d5382
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
+DTSTAMP:20251216T022323Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251226
 DTSTART;VALUE=DATE:20251226
 SUMMARY:Starlight Express
-UID:3653ff72-f7d1-4270-95f8-d56a89a5b210
+UID:7883be4a-29b8-4250-a3b8-5baa5a3e9e8d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
-DESCRIPTION:A night of music, magic & moments to remember with Loie ꕤ —
-  limited spots, grab your tickets now! ✨ A Night with Loie ✨ Come spend
-  an intimate candle lit evening with Loie at the beautiful St...
-DTEND;VALUE=DATE:20251215
-DTSTART;VALUE=DATE:20251215
-SUMMARY:A Night With Loie
-UID:01a06079-e243-44c1-bea5-edf649954ac6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
-DESCRIPTION:The Music The influx to America of European emigré composers d
- uring World War II brought about a revolution in film music. Suddenly, top 
- studios had the pick of richly scored, high-Romantic...
-DTEND;VALUE=DATE:20251218
-DTSTART;VALUE=DATE:20251218
-SUMMARY:Best of Hollywood
-UID:f77f9abe-e5c9-449a-9f22-2206eb0a7981
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
-DESCRIPTION:Bow & Bellows are a stunningly versatile violin, horn and accor
- dion duo. They play and sing their own compelling arrangements of Klezmer, 
- Balkan and Gypsy music with occasional sorties to savour...
-DTEND;VALUE=DATE:20251220
-DTSTART;VALUE=DATE:20251220
-SUMMARY:Bows @ Green Note
-UID:09a3178c-fadf-4a3a-8874-383520adee08
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
-DESCRIPTION:David Tao (陶喆) is a multi-award-winning Taiwanese-American 
- singer, songwriter, and producer, widely regarded as one of the pioneers of
-  Mandarin R&B and a defining voice in modern Chinese pop...
-DTEND;VALUE=DATE:20250110
-DTSTART;VALUE=DATE:20250110
-SUMMARY:David Tao
-UID:27b8dd6e-d778-45d8-8dcc-3cb86ee39d06
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251215T022705Z
-DESCRIPTION:A fun, interactive and festive performance for children, incorp
- orating music from Tchaikovsky’s Nutcracker, stories, song, and musical g
- ames. Join Trio Taliesin to hear four pieces from...
-DTEND;VALUE=DATE:20251220
-DTSTART;VALUE=DATE:20251220
-SUMMARY:Trio Taliesin's Cosy Christmas Soirée
-UID:4aa0f321-468a-4b54-b53b-d9f261335da6
+DTSTAMP:20251216T022323Z
+DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
+ ril 2026 with very special guest Carl Cox. The World Heavyweight Champions 
+ Re-unite for a tour of straight up ruckus that sees The...
+DTEND;VALUE=DATE:20250424
+DTSTART;VALUE=DATE:20250424
+SUMMARY:The Prodigy
+UID:68afaf5e-00bf-4e61-850a-fa11fd48efa6
 END:VEVENT
 END:VCALENDAR
