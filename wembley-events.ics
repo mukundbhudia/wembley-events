@@ -3,81 +3,73 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251216T022323Z
+DTSTAMP:20251216T130534Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251220
 DTSTART;VALUE=DATE:20251220
 SUMMARY:Starlight Express
-UID:10baaeac-b06e-4ba0-8f60-9517d8e7c42c
+UID:bc153c70-829d-490a-8b58-40a753b90872
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T022323Z
+DTSTAMP:20251216T130534Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251217
 DTSTART;VALUE=DATE:20251217
 SUMMARY:Starlight Express
-UID:dff89366-f698-4c7e-9e4e-5a4adce273da
+UID:a868cfad-26e5-4cb2-a591-792f17dfea0b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T022323Z
+DTSTAMP:20251216T130534Z
 DESCRIPTION:If you like fast-paced, edgy one-liners then get ready to be ha
  ppy. Jimmy Carr is going back on tour with his brand-new show 'Jimmy Carr: 
  Laughs Funny'. Jimmy tells jokes, and jokes are like...
 DTEND;VALUE=DATE:20251219
 DTSTART;VALUE=DATE:20251219
 SUMMARY:Jimmy Carr Londres
-UID:1a2e26a1-44cb-4146-8911-93c5b5c1d738
+UID:271dc331-12b8-4b70-a4c3-68ee774d5bdf
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T022323Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20251216
-DTSTART;VALUE=DATE:20251216
-SUMMARY:Falling In Reverse
-UID:9dc3048e-3a7b-4fe3-96e6-1d78fd3bab88
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251216T022323Z
+DTSTAMP:20251216T130534Z
 DESCRIPTION:Get into the groove this festive season at BOXPARK. FESTIVE JAZ
  Z CLUB brings the sound of classic jazz, live sax & keys, and seasonal cock
  tails to your winter nights. FOR 2 (2X DRINK & 2X FOOD...
 DTEND;VALUE=DATE:20251221
 DTSTART;VALUE=DATE:20251221
 SUMMARY:FESTIVE JAZZ CLUB
-UID:ce8e36a3-d075-493a-9bbf-6fa5f517ab08
+UID:19f70638-a774-4072-8e76-30b288680be3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T022323Z
+DTSTAMP:20251216T130534Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20250108
 DTSTART;VALUE=DATE:20250108
 SUMMARY:Starlight Express
-UID:0d95dca8-9f36-49c9-9b86-7e22252d5382
+UID:a97b6d57-bbe9-4630-bf0f-7218c5e4d6f4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T022323Z
+DTSTAMP:20251216T130534Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251226
 DTSTART;VALUE=DATE:20251226
 SUMMARY:Starlight Express
-UID:7883be4a-29b8-4250-a3b8-5baa5a3e9e8d
+UID:662948de-6ea1-4045-b934-c901d9516234
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T022323Z
+DTSTAMP:20251216T130534Z
 DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
  ril 2026 with very special guest Carl Cox. The World Heavyweight Champions 
  Re-unite for a tour of straight up ruckus that sees The...
 DTEND;VALUE=DATE:20250424
 DTSTART;VALUE=DATE:20250424
 SUMMARY:The Prodigy
-UID:68afaf5e-00bf-4e61-850a-fa11fd48efa6
+UID:324e0283-9599-46f3-9d30-fa1f1a84bc03
 END:VEVENT
 END:VCALENDAR
