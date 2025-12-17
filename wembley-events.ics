@@ -3,93 +3,83 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251217T021834Z
+DTSTAMP:20251217T130527Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251217
 DTSTART;VALUE=DATE:20251217
 SUMMARY:Starlight Express
-UID:c0db596d-f4fb-4786-8e8f-85bcdc453e6a
+UID:eca257f0-c051-4e79-8eb0-3f89fef7f7be
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251217T021834Z
+DTSTAMP:20251217T130527Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251221
 DTSTART;VALUE=DATE:20251221
 SUMMARY:Starlight Express
-UID:c17d7453-e87c-4963-a6fa-3709fce418f6
+UID:2538cc79-d426-43eb-a635-8de5f9d46a6d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251217T021834Z
+DTSTAMP:20251217T130527Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251218
 DTSTART;VALUE=DATE:20251218
 SUMMARY:Starlight Express
-UID:14bbdee2-5f67-4e2f-bea8-34d76c0227ec
+UID:e0821fe7-ac74-446f-a981-8ced429395f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251217T021834Z
+DTSTAMP:20251217T130527Z
 DESCRIPTION:If you like fast-paced, edgy one-liners then get ready to be ha
  ppy. Jimmy Carr is going back on tour with his brand-new show 'Jimmy Carr: 
  Laughs Funny'. Jimmy tells jokes, and jokes are like...
 DTEND;VALUE=DATE:20251219
 DTSTART;VALUE=DATE:20251219
 SUMMARY:Jimmy Carr Londres
-UID:bfe6d9a3-4093-464f-b699-bf04e05b5b68
+UID:8d49d1e7-3d21-4409-9737-e6f7687fdc79
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251217T021834Z
+DTSTAMP:20251217T130527Z
 DESCRIPTION:Get into the groove this festive season at BOXPARK. FESTIVE JAZ
  Z CLUB brings the sound of classic jazz, live sax & keys, and seasonal cock
  tails to your winter nights. FOR 2 (2X DRINK & 2X FOOD...
 DTEND;VALUE=DATE:20251221
 DTSTART;VALUE=DATE:20251221
 SUMMARY:FESTIVE JAZZ CLUB
-UID:c91ae0a9-1daa-4bfe-ac13-8d838ac3c6cc
+UID:1d5f27ad-60ba-46cb-b1ac-f99653e371ad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251217T021834Z
-DESCRIPTION:As a child's train set magically comes to life and the engines 
- race to become the fastest in the world, Rusty the steam train has little h
- ope of winning until he is inspired by the legend of the...
-DTEND;VALUE=DATE:20250102
-DTSTART;VALUE=DATE:20250102
-SUMMARY:Starlight Express
-UID:c88d4ee1-0a39-4497-baf2-2cf28ded2335
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251217T021834Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
+DTSTAMP:20251217T130527Z
+DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opens summer 2024 in 
+ the specially designed Starlight Auditorium at Troubadour Wembley Park Thea
+ tre. Audiences will be immersed inside a world of speed...
 DTEND;VALUE=DATE:20250108
 DTSTART;VALUE=DATE:20250108
 SUMMARY:Starlight Express
-UID:b61cb30b-98af-48e1-b293-7c2800d585f5
+UID:7cec545e-c6d1-4218-a1ec-8ea2bc713039
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251217T021834Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251226
-DTSTART;VALUE=DATE:20251226
-SUMMARY:Starlight Express
-UID:bc3f0804-702a-40b4-b580-8c479e299dab
+DTSTAMP:20251217T130527Z
+DESCRIPTION:Nearly twenty years into her ever-evolving career, London and L
+ A-based, Brit award-winning singer, songwriter, actor and activist Kate Nas
+ h has seen it all, from finding huge commercial success in...
+DTEND;VALUE=DATE:20250311
+DTSTART;VALUE=DATE:20250311
+SUMMARY:Kate Nash @ OVO Arena Wembley
+UID:96bcca14-3b0d-4cf0-b82a-e7c38a2c93fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251217T021834Z
+DTSTAMP:20251217T130527Z
 DESCRIPTION:David Tao (陶喆) is a multi-award-winning Taiwanese-American 
  singer, songwriter, and producer, widely regarded as one of the pioneers of
   Mandarin R&B and a defining voice in modern Chinese pop...
 DTEND;VALUE=DATE:20250110
 DTSTART;VALUE=DATE:20250110
 SUMMARY:David Tao
-UID:410d98d1-6726-4db6-aea5-d8ba400fc6b4
+UID:c806f009-44b9-4fe2-9365-5c532c2a16ec
 END:VEVENT
 END:VCALENDAR
