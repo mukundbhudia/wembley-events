@@ -3,73 +3,93 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251216T130534Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251220
-DTSTART;VALUE=DATE:20251220
-SUMMARY:Starlight Express
-UID:bc153c70-829d-490a-8b58-40a753b90872
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251216T130534Z
+DTSTAMP:20251217T021834Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251217
 DTSTART;VALUE=DATE:20251217
 SUMMARY:Starlight Express
-UID:a868cfad-26e5-4cb2-a591-792f17dfea0b
+UID:c0db596d-f4fb-4786-8e8f-85bcdc453e6a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T130534Z
+DTSTAMP:20251217T021834Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251221
+DTSTART;VALUE=DATE:20251221
+SUMMARY:Starlight Express
+UID:c17d7453-e87c-4963-a6fa-3709fce418f6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251217T021834Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251218
+DTSTART;VALUE=DATE:20251218
+SUMMARY:Starlight Express
+UID:14bbdee2-5f67-4e2f-bea8-34d76c0227ec
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251217T021834Z
 DESCRIPTION:If you like fast-paced, edgy one-liners then get ready to be ha
  ppy. Jimmy Carr is going back on tour with his brand-new show 'Jimmy Carr: 
  Laughs Funny'. Jimmy tells jokes, and jokes are like...
 DTEND;VALUE=DATE:20251219
 DTSTART;VALUE=DATE:20251219
 SUMMARY:Jimmy Carr Londres
-UID:271dc331-12b8-4b70-a4c3-68ee774d5bdf
+UID:bfe6d9a3-4093-464f-b699-bf04e05b5b68
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T130534Z
+DTSTAMP:20251217T021834Z
 DESCRIPTION:Get into the groove this festive season at BOXPARK. FESTIVE JAZ
  Z CLUB brings the sound of classic jazz, live sax & keys, and seasonal cock
  tails to your winter nights. FOR 2 (2X DRINK & 2X FOOD...
 DTEND;VALUE=DATE:20251221
 DTSTART;VALUE=DATE:20251221
 SUMMARY:FESTIVE JAZZ CLUB
-UID:19f70638-a774-4072-8e76-30b288680be3
+UID:c91ae0a9-1daa-4bfe-ac13-8d838ac3c6cc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T130534Z
+DTSTAMP:20251217T021834Z
+DESCRIPTION:As a child's train set magically comes to life and the engines 
+ race to become the fastest in the world, Rusty the steam train has little h
+ ope of winning until he is inspired by the legend of the...
+DTEND;VALUE=DATE:20250102
+DTSTART;VALUE=DATE:20250102
+SUMMARY:Starlight Express
+UID:c88d4ee1-0a39-4497-baf2-2cf28ded2335
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251217T021834Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20250108
 DTSTART;VALUE=DATE:20250108
 SUMMARY:Starlight Express
-UID:a97b6d57-bbe9-4630-bf0f-7218c5e4d6f4
+UID:b61cb30b-98af-48e1-b293-7c2800d585f5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T130534Z
+DTSTAMP:20251217T021834Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251226
 DTSTART;VALUE=DATE:20251226
 SUMMARY:Starlight Express
-UID:662948de-6ea1-4045-b934-c901d9516234
+UID:bc3f0804-702a-40b4-b580-8c479e299dab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251216T130534Z
-DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
- ril 2026 with very special guest Carl Cox. The World Heavyweight Champions 
- Re-unite for a tour of straight up ruckus that sees The...
-DTEND;VALUE=DATE:20250424
-DTSTART;VALUE=DATE:20250424
-SUMMARY:The Prodigy
-UID:324e0283-9599-46f3-9d30-fa1f1a84bc03
+DTSTAMP:20251217T021834Z
+DESCRIPTION:David Tao (陶喆) is a multi-award-winning Taiwanese-American 
+ singer, songwriter, and producer, widely regarded as one of the pioneers of
+  Mandarin R&B and a defining voice in modern Chinese pop...
+DTEND;VALUE=DATE:20250110
+DTSTART;VALUE=DATE:20250110
+SUMMARY:David Tao
+UID:410d98d1-6726-4db6-aea5-d8ba400fc6b4
 END:VEVENT
 END:VCALENDAR
