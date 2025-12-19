@@ -3,82 +3,82 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251219T022209Z
+DTSTAMP:20251219T130151Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251220
 DTSTART;VALUE=DATE:20251220
 SUMMARY:Starlight Express
-UID:6944d0ea-7dfd-4bee-9f8e-05b34f274332
+UID:2a42942d-c014-4e0e-9133-2e92ab107f87
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251219T022209Z
+DTSTAMP:20251219T130151Z
 DESCRIPTION:If you like fast-paced, edgy one-liners then get ready to be ha
  ppy. Jimmy Carr is going back on tour with his brand-new show 'Jimmy Carr: 
  Laughs Funny'. Jimmy tells jokes, and jokes are like...
 DTEND;VALUE=DATE:20251219
 DTSTART;VALUE=DATE:20251219
-SUMMARY:Jimmy Carr Londres
-UID:7482ad3a-9466-4cda-8d93-ec22289a0d8b
+SUMMARY:Jimmy Carr
+UID:9229ba6f-659f-432f-9f37-f004d6b918c9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251219T022209Z
-DESCRIPTION:Get into the groove this festive season at BOXPARK. FESTIVE JAZ
- Z CLUB brings the sound of classic jazz, live sax & keys, and seasonal cock
- tails to your winter nights. FOR 2 (2X DRINK & 2X FOOD...
-DTEND;VALUE=DATE:20251221
-DTSTART;VALUE=DATE:20251221
-SUMMARY:FESTIVE JAZZ CLUB
-UID:c70a154a-e066-4a33-8586-50d0bb01c33e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251219T022209Z
-DESCRIPTION:As a child's train set magically comes to life and the engines 
- race to become the fastest in the world, Rusty the steam train has little h
- ope of winning until he is inspired by the legend of the...
-DTEND;VALUE=DATE:20250102
-DTSTART;VALUE=DATE:20250102
+DTSTAMP:20251219T130151Z
+DESCRIPTION:Get ready to ring in 2026 with the dazzling musical Starlight E
+ xpress at the Troubadour Wembley Park Theatre in London. The show starts a
+ t 4:30 PM on Wednesday, 31 December 2025, offering a...
+DTEND;VALUE=DATE:20251231
+DTSTART;VALUE=DATE:20251231
 SUMMARY:Starlight Express
-UID:aa118535-03d6-4bb3-858b-ab7bd3b2ca11
+UID:d7e85456-86e8-4ce3-a939-4e3e850249d5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251219T022209Z
-DESCRIPTION:Starlight Express tickets – Tue, 23 Dec 2025, 2:30 pm at Trou
- badour Wembley Park Theatre
-DTEND;VALUE=DATE:20251223
-DTSTART;VALUE=DATE:20251223
+DTSTAMP:20251219T130151Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251227
+DTSTART;VALUE=DATE:20251227
 SUMMARY:Starlight Express
-UID:9feda5dd-bd92-49ce-a442-4d14b3786232
+UID:f9da53ac-8393-4eaa-a915-f310d9c50060
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251219T022209Z
+DTSTAMP:20251219T130151Z
 DESCRIPTION:Nearly twenty years into her ever-evolving career, London and L
  A-based, Brit award-winning singer, songwriter, actor and activist Kate Nas
  h has seen it all, from finding huge commercial success in...
 DTEND;VALUE=DATE:20250311
 DTSTART;VALUE=DATE:20250311
 SUMMARY:Kate Nash @ OVO Arena Wembley
-UID:faf553dc-b95a-4b7f-9627-044b4e14cd60
+UID:2747022d-e5c2-4cd0-8a6e-973435e7b1fa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251219T022209Z
+DTSTAMP:20251219T130151Z
+DESCRIPTION:Starlight Express tickets – Tue, 23 Dec 2025, 2:30 pm at Trou
+ badour Wembley Park Theatre
+DTEND;VALUE=DATE:20251223
+DTSTART;VALUE=DATE:20251223
+SUMMARY:Starlight Express
+UID:ce751827-03d1-4774-9d39-c6c6206b3722
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251219T130151Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20251228
+DTSTART;VALUE=DATE:20251228
+SUMMARY:Starlight Express
+UID:2cd3673c-d7be-4c42-9b8d-6db52a2932d0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251219T130151Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opens summer 2024 in 
  the specially designed Starlight Auditorium at Troubadour Wembley Park Thea
  tre. Audiences will be immersed inside a world of speed...
 DTEND;VALUE=DATE:20250108
 DTSTART;VALUE=DATE:20250108
 SUMMARY:Starlight Express
-UID:31bf7eb4-a70b-4548-b828-2b5d56a916cc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251219T022209Z
-DESCRIPTION:David Tao (陶喆) is a multi-award-winning Taiwanese-American 
- singer, songwriter, and producer, widely regarded as one of the pioneers of
-  Mandarin R&B and a defining voice in modern Chinese pop...
-DTEND;VALUE=DATE:20250110
-DTSTART;VALUE=DATE:20250110
-SUMMARY:David Tao
-UID:fbbec0fe-e41b-46bd-aa4f-9b03b51a81ae
+UID:e11ec703-f642-4ffa-9557-79506e396b24
 END:VEVENT
 END:VCALENDAR
