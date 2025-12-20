@@ -22,11 +22,65 @@ impl WembleyEvents {
         &self.events
     }
 
+    /// Infers the correct year for an event based on its month.
+    ///
+    /// If the event month is significantly earlier than the current month (>3 months in the past),
+    /// we assume the event is scheduled for next year. This handles the common case where
+    /// events are listed in December for January of the following year.
+    fn infer_event_year(month_str: &str, base_year: i32, current_month: u32) -> i32 {
+        let event_month = match month_str {
+            "Jan" => 1,
+            "Feb" => 2,
+            "Mar" => 3,
+            "Apr" => 4,
+            "May" => 5,
+            "Jun" => 6,
+            "Jul" => 7,
+            "Aug" => 8,
+            "Sep" => 9,
+            "Oct" => 10,
+            "Nov" => 11,
+            "Dec" => 12,
+            _ => return base_year, // Unknown month, use base year
+        };
+
+        // If event month is more than 3 months in the past, assume it's for next year
+        // For example: If it's December (12) and event is in January (1), that's 11 months back,
+        // so we assume next year
+        let month_diff = if current_month >= event_month {
+            current_month - event_month
+        } else {
+            // Event month is ahead, it's in the future this year
+            return base_year;
+        };
+
+        // If the event appears to be more than 3 months in the past, assume next year
+        if month_diff > 3 {
+            base_year + 1
+        } else {
+            base_year
+        }
+    }
+
     pub fn build_events_from_html(mut self, html: String) -> WembleyEvents {
         let serp_api_events = serde_json::from_str::<SerpapiEvents>(&html).unwrap_or_default();
 
-        let mut year = serp_api_events.search_metadata.created_at;
-        year.truncate(4);
+        // Extract base year and month from API call timestamp
+        let created_at = &serp_api_events.search_metadata.created_at;
+        let now = Utc::now();
+
+        let base_year = if created_at.len() >= 4 {
+            created_at[0..4].parse::<i32>().unwrap_or(now.year())
+        } else {
+            now.year()
+        };
+
+        // Extract month from created_at (format: "2022-06-04 13:00:53 UTC")
+        let api_call_month = if created_at.len() >= 7 {
+            created_at[5..7].parse::<u32>().unwrap_or(now.month())
+        } else {
+            now.month()
+        };
 
         self.events = serp_api_events
             .events_results
@@ -34,7 +88,12 @@ impl WembleyEvents {
             .map(|mut e| {
                 let mut swapped_date = e.date.start_date.split_whitespace().collect::<Vec<&str>>();
                 if swapped_date.len() >= 2 {
-                    swapped_date.push(&year);
+                    // Infer the correct year based on the event month
+                    let inferred_year =
+                        Self::infer_event_year(swapped_date[0], base_year, api_call_month);
+                    let year_str = inferred_year.to_string();
+
+                    swapped_date.push(&year_str);
                     swapped_date.swap(0, 1); // swap [month, day] to [day, month]
 
                     e.date.start_date = swapped_date.join(" ");
@@ -46,7 +105,7 @@ impl WembleyEvents {
                 let description_lower = e.description.to_lowercase();
                 place_lower.contains("wembley") || description_lower.contains("wembley")
             })
-            .inspect(|e: &WembleyEvent| println!("place: {:#}", e))
+            .inspect(|e: &WembleyEvent| println!("Event found...\n{:#}", e))
             .enumerate()
             .collect::<BTreeMap<usize, WembleyEvent>>();
 
@@ -211,5 +270,55 @@ mod tests {
             found_uppercase || found_lowercase,
             "Should find events with both uppercase and lowercase 'wembley'"
         );
+    }
+
+    #[test]
+    fn test_infer_event_year_same_month() {
+        // Event in the same month should use base year
+        let result = WembleyEvents::infer_event_year("Dec", 2025, 12);
+        assert_eq!(result, 2025);
+    }
+
+    #[test]
+    fn test_infer_event_year_future_month() {
+        // Event in a future month should use base year
+        let result = WembleyEvents::infer_event_year("Jun", 2025, 3);
+        assert_eq!(result, 2025);
+    }
+
+    #[test]
+    fn test_infer_event_year_recent_past() {
+        // Event 1-3 months in the past should still use base year
+        let result = WembleyEvents::infer_event_year("Sep", 2025, 12);
+        assert_eq!(result, 2025);
+    }
+
+    #[test]
+    fn test_infer_event_year_far_past() {
+        // Event more than 3 months in the past should use next year
+        // If it's December and event is in January (11 months back), assume next year
+        let result = WembleyEvents::infer_event_year("Jan", 2025, 12);
+        assert_eq!(result, 2026);
+    }
+
+    #[test]
+    fn test_infer_event_year_edge_case_march() {
+        // Event 4 months in the past should use next year
+        let result = WembleyEvents::infer_event_year("Mar", 2025, 7);
+        assert_eq!(result, 2026);
+    }
+
+    #[test]
+    fn test_infer_event_year_unknown_month() {
+        // Unknown month should fallback to base year
+        let result = WembleyEvents::infer_event_year("Invalid", 2025, 6);
+        assert_eq!(result, 2025);
+    }
+
+    #[test]
+    fn test_infer_event_year_real_world_scenario() {
+        // Real scenario: It's June 2022, event shows "Jun 19"
+        let result = WembleyEvents::infer_event_year("Jun", 2022, 6);
+        assert_eq!(result, 2022);
     }
 }
