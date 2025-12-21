@@ -3,72 +3,92 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251220T125637Z
+DTSTAMP:20251221T022914Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251220
-DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+DTSTART;VALUE=DATE:20251221
 SUMMARY:Starlight Express
-UID:a40f6ae9-9616-4f3f-b263-93debe40ff54
+UID:089233a0-398c-46fd-bde7-ecc0caec3327
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251220T125637Z
-DESCRIPTION:Get ready to ring in 2026 with the dazzling musical Starlight E
- xpress at the Troubadour Wembley Park Theatre in London. The show starts a
- t 4:30 PM on Wednesday, 31 December 2025, offering a...
-DTEND;VALUE=DATE:20251231
-DTSTART;VALUE=DATE:20251231
+DTSTAMP:20251221T022914Z
+DESCRIPTION:As a child's train set magically comes to life and the engines 
+ race to become the fastest in the world, Rusty the steam train has little h
+ ope of winning until he is inspired by the legend of the...
+DTEND;VALUE=DATE:20260102
+DTSTART;VALUE=DATE:20260102
 SUMMARY:Starlight Express
-UID:e99a6ef9-6b54-4509-9562-af133cab662b
+UID:e7e9f7ba-13d8-4370-ad90-92ef769176c1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251220T125637Z
+DTSTAMP:20251221T022914Z
+DESCRIPTION:Nearly twenty years into her ever-evolving career, London and L
+ A-based, Brit award-winning singer, songwriter, actor and activist Kate Nas
+ h has seen it all, from finding huge commercial success in...
+DTEND;VALUE=DATE:20260311
+DTSTART;VALUE=DATE:20260311
+SUMMARY:Kate Nash @ OVO Arena Wembley
+UID:977f227a-bdd9-421a-861e-59ef862a89ae
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251221T022914Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251227
 DTSTART;VALUE=DATE:20251227
 SUMMARY:Starlight Express
-UID:431545fd-f971-4593-ae00-ac6c5b188ffa
+UID:d7988096-eadb-410a-b0b5-5a65efeb6364
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251220T125637Z
-DESCRIPTION:Nearly twenty years into her ever-evolving career, London and L
- A-based, Brit award-winning singer, songwriter, actor and activist Kate Nas
- h has seen it all, from finding huge commercial success in...
-DTEND;VALUE=DATE:20250311
-DTSTART;VALUE=DATE:20250311
-SUMMARY:Kate Nash @ OVO Arena Wembley
-UID:6e925bbb-e6d2-4d60-91a9-b7cfbb63f00b
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251220T125637Z
-DESCRIPTION:Starlight Express tickets – Tue, 23 Dec 2025, 2:30 pm at Trou
- badour Wembley Park Theatre
-DTEND;VALUE=DATE:20251223
-DTSTART;VALUE=DATE:20251223
-SUMMARY:Starlight Express
-UID:af2a93a3-589b-403c-8849-d61287624a6d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251220T125637Z
+DTSTAMP:20251221T022914Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251228
 DTSTART;VALUE=DATE:20251228
 SUMMARY:Starlight Express
-UID:9db67dc6-68cf-4f61-9a2d-645bc40fe7a3
+UID:72d80087-ec70-4aab-9db6-79dd677c57b3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251220T125637Z
+DTSTAMP:20251221T022914Z
+DESCRIPTION:Starlight Express tickets – Tue, 23 Dec 2025, 2:30 pm at Trou
+ badour Wembley Park Theatre
+DTEND;VALUE=DATE:20251223
+DTSTART;VALUE=DATE:20251223
+SUMMARY:Starlight Express
+UID:d4cdfe90-ce29-4219-be6c-7954ab3f0d7e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251221T022914Z
+DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
+  specially designed Starlight Auditorium at Troubadour Wembley Park Theatre
+ . Audiences will be immersed inside a world of speed, song...
+DTEND;VALUE=DATE:20260111
+DTSTART;VALUE=DATE:20260111
+SUMMARY:Starlight Express
+UID:78bfacbc-986d-4d2b-bdab-f3cf8bdc96f8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251221T022914Z
+DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
+ ril 2026 with very special guest Carl Cox. The World Heavyweight Champions 
+ Re-unite for a tour of straight up ruckus that sees The...
+DTEND;VALUE=DATE:20260424
+DTSTART;VALUE=DATE:20260424
+SUMMARY:The Prodigy
+UID:ac2206d1-14a5-450b-b3b3-61f9908ba3e5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251221T022914Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opens summer 2024 in 
  the specially designed Starlight Auditorium at Troubadour Wembley Park Thea
  tre. Audiences will be immersed inside a world of speed...
-DTEND;VALUE=DATE:20250108
-DTSTART;VALUE=DATE:20250108
+DTEND;VALUE=DATE:20260108
+DTSTART;VALUE=DATE:20260108
 SUMMARY:Starlight Express
-UID:87795696-9cf4-488b-acb3-9dc77c56dee1
+UID:2146ac2f-987b-4f88-ba1d-577af43f24c0
 END:VEVENT
 END:VCALENDAR
