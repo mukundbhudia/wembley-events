@@ -3,91 +3,91 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251222T130221Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20251222
-DTSTART;VALUE=DATE:20251222
-SUMMARY:Starlight Express
-UID:04b83ecf-15b8-437d-ab02-d6c02572d76f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T130221Z
+DTSTAMP:20251223T022343Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251227
 DTSTART;VALUE=DATE:20251227
 SUMMARY:Starlight Express
-UID:05fa9d00-3954-4560-97b1-0bf50922f1c2
+UID:8cfe29a2-a272-4a90-ae1f-55f62f7ca482
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T130221Z
+DTSTAMP:20251223T022343Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251228
 DTSTART;VALUE=DATE:20251228
 SUMMARY:Starlight Express
-UID:c84830a0-2f3f-4099-80f7-18b1f9af90ef
+UID:71ebf217-e141-4098-b276-41b2078f12e9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T130221Z
+DTSTAMP:20251223T022343Z
 DESCRIPTION:Starlight Express tickets – Tue, 23 Dec 2025, 2:30 pm at Trou
  badour Wembley Park Theatre
 DTEND;VALUE=DATE:20251223
 DTSTART;VALUE=DATE:20251223
 SUMMARY:Starlight Express
-UID:214b690e-956e-4b29-8ece-2462af49f1f8
+UID:60a7c39a-75b5-4c52-90c1-a11ba7116375
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T130221Z
+DTSTAMP:20251223T022343Z
 DESCRIPTION:THE HOTTEST NIGHT SHOOBS OF THE YEAR HOSTED BY THE LEGENDARY RA
  MPAGE SOUND, MIXMASTER J, BBC 1XTRA SEANI B, PURE VIBES ENT & SHOTZ
 DTEND;VALUE=DATE:20251224
 DTSTART;VALUE=DATE:20251224
 SUMMARY:XMAS EVE NIGHT DANCE - RnB|Dancehall|Amapiano|UKG|Reggae|DnB
-UID:1e6bb7d4-3676-4c89-a1a4-c1687aa46eaf
+UID:d13e8535-7032-49ae-bbf7-45c9b98d7443
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T130221Z
+DTSTAMP:20251223T022343Z
 DESCRIPTION:Join us for KIDS TABLE at BOXPARK Wembley on Sunday, 28th Dec 2
  025. Discover local talent and enjoy live entertainment. Book your table no
  w!
 DTEND;VALUE=DATE:20251228
 DTSTART;VALUE=DATE:20251228
 SUMMARY:KIDS TABLE
-UID:90a0bd40-3b8b-45a1-ba22-6a24a9b694f8
+UID:84b02920-4a4e-46b6-9079-8f5fe673b6df
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T130221Z
+DTSTAMP:20251223T022343Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251226
 DTSTART;VALUE=DATE:20251226
 SUMMARY:Starlight Express
-UID:dd3d7663-e6df-43df-a6f3-29195a568d8a
+UID:5f4427fe-bd77-47d0-99ae-834e4be58ead
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T130221Z
+DTSTAMP:20251223T022343Z
 DESCRIPTION:As a child's train set magically comes to life and the engines 
  race to become the fastest in the world, Rusty the steam train has little h
  ope of winning until he is inspired by the legend of the...
 DTEND;VALUE=DATE:20260102
 DTSTART;VALUE=DATE:20260102
 SUMMARY:Starlight Express
-UID:f044ea0f-09f1-4dd9-bfdc-6dc9bc4aaf6a
+UID:d040b118-f627-411e-9756-f0f7642c7496
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T130221Z
+DTSTAMP:20251223T022343Z
 DESCRIPTION:Get ready to ring in 2026 with the dazzling musical Starlight E
  xpress at the Troubadour Wembley Park Theatre in London. The show starts a
  t 4:30 PM on Wednesday, 31 December 2025, offering a...
 DTEND;VALUE=DATE:20251231
 DTSTART;VALUE=DATE:20251231
 SUMMARY:Starlight Express
-UID:0bb70a0c-edfd-420d-b8fa-7a12187f5a9f
+UID:e1dfe9ac-80cd-40cd-9937-f3f6aca16f05
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251223T022343Z
+DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
+  specially designed Starlight Auditorium at Troubadour Wembley Park Theatre
+ . Audiences will be immersed inside a world of speed, song...
+DTEND;VALUE=DATE:20260116
+DTSTART;VALUE=DATE:20260116
+SUMMARY:Starlight Express
+UID:b093b61c-1d0f-4f5c-819a-c9c3e8d405dd
 END:VEVENT
 END:VCALENDAR
