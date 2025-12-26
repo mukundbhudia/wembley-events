@@ -121,10 +121,12 @@ impl WembleyEvents {
 
         self.events.into_iter().for_each(|(_, event)| {
             if let Some(ymd) = event.date_to_ymd() {
+                let description_with_link = format!("{}\n\n{}", event.description, event.link);
+
                 let wembley_event = Event::new()
                     .all_day(Utc.ymd(ymd.year, ymd.month, ymd.day))
                     .summary(&event.title)
-                    .description(&event.description)
+                    .description(&description_with_link)
                     .done();
 
                 calendar.push(wembley_event);

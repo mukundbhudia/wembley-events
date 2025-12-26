@@ -1,8 +1,6 @@
 ---
 source: src/event_store.rs
-assertion_line: 105
 expression: calendar_built_from_events
-
 ---
 Calendar {
     properties: [],
@@ -13,7 +11,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "Multi-platinum recording artist Harry Styles announces the rescheduled dates for his world tour, in addition to new shows added across the globe. Styles will kick off his colossal 32-city outing...",
+                            val: "Multi-platinum recording artist Harry Styles announces the rescheduled dates for his world tour, in addition to new shows added across the globe. Styles will kick off his colossal 32-city outing...\\n\\nhttps://www.clubwembley.com/events/2022/harry-styles",
                             params: {},
                         },
                         "DTEND": Property {
@@ -52,7 +50,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "Capital's Summertime Ball",
+                            val: "Capital's Summertime Ball\\n\\nhttps://www.bandsintown.com/e/1024978668-david-guetta-at-wembley-stadium",
                             params: {},
                         },
                         "DTEND": Property {
@@ -91,7 +89,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "Join BOXPARK Wembley and their resident DJ's for all things soulful",
+                            val: "Join BOXPARK Wembley and their resident DJ's for all things soulful\\n\\nhttps://wembleypark.com/whats-on/boxpark-wembley-soulful-sundays-5-june-2022/",
                             params: {},
                         },
                         "DTEND": Property {
@@ -130,7 +128,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "span Ed Sheeran has announced the first leg of his ‘+ - = ÷ x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadiums throughout 2022. Kicking off in April next year, the tour will...",
+                            val: "span Ed Sheeran has announced the first leg of his ‘+ - = ÷ x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadiums throughout 2022. Kicking off in April next year, the tour will...\\n\\nhttps://ticketingcontent.thefa.com/Ed%20Sheeran%20Standing%2029th%20June%202022",
                             params: {},
                         },
                         "DTEND": Property {
@@ -169,7 +167,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "span Ed Sheeran has announced the first leg of his ‘+ - = ÷ x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadiums throughout 2022. Kicking off in April next year, the tour will...",
+                            val: "span Ed Sheeran has announced the first leg of his ‘+ - = ÷ x Tour’ (pronounced ‘The Mathematics Tour’) , taking place in stadiums throughout 2022. Kicking off in April next year, the tour will...\\n\\nhttps://ticketingcontent.thefa.com/Ed%20Sheeran%20Standing%2025th%20June%202022",
                             params: {},
                         },
                         "DTEND": Property {
@@ -208,7 +206,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "Global super pop rock band Coldplay will be hitting the road on tour in 2022 and will be performing live on stage in their Music of the Spheres World Tour ! This particular live concert is...",
+                            val: "Global super pop rock band Coldplay will be hitting the road on tour in 2022 and will be performing live on stage in their Music of the Spheres World Tour ! This particular live concert is...\\n\\nhttps://ticketingcontent.thefa.com/Coldplay%20Seated%2016th%20August%202022",
                             params: {},
                         },
                         "DTEND": Property {
@@ -247,7 +245,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "Ed Sheeran Seated Ticket & Hotel Experience This Experience Includes: • Reserved Seated Ticket (Block 104 or 141) Tickets seated together • One night hotel stay including complimentary breakfast •...",
+                            val: "Ed Sheeran Seated Ticket & Hotel Experience This Experience Includes: • Reserved Seated Ticket (Block 104 or 141) Tickets seated together • One night hotel stay including complimentary breakfast •...\\n\\nhttps://ticketingcontent.thefa.com/en/Ed-Sheeran-Hospitality-24th-June-2022",
                             params: {},
                         },
                         "DTEND": Property {
@@ -286,7 +284,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "Global super pop rock band Coldplay will be hitting the road on tour in 2022 and will be performing live on stage in their Music of the Spheres World Tour ! This particular live concert is...",
+                            val: "Global super pop rock band Coldplay will be hitting the road on tour in 2022 and will be performing live on stage in their Music of the Spheres World Tour ! This particular live concert is...\\n\\nhttps://ticketingcontent.thefa.com/Coldplay%20Seated%2020th%20August%202022",
                             params: {},
                         },
                         "DTEND": Property {
@@ -325,7 +323,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "Jubin Nautiyal at OVO Arena Wembley in Wembley Park",
+                            val: "Jubin Nautiyal at OVO Arena Wembley in Wembley Park\\n\\nhttps://wembleypark.com/whats-on/ovo-arena-wembley-jubin-nautiyal/",
                             params: {},
                         },
                         "DTEND": Property {
@@ -364,7 +362,7 @@ Calendar {
                     properties: {
                         "DESCRIPTION": Property {
                             key: "DESCRIPTION",
-                            val: "SJM Concerts 50 CENT FRI, 10 JUN 2022 at 07:30PM BST Doors Open: 06:00PM OnSale: Fri, 28 Jan 2022 at 09:30AM GMT Announcement: Wed, 26 Jan 2022 at 10:00AM GMT Hip Hop heavyweight 50 Cent, has...",
+                            val: "SJM Concerts 50 CENT FRI, 10 JUN 2022 at 07:30PM BST Doors Open: 06:00PM OnSale: Fri, 28 Jan 2022 at 09:30AM GMT Announcement: Wed, 26 Jan 2022 at 10:00AM GMT Hip Hop heavyweight 50 Cent, has...\\n\\nhttps://www.facebook.com/events/ovo-arena-wembley/50-cent/1000089817594536/",
                             params: {},
                         },
                         "DTEND": Property {
