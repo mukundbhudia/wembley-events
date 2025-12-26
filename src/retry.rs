@@ -42,7 +42,7 @@ where
     loop {
         match operation().await {
             Ok(response) => {
-                println!("Received response with status: {}", response.status());
+                println!("Received response with status: {}\n", response.status());
 
                 match should_retry_status(response.status()) {
                     true => {

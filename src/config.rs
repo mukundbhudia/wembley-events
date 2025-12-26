@@ -2,11 +2,15 @@ extern crate dotenv;
 
 use dotenv::dotenv;
 use std::env;
+
+#[derive(Clone)]
 pub struct Config {
     pub calendar_url: String,
     pub calendar_save_path: String,
     pub calendar_json_save_path: Option<String>,
     pub serpapi_api_key: String,
+    pub gh_pages_json_url: Option<String>,
+    pub gh_pages_json_file_path: Option<String>,
 }
 
 impl Config {
@@ -40,6 +44,8 @@ impl Config {
         }
 
         self.calendar_json_save_path = env::var("CALENDAR_JSON_SAVE_PATH").ok();
+        self.gh_pages_json_url = env::var("GH_PAGES_JSON_URL").ok();
+        self.gh_pages_json_file_path = env::var("GH_PAGES_JSON_FILE_PATH").ok();
 
         self
     }
@@ -52,6 +58,8 @@ impl Default for Config {
             calendar_save_path: "output/wembley-events.ics".into(),
             calendar_json_save_path: None,
             serpapi_api_key: String::default(),
+            gh_pages_json_url: None,
+            gh_pages_json_file_path: None,
         }
     }
 }
