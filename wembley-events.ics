@@ -3,91 +3,90 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251225T130104Z
+DTSTAMP:20251226T022243Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251228
 DTSTART;VALUE=DATE:20251228
 SUMMARY:Starlight Express
-UID:d9706ddb-7fb8-4ad5-83e5-08cc84b60944
+UID:88a08313-84be-4d63-82cb-3de5967a4771
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T130104Z
+DTSTAMP:20251226T022243Z
 DESCRIPTION:Join us for KIDS TABLE at BOXPARK Wembley on Sunday, 28th Dec 2
  025. Discover local talent and enjoy live entertainment. Book your table no
  w!
 DTEND;VALUE=DATE:20251228
 DTSTART;VALUE=DATE:20251228
 SUMMARY:KIDS TABLE
-UID:924e4544-28c5-42b1-8b6d-908e6cfa8bf8
+UID:438e0325-3dca-4b00-b64d-eeeb2fb0ccbc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T130104Z
+DTSTAMP:20251226T022243Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251226
 DTSTART;VALUE=DATE:20251226
 SUMMARY:Starlight Express
-UID:d2600290-cf6d-4b03-8a80-e1fa718246a6
+UID:00903fae-2295-48d0-a221-71abd29532cc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T130104Z
-DESCRIPTION:Buy & sell tickets for Druski: The Coulda Fest Tour | The SSE A
- rena Wembley (OVO Arena), London | Thu, Dec 25, 7:30 PM. TicketSwap – the
-  fair and safe ticket marketplace.
-DTEND;VALUE=DATE:20251225
-DTSTART;VALUE=DATE:20251225
-SUMMARY:Druski: The Coulda Fest Tour
-UID:4386131e-8314-4cd2-8a4a-8586fe6f53e8
+DTSTAMP:20251226T022243Z
+DESCRIPTION:The Headshot Social is collaborating with The Reunion to bring 
+ you professional Headshots for your acting and modeling career.
+DTEND;VALUE=DATE:20260130
+DTSTART;VALUE=DATE:20260130
+SUMMARY:The Reunion
+UID:ab425127-b941-4ec9-aa23-64a62ef7ef40
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T130104Z
+DTSTAMP:20251226T022243Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251227
 DTSTART;VALUE=DATE:20251227
 SUMMARY:Starlight Express
-UID:e7b2f0de-e475-476b-af4c-3fda377a8980
+UID:ca08148e-067c-4f23-90c6-1e94c817a9f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T130104Z
-DESCRIPTION:THE HOTTEST NIGHT SHOOBS OF THE YEAR HOSTED BY THE LEGENDARY RA
- MPAGE SOUND, MIXMASTER J, BBC 1XTRA SEANI B, PURE VIBES ENT & SHOTZ
-DTEND;VALUE=DATE:20251225
-DTSTART;VALUE=DATE:20251225
-SUMMARY:XMAS EVE NIGHT DANCE - RnB|Dancehall|Amapiano|UKG|Reggae|DnB
-UID:9264ea48-989f-4186-b2a0-b7f92ec246d3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251225T130104Z
-DESCRIPTION:The Headshot Social is collaborating with The Reunion to bring 
- you professional Headshots for your acting and modeling career.
-DTEND;VALUE=DATE:20260130
-DTSTART;VALUE=DATE:20260130
-SUMMARY:The Reunion
-UID:89f72145-c101-4187-a5f0-dc4672423fe5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251225T130104Z
+DTSTAMP:20251226T022243Z
 DESCRIPTION:Nearly twenty years into her ever-evolving career, London and L
  A-based, Brit award-winning singer, songwriter, actor and activist Kate Nas
  h has seen it all, from finding huge commercial success in...
 DTEND;VALUE=DATE:20260311
 DTSTART;VALUE=DATE:20260311
 SUMMARY:Kate Nash
-UID:63b63848-3f4f-4888-ad9b-50dc8116f1d1
+UID:96c72554-bb1b-4e4a-9157-75a0d0ed83ed
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T130104Z
+DTSTAMP:20251226T022243Z
+DESCRIPTION:
+DTEND;VALUE=DATE:20260228
+DTSTART;VALUE=DATE:20260228
+SUMMARY:Jordan Davis
+UID:2ef8c114-3c2c-4353-a29c-4cf79cf9ebad
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251226T022243Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20260104
 DTSTART;VALUE=DATE:20260104
 SUMMARY:Starlight Express
-UID:152ebaa0-01aa-4516-b622-39381f60ca6b
+UID:b6b08fe7-9c37-4729-808b-b74fbce05aff
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251226T022243Z
+DESCRIPTION:Buy & sell tickets for P1 Harmony - Venue Premium Tickets | Th
+ e SSE Arena Wembley (OVO Arena), London | Fri, Jan 30, 2026, 6:30 PM. Ticke
+ tSwap – the fair and safe ticket marketplace.
+DTEND;VALUE=DATE:20260130
+DTSTART;VALUE=DATE:20260130
+SUMMARY:P1 Harmony - Venue Premium Tickets
+UID:12a11257-7198-4a68-b709-99757c830a69
 END:VEVENT
 END:VCALENDAR
