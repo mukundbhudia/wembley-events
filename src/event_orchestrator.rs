@@ -1,11 +1,11 @@
 use std::process;
 
 use crate::{
+    Config, HttpClient, WembleyEvents,
     event_merger::{
         fetch_existing_events, filter_future_events, load_existing_events_from_file,
         merge_and_deduplicate,
     },
-    Config, HttpClient, WembleyEvents,
 };
 
 /// Orchestrates fetching, merging, and building the final event list
@@ -69,7 +69,10 @@ impl EventOrchestrator {
 
     /// Fetches new events from the API
     async fn fetch_new_events_from_api(&self) -> WembleyEvents {
-        let full_url = format!("{}{}", &self.config.calendar_url, &self.config.serpapi_api_key);
+        let full_url = format!(
+            "{}{}",
+            &self.config.calendar_url, &self.config.serpapi_api_key
+        );
 
         let res = match HttpClient::new(&full_url).get_text_from_url().await {
             Ok(res) => res,
