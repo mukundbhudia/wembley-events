@@ -12,8 +12,15 @@ jobs:
     name: Scheduled calendar generation and deploy to gh-pages
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main branch
         uses: actions/checkout@v3
+
+      - name: Checkout gh-pages branch to get existing events
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+          path: gh-pages-data
+        continue-on-error: true
 
       - name: Get latest release binary
         run: wget -q -O tmp.zip https://github.com/mukundbhudia/wembley-events/releases/latest/download/wembley-events_x86_64-unknown-linux-gnu.zip && unzip -o tmp.zip && rm tmp.zip && strip wembley-events
@@ -25,6 +32,7 @@ jobs:
           CALENDAR_URL: "https://serpapi.com/search.json?engine=google_events&q=Events+in+wembley&location=Wembley%2C+England%2C+United+Kingdom&hl=en&gl=uk&api_key="
           CALENDAR_SAVE_PATH: "output/wembley-events.ics"
           CALENDAR_JSON_SAVE_PATH: "output/wembley-events.json"
+          GH_PAGES_JSON_FILE_PATH: "gh-pages-data/wembley-events.json"
           SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
 
       - name: Deploy to GitHub pages
