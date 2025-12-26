@@ -1,6 +1,7 @@
 use serde::{Deserialize, Serialize};
 use std::collections::BTreeMap;
 
+use chrono::NaiveDate;
 use chrono::*;
 use icalendar::*;
 
@@ -124,7 +125,7 @@ impl WembleyEvents {
                 let description_with_link = format!("{}\n\n{}", event.description, event.link);
 
                 let wembley_event = Event::new()
-                    .all_day(Utc.ymd(ymd.year, ymd.month, ymd.day))
+                    .all_day(NaiveDate::from_ymd_opt(ymd.year, ymd.month, ymd.day).unwrap())
                     .summary(&event.title)
                     .description(&description_with_link)
                     .done();

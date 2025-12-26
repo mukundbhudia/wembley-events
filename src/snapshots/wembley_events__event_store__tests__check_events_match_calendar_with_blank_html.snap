@@ -1,9 +1,24 @@
 ---
 source: src/event_store.rs
 expression: calendar_built_from_events
-
 ---
 Calendar {
-    properties: [],
+    properties: [
+        Property {
+            key: "VERSION",
+            val: "2.0",
+            params: {},
+        },
+        Property {
+            key: "PRODID",
+            val: "ICALENDAR-RS",
+            params: {},
+        },
+        Property {
+            key: "CALSCALE",
+            val: "GREGORIAN",
+            params: {},
+        },
+    ],
     components: [],
 }
