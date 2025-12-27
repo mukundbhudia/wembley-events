@@ -3,90 +3,81 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251227T022047Z
+DTSTAMP:20251227T125807Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251228
 DTSTART;VALUE=DATE:20251228
 SUMMARY:Starlight Express
-UID:9f886201-3752-4815-93fa-60692493d4da
+UID:d70ab889-c2c8-46fa-883c-bdae8ea82428
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T022047Z
-DESCRIPTION:Join us for KIDS TABLE at BOXPARK Wembley on Sunday, 28th Dec 2
- 025. Discover local talent and enjoy live entertainment. Book your table no
- w!
-DTEND;VALUE=DATE:20251228
-DTSTART;VALUE=DATE:20251228
-SUMMARY:KIDS TABLE
-UID:658c1b69-a40e-4b5a-827e-b2d68fb1dfeb
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251227T022047Z
-DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
- r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
- eeps everyone together and on time. Group travel by...
+DTSTAMP:20251227T125807Z
+DESCRIPTION:Ticket listings for Starlight Express at Troubadour Wembley Par
+ k Theatre in London on 27/12/2025
 DTEND;VALUE=DATE:20251227
 DTSTART;VALUE=DATE:20251227
 SUMMARY:Starlight Express
-UID:fadb6dd8-8f93-4130-a473-e7e1e6cb7a9b
+UID:2ae51ed6-a105-4abc-8bd7-a76dfe172a58
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T022047Z
+DTSTAMP:20251227T125807Z
 DESCRIPTION:As a child's train set magically comes to life and the engines 
  race to become the fastest in the world, Rusty the steam train has little h
  ope of winning until he is inspired by the legend of the...
 DTEND;VALUE=DATE:20260102
 DTSTART;VALUE=DATE:20260102
 SUMMARY:Starlight Express
-UID:55c03781-97a0-4ac7-a8f1-78deeda6234f
+UID:d30f3bf3-2936-4c0a-86b5-07fc950f3b1c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T022047Z
+DTSTAMP:20251227T125807Z
+DESCRIPTION:The Headshot Social is collaborating with The Reunion to bring 
+ you professional Headshots for your acting and modeling career.
+DTEND;VALUE=DATE:20260130
+DTSTART;VALUE=DATE:20260130
+SUMMARY:The Reunion
+UID:ff028e1c-b526-4d83-b6b6-da5d62487e54
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251227T125807Z
+DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
+ s announced his return to the UK and Europe in February 2026 for his bigges
+ t international headline tour to date, the Ain’t Enough...
+DTEND;VALUE=DATE:20260228
+DTSTART;VALUE=DATE:20260228
+SUMMARY:Jordan Davis
+UID:d48df0a4-3a57-4f3a-b416-a9556715c632
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251227T125807Z
+DESCRIPTION:Buy & sell tickets for P1 Harmony - Venue Premium Tickets | Th
+ e SSE Arena Wembley (OVO Arena), London | Fri, Jan 30, 2026, 6:30 PM. Ticke
+ tSwap – the fair and safe ticket marketplace.
+DTEND;VALUE=DATE:20260130
+DTSTART;VALUE=DATE:20260130
+SUMMARY:P1 Harmony - Venue Premium Tickets
+UID:1028b31f-fe15-41ce-910d-976b64852db4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251227T125807Z
 DESCRIPTION:Get ready to ring in 2026 with the dazzling musical Starlight E
  xpress at the Troubadour Wembley Park Theatre in London. The show starts a
  t 4:30 PM on Wednesday, 31 December 2025, offering a...
 DTEND;VALUE=DATE:20251231
 DTSTART;VALUE=DATE:20251231
 SUMMARY:Starlight Express
-UID:3d117e00-bd42-4335-b093-d913ef87115e
+UID:4bb87f80-9a72-4be2-9449-8b4c19bfdea8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T022047Z
-DESCRIPTION:The Headshot Social is collaborating with The Reunion to bring 
- you professional Headshots for your acting and modeling career.
-DTEND;VALUE=DATE:20260130
-DTSTART;VALUE=DATE:20260130
-SUMMARY:The Reunion
-UID:138c1403-41a7-4e18-899b-82a08a7e8597
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251227T022047Z
-DESCRIPTION:Nearly twenty years into her ever-evolving career, London and L
- A-based, Brit award-winning singer, songwriter, actor and activist Kate Nas
- h has seen it all, from finding huge commercial success in...
-DTEND;VALUE=DATE:20260311
-DTSTART;VALUE=DATE:20260311
-SUMMARY:Kate Nash
-UID:84acd272-d13d-4e7e-ace9-0f47f6c86ac4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251227T022047Z
+DTSTAMP:20251227T125807Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
-DTEND;VALUE=DATE:20260104
-DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20251230
+DTSTART;VALUE=DATE:20251230
 SUMMARY:Starlight Express
-UID:bbac564e-6e75-45ee-b6d5-006719049e13
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251227T022047Z
-DESCRIPTION:
-DTEND;VALUE=DATE:20260228
-DTSTART;VALUE=DATE:20260228
-SUMMARY:Jordan Davis
-UID:b0fa9374-51c4-413e-92a1-3f74fadeb84a
+UID:99927b63-c9a2-4311-887b-24ce462ab8fc
 END:VEVENT
 END:VCALENDAR
