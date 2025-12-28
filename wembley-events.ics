@@ -3,81 +3,102 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251227T125807Z
+DTSTAMP:20251228T023610Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251228
 DTSTART;VALUE=DATE:20251228
 SUMMARY:Starlight Express
-UID:d70ab889-c2c8-46fa-883c-bdae8ea82428
+UID:6e3fdfcc-111e-4791-9727-179339a02e94
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T125807Z
-DESCRIPTION:Ticket listings for Starlight Express at Troubadour Wembley Par
- k Theatre in London on 27/12/2025
-DTEND;VALUE=DATE:20251227
-DTSTART;VALUE=DATE:20251227
-SUMMARY:Starlight Express
-UID:2ae51ed6-a105-4abc-8bd7-a76dfe172a58
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251227T125807Z
+DTSTAMP:20251228T023610Z
 DESCRIPTION:As a child's train set magically comes to life and the engines 
  race to become the fastest in the world, Rusty the steam train has little h
  ope of winning until he is inspired by the legend of the...
 DTEND;VALUE=DATE:20260102
 DTSTART;VALUE=DATE:20260102
 SUMMARY:Starlight Express
-UID:d30f3bf3-2936-4c0a-86b5-07fc950f3b1c
+UID:a70151e4-7360-4fed-9462-81fcf46ebaaa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T125807Z
+DTSTAMP:20251228T023610Z
 DESCRIPTION:The Headshot Social is collaborating with The Reunion to bring 
  you professional Headshots for your acting and modeling career.
 DTEND;VALUE=DATE:20260130
 DTSTART;VALUE=DATE:20260130
 SUMMARY:The Reunion
-UID:ff028e1c-b526-4d83-b6b6-da5d62487e54
+UID:c4e0ca6c-48f3-4db5-b53c-26a77f47bd65
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T125807Z
+DTSTAMP:20251228T023610Z
 DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
  s announced his return to the UK and Europe in February 2026 for his bigges
  t international headline tour to date, the Ain’t Enough...
 DTEND;VALUE=DATE:20260228
 DTSTART;VALUE=DATE:20260228
 SUMMARY:Jordan Davis
-UID:d48df0a4-3a57-4f3a-b416-a9556715c632
+UID:80932552-613c-4a64-aafe-61bcf0f5113a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T125807Z
+DTSTAMP:20251228T023610Z
 DESCRIPTION:Buy & sell tickets for P1 Harmony - Venue Premium Tickets | Th
  e SSE Arena Wembley (OVO Arena), London | Fri, Jan 30, 2026, 6:30 PM. Ticke
  tSwap – the fair and safe ticket marketplace.
 DTEND;VALUE=DATE:20260130
 DTSTART;VALUE=DATE:20260130
 SUMMARY:P1 Harmony - Venue Premium Tickets
-UID:1028b31f-fe15-41ce-910d-976b64852db4
+UID:07c8e320-ec39-40be-a0a4-7e3f5083de46
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T125807Z
+DTSTAMP:20251228T023610Z
 DESCRIPTION:Get ready to ring in 2026 with the dazzling musical Starlight E
  xpress at the Troubadour Wembley Park Theatre in London. The show starts a
  t 4:30 PM on Wednesday, 31 December 2025, offering a...
 DTEND;VALUE=DATE:20251231
 DTSTART;VALUE=DATE:20251231
 SUMMARY:Starlight Express
-UID:4bb87f80-9a72-4be2-9449-8b4c19bfdea8
+UID:c4d9042b-9d29-45f6-ad69-d4b26715533d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251227T125807Z
+DTSTAMP:20251228T023610Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
  eeps everyone together and on time. Group travel by...
 DTEND;VALUE=DATE:20251230
 DTSTART;VALUE=DATE:20251230
 SUMMARY:Starlight Express
-UID:99927b63-c9a2-4311-887b-24ce462ab8fc
+UID:2bbb6ca2-f965-4c04-8139-5e6392b1546b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251228T023610Z
+DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
+ ril 2026 with very special guest Carl Cox. The World Heavyweight Champions 
+ Re-unite for a tour of straight up ruckus that sees The...
+DTEND;VALUE=DATE:20260424
+DTSTART;VALUE=DATE:20260424
+SUMMARY:The Prodigy
+UID:82f9f3d9-211a-491e-b86d-5f41b89680ce
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251228T023610Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach k
+ eeps everyone together and on time. Group travel by...
+DTEND;VALUE=DATE:20260104
+DTSTART;VALUE=DATE:20260104
+SUMMARY:Starlight Express
+UID:247fc4c9-a0e4-4aa0-9e55-8acf9db09637
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251228T023610Z
+DESCRIPTION:POWERWOLF finally return to the UK on 7th March 2026 to play th
+ e legendary OVO Arena Wembley in London – their biggest UK show ever. The
+  band have proven that metal is much more than just music...
+DTEND;VALUE=DATE:20260307
+DTSTART;VALUE=DATE:20260307
+SUMMARY:Hammerfall
+UID:6c49d871-5d26-4065-a97a-e4b9f81fd581
 END:VEVENT
 END:VCALENDAR
