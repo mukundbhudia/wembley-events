@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20251231T022433Z
+DTSTAMP:20251231T130156Z
 DESCRIPTION:Get ready to ring in 2026 with the dazzling musical Starlight E
  xpress at the Troubadour Wembley Park Theatre in London. The show starts a
  t 4:30 PM on Wednesday\, 31 December 2025\, offering a...\n\nhttps://insta
@@ -11,10 +11,10 @@ DESCRIPTION:Get ready to ring in 2026 with the dazzling musical Starlight E
 DTEND;VALUE=DATE:20251231
 DTSTART;VALUE=DATE:20251231
 SUMMARY:Starlight Express
-UID:1b5b30f8-34b2-4b77-8b67-2d17cbcd4031
+UID:3519485c-8695-4233-a90e-95e44b749e84
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T022433Z
+DTSTAMP:20251231T130156Z
 DESCRIPTION:As a child's train set magically comes to life and the engines 
  race to become the fastest in the world\, Rusty the steam train has littl
  e hope of winning until he is inspired by the legend of the...\n\nhttps://
@@ -23,10 +23,10 @@ DESCRIPTION:As a child's train set magically comes to life and the engines
 DTEND;VALUE=DATE:20260102
 DTSTART;VALUE=DATE:20260102
 SUMMARY:Starlight Express
-UID:16c03aac-d3c5-4d80-a64c-1f570c828f73
+UID:3e409467-8e5e-4aaf-8268-4c1fea0801a7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T022433Z
+DTSTAMP:20251231T130156Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach 
  keeps everyone together and on time. Group travel by...\n\nhttps://instabu
@@ -34,10 +34,10 @@ DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
 DTEND;VALUE=DATE:20260104
 DTSTART;VALUE=DATE:20260104
 SUMMARY:Starlight Express
-UID:2104045a-9ca0-4bb0-b821-9ba33b803bda
+UID:43751b82-2fac-4695-9519-f65059fbf646
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T022433Z
+DTSTAMP:20251231T130156Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opened summer 2024 in
   the specially designed Starlight Auditorium at Troubadour Wembley Park Th
  eatre. Audiences will be immersed inside a world of speed...\n\nhttps://lu
@@ -45,10 +45,10 @@ DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opened summer 2024 in
 DTEND;VALUE=DATE:20260118
 DTSTART;VALUE=DATE:20260118
 SUMMARY:Starlight Express
-UID:402c508b-cd51-4d10-b685-78fd62ad8ad3
+UID:94f12081-b054-4bb6-bcdf-8ce27830b5fe
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T022433Z
+DTSTAMP:20251231T130156Z
 DESCRIPTION:Buy & sell tickets for P1 Harmony - Venue Premium Tickets | Th
  e SSE Arena Wembley (OVO Arena)\, London | Fri\, Jan 30\, 2026\, 6:30 PM. 
  TicketSwap – the fair and safe ticket marketplace.\n\nhttps://www.ticket
@@ -57,10 +57,10 @@ DESCRIPTION:Buy & sell tickets for P1 Harmony - Venue Premium Tickets | Th
 DTEND;VALUE=DATE:20260130
 DTSTART;VALUE=DATE:20260130
 SUMMARY:P1 Harmony - Venue Premium Tickets
-UID:66a9479c-1d6a-4258-bd92-23440be688c1
+UID:0948c933-f014-4a2a-8077-9ec73f6c008a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T022433Z
+DTSTAMP:20251231T130156Z
 DESCRIPTION:Throughout his career\, MIKA has crafted a world of gritty roma
  nce amidst the joy and playfulness of technicolored alternative pop. He's 
  a renaissance artist of impeccable intention whose name has...\n\nhttps://
@@ -68,10 +68,10 @@ DESCRIPTION:Throughout his career\, MIKA has crafted a world of gritty roma
 DTEND;VALUE=DATE:20260212
 DTSTART;VALUE=DATE:20260212
 SUMMARY:MIKA
-UID:66051de2-94d3-4976-ba28-527fa0173f2e
+UID:61b1bf61-2ae1-43d9-b488-6bb84024ef80
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T022433Z
+DTSTAMP:20251231T130156Z
 DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
  s announced his return to the UK and Europe in February 2026 for his bigge
  st international headline tour to date\, the Ain’t Enough...\n\nhttps://
@@ -79,10 +79,10 @@ DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
 DTEND;VALUE=DATE:20260228
 DTSTART;VALUE=DATE:20260228
 SUMMARY:Jordan Davis
-UID:f92796d2-9888-4993-8226-7182f54eb3ac
+UID:f5d12a9a-20e3-4e6e-bb2a-d0639aa063fb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T022433Z
+DTSTAMP:20251231T130156Z
 DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
  ril 2026 with very special guest Carl Cox. The World Heavyweight Champion
  s Re-unite for a tour of straight up ruckus that sees The...\n\nhttps://we
@@ -90,6 +90,17 @@ DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
 DTEND;VALUE=DATE:20260424
 DTSTART;VALUE=DATE:20260424
 SUMMARY:The Prodigy
-UID:8e5741e7-ae48-4386-a1ae-791ad2c269f7
+UID:0c2e2646-6ce7-4760-b719-c81c0fb225a8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251231T130156Z
+DESCRIPTION:Multi-platinum singer-songwriter Calum Scott has announced the 
+ global dates for “The Avenoir Tour”\, which includes a run of UK and E
+ uropean and will see him visit 24 cities across the UK and...\n\nhttps://w
+ embleypark.com/whats-on/ovo-arena-wembley-calum-scott-21-nov-25/
+DTEND;VALUE=DATE:20260528
+DTSTART;VALUE=DATE:20260528
+SUMMARY:Calum Scott - RESCHEDULED
+UID:c7f88cab-9367-4a23-9da5-0ebae37c3784
 END:VEVENT
 END:VCALENDAR
