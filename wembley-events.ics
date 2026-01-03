@@ -3,19 +3,18 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260102T130124Z
-DESCRIPTION:As a child's train set magically comes to life and the engines 
- race to become the fastest in the world\, Rusty the steam train has littl
- e hope of winning until he is inspired by the legend of the...\n\nhttps://
- www.allgigs.co.uk/view/event/1500865/Starlight_Express_Troubadour_Theatre_
- Wembley_2_January_2026.html
-DTEND;VALUE=DATE:20260102
-DTSTART;VALUE=DATE:20260102
+DTSTAMP:20260103T022002Z
+DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
+ r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach 
+ keeps everyone together and on time. Group travel by...\n\nhttps://www.ins
+ tabus.co.uk/events/starlight-express-london-2026-01-03-1930
+DTEND;VALUE=DATE:20260103
+DTSTART;VALUE=DATE:20260103
 SUMMARY:Starlight Express
-UID:2c25bc0d-cf11-4e46-bc24-078e8f578760
+UID:57dbf9fe-e0bb-42f0-b21a-4db00a12a3f9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260102T130124Z
+DTSTAMP:20260103T022002Z
 DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
  r Wembley Park Theatre in london with Instabus. Hiring a minibus or coach 
  keeps everyone together and on time. Group travel by...\n\nhttps://instabu
@@ -23,10 +22,21 @@ DESCRIPTION:Travel to Starlight Express Plan your group travel to Troubadou
 DTEND;VALUE=DATE:20260104
 DTSTART;VALUE=DATE:20260104
 SUMMARY:Starlight Express
-UID:c5e4cad9-9032-44b3-84e0-59c79bcb11cd
+UID:e336587a-17ed-4871-96f0-c9cb887e315c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260102T130124Z
+DTSTAMP:20260103T022002Z
+DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opens summer 2024 in 
+ the specially designed Starlight Auditorium at Troubadour Wembley Park The
+ atre. Audiences will be immersed inside a world of speed...\n\nhttps://tra
+ vel-galloway.com/Tour/Starlight-Express-at-Troubadour-Wembley-Park
+DTEND;VALUE=DATE:20260108
+DTSTART;VALUE=DATE:20260108
+SUMMARY:Starlight Express
+UID:96d91cdf-c18f-4c51-94e1-6ad88dc9f91a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260103T022002Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opened summer 2024 in
   the specially designed Starlight Auditorium at Troubadour Wembley Park Th
  eatre. Audiences will be immersed inside a world of speed...\n\nhttps://lu
@@ -34,10 +44,10 @@ DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opened summer 2024 in
 DTEND;VALUE=DATE:20260118
 DTSTART;VALUE=DATE:20260118
 SUMMARY:Starlight Express
-UID:9db4ee82-0b81-402e-b2e5-d8563b1bf2fb
+UID:f3cbb9db-7af2-4fd9-924e-601a923f1002
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260102T130124Z
+DTSTAMP:20260103T022002Z
 DESCRIPTION:Buy & sell tickets for P1 Harmony - Venue Premium Tickets | Th
  e SSE Arena Wembley (OVO Arena)\, London | Fri\, Jan 30\, 2026\, 6:30 PM. 
  TicketSwap – the fair and safe ticket marketplace.\n\nhttps://www.ticket
@@ -46,10 +56,10 @@ DESCRIPTION:Buy & sell tickets for P1 Harmony - Venue Premium Tickets | Th
 DTEND;VALUE=DATE:20260130
 DTSTART;VALUE=DATE:20260130
 SUMMARY:P1 Harmony - Venue Premium Tickets
-UID:4e5c378d-b16a-412e-8158-a344b00af6f8
+UID:ea7e1001-71f5-4223-a079-9aa9fe22d509
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260102T130124Z
+DTSTAMP:20260103T022002Z
 DESCRIPTION:Throughout his career\, MIKA has crafted a world of gritty roma
  nce amidst the joy and playfulness of technicolored alternative pop. He's 
  a renaissance artist of impeccable intention whose name has...\n\nhttps://
@@ -57,10 +67,10 @@ DESCRIPTION:Throughout his career\, MIKA has crafted a world of gritty roma
 DTEND;VALUE=DATE:20260212
 DTSTART;VALUE=DATE:20260212
 SUMMARY:MIKA
-UID:e1963503-6f62-4646-8eb3-b7a016defe22
+UID:70bccdde-f80e-4740-840a-96504eeb8e26
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260102T130124Z
+DTSTAMP:20260103T022002Z
 DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
  s announced his return to the UK and Europe in February 2026 for his bigge
  st international headline tour to date\, the Ain’t Enough...\n\nhttps://
@@ -68,10 +78,10 @@ DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
 DTEND;VALUE=DATE:20260228
 DTSTART;VALUE=DATE:20260228
 SUMMARY:Jordan Davis
-UID:1da86e82-fb05-4c85-b7f3-a971220b06c5
+UID:32889368-33ba-45be-b447-912f7017fe50
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260102T130124Z
+DTSTAMP:20260103T022002Z
 DESCRIPTION:POWERWOLF finally return to the UK on 7th March 2026 to play th
  e legendary OVO Arena Wembley in London – their biggest UK show ever. Th
  e band have proven that metal is much more than just music...\n\nhttps://w
@@ -79,10 +89,10 @@ DESCRIPTION:POWERWOLF finally return to the UK on 7th March 2026 to play th
 DTEND;VALUE=DATE:20260307
 DTSTART;VALUE=DATE:20260307
 SUMMARY:Hammerfall
-UID:d317db7f-7005-46f4-9388-fd7a491509ce
+UID:dea5306d-854a-4c14-a34f-299ae5b89c6b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260102T130124Z
+DTSTAMP:20260103T022002Z
 DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
  ril 2026 with very special guest Carl Cox. The World Heavyweight Champion
  s Re-unite for a tour of straight up ruckus that sees The...\n\nhttps://we
@@ -90,10 +100,10 @@ DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
 DTEND;VALUE=DATE:20260424
 DTSTART;VALUE=DATE:20260424
 SUMMARY:The Prodigy
-UID:717c56f9-0aea-4d61-8b10-5de1c2a2e908
+UID:90b2d21e-0678-45f0-b8d0-75df6f092466
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260102T130124Z
+DTSTAMP:20260103T022002Z
 DESCRIPTION:Multi-platinum singer-songwriter Calum Scott has announced the 
  global dates for “The Avenoir Tour”\, which includes a run of UK and E
  uropean and will see him visit 24 cities across the UK and...\n\nhttps://w
@@ -101,6 +111,15 @@ DESCRIPTION:Multi-platinum singer-songwriter Calum Scott has announced the
 DTEND;VALUE=DATE:20260528
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Calum Scott - RESCHEDULED
-UID:1cb944d0-8721-4a0d-9849-297b8e4c8d8d
+UID:a4703278-c24e-4cbe-bef4-e1ce93b02cfd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260103T022002Z
+DESCRIPTION:Find tickets for UB40 at OVO Arena Wembley in London on 6/5/202
+ 6 at 7:00 PM\n\nhttps://open.spotify.com/concert/0QZ9vPawzt2prKpmwm62Uo
+DTEND;VALUE=DATE:20260605
+DTSTART;VALUE=DATE:20260605
+SUMMARY:UB40
+UID:44bb3470-be9c-4718-953e-2e7a1b7fe950
 END:VEVENT
 END:VCALENDAR
