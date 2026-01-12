@@ -3,19 +3,17 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
-DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
-  specially designed Starlight Auditorium at Troubadour Wembley Park Theat
- re. Audiences will be immersed inside a world of speed\, song...\n\nhttps:
- //theatreexpress.co.uk/product/starlight-express-friday-27th-february-2026
- -730pm-vip-exclusive-copy/
-DTEND;VALUE=DATE:20260111
-DTSTART;VALUE=DATE:20260111
-SUMMARY:Starlight Express
-UID:1a269c4c-8850-4906-a37b-ecfa28ae1046
+DTSTAMP:20260112T023336Z
+DESCRIPTION:WWE TV RETURNS TO OVO ARENA WEMBLEY FOR THE FIRST TIME IN 10 YE
+ ARS! SEE YOUR FAVOURITE WWE SUPERSTARS INCLUDING:\n\nhttps://wembleypark.c
+ om/whats-on/ovo-arena-wembley-wwe-16-jan-2026/
+DTEND;VALUE=DATE:20260116
+DTSTART;VALUE=DATE:20260116
+SUMMARY:WWE Live
+UID:29f613c4-0689-4335-a48c-66e45ffde171
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
   specially designed Starlight Auditorium at Troubadour Wembley Park Theat
  re. Audiences will be immersed inside a world of speed\, song...\n\nhttps:
@@ -24,20 +22,10 @@ DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS is now playing in the
 DTEND;VALUE=DATE:20260116
 DTSTART;VALUE=DATE:20260116
 SUMMARY:Starlight Express
-UID:8c984ece-cad3-4371-a734-5c50e85b8438
+UID:cfa76dae-0f90-4746-b3cd-b82fa4bd6019
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
-DESCRIPTION:WWE TV RETURNS TO OVO ARENA WEMBLEY FOR THE FIRST TIME IN 10 YE
- ARS! SEE YOUR FAVOURITE WWE SUPERSTARS INCLUDING:\n\nhttps://wembleypark.c
- om/whats-on/ovo-arena-wembley-wwe-16-jan-2026/
-DTEND;VALUE=DATE:20260116
-DTSTART;VALUE=DATE:20260116
-SUMMARY:WWE Live
-UID:351d228c-89ca-4ef2-9411-883e8d87f372
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opened summer 2024 in
   the specially designed Starlight Auditorium at Troubadour Wembley Park Th
  eatre. Audiences will be immersed inside a world of speed...\n\nhttps://lu
@@ -45,20 +33,20 @@ DESCRIPTION:Andrew Lloyd Webber’s STARLIGHT EXPRESS opened summer 2024 in
 DTEND;VALUE=DATE:20260118
 DTSTART;VALUE=DATE:20260118
 SUMMARY:Starlight Express
-UID:abf5153e-7a63-48b6-a24f-f413b17fdf8d
+UID:6068787d-2b52-4e42-90c0-6b73eaee6f14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Starlight Express tickets – Sun\, 25 Jan 2026\, 5:30 pm at Tr
  oubadour Wembley Park Theatre\n\nhttps://tixel.com/uk/theatre-tickets/2026
  /01/25/starlight-express
 DTEND;VALUE=DATE:20260125
 DTSTART;VALUE=DATE:20260125
 SUMMARY:Starlight Express
-UID:a38bf9c4-74cd-4652-a76d-13b1357567b8
+UID:61858800-173d-454a-83f0-930514e6ed3b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Calling creatives \, entreprenuers & influencers to the RED CAR
  PET launch of Whats your art? with Khushi Media \, Smoke'm and Martchelo M
  usic. Step into THE REUNION — A red-carpet celebration...\n\nhttps://www
@@ -66,10 +54,10 @@ DESCRIPTION:Calling creatives \, entreprenuers & influencers to the RED CAR
 DTEND;VALUE=DATE:20260130
 DTSTART;VALUE=DATE:20260130
 SUMMARY:The Reunion
-UID:5f01a5ec-10bd-45aa-924e-e13db272dd74
+UID:b5b25fef-ae06-4f76-868c-f0ff36ff82f9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Buy & sell tickets for P1 Harmony - Venue Premium Tickets | Th
  e SSE Arena Wembley (OVO Arena)\, London | Fri\, Jan 30\, 6:30 PM. TicketS
  wap – the fair and safe ticket marketplace.\n\nhttps://www.ticketswap.co
@@ -78,10 +66,10 @@ DESCRIPTION:Buy & sell tickets for P1 Harmony - Venue Premium Tickets | Th
 DTEND;VALUE=DATE:20260130
 DTSTART;VALUE=DATE:20260130
 SUMMARY:P1 Harmony - Venue Premium Tickets
-UID:839c0dcd-1bdd-4f1f-91c7-ddaf3a9d2994
+UID:0f2f6ea4-1710-455c-92bd-e2ec1c074280
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Throughout his career\, MIKA has crafted a world of gritty roma
  nce amidst the joy and playfulness of technicolored alternative pop. He's 
  a renaissance artist of impeccable intention whose name has...\n\nhttps://
@@ -89,10 +77,10 @@ DESCRIPTION:Throughout his career\, MIKA has crafted a world of gritty roma
 DTEND;VALUE=DATE:20260212
 DTSTART;VALUE=DATE:20260212
 SUMMARY:Mika London Tickets
-UID:322a76fa-fb41-49a5-bd4e-72304e90e720
+UID:fad52689-b721-4a94-9aba-4c90c5590d2a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Throughout his career\, MIKA has crafted a world of gritty roma
  nce amidst the joy and playfulness of technicolored alternative pop. He's 
  a renaissance artist of impeccable intention whose name has...\n\nhttps://
@@ -100,10 +88,10 @@ DESCRIPTION:Throughout his career\, MIKA has crafted a world of gritty roma
 DTEND;VALUE=DATE:20260212
 DTSTART;VALUE=DATE:20260212
 SUMMARY:MIKA
-UID:f7bdc402-1c38-4864-bf1c-0e5fed41e800
+UID:b0cf09b3-f6f6-4c67-abc9-9776600d53cb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
  s announced his return to the UK and Europe in February 2026 for his bigge
  st international headline tour to date\, the Ain’t Enough...\n\nhttps://
@@ -111,10 +99,10 @@ DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
 DTEND;VALUE=DATE:20260228
 DTSTART;VALUE=DATE:20260228
 SUMMARY:Jordan Davis
-UID:dc8ce0a6-c545-402e-8cb5-a2f102b8c931
+UID:66ccebe2-d728-4d03-98de-9219803cd359
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:POWERWOLF finally return to the UK on 7th March 2026 to play th
  e legendary OVO Arena Wembley in London – their biggest UK show ever. Th
  e band have proven that metal is much more than just music...\n\nhttps://w
@@ -122,10 +110,10 @@ DESCRIPTION:POWERWOLF finally return to the UK on 7th March 2026 to play th
 DTEND;VALUE=DATE:20260307
 DTSTART;VALUE=DATE:20260307
 SUMMARY:Hammerfall
-UID:fe521e9e-72f5-4144-ad38-a8f0a439e803
+UID:176926cc-959a-45bb-9f4f-88340b994044
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
  ril 2026 with very special guest Carl Cox. The World Heavyweight Champion
  s Re-unite for a tour of straight up ruckus that sees The...\n\nhttps://we
@@ -133,10 +121,10 @@ DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
 DTEND;VALUE=DATE:20260424
 DTSTART;VALUE=DATE:20260424
 SUMMARY:The Prodigy
-UID:b35e809b-bbcb-4150-b977-fec5d4d63543
+UID:298ca229-8586-4b60-b015-f39f396736e5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
  ril 2026 with very special guest Carl Cox. The World Heavyweight Champion
  s Re-unite for a tour of straight up ruckus that sees The...\n\nhttps://we
@@ -144,10 +132,10 @@ DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
 DTEND;VALUE=DATE:20260425
 DTSTART;VALUE=DATE:20260425
 SUMMARY:The Prodigy
-UID:4858b3c7-4e90-4c03-bf33-77080d38b08d
+UID:b3709a71-7eb7-4e70-8394-ade4648f29b4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Multi-platinum singer-songwriter Calum Scott has announced the 
  global dates for “The Avenoir Tour”\, which includes a run of UK and E
  uropean and will see him visit 24 cities across the UK and...\n\nhttps://w
@@ -155,25 +143,25 @@ DESCRIPTION:Multi-platinum singer-songwriter Calum Scott has announced the
 DTEND;VALUE=DATE:20260528
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Calum Scott - RESCHEDULED
-UID:3ff166ae-79de-488f-bfea-61decaee2bcd
+UID:ca4731e8-5910-4d6d-b9af-90b252e88fd2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Find tickets for UB40 at OVO Arena Wembley in London on 6/5/202
  6 at 7:00 PM\n\nhttps://open.spotify.com/concert/0QZ9vPawzt2prKpmwm62Uo
 DTEND;VALUE=DATE:20260605
 DTSTART;VALUE=DATE:20260605
 SUMMARY:UB40
-UID:e37e8449-4936-42c0-9132-701c6076d633
+UID:a5c75064-ffd1-4376-9ca5-baaf1a42ed76
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260111T130020Z
+DTSTAMP:20260112T023336Z
 DESCRIPTION:Find tickets for Mohanlal at OVO Arena Wembley in London on 6/2
  7/2026 at 7:00 PM\n\nhttps://open.spotify.com/concert/22pdexXh3M9apZwven2p
  kE
 DTEND;VALUE=DATE:20260627
 DTSTART;VALUE=DATE:20260627
 SUMMARY:Mohanlal
-UID:fc23623f-361e-4204-89c7-4c783bf9071c
+UID:dd5c9a2a-a8c8-4780-9299-649407f1fc22
 END:VEVENT
 END:VCALENDAR
