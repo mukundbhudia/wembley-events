@@ -3,27 +3,27 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Starlight Express tickets – Sun\, 15 Feb 2026\, 5:30 pm at Tr
  oubadour Wembley Park Theatre\n\nhttps://tixel.com/uk/theatre-tickets/2026
  /02/15/starlight-express
 DTEND;VALUE=DATE:20260215
 DTSTART;VALUE=DATE:20260215
 SUMMARY:Starlight Express
-UID:7366eb96-d51c-4c3e-86c2-90daf5d07659
+UID:aaaf1642-f007-4487-be30-a1b0972a2e1e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Starlight Express tickets – Fri\, 20 Feb 2026\, 7:30 pm at Tr
  oubadour Wembley Park Theatre\n\nhttps://tixel.com/uk/theatre-tickets/2026
  /02/20/starlight-express
 DTEND;VALUE=DATE:20260220
 DTSTART;VALUE=DATE:20260220
 SUMMARY:Starlight Express
-UID:84c6c304-9cb4-46b3-9f71-5079521eb969
+UID:a74166a7-5879-492c-992f-b62be1c914a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
  s announced his return to the UK and Europe in February 2026 for his bigge
  st international headline tour to date\, the Ain’t Enough...\n\nhttps://
@@ -31,10 +31,10 @@ DESCRIPTION:Multi-platinum award-winning singer/songwriter Jordan Davis ha
 DTEND;VALUE=DATE:20260228
 DTSTART;VALUE=DATE:20260228
 SUMMARY:Jordan Davis
-UID:55c99e72-0e80-43e5-8584-6a5d42c22292
+UID:b3caf8f5-d0f6-4b62-8b15-89e1508cdb41
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Just one day after the release of their spectacular new live al
  bum Wildlive (Live at Olympiahalle)\, POWERWOLF will raise the banners hig
  h once more and conquer Europe during their Wake Up The...\n\nhttps://www.
@@ -42,20 +42,20 @@ DESCRIPTION:Just one day after the release of their spectacular new live al
 DTEND;VALUE=DATE:20260307
 DTSTART;VALUE=DATE:20260307
 SUMMARY:Hammerfall
-UID:1d308898-1333-4227-8368-fa00eae94a02
+UID:e3fb8c2b-4477-44e0-b0b4-23e851dada46
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:\n\nhttps://www.concertflow.com/tickets/Trans-Mission:-A-Solida
  rity-Concert---Venue-Premium-Tickets-tickets-London?event_id=1AMZkCdGkdvsH
  5b
 DTEND;VALUE=DATE:20260311
 DTSTART;VALUE=DATE:20260311
 SUMMARY:Trans Mission
-UID:0ccb2fd0-f650-445a-8c0c-b7c3f7c3ccaf
+UID:dc4c35b6-090f-46f3-9267-12e198530911
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Nearly twenty years into her ever-evolving career\, London and 
  LA-based\, Brit award-winning singer\, songwriter\, actor and activist Kat
  e Nash has seen it all\, from finding huge commercial success in...\n\nhtt
@@ -64,10 +64,10 @@ DESCRIPTION:Nearly twenty years into her ever-evolving career\, London and
 DTEND;VALUE=DATE:20260311
 DTSTART;VALUE=DATE:20260311
 SUMMARY:Kate Nash @ OVO Arena Wembley
-UID:e6bc594f-9a9c-486d-bda0-7585d699f207
+UID:a200e9d2-f85b-4ddd-a57d-61a96e8e9e4b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Nearly twenty years into her ever-evolving career\, London and 
  LA-based\, Brit award-winning singer\, songwriter\, actor and activist Kat
  e Nash has seen it all\, from finding huge commercial success in...\n\nhtt
@@ -76,10 +76,10 @@ DESCRIPTION:Nearly twenty years into her ever-evolving career\, London and
 DTEND;VALUE=DATE:20260311
 DTSTART;VALUE=DATE:20260311
 SUMMARY:Kate Nash
-UID:2baa427e-6066-4922-84ce-badd94979348
+UID:ed58093d-bb28-4c31-997c-2d706dd20093
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Katch Presents: KEUNG TO “LAVA” LIVE TOUR 2026 is presented
   by Sunny Side Up Entertainment\, with Chessman UK as the co-organiser\, a
  nd serves as a pivotal stop in the “LAVA” live tour.The London...\n\nh
@@ -87,10 +87,10 @@ DESCRIPTION:Katch Presents: KEUNG TO “LAVA” LIVE TOUR 2026 is presented
 DTEND;VALUE=DATE:20260313
 DTSTART;VALUE=DATE:20260313
 SUMMARY:KEUNG TO - Venue Premium Tickets
-UID:494e7c34-87d4-469a-b344-1f957d272cf3
+UID:90c9e32d-c820-42d8-a966-2c940be415c4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Arthur Hill First Access Package -Gain entry to the arena befor
  e other standing guests -Get first access to the merchandise stand -This p
  ackage Includes a General Admission standing ticket\n\nhttps://www.axs.com
@@ -98,30 +98,30 @@ DESCRIPTION:Arthur Hill First Access Package -Gain entry to the arena befor
 DTEND;VALUE=DATE:20260314
 DTSTART;VALUE=DATE:20260314
 SUMMARY:Arthur Hill
-UID:59570048-dba7-49d3-88af-90dffec5d413
+UID:163ab903-9a74-44ca-966e-248bd9a6b4c6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!\n\nhttps://www.event
  brite.co.uk/e/renee-rapp-pre-show-party-tickets-1978410858134?aff=ebdssbca
  tegorybrowse
 DTEND;VALUE=DATE:20260319
 DTSTART;VALUE=DATE:20260319
 SUMMARY:Reneé Rapp - EXTRA DATE ADDED
-UID:cb753e65-5d6c-4c91-9d13-c7dd839390ae
+UID:0c2ee413-2309-4da1-8d6e-c34cb9d039f4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:THERE'S NO PARTY LIKE A BOXPARK PRE PARTY!\n\nhttps://www.event
  brite.co.uk/e/renee-rapp-pre-show-party-tickets-1978410858134?aff=ebdssbca
  tegorybrowse
 DTEND;VALUE=DATE:20260320
 DTSTART;VALUE=DATE:20260320
 SUMMARY:Reneé Rapp - EXTRA DATE ADDED
-UID:3714d6f7-637a-419e-a75c-5193e86012cc
+UID:bee27291-8e26-4a10-a11d-d1b1b6a0ec62
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Get ready for a dramatic showdown under the Wembley arch as tw
  o sides battle it out for silverware in the Carabao Cup Final. On this dec
  isive night\, glory and history are on the line as both clubs...\n\nhttps:
@@ -130,30 +130,30 @@ DESCRIPTION:Get ready for a dramatic showdown under the Wembley arch as tw
 DTEND;VALUE=DATE:20260322
 DTSTART;VALUE=DATE:20260322
 SUMMARY:Wembley Stadium Tour
-UID:25f89d5b-3574-4cef-80f2-3c4e140e7591
+UID:5f98ad2f-d177-485c-ba82-65babfe8df4a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:England v Uruguay in an international friendly in March ahead o
  f the World Cup. Enquire for hospitality packages here.\n\nhttps://www.hos
  pitalityfinder.co.uk/events/sporting-events/england-v-uruguay/
 DTEND;VALUE=DATE:20260326
 DTSTART;VALUE=DATE:20260326
 SUMMARY:England v Uruguay
-UID:de0bffd2-b016-422d-9135-b072534fa51c
+UID:4ccc8f7c-86d8-4384-847b-b2ad4e7fb926
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:England v Uruguay in an international friendly in March ahead o
  f the World Cup. Enquire for hospitality packages here.\n\nhttps://www.hos
  pitalityfinder.co.uk/events/sporting-events/england-v-uruguay/
 DTEND;VALUE=DATE:20260327
 DTSTART;VALUE=DATE:20260327
 SUMMARY:England v Uruguay
-UID:9b439151-eaf1-43f6-baf1-f31472285ac9
+UID:63062e3c-103f-4b69-aa9e-54b53185791f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Raver Tots is the Ultimate Family Dance Party Suitable for ALL 
  AGES! Get the kids active at the UK’s number one award winning\, family 
  friendly rave event\, playing the best in House\, Garage\, Drum...\n\nhttp
@@ -162,10 +162,10 @@ DESCRIPTION:Raver Tots is the Ultimate Family Dance Party Suitable for ALL
 DTEND;VALUE=DATE:20260405
 DTSTART;VALUE=DATE:20260405
 SUMMARY:Raver Tots Wembley with So Solid Crew
-UID:189917a4-a1c5-42c0-88bc-03b553d50b5c
+UID:e09239d9-f01d-4b93-8b36-e9625799aba9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Join us for pre match build up with DJs\, live music and maybe 
  a special guest or two. Make the day one to remember with BOXPARK! 3 huge 
  bars\, over 20 different food vendors\, giveaways and tonnes...\n\nhttps:/
@@ -174,10 +174,10 @@ DESCRIPTION:Join us for pre match build up with DJs\, live music and maybe
 DTEND;VALUE=DATE:20260414
 DTSTART;VALUE=DATE:20260414
 SUMMARY:England v Spain
-UID:e5d45bfe-9b37-41a7-9eb5-13bccc33a58e
+UID:efbae0d0-07fe-4e99-be3f-a8f7582ea8c6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Join us for pre match build up with DJs\, live music and maybe 
  a special guest or two. Make the day one to remember with BOXPARK! 3 huge 
  bars\, over 20 different food vendors\, giveaways and tonnes...\n\nhttps:/
@@ -186,10 +186,10 @@ DESCRIPTION:Join us for pre match build up with DJs\, live music and maybe
 DTEND;VALUE=DATE:20260414
 DTSTART;VALUE=DATE:20260414
 SUMMARY:England v Spain
-UID:baa0b06d-480f-4ea3-a163-8da35fe0647f
+UID:23e45077-6a62-46d9-96fe-a1b1cb82d2eb
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
  ril 2026 with very special guest Carl Cox. The World Heavyweight Champion
  s Re-unite for a tour of straight up ruckus that sees The...\n\nhttps://we
@@ -197,10 +197,10 @@ DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
 DTEND;VALUE=DATE:20260424
 DTSTART;VALUE=DATE:20260424
 SUMMARY:The Prodigy
-UID:d05e99bd-dabb-454b-9314-589e98a0560b
+UID:1a985131-5a8f-4645-afcd-42eef853678a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
  ril 2026 with very special guest Carl Cox. The World Heavyweight Champion
  s Re-unite for a tour of straight up ruckus that sees The...\n\nhttps://we
@@ -208,20 +208,20 @@ DESCRIPTION:The legendary Electronic Punks return to the UK & Ireland in Ap
 DTEND;VALUE=DATE:20260425
 DTSTART;VALUE=DATE:20260425
 SUMMARY:The Prodigy
-UID:61c3ff39-05bf-4e23-9563-3aedc6f431ff
+UID:bec192d3-6c99-4341-aec3-8778e4ee36c1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Find tickets for Calum Scott at OVO Arena Wembley in London on 
  5/28/2026 at 6:30 PM\n\nhttps://open.spotify.com/concert/4JftoG4hi2xwvNVJR
  YAN2E
 DTEND;VALUE=DATE:20260528
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Calum Scott - RESCHEDULED
-UID:7878b93b-5167-405a-aa3c-72be1ac7911c
+UID:02a09e7a-a1e0-44c0-a368-3bf4cad0ec7c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:With over 100 million streams globally\, Manchester-based singe
  r-songwriter Lusaint is one of the most exciting newcomers to hit the UK w
  ith her melodic blend of soul\, jazz\, blues and pop...\n\nhttps://www.the
@@ -230,19 +230,30 @@ DESCRIPTION:With over 100 million streams globally\, Manchester-based singe
 DTEND;VALUE=DATE:20260528
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Calum Scott
-UID:1fdecb77-76fa-41bf-a792-b7dc8f44a4b1
+UID:8f3616b2-b02b-4e82-950b-b73898b38b5b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Find tickets for UB40 at OVO Arena Wembley in London on 6/5/202
  6 at 7:00 PM\n\nhttps://open.spotify.com/concert/0QZ9vPawzt2prKpmwm62Uo
 DTEND;VALUE=DATE:20260605
 DTSTART;VALUE=DATE:20260605
 SUMMARY:UB40
-UID:fdb703fc-b457-4d99-8de3-2cf49af88267
+UID:1ffb1e10-9f13-4903-97d0-8320480cdccd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
+DESCRIPTION:Global icon Harry Styles has announced his brand-new Together\
+ , Together Tour at Wembley Stadium on 12th June. Enquire now for hospitali
+ ty.\n\nhttps://www.hospitalityfinder.co.uk/events/concerts-cultural-theatr
+ e-comedy/harry-styles-12th-june/
+DTEND;VALUE=DATE:20260612
+DTSTART;VALUE=DATE:20260612
+SUMMARY:Harry Styles
+UID:900c56c1-28b9-476e-b0e0-2a3e76a39a21
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Adelmo Fornaciari\, better known to the world as Zucchero a nic
  kname given to him by one of his school teachers has achieved world wide a
  cclaim since winning the Italian Castrocaro Festival in...\n\nhttps://www.
@@ -252,60 +263,60 @@ DESCRIPTION:Adelmo Fornaciari\, better known to the world as Zucchero a nic
 DTEND;VALUE=DATE:20260627
 DTSTART;VALUE=DATE:20260627
 SUMMARY:Zucchero
-UID:dc6a0a5f-29db-4dd2-9bbd-6fe1198836be
+UID:b79a3d38-048a-42cf-99a9-7207c76288ab
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Find tickets for Mohanlal at OVO Arena Wembley in London on 6/2
  7/2026 at 7:00 PM\n\nhttps://open.spotify.com/concert/22pdexXh3M9apZwven2p
  kE
 DTEND;VALUE=DATE:20260627
 DTSTART;VALUE=DATE:20260627
 SUMMARY:Mohanlal
-UID:9b5b770a-8070-472e-820c-d2ddae77af59
+UID:0d96b005-42af-406a-976c-f9fa9f4a22b6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:My Chemical Romance: Long Live The Black Parade Tour Fanpark\n\
  nhttps://www.eventbrite.co.uk/e/my-chemical-romance-fanpark-tickets-198010
  5709480
 DTEND;VALUE=DATE:20260708
 DTSTART;VALUE=DATE:20260708
 SUMMARY:My Chemical Romance - EXTRA DATE ADDED
-UID:fda4e0eb-4d27-4a3b-90f0-33e57413a3f4
+UID:021b13ce-52b1-4663-8de0-3119469941c3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Ticket listings for Bruno Mars at Wembley Stadium in London on 
  07/19/2026\n\nhttps://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Bruno-M
  ars-Tickets/E-160230252
 DTEND;VALUE=DATE:20260718
 DTSTART;VALUE=DATE:20260718
 SUMMARY:Bruno Mars
-UID:d2ae988d-7f5b-4db8-9d9b-a5a60e22b15c
+UID:8db5b3d1-5c00-4c30-bd68-8b07408eff57
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Ticket listings for Bruno Mars at Wembley Stadium in London on 
  07/19/2026\n\nhttps://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Bruno-M
  ars-Tickets/E-160230252
 DTEND;VALUE=DATE:20260718
 DTSTART;VALUE=DATE:20260718
 SUMMARY:Bruno Mars
-UID:67ccc4da-cd86-410a-b441-207da43855e5
+UID:d2cfedb9-b9a5-4e37-a641-45327559079d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Ticket listings for Bruno Mars at Wembley Stadium in London on 
  07/24/2026\n\nhttps://www.viagogo.com/Concert-Tickets/Dance-and-Electronic
  -Music/DJ-Pee-Wee-Tickets/E-160270836
 DTEND;VALUE=DATE:20260724
 DTSTART;VALUE=DATE:20260724
 SUMMARY:Bruno Mars - The Romantic Tour
-UID:5ddaa330-40f6-4166-9a6d-9fd2862d5783
+UID:c3203e3e-9993-4a6d-9ae9-15768d578bad
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260214T025114Z
+DTSTAMP:20260214T131125Z
 DESCRIPTION:Don’t miss Luke Combs' 31st July show at Wembley Stadium for
   an unforgettable night of country music live. Enquire for hospitality now
  .\n\nhttps://www.hospitalityfinder.co.uk/events/concerts-cultural-theatre-
@@ -313,6 +324,6 @@ DESCRIPTION:Don’t miss Luke Combs' 31st July show at Wembley Stadium for
 DTEND;VALUE=DATE:20260731
 DTSTART;VALUE=DATE:20260731
 SUMMARY:Luke Combs
-UID:f522ab59-9362-4f9b-8072-8e0fb61cca59
+UID:9029845a-5953-4b3b-af84-a05f747e40ab
 END:VEVENT
 END:VCALENDAR
