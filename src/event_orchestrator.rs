@@ -69,15 +69,19 @@ impl EventOrchestrator {
 
     /// Fetches new events from the API
     async fn fetch_new_events_from_api(&self) -> WembleyEvents {
+        // Ticketmaster API URL with query parameters
+        // city=London&keyword=wembley to find all events in London with "wembley" in them
+        // This will include Wembley Stadium, OVO Arena Wembley, and other Wembley venues
+        // size=200 to get more results (max is 200 per page)
         let full_url = format!(
-            "{}{}",
-            &self.config.calendar_url, &self.config.serpapi_api_key
+            "{}?apikey={}&city=London&keyword=wembley&size=200",
+            &self.config.calendar_url, &self.config.ticketmaster_api_key
         );
 
         let res = match HttpClient::new(&full_url).get_text_from_url().await {
             Ok(res) => res,
             Err(_) => {
-                eprintln!("Failed to fetch calendar data from API.");
+                eprintln!("Failed to fetch calendar data from Ticketmaster API.");
                 process::exit(1);
             }
         };

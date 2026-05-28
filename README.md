@@ -97,6 +97,18 @@ GH_PAGES_JSON_URL=https://mukundbhudia.github.io/wembley-events/wembley-events.j
 
 If neither variable is set, the system will behave as before, generating a fresh calendar from API results only.
 
+## API Information
+
+This project uses the [Ticketmaster Discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) to fetch event data.
+
+To use this project, you'll need to:
+
+1. Sign up for a Ticketmaster Developer account at <https://developer.ticketmaster.com/>
+2. Create an app to get your Consumer Key (API key)
+3. Add your Consumer Key to the `.env` file as `TICKETMASTER_API_KEY`
+
+The project queries all events in the Wembley area (London) including Wembley Stadium, OVO Arena Wembley, and other Wembley venues.
+
 ## Resources & Thanks
 
-- [SerpAPI](https://serpapi.com/).
+- [Ticketmaster Discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/).

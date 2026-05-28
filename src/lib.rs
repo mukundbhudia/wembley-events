@@ -6,7 +6,7 @@ mod event_store;
 mod events;
 mod http;
 mod retry;
-mod serpapi;
+mod ticketmaster;
 mod test_files;
 
 pub use calendar_writer::CalendarWriter;
@@ -20,4 +20,4 @@ pub use event_store::WembleyEvents;
 pub use events::WembleyEvent;
 pub use http::HttpClient;
 pub use retry::{RetryConfig, RetryError, retry_request};
-pub use serpapi::{SerpapiEvent, SerpapiEvents};
+pub use ticketmaster::{TicketmasterEvent, TicketmasterResponse};

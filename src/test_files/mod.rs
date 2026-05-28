@@ -1439,3 +1439,102 @@ pub fn serpapi_test_output_json_8_mixed_wembley_non_wembley() -> String {
 }
     "##.to_string()
 }
+
+#[cfg(test)]
+pub fn ticketmaster_test_output_json_1() -> String {
+    r##"
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "Taylor Swift | The Eras Tour",
+        "id": "vvG1YZKY9nwWJp",
+        "url": "https://www.ticketmaster.co.uk/taylor-swift-the-eras-tour-london-23-06-2024/event/1F005E6DD3265C6B",
+        "images": [
+          {
+            "url": "https://s1.ticketm.net/dam/a/9cf/test.jpg",
+            "width": 1024,
+            "height": 576
+          }
+        ],
+        "dates": {
+          "start": {
+            "localDate": "2024-06-23",
+            "localTime": "17:30:00",
+            "dateTime": "2024-06-23T16:30:00Z"
+          }
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Wembley Stadium",
+              "city": {
+                "name": "London"
+              }
+            }
+          ]
+        },
+        "description": "Experience Taylor Swift's spectacular Eras Tour at Wembley Stadium. This incredible show spans her entire career.",
+        "info": "Taylor Swift brings The Eras Tour to Wembley Stadium",
+        "pleaseNote": "This is an all ages event"
+      },
+      {
+        "name": "Ed Sheeran",
+        "id": "vvG1YZKY9nwWJq",
+        "url": "https://www.ticketmaster.co.uk/ed-sheeran-london-25-07-2024/event/1F005E6DD3265C6C",
+        "images": [
+          {
+            "url": "https://s1.ticketm.net/dam/a/9cf/test2.jpg",
+            "width": 1024,
+            "height": 576
+          }
+        ],
+        "dates": {
+          "start": {
+            "localDate": "2024-07-25",
+            "localTime": "19:00:00",
+            "dateTime": "2024-07-25T18:00:00Z"
+          }
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Wembley Stadium",
+              "city": {
+                "name": "London"
+              }
+            }
+          ]
+        },
+        "description": "",
+        "info": "Ed Sheeran live at Wembley Stadium",
+        "pleaseNote": ""
+      }
+    ]
+  },
+  "page": {
+    "size": 20,
+    "totalElements": 2,
+    "totalPages": 1,
+    "number": 0
+  }
+}
+    "##.to_string()
+}
+
+#[cfg(test)]
+pub fn ticketmaster_test_output_json_empty() -> String {
+    r##"
+{
+  "_embedded": {
+    "events": []
+  },
+  "page": {
+    "size": 20,
+    "totalElements": 0,
+    "totalPages": 0,
+    "number": 0
+  }
+}
+    "##.to_string()
+}

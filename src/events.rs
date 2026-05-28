@@ -2,8 +2,6 @@ use std::fmt::Display;
 
 use serde::{Deserialize, Serialize};
 
-use crate::SerpapiEvent;
-
 #[derive(Debug, PartialEq, Eq)]
 pub struct Ymd {
     pub year: i32,
@@ -19,19 +17,6 @@ pub struct WembleyEvent {
     pub title: String,
     pub description: String,
     pub link: String,
-}
-
-impl From<SerpapiEvent> for WembleyEvent {
-    fn from(serp_event: SerpapiEvent) -> Self {
-        Self {
-            date: serp_event.date.start_date,
-            time: serp_event.date.when,
-            place: serp_event.venue.name,
-            title: serp_event.title,
-            description: serp_event.description,
-            link: serp_event.link,
-        }
-    }
 }
 
 impl Display for WembleyEvent {
