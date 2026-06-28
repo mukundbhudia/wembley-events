@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:VIP Record Fairs bring their famous circuit of sellers back to 
  the famous BOXPARK Wembley for this ONE DAY POP UP spectacular!\n\nhttps:/
  /www.boxpark.co.uk/events/vip-record-fair-wembley
 DTEND;VALUE=DATE:20260628
 DTSTART;VALUE=DATE:20260628
 SUMMARY:VIP Record Fair
-UID:ef1ca9e3-9a34-4dda-84c2-4f9f506f3ed8
+UID:f9622537-7104-4829-a62e-2016265a55ae
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Official VIP hospitality packages and premium tickets for Harr
  y Styles at Wembley Stadium\, London\, as part of the Together\, Together 
  Tour 2026\, with special guest Shania Twain.\n\nhttps://www.eventmasters.c
@@ -22,10 +22,10 @@ DESCRIPTION:Official VIP hospitality packages and premium tickets for Harr
 DTEND;VALUE=DATE:20260628
 DTSTART;VALUE=DATE:20260628
 SUMMARY:Harry Styles
-UID:e5130d49-6c0d-4c44-9905-adbfedbb446e
+UID:a5fc9795-cdb9-4959-b43f-ac58d0d5fce3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Open 9am till late Come and join us at our secret beer garden w
  ith nice music \, drinks and food At STADIUM SPORTS BAR 125 WEMBLEY PARK D
  RIVE HA9 8HQ 07707097070\n\nhttps://www.fatsoma.com/e/op5how9r/harry-style
@@ -33,10 +33,31 @@ DESCRIPTION:Open 9am till late Come and join us at our secret beer garden w
 DTEND;VALUE=DATE:20260628
 DTSTART;VALUE=DATE:20260628
 SUMMARY:HARRY STYLE ( FANZONE EARLY FREE BOOKING)
-UID:b34eb247-258f-4baa-8a7c-6c62edbf0732
+UID:9fd84fbc-3f41-4083-9106-055ed86aad83
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
+DESCRIPTION:Bruno Mars - The Romantic Tour Saturday\, July 18\, 2026 at 11:
+ 59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/intl_16451
+ 33/bruno-mars-the-romantic-tour
+DTEND;VALUE=DATE:20260718
+DTSTART;VALUE=DATE:20260718
+SUMMARY:Bruno Mars - the Romantic Tour
+UID:afb61765-39c3-427b-92b4-2626c690b2c7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T141336Z
+DESCRIPTION:Global icon Harry Styles has announced his brand-new Together\
+ , Together Tour at Wembley Stadium on 1st July. Enquire now for hospitalit
+ y.\n\nhttps://www.hospitalityfinder.co.uk/events/concerts-cultural-theatre
+ -comedy/harry-styles-1st-july/
+DTEND;VALUE=DATE:20260701
+DTSTART;VALUE=DATE:20260701
+SUMMARY:Harry Styles
+UID:7a0b9339-26a5-4e82-b95c-73520a596ef0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Join us at The Open Air Festival bringing together music\, cult
  ure\, food and celebration in one unforgettable outdoor setting in Wembley
  . Get ready for an extraordinary day and night festival...\n\nhttps://www.
@@ -45,61 +66,30 @@ DESCRIPTION:Join us at The Open Air Festival bringing together music\, cult
 DTEND;VALUE=DATE:20260704
 DTSTART;VALUE=DATE:20260704
 SUMMARY:Arabic & North African Open Air Festival
-UID:e3fcadf7-e58a-444c-804f-11ccbf014849
+UID:8233ba59-64bc-4e26-93e7-3314e779d72c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
-DESCRIPTION:Ticket listings for Bruno Mars at Wembley Stadium in London on 
- 07/19/2026\n\nhttps://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Bruno-M
- ars-Tickets/E-160230252
-DTEND;VALUE=DATE:20260718
-DTSTART;VALUE=DATE:20260718
-SUMMARY:Bruno Mars
-UID:af040514-802e-49d5-a17a-816928412b27
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
-DESCRIPTION:Anderson .Paak is playing at Wembley Stadium Connected by EE o
- n July 19\, 2026\n\nhttps://go.seated.com/tour-events/9e7b6d16-2731-4c64-9
- 5f6-0e3033e6245c
-DTEND;VALUE=DATE:20260719
-DTSTART;VALUE=DATE:20260719
-SUMMARY:Bruno Mars - The Romantic Tour
-UID:01356799-472d-4688-8637-6f44a2252f29
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
-DESCRIPTION:Global icon Harry Styles has announced his brand-new Together\
- , Together Tour at Wembley Stadium on 1st July. Enquire now for hospitalit
- y.\n\nhttps://www.hospitalityfinder.co.uk/events/concerts-cultural-theatre
- -comedy/harry-styles-1st-july/
-DTEND;VALUE=DATE:20260701
-DTSTART;VALUE=DATE:20260701
-SUMMARY:Harry Styles
-UID:e56c9d76-6276-4702-8427-1e0d4168e2e7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:A concert featuring My Chemical Romance. Taking place at OVO Ar
  ena Wembley\, London\, England.\n\nhttps://www.superfan.social/events/my-c
  hemical-romance-london-2026-07-08-1
 DTEND;VALUE=DATE:20260708
 DTSTART;VALUE=DATE:20260708
 SUMMARY:My Chemical Romance
-UID:57a22ed0-a4c5-4d8c-9c29-122085970edf
+UID:3331368b-5f60-4bea-a2fa-6dbd2431f9c3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:My Chemical Romance: Long Live The Black Parade Tour Fanpark\n\
  nhttps://www.eventbrite.co.uk/e/my-chemical-romance-fanpark-tickets-198010
  5709480
 DTEND;VALUE=DATE:20260708
 DTSTART;VALUE=DATE:20260708
 SUMMARY:My Chemical Romance
-UID:becbd2e1-5f29-4bfe-b807-2b564ccd231a
+UID:bce8795c-62ee-4690-8eb0-93405f625488
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Iconic rock band My Chemical Romance deliver an explosive live 
  show\, uniting fans with emo anthems\, powerful performances and a long-aw
  aited return to the stage.\n\nhttps://www.eventim.co.uk/event/my-chemical-
@@ -107,60 +97,80 @@ DESCRIPTION:Iconic rock band My Chemical Romance deliver an explosive live
 DTEND;VALUE=DATE:20260708
 DTSTART;VALUE=DATE:20260708
 SUMMARY:My Chemical Romance's UK tour at Wembley
-UID:20780a03-846d-4194-84ab-1e6ad5c245f5
+UID:efd1bac0-6655-4a15-938d-ce1359e46205
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:My Chemical Romance: Long Live The Black Parade Tour Fanpark\n\
  nhttps://www.eventbrite.co.uk/e/my-chemical-romance-fanpark-tickets-198010
  5709480
 DTEND;VALUE=DATE:20260708
 DTSTART;VALUE=DATE:20260708
 SUMMARY:My Chemical Romance - EXTRA DATE ADDED
-UID:d591f6a7-0bb6-4614-a240-e71a45e5901f
+UID:3d68978d-7eb1-4dfe-aaf9-ec3e778becb8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
+DESCRIPTION:Ticket listings for Bruno Mars at Wembley Stadium in London on 
+ 07/19/2026\n\nhttps://www.viagogo.com/Concert-Tickets/Rock-and-Pop/Bruno-M
+ ars-Tickets/E-160230252
+DTEND;VALUE=DATE:20260718
+DTSTART;VALUE=DATE:20260718
+SUMMARY:Bruno Mars
+UID:2cf7786c-c4a3-46bc-b3af-0452b8e865e5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Anderson .Paak is playing at Wembley Stadium Connected by EE o
  n July 18\, 2026\n\nhttps://go.seated.com/tour-events/271e0d5e-9d3e-4d07-8
  c1a-f4442e4dc151
 DTEND;VALUE=DATE:20260718
 DTSTART;VALUE=DATE:20260718
 SUMMARY:Bruno Mars - the Romantic Tour
-UID:55139dc9-8bb7-43e1-9efa-73d43924f770
+UID:9f092969-92d1-4b74-a576-7b6292b61090
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Find tickets for Victoria Monét at Wembley Stadium in London 
  on 7/19/2026 at 7:00 PM\n\nhttps://open.spotify.com/concert/2je8M9XPMKuydC
  mClkFoNL
 DTEND;VALUE=DATE:20260718
 DTSTART;VALUE=DATE:20260718
 SUMMARY:Bruno Mars at Wembley
-UID:a91aa751-0558-4cd2-a0f7-e1d5aa6b69d6
+UID:c5e0bd29-07bc-4886-ac8e-e52383efdd31
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Anderson .Paak is playing at Wembley Stadium Connected by EE o
  n July 18\, 2026\n\nhttps://go.seated.com/tour-events/271e0d5e-9d3e-4d07-8
  c1a-f4442e4dc151
 DTEND;VALUE=DATE:20260718
 DTSTART;VALUE=DATE:20260718
 SUMMARY:Bruno Mars
-UID:d710673b-7ff6-4585-8508-e4fb40218b28
+UID:a62f57d8-741c-4942-8ea2-accc733a0239
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
+DESCRIPTION:Anderson .Paak is playing at Wembley Stadium Connected by EE o
+ n July 19\, 2026\n\nhttps://go.seated.com/tour-events/9e7b6d16-2731-4c64-9
+ 5f6-0e3033e6245c
+DTEND;VALUE=DATE:20260719
+DTSTART;VALUE=DATE:20260719
+SUMMARY:Bruno Mars - The Romantic Tour
+UID:a7330b4b-ffb9-4b6e-8dab-fb59c9e9abd0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Find tickets for Victoria Monét at Wembley Stadium in London 
  on 7/19/2026 at 7:00 PM\n\nhttps://open.spotify.com/concert/2je8M9XPMKuydC
  mClkFoNL
 DTEND;VALUE=DATE:20260719
 DTSTART;VALUE=DATE:20260719
 SUMMARY:Bruno Mars
-UID:4da13005-4010-4419-b1da-d88e263b8f18
+UID:40751141-1bed-482c-89a6-ed5f750e39ed
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Multi-hyphenate superstar Victoria Monét has been stealthil
  y— and steadily— trailblazing her own gilded path in music for over a 
  decade. With the ever-growing title of...\n\nhttps://www.london-now.co.uk/
@@ -169,30 +179,30 @@ DESCRIPTION:Multi-hyphenate superstar Victoria Monét has been stealthil
 DTEND;VALUE=DATE:20260724
 DTSTART;VALUE=DATE:20260724
 SUMMARY:Bruno Mars
-UID:f275af54-1ef9-4a8f-b10a-12ba82ba9df5
+UID:3f7a120b-e6e5-48ad-a579-ac385ebb9ba4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Ticket listings for Bruno Mars at Wembley Stadium in London on 
  07/24/2026\n\nhttps://www.viagogo.com/Concert-Tickets/Dance-and-Electronic
  -Music/DJ-Pee-Wee-Tickets/E-160270836
 DTEND;VALUE=DATE:20260724
 DTSTART;VALUE=DATE:20260724
 SUMMARY:Bruno Mars - The Romantic Tour
-UID:9b45f797-ae2d-4c16-b6be-10d259551fda
+UID:3bbbb8b3-8d75-4df8-b7fe-1df1428dca79
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Ticket listings for Bruno Mars at Wembley Stadium in London on 
  07/28/2026\n\nhttps://www.viagogo.com/Concert-Tickets/Dance-and-Electronic
  -Music/DJ-Pee-Wee-Tickets/E-160279786
 DTEND;VALUE=DATE:20260728
 DTSTART;VALUE=DATE:20260728
 SUMMARY:Bruno Mars
-UID:19e55e05-5e42-470c-bc51-26b9c5245fbb
+UID:bbac6000-b2ff-43c2-b4a2-63c94de35e55
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Don’t miss Luke Combs' 31st July show at Wembley Stadium for
   an unforgettable night of country music live. Enquire for hospitality now
  .\n\nhttps://www.hospitalityfinder.co.uk/events/concerts-cultural-theatre-
@@ -200,10 +210,10 @@ DESCRIPTION:Don’t miss Luke Combs' 31st July show at Wembley Stadium for
 DTEND;VALUE=DATE:20260731
 DTSTART;VALUE=DATE:20260731
 SUMMARY:Luke Combs
-UID:dd0cb898-0157-4340-987b-e952c25c435f
+UID:e7c3c6b4-c79d-442a-bb71-7a9eadfddf2e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Since 2014\, country music sensation Luke Combs has been deligh
  ting fans worldwide. Born and raised in North Carolina\, Combs took to mus
  ic at an early age\, and by the time he was in high school...\n\nhttps://w
@@ -211,10 +221,10 @@ DESCRIPTION:Since 2014\, country music sensation Luke Combs has been deligh
 DTEND;VALUE=DATE:20260801
 DTSTART;VALUE=DATE:20260801
 SUMMARY:LUKE COMBS My Kinda Saturday Night Tour
-UID:f2fceccf-c042-4992-b094-18732fd863fa
+UID:11a82ba4-be05-4ced-9e6c-495902f3f662
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Guest Acts:DopeNation Kwabana KwababaOfori AmponsahSamini Stylo
  G Stonebwoy has announced the 2026 edition of his BHIM Festival\, set to t
  ake place at OVO Arena Wembley. The BET Award-winning...\n\nhttps://www.ov
@@ -222,20 +232,20 @@ DESCRIPTION:Guest Acts:DopeNation Kwabana KwababaOfori AmponsahSamini Stylo
 DTEND;VALUE=DATE:20260815
 DTSTART;VALUE=DATE:20260815
 SUMMARY:Stonebwoy
-UID:a7bb62ef-9166-4df9-8976-61ba38f68d4c
+UID:57efd918-2c04-4441-8fb3-6828ebea1e14
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Stonebwoy - BHIM FESTIVAL at OVO Arena in Wembley Park. Get you
  r tickets for 15 Aug 26.\n\nhttps://wembleypark.com/whats-on/ovo-arena-wem
  bley-stonebwoy-15-aug-26/
 DTEND;VALUE=DATE:20260815
 DTSTART;VALUE=DATE:20260815
 SUMMARY:Stonebwoy
-UID:62971914-581c-40e3-b8ce-f81f169c8dab
+UID:af3ddea7-fd79-4070-a232-5ddfa4e8d00e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -243,10 +253,10 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260815
 DTSTART;VALUE=DATE:20260815
 SUMMARY:Playboi Carti
-UID:b39cc187-8519-4c6f-9b13-9dc3d7a1309d
+UID:aa11cb0f-c4ea-4bc2-9111-1b6bad3addd7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -254,10 +264,10 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260815
 DTSTART;VALUE=DATE:20260815
 SUMMARY:The Weeknd
-UID:b42a7101-8834-4b4f-be24-a9a55222d5ff
+UID:a0134daa-747f-4998-a8fb-7bd101053f67
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:The Weeknd is set to return to London for five nights at Wemble
  y Stadium from Friday 14 to Wednesday 19th August 2026 as part of his exte
  nded After Hours Til Dawn Stadium Tour. These will be his...\n\nhttps://en
@@ -266,10 +276,10 @@ DESCRIPTION:The Weeknd is set to return to London for five nights at Wemble
 DTEND;VALUE=DATE:20260816
 DTSTART;VALUE=DATE:20260816
 SUMMARY:The Weeknd
-UID:46a5b9f6-6bee-4d10-b8f8-bb00179155c8
+UID:27cd808e-8938-4c6f-b548-1e4171c5ea3e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:The Weeknd is bringing his record-breaking After Hours ’Til D
  awn Stadium Tour to Wembley Stadium. Enquire for VIP concert hospitality.\
  n\nhttps://www.hospitalityfinder.co.uk/events/concerts-cultural-theatre-co
@@ -277,10 +287,10 @@ DESCRIPTION:The Weeknd is bringing his record-breaking After Hours ’Til D
 DTEND;VALUE=DATE:20260816
 DTSTART;VALUE=DATE:20260816
 SUMMARY:The Weeknd
-UID:0e27315d-6c4b-470f-9bfe-873ae14ebef7
+UID:8bd6782b-b23d-4bb2-ac43-d4dbbf90d271
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -288,10 +298,10 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260816
 DTSTART;VALUE=DATE:20260816
 SUMMARY:Playboi Carti
-UID:e2ac55e2-ad09-4495-a0ec-899c538f625c
+UID:c283a411-4c2a-4f4d-9fe9-23bd2c565d1d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -299,10 +309,10 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260816
 DTSTART;VALUE=DATE:20260816
 SUMMARY:The Weeknd
-UID:3b40ae00-6e9c-443b-8f1c-04b98da3b79e
+UID:80589e3c-d085-4ad6-b1ce-56ed23b7d79e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -310,10 +320,10 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260819
 DTSTART;VALUE=DATE:20260819
 SUMMARY:The Weeknd
-UID:251f107a-bf46-4dc4-a3de-38e6ae3aa68a
+UID:5c8c9084-684c-49ca-8d26-66344160441e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:REMEMBER THEM DAYZ FEST A Celebration of 2015-2019 UK Music Ge
  t ready to run it back to one of the most iconic eras in UK music. Remembe
  r Them Dayz Fest lands at BOXPARK Wembley on Saturday 22nd...\n\nhttps://w
@@ -321,46 +331,55 @@ DESCRIPTION:REMEMBER THEM DAYZ FEST A Celebration of 2015-2019 UK Music Ge
 DTEND;VALUE=DATE:20260822
 DTSTART;VALUE=DATE:20260822
 SUMMARY:REMEMBER THEM DAYZ FEST
-UID:582a0ed4-b394-4e09-a051-c6129d3161a6
+UID:7e2dca02-fdb5-4831-9a95-bb64f9bcbc2d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
  6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
  tl_1650727/aew-all-in-london-at-wembley-stadium
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW: ALL IN London At Wembley Stadium
-UID:2e095334-f47c-4c6a-b280-74e4816ecb9e
+UID:71c1deb1-d5f1-42a1-a9c5-8c49a33efbdc
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
  6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
  tl_1650727/aew-all-in-london-at-wembley-stadium
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW All In: London
-UID:2591ec81-f8f3-4d5f-869f-eb7c5b4c18f1
+UID:66b4bd79-23a7-4119-ba27-61bff10d6d6b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Like wrestling? Buy All Elite Wrestling tickets now at StubHub 
  or sell your tickets to other fans.\n\nhttps://theatresonline.com/shows/ov
  o-arena-wembley/all-elite-wrestling
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW All In
-UID:55030125-673b-4def-9276-bf04fdfa4cbe
+UID:57f7d23e-0ea6-4ec2-b7c0-2b00f96389c2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T044709Z
+DTSTAMP:20260628T141336Z
 DESCRIPTION:Like wrestling? Buy All Elite Wrestling tickets now at StubHub 
  or sell your tickets to other fans.\n\nhttps://theatresonline.com/shows/ov
  o-arena-wembley/all-elite-wrestling
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW: ALL IN London At Wembley Stadium
-UID:2b186be3-5b1d-44cb-85ee-5efda075c8b2
+UID:810054ab-16d9-4d5c-a9d7-d06a7386418c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T141336Z
+DESCRIPTION:manifest Friday\, October 16\, 2026 at 11:59 PM GMT+1 OVO Aren
+ a Wembley\n\nhttps://www.livenation.com/event/intl_1678176/manifest
+DTEND;VALUE=DATE:20261016
+DTSTART;VALUE=DATE:20261016
+SUMMARY:Manifest at OVO Arena Wembley
+UID:85421cb7-b2a1-4a6f-bf0f-dea8b2476ee0
 END:VEVENT
 END:VCALENDAR
