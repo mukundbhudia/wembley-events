@@ -3,30 +3,7 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
-DESCRIPTION:A bold new musical exploring Chaka Khans rise to global superst
- ardom\, from the producers of Thriller Live\, with 10 Grammy Awards.\n\nht
- tps://whatnightout.uk/london/events/i-m-every-woman-the-chaka-khan-musical
- -3366373
-DTEND;VALUE=DATE:20260802
-DTSTART;VALUE=DATE:20260802
-SUMMARY:I'm Every Woman\, The Chaka Khan Musical
-UID:cd3d99f2-538a-4dc7-b719-0f2e94228086
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
-DESCRIPTION:Luke Combs announces three massive Wembley Stadium headline sho
- ws for 2026 Country music sensation Luke Combs is set to take over London
- ’s Wembley Stadium on Friday 31 July\, Saturday 1 and Sunday...\n\nhttps
- ://engagehospitality.co.uk/event/concerts-luke-combs-wembley-stadium-sunda
- y-2-august/
-DTEND;VALUE=DATE:20260802
-DTSTART;VALUE=DATE:20260802
-SUMMARY:LUKE COMBS My Kinda Saturday Night Tour
-UID:c2e0699a-2e51-44e4-8f3e-392741ae1361
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:Guest Acts:DopeNation Kwabana KwababaOfori AmponsahSamini Stylo
  G Stonebwoy has announced the 2026 edition of his BHIM Festival\, set to t
  ake place at OVO Arena Wembley. The BET Award-winning...\n\nhttps://www.ov
@@ -34,82 +11,20 @@ DESCRIPTION:Guest Acts:DopeNation Kwabana KwababaOfori AmponsahSamini Stylo
 DTEND;VALUE=DATE:20260815
 DTSTART;VALUE=DATE:20260815
 SUMMARY:Stonebwoy
-UID:061fd8e9-9fba-41b5-b142-9b4002f79c43
+UID:f8ef6d77-7a96-44f8-b3f3-3e8ce42e9bb7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
-DESCRIPTION:Find tickets for Israel & New Breed at OVO Arena Wembley in Lon
- don on 8/22/2026 at 7:00 PM\n\nhttps://open.spotify.com/concert/3TnF9jndTz
- gJQC5OlY8Jpj
-DTEND;VALUE=DATE:20260822
-DTSTART;VALUE=DATE:20260822
-SUMMARY:LONDON | 'TIL THE WHOLE WORLD KNOWS
-UID:ea946abf-8ca6-4ff2-904b-c24661ceb8f6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
-DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
- 6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
- tl_1650727/aew-all-in-london-at-wembley-stadium
-DTEND;VALUE=DATE:20260830
-DTSTART;VALUE=DATE:20260830
-SUMMARY:AEW All In: London
-UID:c5675a0c-abd0-4cf7-9410-a7971b5b04c1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
-DESCRIPTION:Find tickets for The Weeknd at Wembley Stadium in London on 8/1
- 6/2026 at 7:00 PM\n\nhttps://open.spotify.com/concert/1j50bpkb1iN6xjRYKgkD
- I5
-DTEND;VALUE=DATE:20260816
-DTSTART;VALUE=DATE:20260816
-SUMMARY:The Weeknd
-UID:8298baed-a6c0-4c10-b32e-dc49b83a05af
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
-DESCRIPTION:Bollywood and Hindi musical evening with Sonu Nigam. Tickets\, 
- hospitality\, seating maps and pre-show dining at the destination availabl
- e.\n\nhttps://wembleypark.com/whats-on/ovo-arena-wembley-sonu-nigam-23-aug
- -26/
-DTEND;VALUE=DATE:20260823
-DTSTART;VALUE=DATE:20260823
-SUMMARY:Sonu Nigam
-UID:7edda15e-f674-492d-be3f-f1503acd3427
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
-DESCRIPTION:Ticket listings for Dinosaur World Live at Troubadour Wembley P
- ark Theatre in London on 08/02/2026\n\nhttp://www.viagogo.com/qtrax/Theatr
- e-Tickets/Exhibitions/Dinosaur-World-Live/E-161185768?lt=37.751&lg=-97.822
-DTEND;VALUE=DATE:20260802
-DTSTART;VALUE=DATE:20260802
-SUMMARY:Dinosaur World Live
-UID:73b26225-ed4b-415c-bf79-1ef69fdc3e94
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
-DESCRIPTION:Discover Chaka Khan’s rise to global superstardom in a bold 
- new musical from the producers of Thriller Live\, with dynamic choreograph
- y.\n\nhttps://www.skiddle.com/whats-on/Harrow/Troubadour-Wembley-Park/Im-E
- very-Woman---The-Chaka-Khan-Musical/42458050/
-DTEND;VALUE=DATE:20260802
-DTSTART;VALUE=DATE:20260802
-SUMMARY:I'm Every Woman - The Chaka Khan Musical
-UID:4d99b57f-fe66-4990-bcfe-8cb8b803d999
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:Stonebwoy - BHIM FESTIVAL at OVO Arena in Wembley Park. Get you
  r tickets for 15 Aug 26.\n\nhttps://wembleypark.com/whats-on/ovo-arena-wem
  bley-stonebwoy-15-aug-26/
 DTEND;VALUE=DATE:20260815
 DTSTART;VALUE=DATE:20260815
 SUMMARY:Stonebwoy
-UID:71365670-339f-44cd-8323-14ef169db1f7
+UID:118b250b-2268-42a5-9d71-0975ac047855
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -117,10 +32,10 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260815
 DTSTART;VALUE=DATE:20260815
 SUMMARY:Playboi Carti
-UID:711bc400-0c18-4e6c-acfc-e10a99c2ef40
+UID:2d091f9a-50b4-4d7e-aa3a-098d899ea38c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -128,10 +43,20 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260815
 DTSTART;VALUE=DATE:20260815
 SUMMARY:The Weeknd
-UID:05be90bf-6144-40c5-86b2-4a7bb6900e60
+UID:7fc8a3da-82f0-4a82-aa7c-c3eae59b5e17
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
+DESCRIPTION:Find tickets for The Weeknd at Wembley Stadium in London on 8/1
+ 6/2026 at 7:00 PM\n\nhttps://open.spotify.com/concert/1j50bpkb1iN6xjRYKgkD
+ I5
+DTEND;VALUE=DATE:20260816
+DTSTART;VALUE=DATE:20260816
+SUMMARY:The Weeknd
+UID:902a5fae-304b-4403-8463-b7fa2e25fc32
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T143645Z
 DESCRIPTION:The Weeknd is bringing his record-breaking After Hours ’Til D
  awn Stadium Tour to Wembley Stadium. Enquire for VIP concert hospitality.\
  n\nhttps://www.hospitalityfinder.co.uk/events/concerts-cultural-theatre-co
@@ -139,10 +64,10 @@ DESCRIPTION:The Weeknd is bringing his record-breaking After Hours ’Til D
 DTEND;VALUE=DATE:20260816
 DTSTART;VALUE=DATE:20260816
 SUMMARY:The Weeknd
-UID:c28fb3f5-ed34-4614-9f86-456cba61598e
+UID:418436da-08bd-4c56-a7d9-8271a7f58279
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -150,10 +75,10 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260816
 DTSTART;VALUE=DATE:20260816
 SUMMARY:Playboi Carti
-UID:e44224d2-889c-44f7-b8e7-af4dd7f93d96
+UID:74a7689e-48a7-42e0-b4ff-d46ae2679c2f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -161,10 +86,10 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260816
 DTSTART;VALUE=DATE:20260816
 SUMMARY:The Weeknd
-UID:35f0a5e0-a2e7-4499-a74b-7e095609fb2f
+UID:dc39f94e-a7f8-4471-b45a-f54d32c3b0a9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
  T! We will be creating The Party & The After Party for all The Weeknd fan
  s heading to the stadium this August. Expect amazing DJs...\n\nhttps://www
@@ -172,10 +97,20 @@ DESCRIPTION:JOIN US BEFORE AND AFTER THE SHOW AT WEMBLEY STADIUM THIS AUGUS
 DTEND;VALUE=DATE:20260819
 DTSTART;VALUE=DATE:20260819
 SUMMARY:The Weeknd
-UID:082916c7-62c5-4450-86e7-ee8658e11e3d
+UID:0ab5567d-e990-406b-a9dc-d5cad264fe2e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
+DESCRIPTION:Find tickets for Israel & New Breed at OVO Arena Wembley in Lon
+ don on 8/22/2026 at 7:00 PM\n\nhttps://open.spotify.com/concert/3TnF9jndTz
+ gJQC5OlY8Jpj
+DTEND;VALUE=DATE:20260822
+DTSTART;VALUE=DATE:20260822
+SUMMARY:LONDON | 'TIL THE WHOLE WORLD KNOWS
+UID:e52c2346-57e9-4361-aa3b-83ec546a141c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T143645Z
 DESCRIPTION:REMEMBER THEM DAYZ FEST A Celebration of 2015-2019 UK Music Ge
  t ready to run it back to one of the most iconic eras in UK music. Remembe
  r Them Dayz Fest lands at BOXPARK Wembley on Saturday 22nd...\n\nhttps://w
@@ -183,50 +118,71 @@ DESCRIPTION:REMEMBER THEM DAYZ FEST A Celebration of 2015-2019 UK Music Ge
 DTEND;VALUE=DATE:20260822
 DTSTART;VALUE=DATE:20260822
 SUMMARY:REMEMBER THEM DAYZ FEST
-UID:b8ac2bb0-8bec-4b60-a6eb-4fc005415575
+UID:e7295e54-4d04-45d7-8e1c-b9231e1c95c8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
-DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
- 6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
- tl_1650727/aew-all-in-london-at-wembley-stadium
-DTEND;VALUE=DATE:20260830
-DTSTART;VALUE=DATE:20260830
-SUMMARY:AEW: ALL IN London At Wembley Stadium
-UID:fed689a7-8dbc-48b2-9eb5-41218d7024ae
+DTSTAMP:20260804T143645Z
+DESCRIPTION:Bollywood and Hindi musical evening with Sonu Nigam. Tickets\, 
+ hospitality\, seating maps and pre-show dining at the destination availabl
+ e.\n\nhttps://wembleypark.com/whats-on/ovo-arena-wembley-sonu-nigam-23-aug
+ -26/
+DTEND;VALUE=DATE:20260823
+DTSTART;VALUE=DATE:20260823
+SUMMARY:Sonu Nigam
+UID:90b4c379-a280-4ac4-acaa-804ff551fb56
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
  6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
  tl_1650727/aew-all-in-london-at-wembley-stadium
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW All In: London
-UID:cecb1fdb-185f-4198-814c-327567956aff
+UID:c5d205d0-4868-4ca0-bfe9-d832166776d6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
+DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
+ 6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
+ tl_1650727/aew-all-in-london-at-wembley-stadium
+DTEND;VALUE=DATE:20260830
+DTSTART;VALUE=DATE:20260830
+SUMMARY:AEW: ALL IN London At Wembley Stadium
+UID:7d91dc7c-0bb1-45d6-bce1-36df5d96d6b7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T143645Z
+DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
+ 6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
+ tl_1650727/aew-all-in-london-at-wembley-stadium
+DTEND;VALUE=DATE:20260830
+DTSTART;VALUE=DATE:20260830
+SUMMARY:AEW All In: London
+UID:1057db8f-1069-4faa-ad1e-88ee65acd3e3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260804T143645Z
 DESCRIPTION:Like wrestling? Buy All Elite Wrestling tickets now at StubHub 
  or sell your tickets to other fans.\n\nhttps://theatresonline.com/shows/ov
  o-arena-wembley/all-elite-wrestling
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW All In
-UID:543fca81-34e9-48bd-9c4d-034099158e6e
+UID:62925f73-e15a-4f01-b8a4-23ba736eb68f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:Like wrestling? Buy All Elite Wrestling tickets now at StubHub 
  or sell your tickets to other fans.\n\nhttps://theatresonline.com/shows/ov
  o-arena-wembley/all-elite-wrestling
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW: ALL IN London At Wembley Stadium
-UID:07f71b22-68f6-4c05-9368-5f5e5b5636d8
+UID:fa3560f3-4d2c-49d0-b121-7c5f800d1612
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:The Motown Day Party is coming! 🎷💃 Calling all soul lover
  s and funky movers! 🎶✨ Get ready for a sunshine-soaked afternoon of s
  mooth grooves\, soulful voices\, and timeless classics as we...\n\nhttps:/
@@ -234,16 +190,16 @@ DESCRIPTION:The Motown Day Party is coming! 🎷💃 Calling all soul lover
 DTEND;VALUE=DATE:20261010
 DTSTART;VALUE=DATE:20261010
 SUMMARY:Motown Day Party: BOXPARK\, Wembley\, London ✨
-UID:0cfca845-b1eb-4c6a-93cf-ed58a50e0171
+UID:945cae1e-c0e3-4908-9864-3ee342009626
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260802T135052Z
+DTSTAMP:20260804T143645Z
 DESCRIPTION:manifest at OVO Arena Wembley on 16 October 2026. Find event de
  tails\, timings\, travel tips and places to eat and drink nearby.\n\nhttps
  ://wembleypark.com/whats-on/ovo-arena-wembley-manifest-16-oct-26/
 DTEND;VALUE=DATE:20261016
 DTSTART;VALUE=DATE:20261016
 SUMMARY:Manifest at OVO Arena Wembley
-UID:03b71ddd-cb60-4470-9930-7e49b4fd80ce
+UID:fedf96a0-29a8-4f18-966f-b65332de77ce
 END:VEVENT
 END:VCALENDAR
