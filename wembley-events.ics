@@ -3,68 +3,57 @@ VERSION:2.0
 PRODID:ICALENDAR-RS
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20260823T125917Z
-DESCRIPTION:Bollywood and Hindi musical evening with Sonu Nigam. Tickets\, 
- hospitality\, seating maps and pre-show dining at the destination availabl
- e.\n\nhttps://wembleypark.com/whats-on/ovo-arena-wembley-sonu-nigam-23-aug
- -26/
-DTEND;VALUE=DATE:20260823
-DTSTART;VALUE=DATE:20260823
-SUMMARY:Sonu Nigam
-UID:04d7da27-3449-4e62-a4fb-e93d53d2a0e6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260823T125917Z
+DTSTAMP:20260824T015519Z
 DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
  6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
  tl_1650727/aew-all-in-london-at-wembley-stadium
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW All In: London
-UID:143a2f65-f80b-4a35-8698-7f5b85bb0574
+UID:27b50369-7d76-4485-ade8-5c40c5edb0c8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T125917Z
+DTSTAMP:20260824T015519Z
 DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
  6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
  tl_1650727/aew-all-in-london-at-wembley-stadium
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW: ALL IN London At Wembley Stadium
-UID:881e7574-ff9c-4373-b7cf-86ce642a55e4
+UID:b1c23a89-0d8b-498b-89b2-d60b4d4843a4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T125917Z
+DTSTAMP:20260824T015519Z
 DESCRIPTION:AEW: All In London at Wembley Stadium Sunday\, August 30\, 202
  6 at 11:59 PM GMT+1 Wembley Stadium\n\nhttps://www.livenation.com/event/in
  tl_1650727/aew-all-in-london-at-wembley-stadium
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW All In: London
-UID:48816705-84d5-487d-9e6b-082925aa36fe
+UID:4837dab8-3e1a-4e85-ae6f-1cacdf355a9b
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T125917Z
+DTSTAMP:20260824T015519Z
 DESCRIPTION:Like wrestling? Buy All Elite Wrestling tickets now at StubHub 
  or sell your tickets to other fans.\n\nhttps://theatresonline.com/shows/ov
  o-arena-wembley/all-elite-wrestling
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW All In
-UID:6ce72ded-53d1-45db-8b61-1a029a7c5551
+UID:821c5a3e-bb4a-4c14-8b87-34ba9cd731a1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T125917Z
+DTSTAMP:20260824T015519Z
 DESCRIPTION:Like wrestling? Buy All Elite Wrestling tickets now at StubHub 
  or sell your tickets to other fans.\n\nhttps://theatresonline.com/shows/ov
  o-arena-wembley/all-elite-wrestling
 DTEND;VALUE=DATE:20260830
 DTSTART;VALUE=DATE:20260830
 SUMMARY:AEW: ALL IN London At Wembley Stadium
-UID:c7202afe-6cd7-4402-92c1-f6b5c335e7c4
+UID:01557d45-26f4-43f8-97c8-4962c7f118f2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T125917Z
+DTSTAMP:20260824T015519Z
 DESCRIPTION:The Motown Day Party is coming! 🎷💃 Calling all soul lover
  s and funky movers! 🎶✨ Get ready for a sunshine-soaked afternoon of s
  mooth grooves\, soulful voices\, and timeless classics as we...\n\nhttps:/
@@ -72,16 +61,16 @@ DESCRIPTION:The Motown Day Party is coming! 🎷💃 Calling all soul lover
 DTEND;VALUE=DATE:20261010
 DTSTART;VALUE=DATE:20261010
 SUMMARY:Motown Day Party: BOXPARK\, Wembley\, London ✨
-UID:0f7973e6-215a-4544-9fde-5fbad9e207d7
+UID:a403c754-3b60-4fdb-ae49-c0495ec208fd
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260823T125917Z
+DTSTAMP:20260824T015519Z
 DESCRIPTION:manifest at OVO Arena Wembley on 16 October 2026. Find event de
  tails\, timings\, travel tips and places to eat and drink nearby.\n\nhttps
  ://wembleypark.com/whats-on/ovo-arena-wembley-manifest-16-oct-26/
 DTEND;VALUE=DATE:20261016
 DTSTART;VALUE=DATE:20261016
 SUMMARY:Manifest at OVO Arena Wembley
-UID:1cc39732-b00c-402d-9f43-e4acff68d816
+UID:91b23827-7235-40ba-b629-0a28f728af48
 END:VEVENT
 END:VCALENDAR
